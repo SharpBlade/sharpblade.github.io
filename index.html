@@ -1,10 +1,119 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>SharpBlade</title>
-</head>
-<body>
-    <h1>It works!</h1>
-</body>
+	<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/skeleton.css">
+		<link rel="stylesheet" href="css/base.css">
+		<link rel="stylesheet" href="css/layout.css">
+		<link rel="stylesheet" href="css/styles.css">
+		<link rel="stylesheet" href="css/jquery.snippet.min.css">
+		<link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon">
+		<link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon">
+		
+		<title>SharpBlade</title>
+	</head>
+	<body>
+		<a href="https://github.com/SharpBlade/SharpBlade">
+            <img style="position: absolute; top: 0; right: 0; border: 0; width: 149px; height: 149px;" src="http://aral.github.com/fork-me-on-github-retina-ribbons/right-grey@2x.png" alt="Fork me on GitHub" data-canonical-src="http://aral.github.com/fork-me-on-github-retina-ribbons/right-grey@2x.png">
+        </a>
+		<div class="container">
+			<div class="main">
+				<h1 id="url-header"><a href="home" id="url">SharpBlade</a></h1>
+
+				<h2>Welcome</h2>
+				<div class="nine columns">
+					<p class="bodytext">SharpBlade is an open source framework written in C# for <a href="http://razerzone.com">Razer's</a> SwitchBlade User Interface.</p>
+					<p class="bodytext">SharpBlade allows you to design WPF applications in C# and display them on the screen using built in graphic rendering and polling.  It also has various methods and events for hooking information from the touchpad and the ten tactile keys.</p>
+					<p class="bodytext">The binary is dependent on the SwitchBlade UI SDK (RzSwitchbladeSDK2.dll) which is provided by Razer and <a href="http://www.razerzone.com/switchblade-ui/developers">can be obtained from their website</a>.  SharpBlade also depends on <a href="http://logging.apache.org/log4net/">log4net</a> which is included.</p>
+				</div>
+				<img id="logo" class="three columns offset-by-one" src="img/logo2.png">
+				<div class="clearfloat"></div>
+				<h2>How to use</h2>
+				<h5>Example Project - Hello World</h5>
+				<p>A small app showing basic usage of SharpBlade</p>
+				<p><a href="https://github.com/SharpBlade/hello-world">GitHub Repository</a> | <a href="https://github.com/SharpBlade/SharpBlade/archive/master.zip">Download Visual Studio Project</a></p>
+				<h5>Example Code Snippet - Setting up polling</h5>
+				<p class="code-description">This is used to render the WPF window to the interface which updates every 42ms (about 24FPS).</p>
+				<pre class="sixteen columns">
+					var manager = RazerManager.Instance;
+					//'this' refers to the current WPF window
+					manager.Touchpad.SetWindow(this, Touchpad.RenderMethod.Polling);</pre>
+				<div class="clearfloat"></div>
+				<h5>Example Code Snippet - Setting Dynamic Key Event</h5>
+				<p class="code-description">We can setup an event handler to fire when a Dynamic Key is pushed</p>
+				<pre class="sixteen columns">
+					var manager = RazerManager.Instance;
+					manager.EnableDynamicKey(RazerAPI.DynamicKeyType.DK1, OnPlusPress, @"Default\Images\PlusDK.png");
+				    private void OnPlusPress(object sender, System.EventArgs e)
+                    {
+                    	SharpBladeTextBlock.Text = "Plus Pressed";
+        			}</pre>
+				<div class="clearfloat"></div>
+				<h2>Projects using SharpBlade</h2>
+				<div class="four columns project-section">
+					<h4>Spotify</h4>
+					<p class="project-description">A small utility app to see what track is playing on your Windows Spotify client and to play/pause.</p>
+				</div>
+				<div class="four columns project-section">
+					<h4>Steam Chat</h4>
+					<p class="project-description">Steam chat interacts with your Windows Steam client so you can send and receive messages.  It even has built in notifications!</p>
+				</div>
+				<div class="four columns project-section">
+					<h4>LoL Scouter</h4>
+					<p class="project-description">LoL Scouter for SBUI is a scaled down version of Razer Comms Scouter for League of Legends.  Check out runes, masteries and KDA.</p>
+				</div>
+				<div class="clearfloat"></div>
+				<h2>Builds</h2>
+				<h4>GitHub</h4>
+				<p>You can access the source code for GitHub at: <a href="http://github.com/sharpblade/sharpblade">www.github.com/sharpblade/sharpblade</a></p>
+				<h4>Nuget</h4>
+				<code class="ten columns">PM> Install-Package Sharparam.SharpBlade</code>
+				<div class="clearfloat"></div>
+				<p class="nuget-package">Or find our Nuget package page <a href="http://www.nuget.org/packages/Sharparam.SharpBlade/">here</a>
+				<h4>Static Build</h4>
+				<p>If you are unfamiliar with GitHub and just want to start using SharpBlade, you can access it on our build server.
+				<li>Login <a href="http://tc.sharpblade.net/guestLogin.html?guest=1">here</a></li>
+				<li>Then expand the SharpBlade section, and click the drop down arrow next to 'Success'</li>
+				<li> Click '.zip' to download an archived copy of the latest build</li></ul></p>
+				<h2>Authors</h2>
+				<h3><a class="website" href="http://sharparam.com">Adam Hellberg</a> - <a href="http://twitter.com/Sharparam" class="twitter-handle">@Sharparam</a></h3>
+				<h3><a class="website" href="http://brandonscott.co.uk">Brandon Scott</a> - <a href="http://twitter.com/Sharparam" class="twitter-handle">@brandonjcscott</a></h3>
+				<h4 id="graphic-assets">Graphic Assets by Graham Hough</h4>
+
+				<hr>
+
+				<h4>Contact</h4>
+				<p>If you ever need help with any SharpBlade based project, or working with Razer's SwitchBlade User Interface you can contact <span class="accent">Brandon</span>, via <span class="accent">Skype (brandonjcscott)</span> or <span class="accent">Twitter (@brandonjcscott)</span></p>
+
+				<h4>Video Tutorials</h4>
+				<h5>Coming soon</h5>
+
+
+				<section id="copyright" class="ten columns offset-by-four ">
+					<small>
+						Copyright © 2013-2014 SharpBlade - <span class="accent">Brandon Scott</span> & <span class="accent">Adam Hellberg</span>
+					</small>
+					<p>
+						<small>
+							Razer is a trademark and/or a registered trademark of Razer USA Ltd.
+							All other trademarks are property of their respective owners.
+
+							This project is in no way endorsed, sponsored or approved by Razer.
+						</small>
+					</p>
+				</section>
+			</div>
+		</div>
+        <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+		<script src="js/jquery.snippet.min.js"></script>
+
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$("pre").snippet("C#",{style:"darkness"});
+			});
+		</script>
+	</body>
 </html>

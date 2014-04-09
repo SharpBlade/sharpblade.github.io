@@ -1,0 +1,87 @@
+$backgroundcolor: #608bc4;
+
+html, body {
+	background-color: $backgroundcolor;	
+	color: #FFFFFF;
+}
+
+html {
+	border-top: 5px solid;
+
+}
+
+h1, h2, h3{
+	color: #FFFFFF;
+
+}
+
+.container {
+    margin-top: 50px;
+}
+
+ 
+#nav {
+    margin: 13px 0 0 0;
+
+}
+ 
+#nav ul li {
+    display: inline;
+    margin: 0 20px 0 0;
+    margin-bottom: 130px;
+
+}
+ 
+#nav a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+ 
+#nav a:hover {
+    text-decoration: underline;
+}
+
+@mixin filter($filter-type,$filter-amount) { 
+  -webkit-filter: $filter-type+unquote('(#{$filter-amount})');
+  -moz-filter: $filter-type+unquote('(#{$filter-amount})');
+  -ms-filter: $filter-type+unquote('(#{$filter-amount})');
+  -o-filter: $filter-type+unquote('(#{$filter-amount})');
+  filter: $filter-type+unquote('(#{$filter-amount})');
+}
+
+#msftLogo img {
+	margin-top: 50px;
+    margin-bottom: 15px;
+    max-width: 100%;
+    height: auto;
+    transition: all 0.5s ease-in-out;
+    @include filter(grayscale, 100%);
+}
+#razerLogo img {
+	margin: 0 auto;
+	margin-top: 50px;
+    margin-bottom: 15px;
+    max-width: 22%;
+    height: auto;
+    transition: all 0.5s ease-in-out;
+    @include filter(grayscale, 100%);
+}
+
+#msftLogo img:hover {
+	transition: all 0.5s ease-in-out;
+	@include filter(grayscale, 0%);
+
+}
+#razerLogo img:hover {
+	transition: all 0.5s ease-in-out;
+	@include filter(grayscale, 0%);
+
+}
+#msftText{
+	color: #FFFFFF;
+	text-align: center;
+}
+
+#copyright{
+	margin-top: 50px;
+}
