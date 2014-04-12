@@ -12,9 +12,7 @@
   <HelpKINode Title="AppEvent event" Url="html/317ba1e7-b088-0114-2362-54a604782209.htm" />
   <HelpKINode Title="AppEventEventArgs class">
     <HelpKINode Title="AppEventEventArgs Class" Url="html/d3d389df-b925-69c8-ab43-9c3c7cfd337c.htm" />
-    <HelpKINode Title="AppEventEventArgs Members" Url="html/61b08ceb-e93a-275c-a388-82e810c8ab5d.htm" />
     <HelpKINode Title="about AppEventEventArgs class" Url="html/d3d389df-b925-69c8-ab43-9c3c7cfd337c.htm" />
-    <HelpKINode Title="all members" Url="html/61b08ceb-e93a-275c-a388-82e810c8ab5d.htm" />
     <HelpKINode Title="constructor" Url="html/fdf19681-5e29-5142-80f3-ecdec803148a.htm" />
     <HelpKINode Title="fields" Url="html/d97993ac-d23c-2a35-13cd-4a8608f96d93.htm" />
     <HelpKINode Title="methods" Url="html/9d0d9702-21cc-6418-a8d6-60d7bd144f7e.htm" />
@@ -269,9 +267,7 @@
   <HelpKINode Title="COMQC_E_UNTRUSTED_ENQUEUER field" Url="html/59698123-8583-d429-28de-eaadd75294c4.htm" />
   <HelpKINode Title="Constants class">
     <HelpKINode Title="Constants Class" Url="html/b751d411-8fbf-f981-a3bd-c75e73d10782.htm" />
-    <HelpKINode Title="Constants Members" Url="html/b7cda287-fd8c-04cd-f6e6-341cf19748c1.htm" />
     <HelpKINode Title="about Constants class" Url="html/b751d411-8fbf-f981-a3bd-c75e73d10782.htm" />
-    <HelpKINode Title="all members" Url="html/b7cda287-fd8c-04cd-f6e6-341cf19748c1.htm" />
     <HelpKINode Title="fields" Url="html/fa2c8a0f-d3b7-54ac-27e7-13308b1c2632.htm" />
   </HelpKINode>
   <HelpKINode Title="Constants.BlankTouchpadImage field" Url="html/2c989f11-dc20-223c-f0af-59d95ab47f9e.htm" />
@@ -293,8 +289,8 @@
   <HelpKINode Title="CONTEXT_E_WOULD_DEADLOCK field" Url="html/e29f100b-46f2-35b1-8cf4-842ba3f63173.htm" />
   <HelpKINode Title="CONTEXT_S_FIRST field" Url="html/779c8dc1-8bf2-808a-0ed4-4256d21e2757.htm" />
   <HelpKINode Title="CONTEXT_S_LAST field" Url="html/06526e30-ffb7-66a6-1a2b-88c62217f7f3.htm" />
-  <HelpKINode Title="CONTROL enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="Control enumeration member" Url="html/50460add-6f54-dcd7-51da-d69aaf353c76.htm" />
+  <HelpKINode Title="CONTROL enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="Control field" Url="html/df346c09-d630-a75b-e10b-5263f387e444.htm" />
   <HelpKINode Title="ControlPressed field" Url="html/3277d1c6-98e4-2dd8-722e-7f04394cd9d2.htm" />
   <HelpKINode Title="CONVERT enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
@@ -654,9 +650,7 @@
   <HelpKINode Title="DV_E_TYMED field" Url="html/452d6e81-00f4-9b6b-6440-36501a11c283.htm" />
   <HelpKINode Title="DynamicKey class">
     <HelpKINode Title="DynamicKey Class" Url="html/dd194843-f507-b6a3-ff58-b64438925d01.htm" />
-    <HelpKINode Title="DynamicKey Members" Url="html/cedf92ec-15d6-b4bc-cfd8-40c38b107cac.htm" />
     <HelpKINode Title="about DynamicKey class" Url="html/dd194843-f507-b6a3-ff58-b64438925d01.htm" />
-    <HelpKINode Title="all members" Url="html/cedf92ec-15d6-b4bc-cfd8-40c38b107cac.htm" />
     <HelpKINode Title="constructor" Url="html/3b1f82ce-3a33-ec10-3138-1180ed366c9a.htm" />
     <HelpKINode Title="events" Url="html/1168a30d-ec51-e2fa-0378-29d30793a450.htm" />
     <HelpKINode Title="fields" Url="html/ae67a6a5-eb2e-dfe4-a828-b49de6663e73.htm" />
@@ -684,9 +678,7 @@
   <HelpKINode Title="DynamicKeyEvent event" Url="html/ff13bbe2-833e-d60b-644d-ff225b2241bd.htm" />
   <HelpKINode Title="DynamicKeyEventArgs class">
     <HelpKINode Title="DynamicKeyEventArgs Class" Url="html/556800e0-aef3-53fa-3021-2a1cbd219339.htm" />
-    <HelpKINode Title="DynamicKeyEventArgs Members" Url="html/d71ec8cf-ab09-9fa7-94ca-95a25dab4914.htm" />
     <HelpKINode Title="about DynamicKeyEventArgs class" Url="html/556800e0-aef3-53fa-3021-2a1cbd219339.htm" />
-    <HelpKINode Title="all members" Url="html/d71ec8cf-ab09-9fa7-94ca-95a25dab4914.htm" />
     <HelpKINode Title="constructor" Url="html/756dca0f-2a5c-c06e-3ace-d7938adf8435.htm" />
     <HelpKINode Title="fields" Url="html/a1f8ba7f-9023-a9bc-b3db-ed3402d29858.htm" />
     <HelpKINode Title="methods" Url="html/b2c78070-90a0-21ca-c323-76cc1a1fb29b.htm" />
@@ -698,15 +690,14 @@
   <HelpKINode Title="DynamicKeyImageDataSize field" Url="html/a2479db2-fbdf-bf26-f0d0-2e367d8ba5ea.htm" />
   <HelpKINode Title="DynamicKeysCount field" Url="html/bb0f5410-0360-4afc-c80e-acdb4e5c7ed1.htm" />
   <HelpKINode Title="DynamicKeySettings structure">
-    <HelpKINode Title="DynamicKeySettings Members" Url="html/56014976-92f7-309d-a629-d4b1c943453a.htm" />
     <HelpKINode Title="DynamicKeySettings Structure" Url="html/9fb05754-3e76-3b8c-90be-6f94a50a63ce.htm" />
     <HelpKINode Title="about DynamicKeySettings structure" Url="html/9fb05754-3e76-3b8c-90be-6f94a50a63ce.htm" />
-    <HelpKINode Title="all members" Url="html/56014976-92f7-309d-a629-d4b1c943453a.htm" />
     <HelpKINode Title="constructor" Url="html/11a8279b-6564-9aea-be0b-5b43058c09cb.htm" />
     <HelpKINode Title="fields" Url="html/99534c81-d604-149d-faae-418889fb43bf.htm" />
     <HelpKINode Title="methods" Url="html/abe882c1-eec0-2a05-01b0-30dab90858a1.htm" />
   </HelpKINode>
   <HelpKINode Title="DynamicKeySettings.DynamicKeySettings constructor" Url="html/11a8279b-6564-9aea-be0b-5b43058c09cb.htm" />
+  <HelpKINode Title="DynamicKeySettings.Handler field" Url="html/84bcf543-cf46-27f6-f171-9724f732efd3.htm" />
   <HelpKINode Title="DynamicKeySettings.Image field" Url="html/99cf56a5-df73-23c2-d37a-2091fe4fb3e4.htm" />
   <HelpKINode Title="DynamicKeySettings.Key field" Url="html/fbce9cb7-bd6c-2220-b41a-bb1b67a8d54e.htm" />
   <HelpKINode Title="DynamicKeySettings.PressedImage field" Url="html/300e8d50-e52e-609a-5320-e6e8ac683c67.htm" />
@@ -717,10 +708,8 @@
   <HelpKINode Title="E enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="Eight enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="EmbeddedWinFormsControl structure">
-    <HelpKINode Title="EmbeddedWinFormsControl Members" Url="html/050f4883-4fd7-0f50-9cac-a12bf6c06a56.htm" />
     <HelpKINode Title="EmbeddedWinFormsControl Structure" Url="html/93648e6d-ef71-79f6-9ef1-267b54072e86.htm" />
     <HelpKINode Title="about EmbeddedWinFormsControl structure" Url="html/93648e6d-ef71-79f6-9ef1-267b54072e86.htm" />
-    <HelpKINode Title="all members" Url="html/050f4883-4fd7-0f50-9cac-a12bf6c06a56.htm" />
     <HelpKINode Title="constructor" Url="html/416f470e-3b51-1f7c-4be8-3b58c175e7c4.htm" />
     <HelpKINode Title="fields" Url="html/c6bceefb-31cf-66c1-2e07-46ce6901b079.htm" />
     <HelpKINode Title="methods" Url="html/3ab8fcd9-2254-22ce-054e-60e54d773bfd.htm" />
@@ -738,9 +727,7 @@
   <HelpKINode Title="END enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="EnumerationExtensions class">
     <HelpKINode Title="EnumerationExtensions Class" Url="html/5aa1b71c-e1b2-4d90-a6dd-05f87ff4fba3.htm" />
-    <HelpKINode Title="EnumerationExtensions Members" Url="html/694e974c-fada-4793-9cdb-b0d530f99174.htm" />
     <HelpKINode Title="about EnumerationExtensions class" Url="html/5aa1b71c-e1b2-4d90-a6dd-05f87ff4fba3.htm" />
-    <HelpKINode Title="all members" Url="html/694e974c-fada-4793-9cdb-b0d530f99174.htm" />
     <HelpKINode Title="methods" Url="html/09397e74-c44d-02fc-4e81-d224855c7889.htm" />
   </HelpKINode>
   <HelpKINode Title="EnumerationExtensions.Has(Of T) method" Url="html/6baf1ef5-0221-821d-1f12-6606b88d1ff4.htm" />
@@ -753,11 +740,9 @@
   <HelpKINode Title="EnumerationExtensions.Remove&lt;T&gt; method" Url="html/eab7c086-a4da-92c1-3509-97327e427278.htm" />
   <HelpKINode Title="EnumerationExtensions.Value class">
     <HelpKINode Title="EnumerationExtensions.Value Class" Url="html/c2eae365-b150-bb72-255d-9995d280da6c.htm" />
-    <HelpKINode Title="EnumerationExtensions.Value Members" Url="html/a908f6a2-fd10-4f25-51ba-09b9af071b03.htm" />
     <HelpKINode Title="about EnumerationExtensions.Value class" Url="html/c2eae365-b150-bb72-255d-9995d280da6c.htm" />
-    <HelpKINode Title="all members" Url="html/a908f6a2-fd10-4f25-51ba-09b9af071b03.htm" />
-    <HelpKINode Title="constructor" Url="html/f36fa65f-9661-5e43-9092-f9b631816ec0.htm" />
     <HelpKINode Title="constructor" Url="html/1f8feb01-f7eb-4b31-147e-96591ac98959.htm" />
+    <HelpKINode Title="constructor" Url="html/f36fa65f-9661-5e43-9092-f9b631816ec0.htm" />
     <HelpKINode Title="fields" Url="html/2d4aa471-fbbb-4cd3-2789-48d18595ec78.htm" />
     <HelpKINode Title="methods" Url="html/405d7daf-f13c-1dbd-f92d-e5c7a1ca755c.htm" />
   </HelpKINode>
@@ -857,9 +842,7 @@
   <HelpKINode Title="Flick event" Url="html/4b3c2022-7c2b-0cca-ae93-64cea44ed812.htm" />
   <HelpKINode Title="FlickEventArgs class">
     <HelpKINode Title="FlickEventArgs Class" Url="html/8fc3c5cf-f1db-1a6d-c32a-a48bb627d560.htm" />
-    <HelpKINode Title="FlickEventArgs Members" Url="html/cfc4f8d2-dffd-7e7b-bd4a-bd0d0e1c342e.htm" />
     <HelpKINode Title="about FlickEventArgs class" Url="html/8fc3c5cf-f1db-1a6d-c32a-a48bb627d560.htm" />
-    <HelpKINode Title="all members" Url="html/cfc4f8d2-dffd-7e7b-bd4a-bd0d0e1c342e.htm" />
     <HelpKINode Title="constructor" Url="html/4d5e3b10-939c-fb90-e9dc-26f77114cbfc.htm" />
     <HelpKINode Title="fields" Url="html/b4258fcf-6dc7-4fdc-6b2d-271081669b22.htm" />
     <HelpKINode Title="methods" Url="html/66e7688f-7201-50af-8920-f3d65aa572c8.htm" />
@@ -874,9 +857,7 @@
   <HelpKINode Title="G enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="GDI32 class">
     <HelpKINode Title="GDI32 Class" Url="html/b17af937-b686-ea92-1544-e4618a5e0c8d.htm" />
-    <HelpKINode Title="GDI32 Members" Url="html/1ad4b307-ec5a-4940-e766-f36e47fed7eb.htm" />
     <HelpKINode Title="about GDI32 class" Url="html/b17af937-b686-ea92-1544-e4618a5e0c8d.htm" />
-    <HelpKINode Title="all members" Url="html/1ad4b307-ec5a-4940-e766-f36e47fed7eb.htm" />
     <HelpKINode Title="fields" Url="html/d55592f5-9145-d7b8-a713-2ff4e5661a59.htm" />
     <HelpKINode Title="methods" Url="html/0b438f99-d0bf-f1a6-1010-f68374555882.htm" />
   </HelpKINode>
@@ -891,9 +872,7 @@
   <HelpKINode Title="Gesture event" Url="html/ca8f5d53-e437-9fce-b500-187490fa2a49.htm" />
   <HelpKINode Title="GestureEventArgs class">
     <HelpKINode Title="GestureEventArgs Class" Url="html/f438aa71-1a6e-2480-1ea2-c0ea7909085e.htm" />
-    <HelpKINode Title="GestureEventArgs Members" Url="html/97751c2d-4642-04aa-024d-41a2b1526849.htm" />
     <HelpKINode Title="about GestureEventArgs class" Url="html/f438aa71-1a6e-2480-1ea2-c0ea7909085e.htm" />
-    <HelpKINode Title="all members" Url="html/97751c2d-4642-04aa-024d-41a2b1526849.htm" />
     <HelpKINode Title="constructor" Url="html/4cb87b27-34d3-8d21-435d-ce76c7d130bc.htm" />
     <HelpKINode Title="fields" Url="html/6b6ef54e-6918-abe3-fa82-62d81de04b0b.htm" />
     <HelpKINode Title="methods" Url="html/a2ce89a5-014b-3600-47e1-c2b181d25512.htm" />
@@ -925,6 +904,7 @@
   <HelpKINode Title="HandleAppEvent method" Url="html/661de206-6dfa-2d9a-166b-a329a16d10ec.htm" />
   <HelpKINode Title="HandleDynamicKeyEvent method" Url="html/a80be72a-32fb-dae0-3808-05856d5dc951.htm" />
   <HelpKINode Title="HandleKeyboardEvent method" Url="html/20d239c9-d384-47ff-74a2-0cdb0b319d46.htm" />
+  <HelpKINode Title="Handler field" Url="html/84bcf543-cf46-27f6-f171-9724f732efd3.htm" />
   <HelpKINode Title="HandleTouchpadGesture method" Url="html/4c31ddb6-990d-550e-20df-e0d9d2b4ce9e.htm" />
   <HelpKINode Title="HANGUEL enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="HANGUL enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
@@ -935,9 +915,7 @@
   <HelpKINode Title="HELP enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="Helpers class">
     <HelpKINode Title="Helpers Class" Url="html/9c5d2edd-7846-c26b-0cc0-7e7960f04b28.htm" />
-    <HelpKINode Title="Helpers Members" Url="html/d1b42f0f-7bbd-0ddf-e978-3d78096363a8.htm" />
     <HelpKINode Title="about Helpers class" Url="html/9c5d2edd-7846-c26b-0cc0-7e7960f04b28.htm" />
-    <HelpKINode Title="all members" Url="html/d1b42f0f-7bbd-0ddf-e978-3d78096363a8.htm" />
     <HelpKINode Title="methods" Url="html/125b6c9b-792b-9a2e-c4d4-1207b5be52c7.htm" />
   </HelpKINode>
   <HelpKINode Title="Helpers.GetErrorMessage method" Url="html/f28b99cf-708a-3c94-0bd2-717d816fedf8.htm" />
@@ -956,12 +934,10 @@
   <HelpKINode Title="Hresult field" Url="html/fce77377-7af7-51c2-949a-a27e7c13e09d.htm" />
   <HelpKINode Title="HResult property" Url="html/c25bd6af-2f00-28f5-ce1d-6ee67ed8d239.htm" />
   <HelpKINode Title="HRESULT structure">
-    <HelpKINode Title="HRESULT Members" Url="html/949968e1-2e3c-4416-a94d-2d776eb531fe.htm" />
     <HelpKINode Title="HRESULT Structure" Url="html/2d793b27-ea75-516f-a0d3-fb1c2adcb545.htm" />
     <HelpKINode Title="about HRESULT structure" Url="html/2d793b27-ea75-516f-a0d3-fb1c2adcb545.htm" />
-    <HelpKINode Title="all members" Url="html/949968e1-2e3c-4416-a94d-2d776eb531fe.htm" />
-    <HelpKINode Title="constructor" Url="html/a83557bb-95ca-90b6-35c5-e45ad5d80d9e.htm" />
     <HelpKINode Title="constructor" Url="html/62c58f03-6b43-2e8c-1a06-a7ada75f927b.htm" />
+    <HelpKINode Title="constructor" Url="html/a83557bb-95ca-90b6-35c5-e45ad5d80d9e.htm" />
     <HelpKINode Title="fields" Url="html/b1b37599-82a0-72f0-2fcb-188983ec1d55.htm" />
     <HelpKINode Title="methods" Url="html/aa5c217c-7ac1-59c2-17c4-7558955c84c5.htm" />
     <HelpKINode Title="operators and type conversions" Url="html/2a461a3c-af31-af24-0798-800d925d44c2.htm" />
@@ -1403,9 +1379,7 @@
   <HelpKINode Title="HRESULT.DATA_S_SAMEFORMATETC field" Url="html/da04f712-2cb2-4c21-577d-dfb1339f96e8.htm" />
   <HelpKINode Title="HRESULT.DescriptionAttribute class">
     <HelpKINode Title="HRESULT.DescriptionAttribute Class" Url="html/ed8ca19a-5f6e-9617-d354-35899ddc7ada.htm" />
-    <HelpKINode Title="HRESULT.DescriptionAttribute Members" Url="html/8b7dc19a-8080-4dcc-4656-f2161e954394.htm" />
     <HelpKINode Title="about HRESULT.DescriptionAttribute class" Url="html/ed8ca19a-5f6e-9617-d354-35899ddc7ada.htm" />
-    <HelpKINode Title="all members" Url="html/8b7dc19a-8080-4dcc-4656-f2161e954394.htm" />
     <HelpKINode Title="constructor" Url="html/abf914d8-3b38-c013-ec9f-abe2bfe5468e.htm" />
     <HelpKINode Title="methods" Url="html/dc5a0caa-8bb3-afd0-b5b9-b29ede1c6886.htm" />
     <HelpKINode Title="properties" Url="html/6b4125e3-fbd2-d50f-1703-3d1317f0ba4d.htm" />
@@ -1418,9 +1392,7 @@
   <HelpKINode Title="HRESULT.DIGSIG_E_EXTENSIBILITY field" Url="html/a27c239f-3195-b14c-c9e2-150d8d52e28c.htm" />
   <HelpKINode Title="HRESULT.DirCodes class">
     <HelpKINode Title="HRESULT.DirCodes Class" Url="html/03369c25-e7ac-36ec-8e05-de5a2f5aea76.htm" />
-    <HelpKINode Title="HRESULT.DirCodes Members" Url="html/cfe4d0ae-20bd-9cb2-601a-861d09ed3e1b.htm" />
     <HelpKINode Title="about HRESULT.DirCodes class" Url="html/03369c25-e7ac-36ec-8e05-de5a2f5aea76.htm" />
-    <HelpKINode Title="all members" Url="html/cfe4d0ae-20bd-9cb2-601a-861d09ed3e1b.htm" />
     <HelpKINode Title="constructor" Url="html/d6c3ac6e-8195-ca6b-897d-fe85a9aefa5f.htm" />
     <HelpKINode Title="methods" Url="html/5e5cf34c-9dea-44b9-9d53-e58552da2149.htm" />
     <HelpKINode Title="properties" Url="html/b20612c8-8d9d-f79d-825f-7149a833b1ed.htm" />
@@ -1523,9 +1495,7 @@
   </HelpKINode>
   <HelpKINode Title="HRESULT.HResultException class">
     <HelpKINode Title="HRESULT.HResultException Class" Url="html/98568ef2-9d4b-b028-1e8b-2643b9674c70.htm" />
-    <HelpKINode Title="HRESULT.HResultException Members" Url="html/60b700ff-5fbc-0988-32f7-756cf988ddb1.htm" />
     <HelpKINode Title="about HRESULT.HResultException class" Url="html/98568ef2-9d4b-b028-1e8b-2643b9674c70.htm" />
-    <HelpKINode Title="all members" Url="html/60b700ff-5fbc-0988-32f7-756cf988ddb1.htm" />
     <HelpKINode Title="constructor" Url="html/3a4204d5-bc5a-7613-25be-b53a29838109.htm" />
     <HelpKINode Title="events" Url="html/8b2f0d6f-c304-5980-1a80-aeaffb6c2983.htm" />
     <HelpKINode Title="methods" Url="html/c01d88a1-e646-e26d-7395-24865ba5f537.htm" />
@@ -2259,9 +2229,7 @@
   </HelpKINode>
   <HelpKINode Title="IO class">
     <HelpKINode Title="IO Class" Url="html/57f6e538-5819-3e31-ffe4-1f1c6c99d668.htm" />
-    <HelpKINode Title="IO Members" Url="html/e88e5faa-e9ea-41a7-327b-fbd351ff4dd3.htm" />
     <HelpKINode Title="about IO class" Url="html/57f6e538-5819-3e31-ffe4-1f1c6c99d668.htm" />
-    <HelpKINode Title="all members" Url="html/e88e5faa-e9ea-41a7-327b-fbd351ff4dd3.htm" />
     <HelpKINode Title="methods" Url="html/a49d31c4-f63c-021f-6558-7c1c18b24884.htm" />
   </HelpKINode>
   <HelpKINode Title="IO.GetAbsolutePath method" Url="html/6fe483c2-277d-3c70-a4f8-40ba8b9caace.htm" />
@@ -2273,9 +2241,7 @@
   <HelpKINode Title="KANJI enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="Kernel32 class">
     <HelpKINode Title="Kernel32 Class" Url="html/f9b209c3-b7f2-a9fe-84f4-58609f64adf5.htm" />
-    <HelpKINode Title="Kernel32 Members" Url="html/3d2191e9-d890-1d46-2376-2c40cbb1e27e.htm" />
     <HelpKINode Title="about Kernel32 class" Url="html/f9b209c3-b7f2-a9fe-84f4-58609f64adf5.htm" />
-    <HelpKINode Title="all members" Url="html/3d2191e9-d890-1d46-2376-2c40cbb1e27e.htm" />
     <HelpKINode Title="fields" Url="html/eff9c673-4f65-bab2-465e-854f337aa682.htm" />
     <HelpKINode Title="methods" Url="html/65702377-527d-05c1-e508-ecc3684e0b74.htm" />
   </HelpKINode>
@@ -2294,9 +2260,7 @@
   <HelpKINode Title="KeyboardCapture property" Url="html/f3676e2d-a5e3-a044-31c5-07cdc858e604.htm" />
   <HelpKINode Title="KeyboardCharEventArgs class">
     <HelpKINode Title="KeyboardCharEventArgs Class" Url="html/f60f14ab-c2f9-e5a5-b3ff-8077ac908340.htm" />
-    <HelpKINode Title="KeyboardCharEventArgs Members" Url="html/8662ab98-e5d5-7e3e-139e-037120f3bedf.htm" />
     <HelpKINode Title="about KeyboardCharEventArgs class" Url="html/f60f14ab-c2f9-e5a5-b3ff-8077ac908340.htm" />
-    <HelpKINode Title="all members" Url="html/8662ab98-e5d5-7e3e-139e-037120f3bedf.htm" />
     <HelpKINode Title="constructor" Url="html/5d741a7a-64e8-97cf-a876-c7286ac9b211.htm" />
     <HelpKINode Title="fields" Url="html/cb1a83cf-4e1d-3edf-a825-b4ec4b3cd32d.htm" />
     <HelpKINode Title="methods" Url="html/b8974496-752c-ca54-074e-1d74765d7dd2.htm" />
@@ -2306,9 +2270,7 @@
   <HelpKINode Title="KeyboardCharTyped event" Url="html/f1e9b364-2ebb-6a2c-5dea-e0db8bc2d70c.htm" />
   <HelpKINode Title="KeyboardControl class">
     <HelpKINode Title="KeyboardControl Class" Url="html/99d46c7d-727c-1412-9f07-ccffdf50f8cf.htm" />
-    <HelpKINode Title="KeyboardControl Members" Url="html/513c95c5-5eae-cd0b-93ce-79b10b329ec2.htm" />
     <HelpKINode Title="about KeyboardControl class" Url="html/99d46c7d-727c-1412-9f07-ccffdf50f8cf.htm" />
-    <HelpKINode Title="all members" Url="html/513c95c5-5eae-cd0b-93ce-79b10b329ec2.htm" />
     <HelpKINode Title="constructor" Url="html/e3be3d9f-b949-702b-32e0-0843576444b6.htm" />
     <HelpKINode Title="fields" Url="html/6223303f-c613-c398-372e-2d138a058941.htm" />
     <HelpKINode Title="methods" Url="html/141682d3-6d08-de2d-1fef-4e5078e42232.htm" />
@@ -2329,9 +2291,7 @@
   <HelpKINode Title="KeyboardKeyDown event" Url="html/8f86cff1-e3ff-0a5e-120d-7707db02aa21.htm" />
   <HelpKINode Title="KeyboardKeyEventArgs class">
     <HelpKINode Title="KeyboardKeyEventArgs Class" Url="html/a3830b25-a548-118c-0795-1a87061f7807.htm" />
-    <HelpKINode Title="KeyboardKeyEventArgs Members" Url="html/a53b1d75-75dd-d893-aad0-dae42cc289b5.htm" />
     <HelpKINode Title="about KeyboardKeyEventArgs class" Url="html/a3830b25-a548-118c-0795-1a87061f7807.htm" />
-    <HelpKINode Title="all members" Url="html/a53b1d75-75dd-d893-aad0-dae42cc289b5.htm" />
     <HelpKINode Title="constructor" Url="html/a7b65189-7a49-af3c-bce7-968899f5d0df.htm" />
     <HelpKINode Title="fields" Url="html/128c9277-729d-fca4-3a95-660008089bac.htm" />
     <HelpKINode Title="methods" Url="html/c2495cb5-7591-023a-8672-aadb1e37e79b.htm" />
@@ -2347,9 +2307,7 @@
   <HelpKINode Title="KeyboardRawEvent event" Url="html/747ce932-1a72-7762-915d-851baf0b10b9.htm" />
   <HelpKINode Title="KeyboardRawEventArgs class">
     <HelpKINode Title="KeyboardRawEventArgs Class" Url="html/97fdf877-b37e-4a60-f025-9f7abf1ff6d9.htm" />
-    <HelpKINode Title="KeyboardRawEventArgs Members" Url="html/902f1a31-061c-3594-87f1-010ed043cdb3.htm" />
     <HelpKINode Title="about KeyboardRawEventArgs class" Url="html/97fdf877-b37e-4a60-f025-9f7abf1ff6d9.htm" />
-    <HelpKINode Title="all members" Url="html/902f1a31-061c-3594-87f1-010ed043cdb3.htm" />
     <HelpKINode Title="constructor" Url="html/b1d4c9ad-0775-0518-2ef2-73561db5ab37.htm" />
     <HelpKINode Title="fields" Url="html/76059a5f-41a7-0620-6379-9615257497a9.htm" />
     <HelpKINode Title="methods" Url="html/2ee4f4f0-5365-b1d8-c1e8-18d17524aef6.htm" />
@@ -2373,16 +2331,14 @@
   <HelpKINode Title="LAUNCH_MEDIA_SELECT enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="LBUTTON enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="LCONTROL enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
-  <HelpKINode Title="LEFT enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="Left enumeration member" Url="html/cebdb7df-46e9-65f1-e717-3c403f3b6856.htm" />
+  <HelpKINode Title="LEFT enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="left field" Url="html/3faf2c7e-30f7-6491-0fa3-f7de3226c1e1.htm" />
   <HelpKINode Title="LMENU enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="LoadConfig method" Url="html/e1c87dee-68f8-cf17-9d76-bc0d9b8e251b.htm" />
   <HelpKINode Title="LogManager class">
     <HelpKINode Title="LogManager Class" Url="html/48016a37-7998-c84f-a98e-2dbed1b934f1.htm" />
-    <HelpKINode Title="LogManager Members" Url="html/867d8d1d-342d-77b5-4d4c-37b00140e5c8.htm" />
     <HelpKINode Title="about LogManager class" Url="html/48016a37-7998-c84f-a98e-2dbed1b934f1.htm" />
-    <HelpKINode Title="all members" Url="html/867d8d1d-342d-77b5-4d4c-37b00140e5c8.htm" />
     <HelpKINode Title="fields" Url="html/bffd7dc6-9495-414e-f499-a0bc2dd054c3.htm" />
     <HelpKINode Title="methods" Url="html/3c8b5df9-24a9-c782-d590-f56a36b7a0d2.htm" />
   </HelpKINode>
@@ -2391,7 +2347,6 @@
   <HelpKINode Title="LogManager.GetLogger method" Url="html/a8e2a4cc-4b02-f6bc-3340-b951b3db137a.htm" />
   <HelpKINode Title="LogManager.LoadConfig method" Url="html/e1c87dee-68f8-cf17-9d76-bc0d9b8e251b.htm" />
   <HelpKINode Title="LogManager.SetupConsole method" Url="html/a96afcbe-be41-980d-e771-66c40c2d5b87.htm" />
-  <HelpKINode Title="LogManager._consoleLoaded field" Url="html/8b1b7e47-3415-2cb5-d008-8f65a03814d8.htm" />
   <HelpKINode Title="LogManager._loaded field" Url="html/b9b07b79-e4cd-903c-1efc-331c0f37773a.htm" />
   <HelpKINode Title="LSHIFT enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="LWIN enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
@@ -2450,9 +2405,7 @@
   <HelpKINode Title="Move event" Url="html/8e32ad3e-6132-7556-86df-24055e69331f.htm" />
   <HelpKINode Title="MoveEventArgs class">
     <HelpKINode Title="MoveEventArgs Class" Url="html/12364c6d-ce2b-bfeb-8f92-b4a42096c35f.htm" />
-    <HelpKINode Title="MoveEventArgs Members" Url="html/d99a1492-f876-d26a-f8d5-586bd132fd0a.htm" />
     <HelpKINode Title="about MoveEventArgs class" Url="html/12364c6d-ce2b-bfeb-8f92-b4a42096c35f.htm" />
-    <HelpKINode Title="all members" Url="html/d99a1492-f876-d26a-f8d5-586bd132fd0a.htm" />
     <HelpKINode Title="constructor" Url="html/4d7e2929-5463-7a87-8f3c-4512e19163f6.htm" />
     <HelpKINode Title="fields" Url="html/4c5e2f4c-d89e-4a99-1242-a9c52c079c46.htm" />
     <HelpKINode Title="methods" Url="html/8482b196-d88e-1f8f-f346-caaf1cf1836d.htm" />
@@ -2710,9 +2663,7 @@
   <HelpKINode Title="PressedImage field" Url="html/300e8d50-e52e-609a-5320-e6e8ac683c67.htm" />
   <HelpKINode Title="PressEventArgs class">
     <HelpKINode Title="PressEventArgs Class" Url="html/6f8b2d68-ce73-94df-0cf1-a383efd73a13.htm" />
-    <HelpKINode Title="PressEventArgs Members" Url="html/59cb6787-2ecf-eb6c-8ad0-d4c92f671410.htm" />
     <HelpKINode Title="about PressEventArgs class" Url="html/6f8b2d68-ce73-94df-0cf1-a383efd73a13.htm" />
-    <HelpKINode Title="all members" Url="html/59cb6787-2ecf-eb6c-8ad0-d4c92f671410.htm" />
     <HelpKINode Title="constructor" Url="html/6da8aab7-b466-fe40-7ef2-14d435f2ea7c.htm" />
     <HelpKINode Title="fields" Url="html/a5b0f9e4-d4cf-e2db-25a3-ce5a2cda0a70.htm" />
     <HelpKINode Title="methods" Url="html/7a974295-93c7-ff62-a03d-19435692e72a.htm" />
@@ -2731,9 +2682,7 @@
   <HelpKINode Title="R enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="RazerAPI class">
     <HelpKINode Title="RazerAPI Class" Url="html/25b32016-1935-f48e-6ef5-d888b3b1abd6.htm" />
-    <HelpKINode Title="RazerAPI Members" Url="html/931717b1-3d9e-33c6-44f8-247b73fa88dc.htm" />
     <HelpKINode Title="about RazerAPI class" Url="html/25b32016-1935-f48e-6ef5-d888b3b1abd6.htm" />
-    <HelpKINode Title="all members" Url="html/931717b1-3d9e-33c6-44f8-247b73fa88dc.htm" />
     <HelpKINode Title="fields" Url="html/0bb99077-40b9-e561-6fb2-1691d77f4c63.htm" />
     <HelpKINode Title="methods" Url="html/b147562f-e586-961c-00e8-e282b89be88b.htm" />
   </HelpKINode>
@@ -2741,10 +2690,8 @@
   <HelpKINode Title="RazerAPI.AppEventMode enumeration" Url="html/525efb66-bf61-1f95-c865-1bd06b753ca0.htm" />
   <HelpKINode Title="RazerAPI.AppEventType enumeration" Url="html/9420a540-b4f0-9267-057a-80cdd2506009.htm" />
   <HelpKINode Title="RazerAPI.BufferParams structure">
-    <HelpKINode Title="RazerAPI.BufferParams Members" Url="html/9a8d6506-6262-1523-a262-932d29bab69e.htm" />
     <HelpKINode Title="RazerAPI.BufferParams Structure" Url="html/cd0f3746-23e5-281f-5ec3-b4a339703ac4.htm" />
     <HelpKINode Title="about RazerAPI.BufferParams structure" Url="html/cd0f3746-23e5-281f-5ec3-b4a339703ac4.htm" />
-    <HelpKINode Title="all members" Url="html/9a8d6506-6262-1523-a262-932d29bab69e.htm" />
     <HelpKINode Title="fields" Url="html/51430d80-d543-2845-b58a-c94726ecb6bc.htm" />
     <HelpKINode Title="methods" Url="html/4180c898-4f01-28a2-9069-8809c4658307.htm" />
   </HelpKINode>
@@ -2752,10 +2699,8 @@
   <HelpKINode Title="RazerAPI.BufferParams.PixelType field" Url="html/87e37750-ffee-d8bd-859a-05493801f651.htm" />
   <HelpKINode Title="RazerAPI.BufferParams.PtrData field" Url="html/c6da02eb-bf73-9478-0105-44bbb6b5328d.htm" />
   <HelpKINode Title="RazerAPI.Capabilities structure">
-    <HelpKINode Title="RazerAPI.Capabilities Members" Url="html/35ec0e2c-8236-7e09-fb20-6f516bf6e4b8.htm" />
     <HelpKINode Title="RazerAPI.Capabilities Structure" Url="html/b0e85667-43e7-106a-dbac-0a003f28129e.htm" />
     <HelpKINode Title="about RazerAPI.Capabilities structure" Url="html/b0e85667-43e7-106a-dbac-0a003f28129e.htm" />
-    <HelpKINode Title="all members" Url="html/35ec0e2c-8236-7e09-fb20-6f516bf6e4b8.htm" />
     <HelpKINode Title="fields" Url="html/a73c162d-4883-0bee-3302-b5a1c5327767.htm" />
     <HelpKINode Title="methods" Url="html/cf9c3b5c-74d7-8061-8f44-b11fcde42701.htm" />
   </HelpKINode>
@@ -2789,10 +2734,8 @@
   <HelpKINode Title="RazerAPI.PixelFormatRgb565 field" Url="html/28b3949b-cf95-e82c-5cd8-69a671ddc6bb.htm" />
   <HelpKINode Title="RazerAPI.PixelType enumeration" Url="html/3131eb78-59b1-f9fe-8e45-2e369291e68f.htm" />
   <HelpKINode Title="RazerAPI.Point structure">
-    <HelpKINode Title="RazerAPI.Point Members" Url="html/a6d1778c-a21e-67df-92ef-f1964ebfe3c5.htm" />
     <HelpKINode Title="RazerAPI.Point Structure" Url="html/e5c8b06e-a99a-7770-d0b0-b647b4d5fb29.htm" />
     <HelpKINode Title="about RazerAPI.Point structure" Url="html/e5c8b06e-a99a-7770-d0b0-b647b4d5fb29.htm" />
-    <HelpKINode Title="all members" Url="html/a6d1778c-a21e-67df-92ef-f1964ebfe3c5.htm" />
     <HelpKINode Title="fields" Url="html/e3aac9c6-eca0-d495-7240-426b7753710d.htm" />
     <HelpKINode Title="methods" Url="html/357bee3a-7a3d-35c8-1b33-bb392274fac1.htm" />
   </HelpKINode>
@@ -2820,9 +2763,7 @@
   <HelpKINode Title="RazerAPI.ValidGesture method" Url="html/ba252e60-caab-1750-42b6-56c520454593.htm" />
   <HelpKINode Title="RazerDynamicKeyException class">
     <HelpKINode Title="RazerDynamicKeyException Class" Url="html/c0941f3a-5496-e39c-282a-51c016486220.htm" />
-    <HelpKINode Title="RazerDynamicKeyException Members" Url="html/e5c36d9d-d102-bef9-5fe5-8c192024c516.htm" />
     <HelpKINode Title="about RazerDynamicKeyException class" Url="html/c0941f3a-5496-e39c-282a-51c016486220.htm" />
-    <HelpKINode Title="all members" Url="html/e5c36d9d-d102-bef9-5fe5-8c192024c516.htm" />
     <HelpKINode Title="constructor" Url="html/b93479a4-63b4-064b-2a6b-d65808f3d20e.htm" />
     <HelpKINode Title="events" Url="html/da8f5e76-479a-e622-5879-51a0ffada464.htm" />
     <HelpKINode Title="methods" Url="html/fa7dc106-c313-0f5f-fb3f-c4c7a1531f83.htm" />
@@ -2831,9 +2772,7 @@
   <HelpKINode Title="RazerDynamicKeyException.RazerDynamicKeyException constructor" Url="html/b93479a4-63b4-064b-2a6b-d65808f3d20e.htm" />
   <HelpKINode Title="RazerException class">
     <HelpKINode Title="RazerException Class" Url="html/6a4f74d5-8d94-cb9d-a79f-27501fdaeb00.htm" />
-    <HelpKINode Title="RazerException Members" Url="html/1522faae-76fb-8f75-1109-30c5569f0b9c.htm" />
     <HelpKINode Title="about RazerException class" Url="html/6a4f74d5-8d94-cb9d-a79f-27501fdaeb00.htm" />
-    <HelpKINode Title="all members" Url="html/1522faae-76fb-8f75-1109-30c5569f0b9c.htm" />
     <HelpKINode Title="constructor" Url="html/b99ab20b-aebd-59d4-3aea-956970c3cc49.htm" />
     <HelpKINode Title="events" Url="html/e927d97e-69ac-1559-816e-4bff2a0e977f.htm" />
     <HelpKINode Title="methods" Url="html/6a4f6cb0-2454-d8bc-041a-79726f7ad145.htm" />
@@ -2842,11 +2781,9 @@
   <HelpKINode Title="RazerException.RazerException constructor" Url="html/b99ab20b-aebd-59d4-3aea-956970c3cc49.htm" />
   <HelpKINode Title="RazerManager class">
     <HelpKINode Title="RazerManager Class" Url="html/c083f362-2277-e568-aff0-fbcb15c54dd0.htm" />
-    <HelpKINode Title="RazerManager Members" Url="html/2caa98b5-65c5-5c81-c115-f864349db69b.htm" />
     <HelpKINode Title="about RazerManager class" Url="html/c083f362-2277-e568-aff0-fbcb15c54dd0.htm" />
-    <HelpKINode Title="all members" Url="html/2caa98b5-65c5-5c81-c115-f864349db69b.htm" />
-    <HelpKINode Title="constructor" Url="html/c6ce540b-62cb-99fa-681b-c126a137820e.htm" />
     <HelpKINode Title="constructor" Url="html/dac83a9b-523f-0fbf-77d3-ff870c37f376.htm" />
+    <HelpKINode Title="constructor" Url="html/c6ce540b-62cb-99fa-681b-c126a137820e.htm" />
     <HelpKINode Title="events" Url="html/a54b7d43-cda9-f503-c421-7e8a86cd2070.htm" />
     <HelpKINode Title="fields" Url="html/313ccfad-18c5-93e8-5586-9cd9d4e4b773.htm" />
     <HelpKINode Title="methods" Url="html/f235e853-d373-2c43-6b94-5d377edd1640.htm" />
@@ -2878,8 +2815,8 @@
   <HelpKINode Title="RazerManager.OnKeyboardKeyUp method" Url="html/9d623c0d-d61b-1273-472a-37643499ca6d.htm" />
   <HelpKINode Title="RazerManager.OnKeyboardRawEvent method" Url="html/b6c6d050-0982-58f1-8a5e-8224babf2b63.htm" />
   <HelpKINode Title="RazerManager.RazerManager constructor">
-    <HelpKINode Title="RazerManager Constructor " Url="html/dac83a9b-523f-0fbf-77d3-ff870c37f376.htm" />
     <HelpKINode Title="RazerManager Constructor " Url="html/c6ce540b-62cb-99fa-681b-c126a137820e.htm" />
+    <HelpKINode Title="RazerManager Constructor " Url="html/dac83a9b-523f-0fbf-77d3-ff870c37f376.htm" />
   </HelpKINode>
   <HelpKINode Title="RazerManager.SetKeyboardCapture method" Url="html/0db68986-67f8-7a4c-8af7-dfea6e89075a.htm" />
   <HelpKINode Title="RazerManager.StartWinFormsControlKeyboardCapture method" Url="html/9f67586d-f99c-eea0-6e7d-c106cdc2d57a.htm" />
@@ -2896,9 +2833,7 @@
   <HelpKINode Title="RazerManager._log field" Url="html/a2e2b9b0-9bed-f66e-8764-b223311b0dfa.htm" />
   <HelpKINode Title="RazerNativeException class">
     <HelpKINode Title="RazerNativeException Class" Url="html/d82ab2f9-289a-0424-68fe-cb7a0142a786.htm" />
-    <HelpKINode Title="RazerNativeException Members" Url="html/b32bee16-0674-ec7a-7021-90ef24001303.htm" />
     <HelpKINode Title="about RazerNativeException class" Url="html/d82ab2f9-289a-0424-68fe-cb7a0142a786.htm" />
-    <HelpKINode Title="all members" Url="html/b32bee16-0674-ec7a-7021-90ef24001303.htm" />
     <HelpKINode Title="constructor" Url="html/fb831f11-e7a9-cd12-42fe-98f5d1ba849f.htm" />
     <HelpKINode Title="events" Url="html/c7067510-ae0a-43a1-006b-b7988fa187e3.htm" />
     <HelpKINode Title="fields" Url="html/25481433-9a8f-9c21-6b9e-ad0aa4c11a96.htm" />
@@ -2910,9 +2845,7 @@
   <HelpKINode Title="RazerNativeException.RazerNativeException constructor" Url="html/fb831f11-e7a9-cd12-42fe-98f5d1ba849f.htm" />
   <HelpKINode Title="RazerUnstableShutdownException class">
     <HelpKINode Title="RazerUnstableShutdownException Class" Url="html/57c25490-f1e3-85ee-acb7-4a810c234cf0.htm" />
-    <HelpKINode Title="RazerUnstableShutdownException Members" Url="html/7264d1a3-4b9e-8ee5-a059-b45d11041891.htm" />
     <HelpKINode Title="about RazerUnstableShutdownException class" Url="html/57c25490-f1e3-85ee-acb7-4a810c234cf0.htm" />
-    <HelpKINode Title="all members" Url="html/7264d1a3-4b9e-8ee5-a059-b45d11041891.htm" />
     <HelpKINode Title="constructor" Url="html/151cf628-7cb1-d09a-c68c-cc22998371d1.htm" />
     <HelpKINode Title="events" Url="html/300a7592-a337-21de-80f6-1933d37c775c.htm" />
     <HelpKINode Title="methods" Url="html/b0826739-f611-90ff-3cdb-3e754abbbe0c.htm" />
@@ -2938,9 +2871,7 @@
   <HelpKINode Title="ReleaseDC method" Url="html/10932da0-4f6b-f85d-f72c-f93c0a28f4c3.htm" />
   <HelpKINode Title="ReleaseEventArgs class">
     <HelpKINode Title="ReleaseEventArgs Class" Url="html/0045bfbc-3251-7125-4cd4-47db75415ee9.htm" />
-    <HelpKINode Title="ReleaseEventArgs Members" Url="html/346443b0-6239-8334-239f-81239de158b3.htm" />
     <HelpKINode Title="about ReleaseEventArgs class" Url="html/0045bfbc-3251-7125-4cd4-47db75415ee9.htm" />
-    <HelpKINode Title="all members" Url="html/346443b0-6239-8334-239f-81239de158b3.htm" />
     <HelpKINode Title="constructor" Url="html/3a3cc6d9-4021-6b69-3d64-b3afe696b306.htm" />
     <HelpKINode Title="fields" Url="html/6c5c53b3-234f-5588-3c2d-a861b18715a5.htm" />
     <HelpKINode Title="methods" Url="html/f300fa06-2f42-e3c2-aba1-59cac35bab71.htm" />
@@ -2954,9 +2885,7 @@
   <HelpKINode Title="Remove&lt;T&gt; method" Url="html/eab7c086-a4da-92c1-3509-97327e427278.htm" />
   <HelpKINode Title="Renderer class">
     <HelpKINode Title="Renderer Class" Url="html/46b6bca1-9d58-4515-cb91-08d416fda678.htm" />
-    <HelpKINode Title="Renderer Members" Url="html/061bc3f2-19bf-8770-bade-81bd2e3cf1fa.htm" />
     <HelpKINode Title="about Renderer class" Url="html/46b6bca1-9d58-4515-cb91-08d416fda678.htm" />
-    <HelpKINode Title="all members" Url="html/061bc3f2-19bf-8770-bade-81bd2e3cf1fa.htm" />
     <HelpKINode Title="constructor" Url="html/62bc9af9-219b-a4a2-b608-0ac2c865848e.htm" />
     <HelpKINode Title="fields" Url="html/4c7bcf83-d927-d096-d13b-a84c96bb5345.htm" />
     <HelpKINode Title="methods" Url="html/a83f5e87-9dac-91b1-eefe-5008eecda10b.htm" />
@@ -3012,9 +2941,7 @@
   <HelpKINode Title="RotateDirection enumeration" Url="html/db818aad-9d3b-debf-e76a-e23164d01c71.htm" />
   <HelpKINode Title="RotateEventArgs class">
     <HelpKINode Title="RotateEventArgs Class" Url="html/e9e13713-c343-b09f-a9b7-b6fb115abf31.htm" />
-    <HelpKINode Title="RotateEventArgs Members" Url="html/d46b8d2c-9024-e24b-396d-ea4b0779d942.htm" />
     <HelpKINode Title="about RotateEventArgs class" Url="html/e9e13713-c343-b09f-a9b7-b6fb115abf31.htm" />
-    <HelpKINode Title="all members" Url="html/d46b8d2c-9024-e24b-396d-ea4b0779d942.htm" />
     <HelpKINode Title="constructor" Url="html/0bdd4fc5-04ad-c81d-7481-41b0cd647bda.htm" />
     <HelpKINode Title="fields" Url="html/6366ce05-c52a-4f33-7c42-5c40f9bc8578.htm" />
     <HelpKINode Title="methods" Url="html/2e9bcb66-737b-f9bd-4ec7-c9d7a0e943d2.htm" />
@@ -3224,9 +3151,7 @@
   <HelpKINode Title="SCHED_S_TASK_TERMINATED field" Url="html/b93d2c95-2ed1-50e8-50ae-ccda8f34b195.htm" />
   <HelpKINode Title="ScreenCapture class">
     <HelpKINode Title="ScreenCapture Class" Url="html/f4c2f995-3217-4f10-7351-cfdd2c843196.htm" />
-    <HelpKINode Title="ScreenCapture Members" Url="html/8ee1148c-0edc-bf5d-3759-0a0b36fb7103.htm" />
     <HelpKINode Title="about ScreenCapture class" Url="html/f4c2f995-3217-4f10-7351-cfdd2c843196.htm" />
-    <HelpKINode Title="all members" Url="html/8ee1148c-0edc-bf5d-3759-0a0b36fb7103.htm" />
     <HelpKINode Title="constructor" Url="html/21913eca-541a-4ead-acd9-8a8553cdfc17.htm" />
     <HelpKINode Title="methods" Url="html/7461117b-d177-eae4-968b-c857f5053214.htm" />
   </HelpKINode>
@@ -3235,8 +3160,8 @@
   <HelpKINode Title="ScreenCapture.CaptureWindow method" Url="html/7c07e85f-9afb-92e7-99cb-08ebd8029d0a.htm" />
   <HelpKINode Title="ScreenCapture.CaptureWindowToFile method" Url="html/6242f7d9-51fa-57e9-b762-12e68caa480d.htm" />
   <HelpKINode Title="ScreenCapture.ScreenCapture constructor" Url="html/21913eca-541a-4ead-acd9-8a8553cdfc17.htm" />
-  <HelpKINode Title="Scroll enumeration member" Url="html/1c987071-e332-00f7-9c46-e375ff622b9d.htm" />
   <HelpKINode Title="SCROLL enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
+  <HelpKINode Title="Scroll enumeration member" Url="html/1c987071-e332-00f7-9c46-e375ff622b9d.htm" />
   <HelpKINode Title="Scroll event" Url="html/86b9d6a6-3be3-01c1-c359-c7dc217bdc5b.htm" />
   <HelpKINode Title="SEC_E_ALGORITHM_MISMATCH field" Url="html/5629d50c-9eb5-cad8-0254-7fec49556d1e.htm" />
   <HelpKINode Title="SEC_E_BAD_BINDINGS field" Url="html/648dd615-7ab1-8d00-c28a-3028ac1f2c5a.htm" />
@@ -3341,91 +3266,34 @@
   <HelpKINode Title="SetWindow method" Url="html/94578d5f-9c19-302f-a424-1fa5847fecd8.htm" />
   <HelpKINode Title="Seven enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="Sharparam.SharpBlade namespace" Url="html/546e51c4-35e5-5193-9dce-66bd013885d5.htm" />
-  <HelpKINode Title="Sharparam.SharpBlade.Constants class">
-    <HelpKINode Title="Constants Class" Url="html/b751d411-8fbf-f981-a3bd-c75e73d10782.htm" />
-    <HelpKINode Title="Constants Members" Url="html/b7cda287-fd8c-04cd-f6e6-341cf19748c1.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.DynamicKeySettings structure">
-    <HelpKINode Title="DynamicKeySettings Members" Url="html/56014976-92f7-309d-a629-d4b1c943453a.htm" />
-    <HelpKINode Title="DynamicKeySettings Structure" Url="html/9fb05754-3e76-3b8c-90be-6f94a50a63ce.htm" />
-  </HelpKINode>
+  <HelpKINode Title="Sharparam.SharpBlade.Constants class" Url="html/b751d411-8fbf-f981-a3bd-c75e73d10782.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.DynamicKeySettings structure" Url="html/9fb05754-3e76-3b8c-90be-6f94a50a63ce.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Extensions namespace" Url="html/3f63ce94-d299-7ad9-62ed-f23e8fe5dbdb.htm" />
-  <HelpKINode Title="Sharparam.SharpBlade.Extensions.EnumerationExtensions class">
-    <HelpKINode Title="EnumerationExtensions Class" Url="html/5aa1b71c-e1b2-4d90-a6dd-05f87ff4fba3.htm" />
-    <HelpKINode Title="EnumerationExtensions Members" Url="html/694e974c-fada-4793-9cdb-b0d530f99174.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Extensions.EnumerationExtensions.Value class">
-    <HelpKINode Title="EnumerationExtensions.Value Class" Url="html/c2eae365-b150-bb72-255d-9995d280da6c.htm" />
-    <HelpKINode Title="EnumerationExtensions.Value Members" Url="html/a908f6a2-fd10-4f25-51ba-09b9af071b03.htm" />
-  </HelpKINode>
+  <HelpKINode Title="Sharparam.SharpBlade.Extensions.EnumerationExtensions class" Url="html/5aa1b71c-e1b2-4d90-a6dd-05f87ff4fba3.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Extensions.EnumerationExtensions.Value class" Url="html/c2eae365-b150-bb72-255d-9995d280da6c.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Helpers namespace" Url="html/04c80a0f-d1d7-e18d-63c7-b31fe055b4aa.htm" />
-  <HelpKINode Title="Sharparam.SharpBlade.Helpers.IO class">
-    <HelpKINode Title="IO Class" Url="html/57f6e538-5819-3e31-ffe4-1f1c6c99d668.htm" />
-    <HelpKINode Title="IO Members" Url="html/e88e5faa-e9ea-41a7-327b-fbd351ff4dd3.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Helpers.ScreenCapture class">
-    <HelpKINode Title="ScreenCapture Class" Url="html/f4c2f995-3217-4f10-7351-cfdd2c843196.htm" />
-    <HelpKINode Title="ScreenCapture Members" Url="html/8ee1148c-0edc-bf5d-3759-0a0b36fb7103.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Helpers.Threading class">
-    <HelpKINode Title="Threading Class" Url="html/3dfc5da8-4d0d-69c6-24d0-449d9ea36d2e.htm" />
-    <HelpKINode Title="Threading Members" Url="html/3a6a7f6b-1d04-1ba6-41d2-fd1ed0e86c41.htm" />
-  </HelpKINode>
+  <HelpKINode Title="Sharparam.SharpBlade.Helpers.IO class" Url="html/57f6e538-5819-3e31-ffe4-1f1c6c99d668.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Helpers.ScreenCapture class" Url="html/f4c2f995-3217-4f10-7351-cfdd2c843196.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Helpers.Threading class" Url="html/3dfc5da8-4d0d-69c6-24d0-449d9ea36d2e.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Integration namespace" Url="html/8dfc6d2f-cc17-e952-d992-e74a7ed4adc4.htm" />
-  <HelpKINode Title="Sharparam.SharpBlade.Integration.EmbeddedWinFormsControl structure">
-    <HelpKINode Title="EmbeddedWinFormsControl Members" Url="html/050f4883-4fd7-0f50-9cac-a12bf6c06a56.htm" />
-    <HelpKINode Title="EmbeddedWinFormsControl Structure" Url="html/93648e6d-ef71-79f6-9ef1-267b54072e86.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Integration.KeyboardControl class">
-    <HelpKINode Title="KeyboardControl Class" Url="html/99d46c7d-727c-1412-9f07-ccffdf50f8cf.htm" />
-    <HelpKINode Title="KeyboardControl Members" Url="html/513c95c5-5eae-cd0b-93ce-79b10b329ec2.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Integration.Renderer class">
-    <HelpKINode Title="Renderer Class" Url="html/46b6bca1-9d58-4515-cb91-08d416fda678.htm" />
-    <HelpKINode Title="Renderer Members" Url="html/061bc3f2-19bf-8770-bade-81bd2e3cf1fa.htm" />
-  </HelpKINode>
+  <HelpKINode Title="Sharparam.SharpBlade.Integration.EmbeddedWinFormsControl structure" Url="html/93648e6d-ef71-79f6-9ef1-267b54072e86.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Integration.KeyboardControl class" Url="html/99d46c7d-727c-1412-9f07-ccffdf50f8cf.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Integration.Renderer class" Url="html/46b6bca1-9d58-4515-cb91-08d416fda678.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Logging namespace" Url="html/8a9a1539-c72a-4989-3ab0-b858371b0bb8.htm" />
-  <HelpKINode Title="Sharparam.SharpBlade.Logging.LogManager class">
-    <HelpKINode Title="LogManager Class" Url="html/48016a37-7998-c84f-a98e-2dbed1b934f1.htm" />
-    <HelpKINode Title="LogManager Members" Url="html/867d8d1d-342d-77b5-4d4c-37b00140e5c8.htm" />
-  </HelpKINode>
+  <HelpKINode Title="Sharparam.SharpBlade.Logging.LogManager class" Url="html/48016a37-7998-c84f-a98e-2dbed1b934f1.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.ModifierKeys enumeration" Url="html/50460add-6f54-dcd7-51da-d69aaf353c76.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Native namespace" Url="html/0334c8c2-1abf-c762-afb1-680e5978caa8.htm" />
-  <HelpKINode Title="Sharparam.SharpBlade.Native.Helpers class">
-    <HelpKINode Title="Helpers Class" Url="html/9c5d2edd-7846-c26b-0cc0-7e7960f04b28.htm" />
-    <HelpKINode Title="Helpers Members" Url="html/d1b42f0f-7bbd-0ddf-e978-3d78096363a8.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Native.HRESULT structure">
-    <HelpKINode Title="HRESULT Members" Url="html/949968e1-2e3c-4416-a94d-2d776eb531fe.htm" />
-    <HelpKINode Title="HRESULT Structure" Url="html/2d793b27-ea75-516f-a0d3-fb1c2adcb545.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Native.HRESULT.DescriptionAttribute class">
-    <HelpKINode Title="HRESULT.DescriptionAttribute Class" Url="html/ed8ca19a-5f6e-9617-d354-35899ddc7ada.htm" />
-    <HelpKINode Title="HRESULT.DescriptionAttribute Members" Url="html/8b7dc19a-8080-4dcc-4656-f2161e954394.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Native.HRESULT.DirCodes class">
-    <HelpKINode Title="HRESULT.DirCodes Class" Url="html/03369c25-e7ac-36ec-8e05-de5a2f5aea76.htm" />
-    <HelpKINode Title="HRESULT.DirCodes Members" Url="html/cfe4d0ae-20bd-9cb2-601a-861d09ed3e1b.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Native.HRESULT.HResultException class">
-    <HelpKINode Title="HRESULT.HResultException Class" Url="html/98568ef2-9d4b-b028-1e8b-2643b9674c70.htm" />
-    <HelpKINode Title="HRESULT.HResultException Members" Url="html/60b700ff-5fbc-0988-32f7-756cf988ddb1.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Native.RazerAPI class">
-    <HelpKINode Title="RazerAPI Class" Url="html/25b32016-1935-f48e-6ef5-d888b3b1abd6.htm" />
-    <HelpKINode Title="RazerAPI Members" Url="html/931717b1-3d9e-33c6-44f8-247b73fa88dc.htm" />
-  </HelpKINode>
+  <HelpKINode Title="Sharparam.SharpBlade.Native.Helpers class" Url="html/9c5d2edd-7846-c26b-0cc0-7e7960f04b28.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Native.HRESULT structure" Url="html/2d793b27-ea75-516f-a0d3-fb1c2adcb545.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Native.HRESULT.DescriptionAttribute class" Url="html/ed8ca19a-5f6e-9617-d354-35899ddc7ada.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Native.HRESULT.DirCodes class" Url="html/03369c25-e7ac-36ec-8e05-de5a2f5aea76.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Native.HRESULT.HResultException class" Url="html/98568ef2-9d4b-b028-1e8b-2643b9674c70.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Native.RazerAPI class" Url="html/25b32016-1935-f48e-6ef5-d888b3b1abd6.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Native.RazerAPI.AppEventCallbackDelegate delegate" Url="html/bdbd304b-7cd8-6fc6-9e4d-0affd94dbec2.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Native.RazerAPI.AppEventMode enumeration" Url="html/525efb66-bf61-1f95-c865-1bd06b753ca0.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Native.RazerAPI.AppEventType enumeration" Url="html/9420a540-b4f0-9267-057a-80cdd2506009.htm" />
-  <HelpKINode Title="Sharparam.SharpBlade.Native.RazerAPI.BufferParams structure">
-    <HelpKINode Title="RazerAPI.BufferParams Members" Url="html/9a8d6506-6262-1523-a262-932d29bab69e.htm" />
-    <HelpKINode Title="RazerAPI.BufferParams Structure" Url="html/cd0f3746-23e5-281f-5ec3-b4a339703ac4.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Native.RazerAPI.Capabilities structure">
-    <HelpKINode Title="RazerAPI.Capabilities Members" Url="html/35ec0e2c-8236-7e09-fb20-6f516bf6e4b8.htm" />
-    <HelpKINode Title="RazerAPI.Capabilities Structure" Url="html/b0e85667-43e7-106a-dbac-0a003f28129e.htm" />
-  </HelpKINode>
+  <HelpKINode Title="Sharparam.SharpBlade.Native.RazerAPI.BufferParams structure" Url="html/cd0f3746-23e5-281f-5ec3-b4a339703ac4.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Native.RazerAPI.Capabilities structure" Url="html/b0e85667-43e7-106a-dbac-0a003f28129e.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Native.RazerAPI.Direction enumeration" Url="html/cebdb7df-46e9-65f1-e717-3c403f3b6856.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Native.RazerAPI.DynamicKeyCallbackFunctionDelegate delegate" Url="html/3edfd7b4-1a33-af16-fba5-bb739c1c685f.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Native.RazerAPI.DynamicKeyState enumeration" Url="html/f7998275-50f3-ad0e-13bd-44ff43609d55.htm" />
@@ -3434,115 +3302,40 @@
   <HelpKINode Title="Sharparam.SharpBlade.Native.RazerAPI.HardwareType enumeration" Url="html/9b3b9b73-f2f8-3e5a-cb8d-601835f120a3.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Native.RazerAPI.KeyboardCallbackFunctionDelegate delegate" Url="html/f312d359-e4a2-d597-8a3b-0cb0d8ae92bc.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Native.RazerAPI.PixelType enumeration" Url="html/3131eb78-59b1-f9fe-8e45-2e369291e68f.htm" />
-  <HelpKINode Title="Sharparam.SharpBlade.Native.RazerAPI.Point structure">
-    <HelpKINode Title="RazerAPI.Point Members" Url="html/a6d1778c-a21e-67df-92ef-f1964ebfe3c5.htm" />
-    <HelpKINode Title="RazerAPI.Point Structure" Url="html/e5c8b06e-a99a-7770-d0b0-b647b4d5fb29.htm" />
-  </HelpKINode>
+  <HelpKINode Title="Sharparam.SharpBlade.Native.RazerAPI.Point structure" Url="html/e5c8b06e-a99a-7770-d0b0-b647b4d5fb29.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Native.RazerAPI.TargetDisplay enumeration" Url="html/e330084a-8bf1-ad56-2584-ed42beac3d09.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Native.RazerAPI.TouchpadGestureCallbackFunctionDelegate delegate" Url="html/6e759420-9b49-de9b-9368-a39e8c1b3736.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Native.WinAPI namespace" Url="html/a398e205-aca3-a4f0-e2a5-36c8e0890e8e.htm" />
-  <HelpKINode Title="Sharparam.SharpBlade.Native.WinAPI.GDI32 class">
-    <HelpKINode Title="GDI32 Class" Url="html/b17af937-b686-ea92-1544-e4618a5e0c8d.htm" />
-    <HelpKINode Title="GDI32 Members" Url="html/1ad4b307-ec5a-4940-e766-f36e47fed7eb.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Native.WinAPI.Kernel32 class">
-    <HelpKINode Title="Kernel32 Class" Url="html/f9b209c3-b7f2-a9fe-84f4-58609f64adf5.htm" />
-    <HelpKINode Title="Kernel32 Members" Url="html/3d2191e9-d890-1d46-2376-2c40cbb1e27e.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Native.WinAPI.User32 class">
-    <HelpKINode Title="User32 Class" Url="html/8b9122cc-eb66-a0ec-0bae-e3c09fa75ef3.htm" />
-    <HelpKINode Title="User32 Members" Url="html/f14c957a-80ca-a181-34e4-81c1a2a2af16.htm" />
-  </HelpKINode>
+  <HelpKINode Title="Sharparam.SharpBlade.Native.WinAPI.GDI32 class" Url="html/b17af937-b686-ea92-1544-e4618a5e0c8d.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Native.WinAPI.Kernel32 class" Url="html/f9b209c3-b7f2-a9fe-84f4-58609f64adf5.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Native.WinAPI.User32 class" Url="html/8b9122cc-eb66-a0ec-0bae-e3c09fa75ef3.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Native.WinAPI.User32.MessageType enumeration" Url="html/c8401dff-f67f-355a-0651-516bf84cd382.htm" />
-  <HelpKINode Title="Sharparam.SharpBlade.Native.WinAPI.User32.RECT structure">
-    <HelpKINode Title="User32.RECT Members" Url="html/22b716ec-9643-8e3c-fe20-04554e811d2a.htm" />
-    <HelpKINode Title="User32.RECT Structure" Url="html/e8607cad-2930-958b-da88-6d05e9de6b95.htm" />
-  </HelpKINode>
+  <HelpKINode Title="Sharparam.SharpBlade.Native.WinAPI.User32.RECT structure" Url="html/e8607cad-2930-958b-da88-6d05e9de6b95.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Native.WinAPI.User32.VirtualKey enumeration" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Razer namespace" Url="html/c8f7742b-df40-f8be-cc0b-45dd00f500a7.htm" />
-  <HelpKINode Title="Sharparam.SharpBlade.Razer.DynamicKey class">
-    <HelpKINode Title="DynamicKey Class" Url="html/dd194843-f507-b6a3-ff58-b64438925d01.htm" />
-    <HelpKINode Title="DynamicKey Members" Url="html/cedf92ec-15d6-b4bc-cfd8-40c38b107cac.htm" />
-  </HelpKINode>
+  <HelpKINode Title="Sharparam.SharpBlade.Razer.DynamicKey class" Url="html/dd194843-f507-b6a3-ff58-b64438925d01.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Razer.Events namespace" Url="html/c8e7903d-5cf5-17b7-e840-5df1e1aae810.htm" />
-  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.AppEventEventArgs class">
-    <HelpKINode Title="AppEventEventArgs Class" Url="html/d3d389df-b925-69c8-ab43-9c3c7cfd337c.htm" />
-    <HelpKINode Title="AppEventEventArgs Members" Url="html/61b08ceb-e93a-275c-a388-82e810c8ab5d.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.DynamicKeyEventArgs class">
-    <HelpKINode Title="DynamicKeyEventArgs Class" Url="html/556800e0-aef3-53fa-3021-2a1cbd219339.htm" />
-    <HelpKINode Title="DynamicKeyEventArgs Members" Url="html/d71ec8cf-ab09-9fa7-94ca-95a25dab4914.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.FlickEventArgs class">
-    <HelpKINode Title="FlickEventArgs Class" Url="html/8fc3c5cf-f1db-1a6d-c32a-a48bb627d560.htm" />
-    <HelpKINode Title="FlickEventArgs Members" Url="html/cfc4f8d2-dffd-7e7b-bd4a-bd0d0e1c342e.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.GestureEventArgs class">
-    <HelpKINode Title="GestureEventArgs Class" Url="html/f438aa71-1a6e-2480-1ea2-c0ea7909085e.htm" />
-    <HelpKINode Title="GestureEventArgs Members" Url="html/97751c2d-4642-04aa-024d-41a2b1526849.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.KeyboardCharEventArgs class">
-    <HelpKINode Title="KeyboardCharEventArgs Class" Url="html/f60f14ab-c2f9-e5a5-b3ff-8077ac908340.htm" />
-    <HelpKINode Title="KeyboardCharEventArgs Members" Url="html/8662ab98-e5d5-7e3e-139e-037120f3bedf.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.KeyboardKeyEventArgs class">
-    <HelpKINode Title="KeyboardKeyEventArgs Class" Url="html/a3830b25-a548-118c-0795-1a87061f7807.htm" />
-    <HelpKINode Title="KeyboardKeyEventArgs Members" Url="html/a53b1d75-75dd-d893-aad0-dae42cc289b5.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.KeyboardRawEventArgs class">
-    <HelpKINode Title="KeyboardRawEventArgs Class" Url="html/97fdf877-b37e-4a60-f025-9f7abf1ff6d9.htm" />
-    <HelpKINode Title="KeyboardRawEventArgs Members" Url="html/902f1a31-061c-3594-87f1-010ed043cdb3.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.MoveEventArgs class">
-    <HelpKINode Title="MoveEventArgs Class" Url="html/12364c6d-ce2b-bfeb-8f92-b4a42096c35f.htm" />
-    <HelpKINode Title="MoveEventArgs Members" Url="html/d99a1492-f876-d26a-f8d5-586bd132fd0a.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.PressEventArgs class">
-    <HelpKINode Title="PressEventArgs Class" Url="html/6f8b2d68-ce73-94df-0cf1-a383efd73a13.htm" />
-    <HelpKINode Title="PressEventArgs Members" Url="html/59cb6787-2ecf-eb6c-8ad0-d4c92f671410.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.ReleaseEventArgs class">
-    <HelpKINode Title="ReleaseEventArgs Class" Url="html/0045bfbc-3251-7125-4cd4-47db75415ee9.htm" />
-    <HelpKINode Title="ReleaseEventArgs Members" Url="html/346443b0-6239-8334-239f-81239de158b3.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.RotateEventArgs class">
-    <HelpKINode Title="RotateEventArgs Class" Url="html/e9e13713-c343-b09f-a9b7-b6fb115abf31.htm" />
-    <HelpKINode Title="RotateEventArgs Members" Url="html/d46b8d2c-9024-e24b-396d-ea4b0779d942.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.TapEventArgs class">
-    <HelpKINode Title="TapEventArgs Class" Url="html/5908f494-086b-3e30-1749-3429d7c868c7.htm" />
-    <HelpKINode Title="TapEventArgs Members" Url="html/0dde1d70-b812-eb09-38dd-fe4243249fbb.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.ZoomEventArgs class">
-    <HelpKINode Title="ZoomEventArgs Class" Url="html/eb384a8e-ceb6-0272-c182-282a03b2bb95.htm" />
-    <HelpKINode Title="ZoomEventArgs Members" Url="html/5046b511-6f20-ac2a-7fe7-84159835c9f0.htm" />
-  </HelpKINode>
+  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.AppEventEventArgs class" Url="html/d3d389df-b925-69c8-ab43-9c3c7cfd337c.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.DynamicKeyEventArgs class" Url="html/556800e0-aef3-53fa-3021-2a1cbd219339.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.FlickEventArgs class" Url="html/8fc3c5cf-f1db-1a6d-c32a-a48bb627d560.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.GestureEventArgs class" Url="html/f438aa71-1a6e-2480-1ea2-c0ea7909085e.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.KeyboardCharEventArgs class" Url="html/f60f14ab-c2f9-e5a5-b3ff-8077ac908340.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.KeyboardKeyEventArgs class" Url="html/a3830b25-a548-118c-0795-1a87061f7807.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.KeyboardRawEventArgs class" Url="html/97fdf877-b37e-4a60-f025-9f7abf1ff6d9.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.MoveEventArgs class" Url="html/12364c6d-ce2b-bfeb-8f92-b4a42096c35f.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.PressEventArgs class" Url="html/6f8b2d68-ce73-94df-0cf1-a383efd73a13.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.ReleaseEventArgs class" Url="html/0045bfbc-3251-7125-4cd4-47db75415ee9.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.RotateEventArgs class" Url="html/e9e13713-c343-b09f-a9b7-b6fb115abf31.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.TapEventArgs class" Url="html/5908f494-086b-3e30-1749-3429d7c868c7.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Razer.Events.ZoomEventArgs class" Url="html/eb384a8e-ceb6-0272-c182-282a03b2bb95.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Razer.Exceptions namespace" Url="html/633d3ebc-ac54-fe3b-c861-d870c91e9278.htm" />
-  <HelpKINode Title="Sharparam.SharpBlade.Razer.Exceptions.RazerDynamicKeyException class">
-    <HelpKINode Title="RazerDynamicKeyException Class" Url="html/c0941f3a-5496-e39c-282a-51c016486220.htm" />
-    <HelpKINode Title="RazerDynamicKeyException Members" Url="html/e5c36d9d-d102-bef9-5fe5-8c192024c516.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Razer.Exceptions.RazerException class">
-    <HelpKINode Title="RazerException Class" Url="html/6a4f74d5-8d94-cb9d-a79f-27501fdaeb00.htm" />
-    <HelpKINode Title="RazerException Members" Url="html/1522faae-76fb-8f75-1109-30c5569f0b9c.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Razer.Exceptions.RazerNativeException class">
-    <HelpKINode Title="RazerNativeException Class" Url="html/d82ab2f9-289a-0424-68fe-cb7a0142a786.htm" />
-    <HelpKINode Title="RazerNativeException Members" Url="html/b32bee16-0674-ec7a-7021-90ef24001303.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Razer.Exceptions.RazerUnstableShutdownException class">
-    <HelpKINode Title="RazerUnstableShutdownException Class" Url="html/57c25490-f1e3-85ee-acb7-4a810c234cf0.htm" />
-    <HelpKINode Title="RazerUnstableShutdownException Members" Url="html/7264d1a3-4b9e-8ee5-a059-b45d11041891.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Sharparam.SharpBlade.Razer.RazerManager class">
-    <HelpKINode Title="RazerManager Class" Url="html/c083f362-2277-e568-aff0-fbcb15c54dd0.htm" />
-    <HelpKINode Title="RazerManager Members" Url="html/2caa98b5-65c5-5c81-c115-f864349db69b.htm" />
-  </HelpKINode>
+  <HelpKINode Title="Sharparam.SharpBlade.Razer.Exceptions.RazerDynamicKeyException class" Url="html/c0941f3a-5496-e39c-282a-51c016486220.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Razer.Exceptions.RazerException class" Url="html/6a4f74d5-8d94-cb9d-a79f-27501fdaeb00.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Razer.Exceptions.RazerNativeException class" Url="html/d82ab2f9-289a-0424-68fe-cb7a0142a786.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Razer.Exceptions.RazerUnstableShutdownException class" Url="html/57c25490-f1e3-85ee-acb7-4a810c234cf0.htm" />
+  <HelpKINode Title="Sharparam.SharpBlade.Razer.RazerManager class" Url="html/c083f362-2277-e568-aff0-fbcb15c54dd0.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Razer.RotateDirection enumeration" Url="html/db818aad-9d3b-debf-e76a-e23164d01c71.htm" />
-  <HelpKINode Title="Sharparam.SharpBlade.Razer.Touchpad class">
-    <HelpKINode Title="Touchpad Class" Url="html/143e8a75-d91b-4009-7f58-5614f7d09978.htm" />
-    <HelpKINode Title="Touchpad Members" Url="html/3a6685f5-1f17-5065-3d92-770c1ffef89d.htm" />
-  </HelpKINode>
+  <HelpKINode Title="Sharparam.SharpBlade.Razer.Touchpad class" Url="html/143e8a75-d91b-4009-7f58-5614f7d09978.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Razer.Touchpad.RenderMethod enumeration" Url="html/5892f8ed-48e8-4e9b-9056-378b32039bb2.htm" />
   <HelpKINode Title="Sharparam.SharpBlade.Razer.ZoomDirection enumeration" Url="html/4e85b080-341e-ac49-0209-013bf0c6fa0e.htm" />
   <HelpKINode Title="Shift enumeration member" Url="html/50460add-6f54-dcd7-51da-d69aaf353c76.htm" />
@@ -3698,9 +3491,7 @@
   <HelpKINode Title="Tap event" Url="html/c9c9b19d-05c4-8876-d9b0-5deb13f6a8d4.htm" />
   <HelpKINode Title="TapEventArgs class">
     <HelpKINode Title="TapEventArgs Class" Url="html/5908f494-086b-3e30-1749-3429d7c868c7.htm" />
-    <HelpKINode Title="TapEventArgs Members" Url="html/0dde1d70-b812-eb09-38dd-fe4243249fbb.htm" />
     <HelpKINode Title="about TapEventArgs class" Url="html/5908f494-086b-3e30-1749-3429d7c868c7.htm" />
-    <HelpKINode Title="all members" Url="html/0dde1d70-b812-eb09-38dd-fe4243249fbb.htm" />
     <HelpKINode Title="constructor" Url="html/df198a11-c85e-551a-b936-3785cc8428c8.htm" />
     <HelpKINode Title="fields" Url="html/be548f9f-3e76-e99f-a21b-f6f9def44abf.htm" />
     <HelpKINode Title="methods" Url="html/db5f9d82-2676-904e-b9f8-18ea791bfa09.htm" />
@@ -3710,9 +3501,7 @@
   <HelpKINode Title="TapEventArgs.Y field" Url="html/fb9865c8-4ef2-9da4-03f6-9a8a804ec33e.htm" />
   <HelpKINode Title="Threading class">
     <HelpKINode Title="Threading Class" Url="html/3dfc5da8-4d0d-69c6-24d0-449d9ea36d2e.htm" />
-    <HelpKINode Title="Threading Members" Url="html/3a6a7f6b-1d04-1ba6-41d2-fd1ed0e86c41.htm" />
     <HelpKINode Title="about Threading class" Url="html/3dfc5da8-4d0d-69c6-24d0-449d9ea36d2e.htm" />
-    <HelpKINode Title="all members" Url="html/3a6a7f6b-1d04-1ba6-41d2-fd1ed0e86c41.htm" />
     <HelpKINode Title="methods" Url="html/7cab3c59-e0bf-0b29-cdc6-5c39351da3eb.htm" />
   </HelpKINode>
   <HelpKINode Title="Threading.SetCurrentThreadName method" Url="html/b1c2d556-efb7-e5d2-2fd0-d5aba9802f52.htm" />
@@ -3721,9 +3510,7 @@
   <HelpKINode Title="ToString method" Url="html/456247f0-9cce-da6d-8464-a629ec473289.htm" />
   <HelpKINode Title="Touchpad class">
     <HelpKINode Title="Touchpad Class" Url="html/143e8a75-d91b-4009-7f58-5614f7d09978.htm" />
-    <HelpKINode Title="Touchpad Members" Url="html/3a6685f5-1f17-5065-3d92-770c1ffef89d.htm" />
     <HelpKINode Title="about Touchpad class" Url="html/143e8a75-d91b-4009-7f58-5614f7d09978.htm" />
-    <HelpKINode Title="all members" Url="html/3a6685f5-1f17-5065-3d92-770c1ffef89d.htm" />
     <HelpKINode Title="constructor" Url="html/3a2a626f-ba53-0aed-e33a-2fed4c304812.htm" />
     <HelpKINode Title="events" Url="html/71fa9fa9-7e04-f14a-2f92-a6283f144623.htm" />
     <HelpKINode Title="fields" Url="html/e3000a36-bfbd-308d-6333-79eb5d09f1fe.htm" />
@@ -3890,9 +3677,7 @@
   <HelpKINode Title="UpImage property" Url="html/2597b442-bd8d-74f1-ba01-b00c06672bd5.htm" />
   <HelpKINode Title="User32 class">
     <HelpKINode Title="User32 Class" Url="html/8b9122cc-eb66-a0ec-0bae-e3c09fa75ef3.htm" />
-    <HelpKINode Title="User32 Members" Url="html/f14c957a-80ca-a181-34e4-81c1a2a2af16.htm" />
     <HelpKINode Title="about User32 class" Url="html/8b9122cc-eb66-a0ec-0bae-e3c09fa75ef3.htm" />
-    <HelpKINode Title="all members" Url="html/f14c957a-80ca-a181-34e4-81c1a2a2af16.htm" />
     <HelpKINode Title="fields" Url="html/3091a7a2-b3bd-543d-9695-de58c61537a1.htm" />
     <HelpKINode Title="methods" Url="html/0d51c417-b202-d74f-61da-c6a48679f903.htm" />
   </HelpKINode>
@@ -3915,10 +3700,8 @@
   <HelpKINode Title="User32.MessageType enumeration" Url="html/c8401dff-f67f-355a-0651-516bf84cd382.htm" />
   <HelpKINode Title="User32.PostMessage method" Url="html/ef73a44d-1bff-d33b-ebd0-232453d7c0ae.htm" />
   <HelpKINode Title="User32.RECT structure">
-    <HelpKINode Title="User32.RECT Members" Url="html/22b716ec-9643-8e3c-fe20-04554e811d2a.htm" />
     <HelpKINode Title="User32.RECT Structure" Url="html/e8607cad-2930-958b-da88-6d05e9de6b95.htm" />
     <HelpKINode Title="about User32.RECT structure" Url="html/e8607cad-2930-958b-da88-6d05e9de6b95.htm" />
-    <HelpKINode Title="all members" Url="html/22b716ec-9643-8e3c-fe20-04554e811d2a.htm" />
     <HelpKINode Title="fields" Url="html/1275f9c4-bdd5-34c8-6b2b-61a0a55ca978.htm" />
     <HelpKINode Title="methods" Url="html/f8eeca7b-c2da-7c33-d885-bad44c99d8a4.htm" />
   </HelpKINode>
@@ -4046,15 +3829,13 @@
   <HelpKINode Title="Z enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="Z field" Url="html/8f93a504-136b-2751-a7fe-0b1efe09c2c9.htm" />
   <HelpKINode Title="Zero enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
-  <HelpKINode Title="Zoom enumeration member" Url="html/1c987071-e332-00f7-9c46-e375ff622b9d.htm" />
   <HelpKINode Title="ZOOM enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
+  <HelpKINode Title="Zoom enumeration member" Url="html/1c987071-e332-00f7-9c46-e375ff622b9d.htm" />
   <HelpKINode Title="Zoom event" Url="html/c209faf4-1a79-c5e3-46a0-a7879e9f753f.htm" />
   <HelpKINode Title="ZoomDirection enumeration" Url="html/4e85b080-341e-ac49-0209-013bf0c6fa0e.htm" />
   <HelpKINode Title="ZoomEventArgs class">
     <HelpKINode Title="ZoomEventArgs Class" Url="html/eb384a8e-ceb6-0272-c182-282a03b2bb95.htm" />
-    <HelpKINode Title="ZoomEventArgs Members" Url="html/5046b511-6f20-ac2a-7fe7-84159835c9f0.htm" />
     <HelpKINode Title="about ZoomEventArgs class" Url="html/eb384a8e-ceb6-0272-c182-282a03b2bb95.htm" />
-    <HelpKINode Title="all members" Url="html/5046b511-6f20-ac2a-7fe7-84159835c9f0.htm" />
     <HelpKINode Title="constructor" Url="html/5702df66-5f02-6dc2-5e14-b1cb5b721c51.htm" />
     <HelpKINode Title="fields" Url="html/41c2ad3e-fc32-018d-57c3-ac1db481ec68.htm" />
     <HelpKINode Title="methods" Url="html/b950e699-44e2-23fa-6d75-265b8c20eed7.htm" />
@@ -4066,7 +3847,6 @@
   <HelpKINode Title="_allGestureEnabled field" Url="html/592e6aa6-dfaf-d88b-9086-7424e3fb3d7f.htm" />
   <HelpKINode Title="_allOSGestureEnabled field" Url="html/c4c3c84b-d964-8b95-46de-bf222afe2e85.htm" />
   <HelpKINode Title="_appEventCallback field" Url="html/6d9bfce6-262f-d853-75bf-913ce7e19dbe.htm" />
-  <HelpKINode Title="_consoleLoaded field" Url="html/8b1b7e47-3415-2cb5-d008-8f65a03814d8.htm" />
   <HelpKINode Title="_disposed field" Url="html/0c760838-abe1-80e0-8ecb-46cd354574e0.htm" />
   <HelpKINode Title="_dynamicKeyCallback field" Url="html/1f848366-99ef-b1f4-fbc9-db5ee890b131.htm" />
   <HelpKINode Title="_dynamicKeys field" Url="html/7caa0fd2-48ad-cfe3-d223-a7e7e201897f.htm" />
