@@ -631,11 +631,11 @@
     <HelpKINode Title="RazerAPI.NativeMethods.DllName Field" Url="html/d12048e9-e4d3-bb6a-cbe7-d2fd4e846375.htm" />
     <HelpKINode Title="User32.NativeMethods.DllName Field" Url="html/90cf6a8b-863b-6990-5ed9-1a12a9109344.htm" />
   </HelpKINode>
+  <HelpKINode Title="DOWN enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="Down enumeration member">
     <HelpKINode Title="RazerAPI.Direction Enumeration" Url="html/cebdb7df-46e9-65f1-e717-3c403f3b6856.htm" />
     <HelpKINode Title="RazerAPI.DynamicKeyState Enumeration" Url="html/f7998275-50f3-ad0e-13bd-44ff43609d55.htm" />
   </HelpKINode>
-  <HelpKINode Title="DOWN enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="DownImage property" Url="html/051ed7e9-1644-21ff-cb30-ca9ca4839d01.htm" />
   <HelpKINode Title="DRAGDROP_E_ALREADYREGISTERED field" Url="html/76fc7549-116d-11d8-a3ee-08bb58ec05ea.htm" />
   <HelpKINode Title="DRAGDROP_E_FIRST field" Url="html/1586bac7-4104-e34a-6e01-dd0d3eb23e19.htm" />
@@ -753,8 +753,8 @@
   <HelpKINode Title="EnumerationExtensions.Value.Signed field" Url="html/dd8086cb-7e7a-5c92-affd-b43aab936caa.htm" />
   <HelpKINode Title="EnumerationExtensions.Value.Unsigned field" Url="html/08e94891-9e5e-3dfe-84f8-cca2bb680c35.htm" />
   <HelpKINode Title="EnumerationExtensions.Value.Value constructor">
-    <HelpKINode Title="EnumerationExtensions.Value Constructor " Url="html/1f8feb01-f7eb-4b31-147e-96591ac98959.htm" />
     <HelpKINode Title="EnumerationExtensions.Value Constructor " Url="html/f36fa65f-9661-5e43-9092-f9b631816ec0.htm" />
+    <HelpKINode Title="EnumerationExtensions.Value Constructor " Url="html/1f8feb01-f7eb-4b31-147e-96591ac98959.htm" />
   </HelpKINode>
   <HelpKINode Title="ENUM_E_FIRST field" Url="html/5d5e2b2d-6344-3cd3-270b-1adcc8857e90.htm" />
   <HelpKINode Title="ENUM_E_LAST field" Url="html/b0955140-2783-528c-4599-35658b3653fe.htm" />
@@ -2355,8 +2355,8 @@
   <HelpKINode Title="LAUNCH_MEDIA_SELECT enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="LBUTTON enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="LCONTROL enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
-  <HelpKINode Title="LEFT enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="Left enumeration member" Url="html/cebdb7df-46e9-65f1-e717-3c403f3b6856.htm" />
+  <HelpKINode Title="LEFT enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="Left field" Url="html/2b87cf74-e22b-d56c-b54a-830a0e0fa0c5.htm" />
   <HelpKINode Title="LMENU enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="LoadConfig method" Url="html/e1c87dee-68f8-cf17-9d76-bc0d9b8e251b.htm" />
@@ -2856,8 +2856,8 @@
   <HelpKINode Title="RazerManager.OnKeyboardKeyUp method" Url="html/9d623c0d-d61b-1273-472a-37643499ca6d.htm" />
   <HelpKINode Title="RazerManager.OnKeyboardRawEvent method" Url="html/b6c6d050-0982-58f1-8a5e-8224babf2b63.htm" />
   <HelpKINode Title="RazerManager.RazerManager constructor">
-    <HelpKINode Title="RazerManager Constructor " Url="html/c6ce540b-62cb-99fa-681b-c126a137820e.htm" />
     <HelpKINode Title="RazerManager Constructor " Url="html/dac83a9b-523f-0fbf-77d3-ff870c37f376.htm" />
+    <HelpKINode Title="RazerManager Constructor " Url="html/c6ce540b-62cb-99fa-681b-c126a137820e.htm" />
   </HelpKINode>
   <HelpKINode Title="RazerManager.SetKeyboardCapture method" Url="html/0db68986-67f8-7a4c-8af7-dfea6e89075a.htm" />
   <HelpKINode Title="RazerManager.StartWinFormsControlKeyboardCapture method" Url="html/9f67586d-f99c-eea0-6e7d-c106cdc2d57a.htm" />
@@ -3182,8 +3182,8 @@
   <HelpKINode Title="ScreenCapture.CaptureScreenToFile method" Url="html/33142ff9-87e9-7d8c-6927-d48ad34fceab.htm" />
   <HelpKINode Title="ScreenCapture.CaptureWindow method" Url="html/7c07e85f-9afb-92e7-99cb-08ebd8029d0a.htm" />
   <HelpKINode Title="ScreenCapture.CaptureWindowToFile method" Url="html/6242f7d9-51fa-57e9-b762-12e68caa480d.htm" />
-  <HelpKINode Title="SCROLL enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="Scroll enumeration member" Url="html/1c987071-e332-00f7-9c46-e375ff622b9d.htm" />
+  <HelpKINode Title="SCROLL enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="Scroll event" Url="html/86b9d6a6-3be3-01c1-c359-c7dc217bdc5b.htm" />
   <HelpKINode Title="SEC_E_ALGORITHM_MISMATCH field" Url="html/5629d50c-9eb5-cad8-0254-7fec49556d1e.htm" />
   <HelpKINode Title="SEC_E_BAD_BINDINGS field" Url="html/648dd615-7ab1-8d00-c28a-3028ac1f2c5a.htm" />
