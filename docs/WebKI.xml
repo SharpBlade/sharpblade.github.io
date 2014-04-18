@@ -949,8 +949,8 @@
   <HelpKINode Title="HRESULT structure">
     <HelpKINode Title="HRESULT Structure" Url="html/2d793b27-ea75-516f-a0d3-fb1c2adcb545.htm" />
     <HelpKINode Title="about HRESULT structure" Url="html/2d793b27-ea75-516f-a0d3-fb1c2adcb545.htm" />
-    <HelpKINode Title="constructor" Url="html/62c58f03-6b43-2e8c-1a06-a7ada75f927b.htm" />
     <HelpKINode Title="constructor" Url="html/a83557bb-95ca-90b6-35c5-e45ad5d80d9e.htm" />
+    <HelpKINode Title="constructor" Url="html/62c58f03-6b43-2e8c-1a06-a7ada75f927b.htm" />
     <HelpKINode Title="fields" Url="html/b1b37599-82a0-72f0-2fcb-188983ec1d55.htm" />
     <HelpKINode Title="methods" Url="html/aa5c217c-7ac1-59c2-17c4-7558955c84c5.htm" />
     <HelpKINode Title="operators and type conversions" Url="html/2a461a3c-af31-af24-0798-800d925d44c2.htm" />
@@ -1505,8 +1505,8 @@
   <HelpKINode Title="HRESULT.GetExceptionForHR method" Url="html/e1c9b1f4-0254-f695-454e-42197ab03cd6.htm" />
   <HelpKINode Title="HRESULT.GetHashCode method" Url="html/3c949ecc-fa62-b4ec-9402-360c8166efc8.htm" />
   <HelpKINode Title="HRESULT.HRESULT constructor">
-    <HelpKINode Title="HRESULT Constructor " Url="html/a83557bb-95ca-90b6-35c5-e45ad5d80d9e.htm" />
     <HelpKINode Title="HRESULT Constructor " Url="html/62c58f03-6b43-2e8c-1a06-a7ada75f927b.htm" />
+    <HelpKINode Title="HRESULT Constructor " Url="html/a83557bb-95ca-90b6-35c5-e45ad5d80d9e.htm" />
   </HelpKINode>
   <HelpKINode Title="HRESULT.HResultException class">
     <HelpKINode Title="HRESULT.HResultException Class" Url="html/98568ef2-9d4b-b028-1e8b-2643b9674c70.htm" />
@@ -2823,8 +2823,8 @@
   <HelpKINode Title="RazerManager class">
     <HelpKINode Title="RazerManager Class" Url="html/c083f362-2277-e568-aff0-fbcb15c54dd0.htm" />
     <HelpKINode Title="about RazerManager class" Url="html/c083f362-2277-e568-aff0-fbcb15c54dd0.htm" />
-    <HelpKINode Title="constructor" Url="html/dac83a9b-523f-0fbf-77d3-ff870c37f376.htm" />
     <HelpKINode Title="constructor" Url="html/c6ce540b-62cb-99fa-681b-c126a137820e.htm" />
+    <HelpKINode Title="constructor" Url="html/dac83a9b-523f-0fbf-77d3-ff870c37f376.htm" />
     <HelpKINode Title="events" Url="html/a54b7d43-cda9-f503-c421-7e8a86cd2070.htm" />
     <HelpKINode Title="fields" Url="html/313ccfad-18c5-93e8-5586-9cd9d4e4b773.htm" />
     <HelpKINode Title="methods" Url="html/f235e853-d373-2c43-6b94-5d377edd1640.htm" />
@@ -2856,8 +2856,8 @@
   <HelpKINode Title="RazerManager.OnKeyboardKeyUp method" Url="html/9d623c0d-d61b-1273-472a-37643499ca6d.htm" />
   <HelpKINode Title="RazerManager.OnKeyboardRawEvent method" Url="html/b6c6d050-0982-58f1-8a5e-8224babf2b63.htm" />
   <HelpKINode Title="RazerManager.RazerManager constructor">
-    <HelpKINode Title="RazerManager Constructor " Url="html/dac83a9b-523f-0fbf-77d3-ff870c37f376.htm" />
     <HelpKINode Title="RazerManager Constructor " Url="html/c6ce540b-62cb-99fa-681b-c126a137820e.htm" />
+    <HelpKINode Title="RazerManager Constructor " Url="html/dac83a9b-523f-0fbf-77d3-ff870c37f376.htm" />
   </HelpKINode>
   <HelpKINode Title="RazerManager.SetKeyboardCapture method" Url="html/0db68986-67f8-7a4c-8af7-dfea6e89075a.htm" />
   <HelpKINode Title="RazerManager.StartWinFormsControlKeyboardCapture method" Url="html/9f67586d-f99c-eea0-6e7d-c106cdc2d57a.htm" />
@@ -3602,10 +3602,6 @@
   <HelpKINode Title="Touchpad.Touchpad constructor" Url="html/3a2a626f-ba53-0aed-e33a-2fed4c304812.htm" />
   <HelpKINode Title="Touchpad.WindowContentRenderedHandler method" Url="html/031ecc6a-6932-ac45-b710-95837a6b046c.htm" />
   <HelpKINode Title="Touchpad.Zoom event" Url="html/c209faf4-1a79-c5e3-46a0-a7879e9f753f.htm" />
-  <HelpKINode Title="Touchpad._activeGesturesType field" Url="html/36e7c7e4-bb32-20f3-25b4-6c86010dc086.htm" />
-  <HelpKINode Title="Touchpad._activeOSGesturesType field" Url="html/fd0580c9-4069-6860-70d4-f0edf1b2c755.htm" />
-  <HelpKINode Title="Touchpad._allGestureEnabled field" Url="html/592e6aa6-dfaf-d88b-9086-7424e3fb3d7f.htm" />
-  <HelpKINode Title="Touchpad._allOSGestureEnabled field" Url="html/c4c3c84b-d964-8b95-46de-bf222afe2e85.htm" />
   <HelpKINode Title="Touchpad._disposed field" Url="html/ebc57bee-01e4-c9de-f12d-6e9b89bd9170.htm" />
   <HelpKINode Title="Touchpad._gestureCallback field" Url="html/05578ee3-9420-adee-b5b0-ca00d9022c00.htm" />
   <HelpKINode Title="Touchpad._instance field" Url="html/cc30207e-58be-1dfe-05d8-c8a563bcce62.htm" />
@@ -3703,11 +3699,11 @@
   <HelpKINode Title="UNDEFINED8 enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="UNDEFINED9 enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="Unsigned field" Url="html/08e94891-9e5e-3dfe-84f8-cca2bb680c35.htm" />
-  <HelpKINode Title="UP enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="Up enumeration member">
     <HelpKINode Title="RazerAPI.Direction Enumeration" Url="html/cebdb7df-46e9-65f1-e717-3c403f3b6856.htm" />
     <HelpKINode Title="RazerAPI.DynamicKeyState Enumeration" Url="html/f7998275-50f3-ad0e-13bd-44ff43609d55.htm" />
   </HelpKINode>
+  <HelpKINode Title="UP enumeration member" Url="html/f196a4e6-47d5-5413-1d63-759d5ae8e900.htm" />
   <HelpKINode Title="UpdateState method" Url="html/b8030f7a-41a0-b3c0-fb00-43d769525a2c.htm" />
   <HelpKINode Title="UpImage property" Url="html/2597b442-bd8d-74f1-ba01-b00c06672bd5.htm" />
   <HelpKINode Title="User32 class">
@@ -3906,10 +3902,6 @@
   </HelpKINode>
   <HelpKINode Title="ZoomEventArgs.Direction field" Url="html/74b12c1e-dd29-9fc3-d674-cce7eb33a0a9.htm" />
   <HelpKINode Title="ZoomEventArgs.ZoomEventArgs constructor" Url="html/5702df66-5f02-6dc2-5e14-b1cb5b721c51.htm" />
-  <HelpKINode Title="_activeGesturesType field" Url="html/36e7c7e4-bb32-20f3-25b4-6c86010dc086.htm" />
-  <HelpKINode Title="_activeOSGesturesType field" Url="html/fd0580c9-4069-6860-70d4-f0edf1b2c755.htm" />
-  <HelpKINode Title="_allGestureEnabled field" Url="html/592e6aa6-dfaf-d88b-9086-7424e3fb3d7f.htm" />
-  <HelpKINode Title="_allOSGestureEnabled field" Url="html/c4c3c84b-d964-8b95-46de-bf222afe2e85.htm" />
   <HelpKINode Title="_appEventCallback field" Url="html/6d9bfce6-262f-d853-75bf-913ce7e19dbe.htm" />
   <HelpKINode Title="_disposed field">
     <HelpKINode Title="RazerManager._disposed Field" Url="html/0c760838-abe1-80e0-8ecb-46cd354574e0.htm" />
