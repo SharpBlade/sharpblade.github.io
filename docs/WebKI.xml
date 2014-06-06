@@ -632,8 +632,8 @@
     <HelpKINode Title="User32.NativeMethods.DllName Field" Url="html/02f1978a-e66e-8925-8ac5-7f0d4abe6f69.htm" />
   </HelpKINode>
   <HelpKINode Title="Down enumeration member">
-    <HelpKINode Title="RazerAPI.Direction Enumeration" Url="html/de27083b-5822-c5aa-da62-1f7a2f85c40f.htm" />
     <HelpKINode Title="RazerAPI.DynamicKeyState Enumeration" Url="html/a03a6ec5-64e8-2937-ab44-6fde7fb6034d.htm" />
+    <HelpKINode Title="RazerAPI.Direction Enumeration" Url="html/de27083b-5822-c5aa-da62-1f7a2f85c40f.htm" />
   </HelpKINode>
   <HelpKINode Title="DOWN enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="DownImage property" Url="html/c1081e11-74b5-4a5b-a10f-046265b0fd39.htm" />
@@ -743,8 +743,8 @@
   <HelpKINode Title="EnumerationExtensions.Value class">
     <HelpKINode Title="EnumerationExtensions.Value Class" Url="html/d9ddcc44-1096-a867-0b7f-5e33c914455d.htm" />
     <HelpKINode Title="about EnumerationExtensions.Value class" Url="html/d9ddcc44-1096-a867-0b7f-5e33c914455d.htm" />
-    <HelpKINode Title="constructor" Url="html/968bb64d-ace4-fa0d-2702-14f691ed9eee.htm" />
     <HelpKINode Title="constructor" Url="html/0536ac3a-b324-fd63-8ce0-e4f35413ea92.htm" />
+    <HelpKINode Title="constructor" Url="html/968bb64d-ace4-fa0d-2702-14f691ed9eee.htm" />
     <HelpKINode Title="fields" Url="html/400fcae6-ac5e-e4b1-e75f-4004eb55ec46.htm" />
     <HelpKINode Title="methods" Url="html/005d87aa-dc80-32f5-0b67-3d972498a96b.htm" />
   </HelpKINode>
@@ -949,8 +949,8 @@
   <HelpKINode Title="HRESULT structure">
     <HelpKINode Title="HRESULT Structure" Url="html/f2e86b5a-e78a-5a0d-200b-8fa0acbfca22.htm" />
     <HelpKINode Title="about HRESULT structure" Url="html/f2e86b5a-e78a-5a0d-200b-8fa0acbfca22.htm" />
-    <HelpKINode Title="constructor" Url="html/32b1302a-c1b3-fc20-4e8e-272606a29b5b.htm" />
     <HelpKINode Title="constructor" Url="html/8b7ea982-2766-c4ef-ef98-11a22e7a08f1.htm" />
+    <HelpKINode Title="constructor" Url="html/32b1302a-c1b3-fc20-4e8e-272606a29b5b.htm" />
     <HelpKINode Title="fields" Url="html/2fb7a361-8eca-b333-0565-993321b2cf33.htm" />
     <HelpKINode Title="methods" Url="html/f1671eb2-7ca7-e2ef-b14e-93b69b712ae3.htm" />
     <HelpKINode Title="operators and type conversions" Url="html/15845ab6-2572-e106-6af7-093a32e58663.htm" />
@@ -2823,8 +2823,8 @@
   <HelpKINode Title="RazerManager class">
     <HelpKINode Title="RazerManager Class" Url="html/6ea44481-e2ab-8e76-849f-5e04a8f8957a.htm" />
     <HelpKINode Title="about RazerManager class" Url="html/6ea44481-e2ab-8e76-849f-5e04a8f8957a.htm" />
-    <HelpKINode Title="constructor" Url="html/a045946c-a662-5296-81a9-d34b399c874b.htm" />
     <HelpKINode Title="constructor" Url="html/b665881f-9a48-88d4-5df3-af981211e315.htm" />
+    <HelpKINode Title="constructor" Url="html/a045946c-a662-5296-81a9-d34b399c874b.htm" />
     <HelpKINode Title="events" Url="html/06b80a07-5a9d-6d35-5f22-f6832d9133fa.htm" />
     <HelpKINode Title="fields" Url="html/6cb67a80-d1a9-1194-8095-401f8b02030d.htm" />
     <HelpKINode Title="methods" Url="html/31aff458-7b32-2766-4961-52d911f8d5cd.htm" />
@@ -2856,8 +2856,8 @@
   <HelpKINode Title="RazerManager.OnKeyboardKeyUp method" Url="html/2f7e87cc-736f-e872-fbc2-8f360ea6d7c0.htm" />
   <HelpKINode Title="RazerManager.OnKeyboardRawEvent method" Url="html/e9b055a3-ea12-1eff-628e-031666567d1a.htm" />
   <HelpKINode Title="RazerManager.RazerManager constructor">
-    <HelpKINode Title="RazerManager Constructor " Url="html/a045946c-a662-5296-81a9-d34b399c874b.htm" />
     <HelpKINode Title="RazerManager Constructor " Url="html/b665881f-9a48-88d4-5df3-af981211e315.htm" />
+    <HelpKINode Title="RazerManager Constructor " Url="html/a045946c-a662-5296-81a9-d34b399c874b.htm" />
   </HelpKINode>
   <HelpKINode Title="RazerManager.SetKeyboardCapture method" Url="html/4ceb5249-d80b-1c3b-d4d3-86d5018646e0.htm" />
   <HelpKINode Title="RazerManager.StartWinFormsControlKeyboardCapture method" Url="html/c4ae3895-a24b-2b7e-0b7a-d7bbc0919b75.htm" />
@@ -2956,8 +2956,8 @@
   <HelpKINode Title="RESERVED9 enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="RETURN enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="RGB565 enumeration member" Url="html/6f9e625a-3cd4-0300-e125-f27cf847bee9.htm" />
-  <HelpKINode Title="Right enumeration member" Url="html/de27083b-5822-c5aa-da62-1f7a2f85c40f.htm" />
   <HelpKINode Title="RIGHT enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
+  <HelpKINode Title="Right enumeration member" Url="html/de27083b-5822-c5aa-da62-1f7a2f85c40f.htm" />
   <HelpKINode Title="Right field" Url="html/795cdf00-c591-6e72-3dab-13cbf3b55784.htm" />
   <HelpKINode Title="RMENU enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="Rotate enumeration member" Url="html/54a93e53-6024-5b10-88a6-ab9fca7016dc.htm" />
@@ -3368,8 +3368,8 @@
   <HelpKINode Title="SharpBlade.Razer.Touchpad class" Url="html/f0e02191-cec0-f67b-6142-f6b3faa00911.htm" />
   <HelpKINode Title="SharpBlade.Razer.Touchpad.RenderMethod enumeration" Url="html/d58af16c-420a-fbfe-7388-2ed3b458b3da.htm" />
   <HelpKINode Title="SharpBlade.Razer.ZoomDirection enumeration" Url="html/b2250f9c-350b-e2f7-210b-a0accde0a5e9.htm" />
-  <HelpKINode Title="Shift enumeration member" Url="html/660ab2a0-821d-8cd1-8c2b-5eacb4068e29.htm" />
   <HelpKINode Title="SHIFT enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
+  <HelpKINode Title="Shift enumeration member" Url="html/660ab2a0-821d-8cd1-8c2b-5eacb4068e29.htm" />
   <HelpKINode Title="ShiftPressed field" Url="html/ddd41177-ad0e-7f95-22c8-44db7e63fe11.htm" />
   <HelpKINode Title="ShowScrollBar method" Url="html/2ede0a8a-af7e-94cc-a139-8a0344f7b04d.htm" />
   <HelpKINode Title="Signed field" Url="html/d68cdb66-60e2-2d8a-d0e1-e3cc0461d7a3.htm" />
@@ -3699,11 +3699,11 @@
   <HelpKINode Title="UNDEFINED8 enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="UNDEFINED9 enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="Unsigned field" Url="html/5d3a0a00-562d-e1c8-3466-4c31ef1a0d8c.htm" />
-  <HelpKINode Title="UP enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="Up enumeration member">
     <HelpKINode Title="RazerAPI.Direction Enumeration" Url="html/de27083b-5822-c5aa-da62-1f7a2f85c40f.htm" />
     <HelpKINode Title="RazerAPI.DynamicKeyState Enumeration" Url="html/a03a6ec5-64e8-2937-ab44-6fde7fb6034d.htm" />
   </HelpKINode>
+  <HelpKINode Title="UP enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="UpdateState method" Url="html/50dc90b7-adfd-9e2f-aca9-ffdf2dca9b80.htm" />
   <HelpKINode Title="UpImage property" Url="html/3fb15503-5bd9-393e-be7b-023e23835f5e.htm" />
   <HelpKINode Title="User32 class">
@@ -3889,8 +3889,8 @@
   <HelpKINode Title="Z enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="Z field" Url="html/de664ea5-c12b-44ef-2f48-72a965c95d4d.htm" />
   <HelpKINode Title="Zero enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
-  <HelpKINode Title="Zoom enumeration member" Url="html/54a93e53-6024-5b10-88a6-ab9fca7016dc.htm" />
   <HelpKINode Title="ZOOM enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
+  <HelpKINode Title="Zoom enumeration member" Url="html/54a93e53-6024-5b10-88a6-ab9fca7016dc.htm" />
   <HelpKINode Title="Zoom event" Url="html/a14ea08c-1bda-ca5e-b1f3-8c0a38a909d6.htm" />
   <HelpKINode Title="ZoomDirection enumeration" Url="html/b2250f9c-350b-e2f7-210b-a0accde0a5e9.htm" />
   <HelpKINode Title="ZoomEventArgs class">
