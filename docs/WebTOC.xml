@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="126d795f-d66d-4041-b5ed-1ca808498970" Title="SharpBlade Namespaces" Url="html/d75eb659-6335-53f6-af7a-81814a21ab7f.htm">
-    <HelpTOCNode Id="6b3a1df0-71dc-4e7c-b3c1-48b8c1c39857" Title="SharpBlade Namespace" Url="html/63aa665f-2fde-a778-ff05-06b18f9db706.htm">
-      <HelpTOCNode Id="bb4b20ee-cf48-42f1-88a8-bee90443f67c" Title="Constants Class" Url="html/cbe125b5-714b-dfc1-e76b-0499bfd55a5b.htm">
-        <HelpTOCNode Id="aff508d5-4216-4ae1-989e-fa6022e4639d" Title="Constants Fields" Url="html/be92e962-f52c-c667-3218-0e119d78b673.htm">
+  <HelpTOCNode Id="147dc680-1640-4264-b0be-5b2e744e8ba0" Title="SharpBlade Namespaces" Url="html/d75eb659-6335-53f6-af7a-81814a21ab7f.htm">
+    <HelpTOCNode Id="ab71470b-d8fc-4fff-9acd-c5d83467d021" Title="SharpBlade Namespace" Url="html/63aa665f-2fde-a778-ff05-06b18f9db706.htm">
+      <HelpTOCNode Id="8f4670e9-522c-41bf-9475-c00429a261aa" Title="Constants Class" Url="html/cbe125b5-714b-dfc1-e76b-0499bfd55a5b.htm">
+        <HelpTOCNode Id="e364c968-df0b-4d33-a65b-65064aecece4" Title="Constants Fields" Url="html/be92e962-f52c-c667-3218-0e119d78b673.htm">
           <HelpTOCNode Title="BlankTouchpadImage Field" Url="html/8b5cada4-6de2-bee4-10a3-9f99f1d8fe00.htm" />
           <HelpTOCNode Title="DisabledDynamicKeyImage Field" Url="html/ec5eca7b-1e13-46cc-8352-0abdf13fefac.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="ModifierKeys Enumeration" Url="html/660ab2a0-821d-8cd1-8c2b-5eacb4068e29.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="fd619499-990f-4e90-af34-5108705814d1" Title="SharpBlade.Extensions Namespace" Url="html/9c682bb7-a6dd-4446-0f34-e9a72b819c75.htm">
-      <HelpTOCNode Id="66f74201-1d5e-4158-9394-0756c2fce65f" Title="EnumerationExtensions Class" Url="html/384be2b4-32f8-17a1-1d43-b4f9c507e454.htm">
-        <HelpTOCNode Id="3a01e990-59ad-4116-a09f-abee98a42354" Title="EnumerationExtensions Methods" Url="html/8dc297b9-4966-0c54-2ef0-dedc156eb4a2.htm">
+    <HelpTOCNode Id="a22be288-753b-43cd-9ede-820c58a0b8b5" Title="SharpBlade.Extensions Namespace" Url="html/9c682bb7-a6dd-4446-0f34-e9a72b819c75.htm">
+      <HelpTOCNode Id="4f968480-07de-4c39-95ec-747d305b0515" Title="EnumerationExtensions Class" Url="html/384be2b4-32f8-17a1-1d43-b4f9c507e454.htm">
+        <HelpTOCNode Id="43039d4d-ef2b-473c-8c26-606b9353ddf2" Title="EnumerationExtensions Methods" Url="html/8dc297b9-4966-0c54-2ef0-dedc156eb4a2.htm">
           <HelpTOCNode Title="Has(T) Method " Url="html/67af80e3-66e8-7954-3561-f90c7802c28c.htm" />
           <HelpTOCNode Title="Include(T) Method " Url="html/fc3b3589-5077-0b1f-4b3f-0b2ab84ebd17.htm" />
           <HelpTOCNode Title="Missing(T) Method " Url="html/862ec7e2-c8b3-ace5-97a5-ad311a08afcd.htm" />
           <HelpTOCNode Title="Remove(T) Method " Url="html/ba780fd1-26fa-b00c-fbfd-1832bfa36476.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="dca377bf-02e2-4e64-ba24-8d47dad68f65" Title="EnumerationExtensions.Value Class" Url="html/d9ddcc44-1096-a867-0b7f-5e33c914455d.htm">
+      <HelpTOCNode Id="c802d8d7-ab90-4e28-8872-b5acb1992dd4" Title="EnumerationExtensions.Value Class" Url="html/d9ddcc44-1096-a867-0b7f-5e33c914455d.htm">
         <HelpTOCNode Title="EnumerationExtensions.Value Constructor " Url="html/968bb64d-ace4-fa0d-2702-14f691ed9eee.htm" />
         <HelpTOCNode Title="EnumerationExtensions.Value Constructor " Url="html/0536ac3a-b324-fd63-8ce0-e4f35413ea92.htm" />
-        <HelpTOCNode Id="eb808dc6-d5b6-47f1-8bad-e15c2300de46" Title="EnumerationExtensions.Value Fields" Url="html/400fcae6-ac5e-e4b1-e75f-4004eb55ec46.htm">
+        <HelpTOCNode Id="78973a06-a677-439b-b242-4a8052656fa1" Title="EnumerationExtensions.Value Fields" Url="html/400fcae6-ac5e-e4b1-e75f-4004eb55ec46.htm">
           <HelpTOCNode Title="CachedUint32 Field" Url="html/e23aefdb-4ed5-3a3b-0e0f-c9f0a9458b11.htm" />
           <HelpTOCNode Title="CachedUInt64 Field" Url="html/2b3d37d6-c1c6-d63d-b7a1-c563f7ddf02d.htm" />
           <HelpTOCNode Title="Signed Field" Url="html/d68cdb66-60e2-2d8a-d0e1-e3cc0461d7a3.htm" />
@@ -32,67 +32,67 @@
         <HelpTOCNode Title="EnumerationExtensions.Value Methods" Url="html/005d87aa-dc80-32f5-0b67-3d972498a96b.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="a2bfb2ce-a60f-4982-bf55-8365ac201ddc" Title="SharpBlade.Helpers Namespace" Url="html/bcb42f02-7a57-016e-a37f-46c77cdba677.htm">
-      <HelpTOCNode Id="e9e09578-1ca6-464b-8b9f-9577f8ea100e" Title="IO Class" Url="html/a3c5fbf0-369a-eeea-b092-6da3b7d8ea50.htm">
-        <HelpTOCNode Id="0a509b12-7452-42ca-aa11-2d48fa51a423" Title="IO Methods" Url="html/17ce2779-2a66-cdf7-a575-a30ca75b21fe.htm">
+    <HelpTOCNode Id="e7fb0d2d-5133-4da5-aef4-fd6d2bf5ad99" Title="SharpBlade.Helpers Namespace" Url="html/bcb42f02-7a57-016e-a37f-46c77cdba677.htm">
+      <HelpTOCNode Id="d47b0164-9adc-4709-9d4b-414638977a02" Title="IO Class" Url="html/a3c5fbf0-369a-eeea-b092-6da3b7d8ea50.htm">
+        <HelpTOCNode Id="34192003-8bfb-479b-8e4b-2c056d5a5753" Title="IO Methods" Url="html/17ce2779-2a66-cdf7-a575-a30ca75b21fe.htm">
           <HelpTOCNode Title="GetAbsolutePath Method " Url="html/da84d67e-8b1b-7502-a4f0-b8f0a096ed41.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="86237164-8327-4d80-ab60-7da75f7fd10c" Title="ScreenCapture Class" Url="html/1053bbb8-2f6b-a0f4-76dc-29ed37f29263.htm">
-        <HelpTOCNode Id="ec317896-3b61-4035-a9e7-6586f1c5e8af" Title="ScreenCapture Methods" Url="html/9ab4adaa-1911-e5e5-46f1-43d3c9eff21e.htm">
+      <HelpTOCNode Id="6b18d099-8772-4000-85a7-208eeece63a0" Title="ScreenCapture Class" Url="html/1053bbb8-2f6b-a0f4-76dc-29ed37f29263.htm">
+        <HelpTOCNode Id="6e2f68f5-ff3a-474b-8e7a-30b814364bbc" Title="ScreenCapture Methods" Url="html/9ab4adaa-1911-e5e5-46f1-43d3c9eff21e.htm">
           <HelpTOCNode Title="CaptureScreen Method " Url="html/3efd51d5-7670-d2cd-defa-d491169d1259.htm" />
           <HelpTOCNode Title="CaptureScreenToFile Method " Url="html/648ed788-4c9b-d096-fdaa-6f4b45dac08b.htm" />
           <HelpTOCNode Title="CaptureWindow Method " Url="html/c6326d14-4570-a5fc-7fac-20f2b2a4c3f2.htm" />
           <HelpTOCNode Title="CaptureWindowToFile Method " Url="html/ed0c6f33-0c58-e9cc-2e1d-df6ee1194421.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="24f13c9c-3fbd-4a0c-9f77-9256aed6deca" Title="Threading Class" Url="html/2ae3a104-c820-1e52-9482-d25a1b4e0c1b.htm">
-        <HelpTOCNode Id="062308b0-bedc-4de0-9319-3511c0becc27" Title="Threading Methods" Url="html/18791267-39c2-1c3c-8f17-8fcc8978589e.htm">
+      <HelpTOCNode Id="d3e5e618-901f-4e4f-8526-fd39a67c33aa" Title="Threading Class" Url="html/2ae3a104-c820-1e52-9482-d25a1b4e0c1b.htm">
+        <HelpTOCNode Id="38e5cda5-eb5e-4eda-b0a4-737852c7745f" Title="Threading Methods" Url="html/18791267-39c2-1c3c-8f17-8fcc8978589e.htm">
           <HelpTOCNode Title="SetCurrentThreadName Method " Url="html/ab3f33c9-604b-9294-7ead-a5ec36dd202b.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="7a4dcde4-b34b-4386-ad46-ea250b270b27" Title="SharpBlade.Integration Namespace" Url="html/9c3f4e7b-25a9-f223-7136-eba145644097.htm">
-      <HelpTOCNode Id="5028131d-edf6-4bc9-8049-1be5d6c111e6" Title="BitmapRenderer Class" Url="html/556f6cad-1286-4fd4-7a1c-50071f79431d.htm">
+    <HelpTOCNode Id="99281c93-2bce-47f4-8ed3-ab90e398af97" Title="SharpBlade.Integration Namespace" Url="html/9c3f4e7b-25a9-f223-7136-eba145644097.htm">
+      <HelpTOCNode Id="bb6a863e-76aa-489e-9e43-826c759b876a" Title="BitmapRenderer Class" Url="html/556f6cad-1286-4fd4-7a1c-50071f79431d.htm">
         <HelpTOCNode Title="BitmapRenderer Constructor " Url="html/9a00f5b1-faa2-bceb-ef1e-b17208fc1e48.htm" />
-        <HelpTOCNode Id="f650c91d-e4ff-44b3-a1bf-4bcd223f5efd" Title="BitmapRenderer Fields" Url="html/c68c9e31-fc5e-a7f6-87c7-cd05676127c1.htm">
+        <HelpTOCNode Id="5c83e374-1eed-4a5e-bc57-8b2b210b0611" Title="BitmapRenderer Fields" Url="html/c68c9e31-fc5e-a7f6-87c7-cd05676127c1.htm">
           <HelpTOCNode Title="_provider Field" Url="html/846ddc4f-11cd-c20b-a4aa-0b6ce6d8288e.htm" />
           <HelpTOCNode Title="_timer Field" Url="html/1370fca3-affe-59e5-4831-51a5e8bd494c.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="e48a5f84-dd4d-4b04-a086-6759a22520cc" Title="BitmapRenderer Methods" Url="html/8c0dc1a7-9403-4f6d-dc26-611a2511a23f.htm">
+        <HelpTOCNode Id="c820c93c-b40e-4d04-aec2-ae4156ce4dfe" Title="BitmapRenderer Methods" Url="html/8c0dc1a7-9403-4f6d-dc26-611a2511a23f.htm">
           <HelpTOCNode Title="Dispose Method " Url="html/9ea3ae53-062b-1e60-bc12-2d2e50bd1efd.htm" />
           <HelpTOCNode Title="TimerTick Method " Url="html/99f9f86c-ad51-f68e-0c59-21edc885a3a1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f9ae4c71-3d34-4121-9081-f98ace638cf3" Title="EmbeddedWinFormsControl Structure" Url="html/7295d40c-d6a1-7c0d-f45a-7aaedc933358.htm">
+      <HelpTOCNode Id="efb96347-769e-4a20-baa0-9f6dbf0832d6" Title="EmbeddedWinFormsControl Structure" Url="html/7295d40c-d6a1-7c0d-f45a-7aaedc933358.htm">
         <HelpTOCNode Title="EmbeddedWinFormsControl Constructor " Url="html/befe6bff-09c5-0804-51fc-bf29b77b8984.htm" />
-        <HelpTOCNode Id="6d16f606-b568-4ee3-805b-ecf33ce1f856" Title="EmbeddedWinFormsControl Fields" Url="html/1a11d371-079b-55c9-4b93-e8d4ec231d18.htm">
+        <HelpTOCNode Id="4965d6ce-ef8d-4b80-bd42-7b4257e3dfaf" Title="EmbeddedWinFormsControl Fields" Url="html/1a11d371-079b-55c9-4b93-e8d4ec231d18.htm">
           <HelpTOCNode Title="Control Field" Url="html/384ef47e-238c-b96f-6481-fce86aa407f0.htm" />
           <HelpTOCNode Title="Host Field" Url="html/a6aee8fa-6ab5-3c2f-2be2-94b55683ffe1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="32355020-0d16-4c77-b0d7-ff37655e8a2c" Title="EmbeddedWinFormsControl Methods" Url="html/8af29c63-44d9-9c57-e863-dfe9aaede439.htm">
+        <HelpTOCNode Id="6023996b-b11f-4990-9fd4-1cd824e49c19" Title="EmbeddedWinFormsControl Methods" Url="html/8af29c63-44d9-9c57-e863-dfe9aaede439.htm">
           <HelpTOCNode Title="Draw Method " Url="html/284cd1d4-8482-a433-716a-75fec4288c4f.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="f26388fc-e841-4c50-a70f-4c66dacb2865" Title="EmbeddedWinFormsControl Properties" Url="html/bb06ce78-11b3-f20a-d313-a2bc83c46560.htm">
+        <HelpTOCNode Id="18dddccf-0b5f-47d5-b848-5a01f4fc942f" Title="EmbeddedWinFormsControl Properties" Url="html/bb06ce78-11b3-f20a-d313-a2bc83c46560.htm">
           <HelpTOCNode Title="Bounds Property " Url="html/42efa5b1-ab52-1e03-28cf-d5007faba7a6.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="354b52db-e2ae-4bc4-9ade-1b1c833fc39f" Title="IBitmapProvider Interface" Url="html/bee8146d-cd49-cf53-7c13-73cdaed3dfc4.htm">
-        <HelpTOCNode Id="29819300-1322-4ca6-aa4e-2c87e91865a4" Title="IBitmapProvider Methods" Url="html/2a84aa63-fe36-fe9c-238a-4d2211611d20.htm">
+      <HelpTOCNode Id="b0e7a645-66ee-4013-9322-69367788e9bd" Title="IBitmapProvider Interface" Url="html/bee8146d-cd49-cf53-7c13-73cdaed3dfc4.htm">
+        <HelpTOCNode Id="cb6427ab-8cd2-4b04-af6d-2ef69c22494a" Title="IBitmapProvider Methods" Url="html/2a84aa63-fe36-fe9c-238a-4d2211611d20.htm">
           <HelpTOCNode Title="GetBitmap Method " Url="html/ed9205b9-8823-ef87-5cdc-6de6618b8ea0.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="e5bc7ffe-fd3d-4bc4-a62c-3dd070e87d45" Title="KeyboardControl Class" Url="html/b7deef5f-559d-5c66-64d3-034ce901da2e.htm">
-        <HelpTOCNode Id="72682bee-f72c-461e-ad5e-6530a327c19a" Title="KeyboardControl Constructor " Url="html/d5366f33-2f7c-cea4-65f6-277af9b58805.htm">
+      <HelpTOCNode Id="8373ec29-356b-4040-b74b-570cd1f2dde3" Title="KeyboardControl Class" Url="html/b7deef5f-559d-5c66-64d3-034ce901da2e.htm">
+        <HelpTOCNode Id="585df6fd-2ac7-4dd0-ba77-95fe7405909b" Title="KeyboardControl Constructor " Url="html/d5366f33-2f7c-cea4-65f6-277af9b58805.htm">
           <HelpTOCNode Title="KeyboardControl Constructor (Control, Boolean)" Url="html/4f13f5cc-5655-120a-3457-972707780e53.htm" />
           <HelpTOCNode Title="KeyboardControl Constructor (Control, Boolean)" Url="html/789e7bde-16a6-74b3-efb6-5d5d82d6684e.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="a594353a-39ef-464e-9a42-1b752e51ec90" Title="KeyboardControl Fields" Url="html/c0b236b9-9b45-cf28-673c-61455c918ea5.htm">
+        <HelpTOCNode Id="f07f9434-af0e-4850-b7a2-19b345d832e2" Title="KeyboardControl Fields" Url="html/c0b236b9-9b45-cf28-673c-61455c918ea5.htm">
           <HelpTOCNode Title="_winFormControl Field" Url="html/f2c949ec-89ad-d8b3-2b83-627bd64a62bd.htm" />
           <HelpTOCNode Title="_wpfControl Field" Url="html/c8cee64c-acb8-cb6e-77f4-f7d2dd3ab34a.htm" />
           <HelpTOCNode Title="ReleaseOnEnter Field" Url="html/43be5b74-64a0-70fa-2053-276e0b477a3b.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="cf5feeb0-4855-4de9-82c6-6c06db30cfdb" Title="KeyboardControl Methods" Url="html/19073bf4-6304-e6be-b41b-e12406655b5a.htm">
+        <HelpTOCNode Id="a8a5f949-4b19-4174-a274-aa1e97b75b02" Title="KeyboardControl Methods" Url="html/19073bf4-6304-e6be-b41b-e12406655b5a.htm">
           <HelpTOCNode Title="SendChar Method " Url="html/208b6fde-baba-94d3-adbc-79cf044e34de.htm" />
           <HelpTOCNode Title="SendKeyDown Method " Url="html/afb2d2c6-0638-4a4c-6f30-6ddc7a27c560.htm" />
           <HelpTOCNode Title="SendKeyUp Method " Url="html/5b9b2ca0-2799-7982-26d7-30edcbc6cbc5.htm" />
@@ -104,55 +104,55 @@
           <HelpTOCNode Title="SendWPFKeyUp Method " Url="html/d76b702d-8091-3676-f84a-6853491ed1f2.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="680dcc3e-d4e9-4311-8603-d0adfad35a88" Title="NativeRenderer Class" Url="html/49dd9ec9-ce57-f1d0-2f7b-32ed34f0b668.htm">
+      <HelpTOCNode Id="bc75883e-45a0-41ca-b5ea-9babfcb4754a" Title="NativeRenderer Class" Url="html/49dd9ec9-ce57-f1d0-2f7b-32ed34f0b668.htm">
         <HelpTOCNode Title="NativeRenderer Constructor " Url="html/6322d299-b626-6a61-fe48-73bbeacfaff7.htm" />
-        <HelpTOCNode Id="ba20d6f6-58c7-461b-ad6e-56715afd2337" Title="NativeRenderer Fields" Url="html/e0630cde-cdc7-25bb-6f4f-e548aebce221.htm">
+        <HelpTOCNode Id="97a39cb9-6444-4218-aeac-346ebd01ee06" Title="NativeRenderer Fields" Url="html/e0630cde-cdc7-25bb-6f4f-e548aebce221.htm">
           <HelpTOCNode Title="_nativeTimer Field" Url="html/2fa25fdd-2caa-4cf7-e692-a7e50856c6da.htm" />
           <HelpTOCNode Title="_nativeWindow Field" Url="html/20e8f1c0-304c-0dce-1715-f814e6e635d2.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="fb11ad5a-8c8d-478e-b6b6-a9bcf46e0ae8" Title="NativeRenderer Methods" Url="html/8777eba7-81b4-f195-2112-df5590c86c59.htm">
+        <HelpTOCNode Id="23e86dbb-906c-47b7-9a78-bce0fad40a46" Title="NativeRenderer Methods" Url="html/8777eba7-81b4-f195-2112-df5590c86c59.htm">
           <HelpTOCNode Title="Dispose Method " Url="html/9f8cec93-73c4-90ba-7dd0-95400d148a7b.htm" />
           <HelpTOCNode Title="NativeTimerTick Method " Url="html/167ca5fa-524f-baff-88f4-ef27b585ee56.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="7dbd75a2-23de-403a-9eb3-2fa21c3f1021" Title="Renderer Class" Url="html/993209af-a956-4320-f4a8-7b26e0716fff.htm">
+      <HelpTOCNode Id="9dc6a3fc-d3a0-4b5d-8e98-33132e0392d9" Title="Renderer Class" Url="html/993209af-a956-4320-f4a8-7b26e0716fff.htm">
         <HelpTOCNode Title="Renderer Constructor " Url="html/33d35c79-e116-a930-022b-9fe21749909c.htm" />
-        <HelpTOCNode Id="a1aae6ed-b19f-4c72-88a3-f0ad1c74c5b1" Title="Renderer Fields" Url="html/00323030-28e0-bfb8-1eeb-f81ff032479b.htm">
+        <HelpTOCNode Id="9c220b51-eba8-4502-9883-c9f1de34a5a2" Title="Renderer Fields" Url="html/00323030-28e0-bfb8-1eeb-f81ff032479b.htm">
           <HelpTOCNode Title="Touchpad Field" Url="html/29cbaeb9-d186-4490-0a04-4e1e66e1bbdc.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="541854f6-717a-4258-913e-f5acfe79fba2" Title="Renderer Methods" Url="html/5782aa5d-5066-a316-415f-69b490d94ed6.htm">
+        <HelpTOCNode Id="a1466b3f-dcde-4569-a02a-81d03f0f82a5" Title="Renderer Methods" Url="html/5782aa5d-5066-a316-415f-69b490d94ed6.htm">
           <HelpTOCNode Title="Dispose Method " Url="html/68f4db3c-e8ad-6725-a06c-d7b8d240adf5.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="c7b056d4-d0e4-465d-a731-4cef5e3861d3" Title="WinFormsRenderer Class" Url="html/b6d971a6-8de8-a67a-dade-587d1933c88f.htm">
+      <HelpTOCNode Id="4539e028-c9a6-4875-9ab8-8a2ae93bca8c" Title="WinFormsRenderer Class" Url="html/b6d971a6-8de8-a67a-dade-587d1933c88f.htm">
         <HelpTOCNode Title="WinFormsRenderer Constructor " Url="html/78abd89f-a6cd-d780-9691-7766b207d971.htm" />
-        <HelpTOCNode Id="04257e5e-4a26-42e1-9a6e-63e55d3fae29" Title="WinFormsRenderer Fields" Url="html/cc80060f-78db-2324-f8e0-9eada2d068c7.htm">
+        <HelpTOCNode Id="faa886e7-675d-465a-9d93-de0555ab60fc" Title="WinFormsRenderer Fields" Url="html/cc80060f-78db-2324-f8e0-9eada2d068c7.htm">
           <HelpTOCNode Title="_form Field" Url="html/04b22589-6d95-0ba9-f5a1-04851b675bb4.htm" />
           <HelpTOCNode Title="_winformTimer Field" Url="html/5e8ef467-cdb7-c853-ad27-903ce052efc7.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="1a3da4bf-73a1-406c-a276-ca543a401a08" Title="WinFormsRenderer Methods" Url="html/10e4be94-0d94-8daf-9d29-b98f5881625c.htm">
+        <HelpTOCNode Id="6bb7b3bb-3168-4610-9cd2-0e969c53f49c" Title="WinFormsRenderer Methods" Url="html/10e4be94-0d94-8daf-9d29-b98f5881625c.htm">
           <HelpTOCNode Title="Dispose Method " Url="html/34c88fd0-8749-35ee-59e9-2ec9a91ae8e5.htm" />
           <HelpTOCNode Title="WinformTimerOnTick Method " Url="html/6d582898-d311-5857-7a0e-22d39f67317b.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="976745ab-f2e7-478c-8225-8bdb0108295d" Title="WpfRenderer Class" Url="html/cfa7a7e2-4efc-7b5d-15ea-eff919e0f90d.htm">
+      <HelpTOCNode Id="c2776ac6-7dd6-43fc-bb64-7ff682636779" Title="WpfRenderer Class" Url="html/cfa7a7e2-4efc-7b5d-15ea-eff919e0f90d.htm">
         <HelpTOCNode Title="WpfRenderer Constructor " Url="html/3a1a59de-578c-2793-9d1d-104b44305c74.htm" />
-        <HelpTOCNode Id="fa0043a6-fa3a-4d04-a0d6-1dee1e45b173" Title="WpfRenderer Fields" Url="html/06a2b531-b8d4-b4b5-285c-304a8c6dcd15.htm">
+        <HelpTOCNode Id="3f35eb38-b461-40e3-b02e-13c8bdc2349b" Title="WpfRenderer Fields" Url="html/06a2b531-b8d4-b4b5-285c-304a8c6dcd15.htm">
           <HelpTOCNode Title="_window Field" Url="html/77208cc5-5886-c9d0-347e-109dfaa53356.htm" />
           <HelpTOCNode Title="_wpfTimer Field" Url="html/c349686e-43ee-d542-aef8-72ff9615475d.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="f63a6a55-5674-4b6c-a913-b90fa98188d2" Title="WpfRenderer Methods" Url="html/2c684494-391c-7f37-a23b-31ad9043c5bf.htm">
+        <HelpTOCNode Id="833cf9a6-6532-43b4-99d3-727b0aa36345" Title="WpfRenderer Methods" Url="html/2c684494-391c-7f37-a23b-31ad9043c5bf.htm">
           <HelpTOCNode Title="Dispose Method " Url="html/bad8c920-ecfe-22b5-bd3f-a7839d8eeeee.htm" />
           <HelpTOCNode Title="WpfTimerTick Method " Url="html/e9675173-0049-6763-a3b1-7d78978a23e1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="a8c70932-a3d6-4a7d-9962-b1c39e7bfe6e" Title="SharpBlade.Logging Namespace" Url="html/d3c8e300-08f9-3362-ab0d-37bb2e6ee03c.htm">
-      <HelpTOCNode Id="fc9c615c-bf6f-4638-af38-15807d3055bf" Title="LogManager Class" Url="html/be734fc4-ece1-5afd-c85b-8a878f65c4f0.htm">
-        <HelpTOCNode Id="d5cc95d1-5e52-4551-bf2a-5746cce07f77" Title="LogManager Fields" Url="html/63b84650-7ff6-f0d9-d085-1e67d80ad5b0.htm">
+    <HelpTOCNode Id="a21954fc-3bd5-457e-be87-a68dba1fb88c" Title="SharpBlade.Logging Namespace" Url="html/d3c8e300-08f9-3362-ab0d-37bb2e6ee03c.htm">
+      <HelpTOCNode Id="ae35e863-d279-4c73-8b94-ccaefb82f513" Title="LogManager Class" Url="html/be734fc4-ece1-5afd-c85b-8a878f65c4f0.htm">
+        <HelpTOCNode Id="89c7a2c3-e9b5-4989-8e4c-a0b25153db9b" Title="LogManager Fields" Url="html/63b84650-7ff6-f0d9-d085-1e67d80ad5b0.htm">
           <HelpTOCNode Title="_loaded Field" Url="html/c0914cde-4f4f-ddcb-21f2-e93afda32102.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="159d14b6-e2bb-43a8-8b13-c726381f7c45" Title="LogManager Methods" Url="html/434e86e1-921d-9516-dab1-d2184a80dd4a.htm">
+        <HelpTOCNode Id="498e070e-0f85-4b09-a057-3e01846628a3" Title="LogManager Methods" Url="html/434e86e1-921d-9516-dab1-d2184a80dd4a.htm">
           <HelpTOCNode Title="ClearOldLogs Method " Url="html/b5ec5fbd-ce6d-6013-d9b5-abbfc37210bf.htm" />
           <HelpTOCNode Title="DestroyConsole Method " Url="html/a0744541-6c23-9f81-11e5-37c1eeedd8bc.htm" />
           <HelpTOCNode Title="GetLogger Method " Url="html/9b9535c0-0c3a-ade4-571f-ca2514c33626.htm" />
@@ -161,9 +161,9 @@
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="6493db4a-606d-45ae-88fd-988a3bf9cc81" Title="SharpBlade.Native Namespace" Url="html/557570a1-0188-b383-7344-9be82be920f0.htm">
-      <HelpTOCNode Id="794fc702-c01b-4674-a5f2-6f838f02ca01" Title="Helpers Class" Url="html/6fb052b9-bbf3-7a66-655c-f3061ba4be24.htm">
-        <HelpTOCNode Id="55bfd73e-bb68-4b9e-8bc6-5e1b77601cd8" Title="Helpers Methods" Url="html/ae53e845-3103-34c7-a9ea-091a55757841.htm">
+    <HelpTOCNode Id="42a77f07-4d22-41c7-bc89-d9c46d57a036" Title="SharpBlade.Native Namespace" Url="html/557570a1-0188-b383-7344-9be82be920f0.htm">
+      <HelpTOCNode Id="7a47d9f5-0f50-4a4b-aece-d072e5b387a6" Title="Helpers Class" Url="html/6fb052b9-bbf3-7a66-655c-f3061ba4be24.htm">
+        <HelpTOCNode Id="5b5c2a73-75ad-4ead-bb47-449f16e68bc5" Title="Helpers Methods" Url="html/ae53e845-3103-34c7-a9ea-091a55757841.htm">
           <HelpTOCNode Title="GetErrorMessage Method " Url="html/81fcef72-a7e5-c536-6266-2d1f69175727.htm" />
           <HelpTOCNode Title="GetLastError Method " Url="html/a7447f63-ad16-a6b3-7336-0964f53fa724.htm" />
           <HelpTOCNode Title="GetLastErrorInfo Method " Url="html/55b74ad8-9c9f-8ad7-c9a7-07b40fb60f49.htm" />
@@ -172,10 +172,10 @@
           <HelpTOCNode Title="GetWin32Exception Method " Url="html/21648f7d-723a-6ebc-2cda-934cf30cccf0.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="475860b0-6643-4417-abea-771d352f07e1" Title="HRESULT Structure" Url="html/f2e86b5a-e78a-5a0d-200b-8fa0acbfca22.htm">
+      <HelpTOCNode Id="c57861f1-f246-4fe7-a92e-a92bbb204891" Title="HRESULT Structure" Url="html/f2e86b5a-e78a-5a0d-200b-8fa0acbfca22.htm">
         <HelpTOCNode Title="HRESULT Constructor " Url="html/8b7ea982-2766-c4ef-ef98-11a22e7a08f1.htm" />
         <HelpTOCNode Title="HRESULT Constructor " Url="html/32b1302a-c1b3-fc20-4e8e-272606a29b5b.htm" />
-        <HelpTOCNode Id="182e11f4-9122-404f-ab1d-2b69b6470823" Title="HRESULT Fields" Url="html/2fb7a361-8eca-b333-0565-993321b2cf33.htm">
+        <HelpTOCNode Id="ae9fee2d-919b-4072-a106-c17d03601bf5" Title="HRESULT Fields" Url="html/2fb7a361-8eca-b333-0565-993321b2cf33.htm">
           <HelpTOCNode Title="CACHE_E_FIRST Field" Url="html/4858b13e-9691-c1d1-ebe0-a73f188409b3.htm" />
           <HelpTOCNode Title="CACHE_E_LAST Field" Url="html/e11531fc-e2b0-f7f0-228a-ee967bfb5d19.htm" />
           <HelpTOCNode Title="CACHE_E_NOCACHE_UPDATED Field" Url="html/71e2b995-8090-e3b1-437a-a7011e7d2d99.htm" />
@@ -1379,13 +1379,13 @@
           <HelpTOCNode Title="XENROLL_E_RESPONSE_KA_HASH_NOT_FOUND Field" Url="html/c723bc16-8ebe-6415-175c-2d782411327d.htm" />
           <HelpTOCNode Title="XENROLL_E_RESPONSE_UNEXPECTED_KA_HASH Field" Url="html/339c5fb7-d16b-625b-aae4-2fdc95265e7f.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="ed2b0ece-6d13-4f0f-bc4f-2345712623d1" Title="HRESULT Methods" Url="html/f1671eb2-7ca7-e2ef-b14e-93b69b712ae3.htm">
-          <HelpTOCNode Id="32858da7-50bf-4e67-8463-ebf45e30595a" Title="CompareTo Method " Url="html/b80e4a8f-4751-0f05-22cf-7c10d84ac965.htm">
+        <HelpTOCNode Id="856cfc34-e019-4ab2-914a-94b13fd7aa55" Title="HRESULT Methods" Url="html/f1671eb2-7ca7-e2ef-b14e-93b69b712ae3.htm">
+          <HelpTOCNode Id="0869f460-3a86-4cc3-85a4-f5f93456e291" Title="CompareTo Method " Url="html/b80e4a8f-4751-0f05-22cf-7c10d84ac965.htm">
             <HelpTOCNode Title="CompareTo Method (Int32)" Url="html/9058a4e7-6492-d37d-1d30-2d82502faa65.htm" />
             <HelpTOCNode Title="CompareTo Method (Object)" Url="html/1c284cb7-187d-5164-3545-3a7645850468.htm" />
             <HelpTOCNode Title="CompareTo Method (HRESULT)" Url="html/2ed16105-33d9-7466-6818-c48a43ba8d57.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="b6f244a7-d70b-46cf-9da6-a9b0cdafe1e1" Title="Equals Method " Url="html/63d95dea-3152-5ae8-3707-31c4d2e00dc1.htm">
+          <HelpTOCNode Id="f599a1c1-1d46-40dd-b912-d0b38d0bda3b" Title="Equals Method " Url="html/63d95dea-3152-5ae8-3707-31c4d2e00dc1.htm">
             <HelpTOCNode Title="Equals Method (Int32)" Url="html/fc292569-96dd-b984-b3f0-791bd163fa3b.htm" />
             <HelpTOCNode Title="Equals Method (Object)" Url="html/709e88e8-bf6b-77a4-c13d-bafe64b5a2be.htm" />
             <HelpTOCNode Title="Equals Method (HRESULT)" Url="html/7dbaf6f2-f9c7-a9a9-9e73-dda53568af07.htm" />
@@ -1397,15 +1397,15 @@
           <HelpTOCNode Title="RZSB_FAILED Method " Url="html/c7f45838-4ac1-4fb9-f709-33b1459aeedb.htm" />
           <HelpTOCNode Title="RZSB_SUCCESS Method " Url="html/41dc95a6-a496-a953-a97c-5cfef4178202.htm" />
           <HelpTOCNode Title="SUCCEEDED Method " Url="html/a2dfb882-c357-643e-b633-2fe80c21accd.htm" />
-          <HelpTOCNode Id="b4d502f4-88d0-4cb0-9d96-af6873506326" Title="ToString Method " Url="html/1625743b-167b-9a83-2e67-faf066278fab.htm">
+          <HelpTOCNode Id="8cd8142f-f13a-48e3-8e65-ebdb749fd2b1" Title="ToString Method " Url="html/1625743b-167b-9a83-2e67-faf066278fab.htm">
             <HelpTOCNode Title="ToString Method " Url="html/92e959dd-3c16-1a44-33ce-51f65f823661.htm" />
             <HelpTOCNode Title="ToString Method (Boolean)" Url="html/85535811-7a22-53fc-13a0-f50ac60c74f1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="89747f5b-6551-4ab5-b093-1145cf247b02" Title="HRESULT Operators and Type Conversions" Url="html/15845ab6-2572-e106-6af7-093a32e58663.htm">
+        <HelpTOCNode Id="1ab2a96a-97b9-4b57-8791-881659e9d33c" Title="HRESULT Operators and Type Conversions" Url="html/15845ab6-2572-e106-6af7-093a32e58663.htm">
           <HelpTOCNode Title="Equality Operator " Url="html/816185e4-1fdf-04b1-19f8-426dd76bd660.htm" />
           <HelpTOCNode Title="False Operator " Url="html/c301f262-e08d-2f95-6020-b2c65c9add44.htm" />
-          <HelpTOCNode Id="8f28facc-1d62-4ccb-8d8e-8b10e00957d7" Title="Implicit Conversion Operators" Url="html/21c407d9-0737-e16a-c675-de5ec2725edd.htm">
+          <HelpTOCNode Id="5faeac2a-b271-4cda-b3ba-1a8ff637a56b" Title="Implicit Conversion Operators" Url="html/21c407d9-0737-e16a-c675-de5ec2725edd.htm">
             <HelpTOCNode Title="Implicit Conversion (Int32 to HRESULT)" Url="html/de046aaa-8977-64a8-d03e-148d9c5b06b3.htm" />
             <HelpTOCNode Title="Implicit Conversion (HRESULT to Int32)" Url="html/75e0e0d4-a464-1aa7-df19-6051e6d7ade0.htm" />
             <HelpTOCNode Title="Implicit Conversion (HRESULT to Boolean)" Url="html/82664cb8-5f40-a70a-8b14-999a8a17b2f2.htm" />
@@ -1413,48 +1413,48 @@
           <HelpTOCNode Title="Inequality Operator " Url="html/46c8529e-21c1-5694-f0bb-35471159c320.htm" />
           <HelpTOCNode Title="True Operator " Url="html/0f5a4c51-bade-e019-9975-8e7278f81255.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="092b1d7d-a939-49c3-b895-2732e85cdee6" Title="HRESULT Properties" Url="html/979b5852-dfdf-1215-5b40-bb239c44fec4.htm">
+        <HelpTOCNode Id="98ec8f56-cce3-49da-b1ae-5dbab7fd3a69" Title="HRESULT Properties" Url="html/979b5852-dfdf-1215-5b40-bb239c44fec4.htm">
           <HelpTOCNode Title="Failed Property " Url="html/1849e2eb-c299-1ae1-e972-376a0990193c.htm" />
           <HelpTOCNode Title="Succeeded Property " Url="html/0af58242-71df-9433-b1dd-277fec6886b0.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="1fe8adc0-7940-4eb3-a238-a081b081b417" Title="HRESULT.DescriptionAttribute Class" Url="html/c6ba7abe-2dae-5f3a-5721-3e3efee35389.htm">
+      <HelpTOCNode Id="359726de-a94e-4c43-a74f-bf551e5f0637" Title="HRESULT.DescriptionAttribute Class" Url="html/c6ba7abe-2dae-5f3a-5721-3e3efee35389.htm">
         <HelpTOCNode Title="HRESULT.DescriptionAttribute Constructor " Url="html/e799ac8a-199f-7347-cec7-9d4a9f1bf8b8.htm" />
         <HelpTOCNode Title="HRESULT.DescriptionAttribute Methods" Url="html/744f2796-8cd8-3f5a-fec0-7337f4ddbb5d.htm" />
-        <HelpTOCNode Id="0c8d7c47-ae21-4b5f-9497-dfd6bfe311df" Title="HRESULT.DescriptionAttribute Properties" Url="html/6af520be-2f15-2e6c-8c3d-df911fd14c25.htm">
+        <HelpTOCNode Id="41539eee-f424-4fa0-91e1-027ab3bf317c" Title="HRESULT.DescriptionAttribute Properties" Url="html/6af520be-2f15-2e6c-8c3d-df911fd14c25.htm">
           <HelpTOCNode Title="description Property " Url="html/41d75b3c-ea6a-dc35-414e-cc2c15ed01cc.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="187ef9ff-45cc-4e2a-8b45-d2309b3c3ab9" Title="HRESULT.DirCodes Class" Url="html/03df9db5-e6c7-8308-7ec2-0eb4ef86e7c6.htm">
-        <HelpTOCNode Id="9d26a228-49df-4460-b514-a93692b45500" Title="HRESULT.DirCodes Constructor " Url="html/7cd7798d-ce44-0946-0fe7-783891e1377a.htm">
+      <HelpTOCNode Id="36fd85b2-caf7-4446-a64a-883b23b3812d" Title="HRESULT.DirCodes Class" Url="html/03df9db5-e6c7-8308-7ec2-0eb4ef86e7c6.htm">
+        <HelpTOCNode Id="327eef31-42eb-4c0f-9421-de90c78f016e" Title="HRESULT.DirCodes Constructor " Url="html/7cd7798d-ce44-0946-0fe7-783891e1377a.htm">
           <HelpTOCNode Title="HRESULT.DirCodes Constructor " Url="html/2362a6ef-99dd-7bf6-6e56-ee2d19c5bb5b.htm" />
           <HelpTOCNode Title="HRESULT.DirCodes Constructor (Int32)" Url="html/93c68246-14ee-1e05-2875-df17fd00dbbe.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="82f28e51-f995-47db-8098-32a1cda474ad" Title="HRESULT.DirCodes Methods" Url="html/22674fbf-7308-7893-c049-5a1f2f8e4278.htm">
+        <HelpTOCNode Id="cb225fc7-495c-4676-836f-e4d7b66356cb" Title="HRESULT.DirCodes Methods" Url="html/22674fbf-7308-7893-c049-5a1f2f8e4278.htm">
           <HelpTOCNode Title="Add Method " Url="html/b3683235-65a1-127f-5d78-8518f55d4546.htm" />
           <HelpTOCNode Title="Contains Method " Url="html/1f20da1f-2730-c325-4d41-6d95aae91415.htm" />
           <HelpTOCNode Title="ContainsKey Method " Url="html/5a89307e-8386-af5d-c7db-5ec4b44ecdb8.htm" />
-          <HelpTOCNode Id="730eeda1-4521-4083-9f06-198915d32d50" Title="CopyTo Method " Url="html/72bc0dde-b9a5-558e-0b83-e785d2e2932a.htm">
+          <HelpTOCNode Id="88fd845b-55e5-4f12-aa70-f5652dfca6f1" Title="CopyTo Method " Url="html/72bc0dde-b9a5-558e-0b83-e785d2e2932a.htm">
             <HelpTOCNode Title="CopyTo Method (FieldInfo[], Int32)" Url="html/683c37bc-ebc1-2f70-10d4-e285fad47aae.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="TryGetValue Method " Url="html/69be28fe-99fe-0f34-8225-83ddd025b88b.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="402f0f79-dc6e-408a-995f-eeb36ab6f6be" Title="HRESULT.DirCodes Properties" Url="html/98015134-fd35-3670-b35c-319db3742fb7.htm">
+        <HelpTOCNode Id="d97f1e59-35a1-4d94-8fa2-676941d6b36b" Title="HRESULT.DirCodes Properties" Url="html/98015134-fd35-3670-b35c-319db3742fb7.htm">
           <HelpTOCNode Title="Item Property " Url="html/f4f95cd1-8e8a-5053-8363-cdbc24d70fa2.htm" />
           <HelpTOCNode Title="Keys Property " Url="html/832c29ef-e324-bed2-cefe-7b16db2882c7.htm" />
           <HelpTOCNode Title="Values Property " Url="html/e2fcd592-d9d8-6912-7eff-f444c6b3315d.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="c4e42a74-3330-4626-b638-5961f6bec09c" Title="HRESULT.HResultException Class" Url="html/a87c6404-097b-7d6d-d16f-702ab76010d3.htm">
+      <HelpTOCNode Id="998a4910-ac21-4b36-894f-77da190f1d90" Title="HRESULT.HResultException Class" Url="html/a87c6404-097b-7d6d-d16f-702ab76010d3.htm">
         <HelpTOCNode Title="HRESULT.HResultException Constructor " Url="html/50b4035a-2a4d-000f-4a54-940c6a37b409.htm" />
         <HelpTOCNode Title="HRESULT.HResultException Methods" Url="html/939e9c2b-d1c0-4737-7adc-0ac9a8d783fb.htm" />
-        <HelpTOCNode Id="5b227e67-3866-4de9-9cd2-8f7198bfdbd2" Title="HRESULT.HResultException Properties" Url="html/89db4a34-67e2-ff11-91a3-469c8b42e3de.htm">
+        <HelpTOCNode Id="6ab4045e-9b2b-4859-ace6-f5c0d56cf5d8" Title="HRESULT.HResultException Properties" Url="html/89db4a34-67e2-ff11-91a3-469c8b42e3de.htm">
           <HelpTOCNode Title="HResult Property " Url="html/02dac1c3-433d-fe19-42bd-5588f3d935b1.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="HRESULT.HResultException Events" Url="html/cb9abb13-19a4-7c17-8d9c-7fcc3c63095c.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="706bfd63-f05a-486a-8eb2-77d183600ac3" Title="RazerAPI Class" Url="html/8f1f3296-fb01-c48d-ab3d-772331d54f25.htm">
-        <HelpTOCNode Id="c0128fb8-49a0-4761-8c72-1f8976710d36" Title="RazerAPI Fields" Url="html/604d6095-7cdc-3755-9b87-4a5d90f0f24d.htm">
+      <HelpTOCNode Id="228b7ed4-54ad-4819-8ddd-0f492b9033f5" Title="RazerAPI Class" Url="html/8f1f3296-fb01-c48d-ab3d-772331d54f25.htm">
+        <HelpTOCNode Id="aa1a6070-0e57-4805-a7ff-abab55f88eee" Title="RazerAPI Fields" Url="html/604d6095-7cdc-3755-9b87-4a5d90f0f24d.htm">
           <HelpTOCNode Title="DisplayColorDepth Field" Url="html/308753a8-d18f-3a13-418f-9c3bec080324.htm" />
           <HelpTOCNode Title="DynamicKeyHeight Field" Url="html/3f43ddca-8f0b-17a5-fe6e-272ca5523cf1.htm" />
           <HelpTOCNode Title="DynamicKeyImageDataSize Field" Url="html/86d6fe33-2c9a-3f08-44df-0e92f43cafb7.htm" />
@@ -1470,7 +1470,7 @@
           <HelpTOCNode Title="TouchpadImageDataSize Field" Url="html/80def6eb-7990-9427-bd6d-8ddcdc793837.htm" />
           <HelpTOCNode Title="TouchpadWidth Field" Url="html/1e65e7ad-8004-db9f-dd08-2f3cd7f2d78d.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="290f5084-6eea-417c-952c-60e9dee9495a" Title="RazerAPI Methods" Url="html/9416c8bf-dd8f-ecda-845b-cd45c61b0699.htm">
+        <HelpTOCNode Id="df1ea2ed-67ab-4f8f-8216-5b51739655aa" Title="RazerAPI Methods" Url="html/9416c8bf-dd8f-ecda-845b-cd45c61b0699.htm">
           <HelpTOCNode Title="SingleGesture Method " Url="html/97507878-b919-9734-bed5-b2e58e28ac6e.htm" />
           <HelpTOCNode Title="ValidGesture Method " Url="html/5c707b9f-904e-5098-8cfc-9dbb4bd65543.htm" />
         </HelpTOCNode>
@@ -1478,16 +1478,16 @@
       <HelpTOCNode Title="RazerAPI.AppEventCallbackDelegate Delegate" Url="html/e421836d-2ee2-efba-cf9c-84ae2c825072.htm" />
       <HelpTOCNode Title="RazerAPI.AppEventMode Enumeration" Url="html/f35ee8e2-a235-c386-45d9-e936f0babf25.htm" />
       <HelpTOCNode Title="RazerAPI.AppEventType Enumeration" Url="html/56616759-fefd-6bb6-aad9-fbb2fefe382c.htm" />
-      <HelpTOCNode Id="c1dbba56-243a-476b-a9a3-44cc2ee452ec" Title="RazerAPI.BufferParams Structure" Url="html/19960762-1b88-65de-48fb-02788872b18d.htm">
-        <HelpTOCNode Id="7e378311-d8ad-4a77-98a9-9361eea0cf1a" Title="RazerAPI.BufferParams Fields" Url="html/e7eb9d77-20de-7211-4021-bea95cb44e37.htm">
+      <HelpTOCNode Id="863f2de0-aa81-4993-ae4d-b02437bb0ddf" Title="RazerAPI.BufferParams Structure" Url="html/19960762-1b88-65de-48fb-02788872b18d.htm">
+        <HelpTOCNode Id="2bfe1f49-8b47-40ab-a78e-0102bf28ee1b" Title="RazerAPI.BufferParams Fields" Url="html/e7eb9d77-20de-7211-4021-bea95cb44e37.htm">
           <HelpTOCNode Title="DataSize Field" Url="html/1b7bc7b0-4316-f16c-0cbd-d7cc35b32187.htm" />
           <HelpTOCNode Title="PixelType Field" Url="html/d20989fd-8d22-b2aa-93e5-37e3ab00ad04.htm" />
           <HelpTOCNode Title="PtrData Field" Url="html/296db0ce-f3d1-3796-6aed-b422fcd5c2c5.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="RazerAPI.BufferParams Methods" Url="html/4e610de2-5780-0e1e-d47a-9ef0685f7f09.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="e9ac8d03-163d-443f-a44a-4132387757c8" Title="RazerAPI.Capabilities Structure" Url="html/5f45aea3-fa86-5a61-f4ab-9fa1ddb38e62.htm">
-        <HelpTOCNode Id="ade2f039-a649-40ff-a696-068faa6df067" Title="RazerAPI.Capabilities Fields" Url="html/99f97c1a-1a7c-8e78-51e1-ad34f40624f1.htm">
+      <HelpTOCNode Id="c35bfcae-aa64-49c1-82c4-ce9eeaa19df4" Title="RazerAPI.Capabilities Structure" Url="html/5f45aea3-fa86-5a61-f4ab-9fa1ddb38e62.htm">
+        <HelpTOCNode Id="53720131-0396-48cb-a3a4-d37d2b5682ef" Title="RazerAPI.Capabilities Fields" Url="html/99f97c1a-1a7c-8e78-51e1-ad34f40624f1.htm">
           <HelpTOCNode Title="BEVersion Field" Url="html/c7c2b4d9-281d-e2eb-41c8-03a7c4a7d4fa.htm" />
           <HelpTOCNode Title="DynamicKeyArrangement Field" Url="html/6680f95f-3b0e-7f98-638b-d18a04e4dab0.htm" />
           <HelpTOCNode Title="DynamicKeySize Field" Url="html/26033e14-8ad8-71ac-05ef-46a329a8fbbd.htm" />
@@ -1507,11 +1507,11 @@
       <HelpTOCNode Title="RazerAPI.GestureType Enumeration" Url="html/54a93e53-6024-5b10-88a6-ab9fca7016dc.htm" />
       <HelpTOCNode Title="RazerAPI.HardwareType Enumeration" Url="html/06e46030-a783-a2d1-3d53-3d3b4cadd401.htm" />
       <HelpTOCNode Title="RazerAPI.KeyboardCallbackFunctionDelegate Delegate" Url="html/e5a59d5d-dec8-c364-4142-4860ae9f992b.htm" />
-      <HelpTOCNode Id="51a9a535-0bc4-45a3-9c53-a60dbb467f10" Title="RazerAPI.NativeMethods Class" Url="html/058a1266-2bf4-5fd5-f0cb-59e6c01176a7.htm">
-        <HelpTOCNode Id="b8278ee5-f1fa-4cc8-92b5-9c25380133ba" Title="RazerAPI.NativeMethods Fields" Url="html/d6432c1d-ad1a-020a-a18b-a71353ffaf7e.htm">
+      <HelpTOCNode Id="94210f99-fcf0-46b9-b3d4-5c68c2db1f94" Title="RazerAPI.NativeMethods Class" Url="html/058a1266-2bf4-5fd5-f0cb-59e6c01176a7.htm">
+        <HelpTOCNode Id="6714fb2e-d7b1-4c88-b501-d0a1dc9aff06" Title="RazerAPI.NativeMethods Fields" Url="html/d6432c1d-ad1a-020a-a18b-a71353ffaf7e.htm">
           <HelpTOCNode Title="DllName Field" Url="html/8951c111-0abb-c97d-2363-bf6524421695.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="b73e7908-2d38-404b-99ca-3bd0ba4a500f" Title="RazerAPI.NativeMethods Methods" Url="html/6d1cd97b-2d49-bd1b-3544-90407dd1f352.htm">
+        <HelpTOCNode Id="54147fe9-d1c9-467a-97d3-ed2b5d5119e9" Title="RazerAPI.NativeMethods Methods" Url="html/6d1cd97b-2d49-bd1b-3544-90407dd1f352.htm">
           <HelpTOCNode Title="RzSBAppEventSetCallback Method " Url="html/b1708f4a-1b27-cd92-d784-21b6821cccf8.htm" />
           <HelpTOCNode Title="RzSBCaptureKeyboard Method " Url="html/f3139c04-11c6-eee2-6f15-caf7f42aa346.htm" />
           <HelpTOCNode Title="RzSBDynamicKeySetCallback Method " Url="html/660d3cf6-ec5f-fef4-8451-414455e411f2.htm" />
@@ -1528,8 +1528,8 @@
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="RazerAPI.PixelType Enumeration" Url="html/6f9e625a-3cd4-0300-e125-f27cf847bee9.htm" />
-      <HelpTOCNode Id="7312c2d4-abd6-440d-93d7-43d32c7bcec4" Title="RazerAPI.Point Structure" Url="html/a400ad60-4f23-c9ca-21e1-eb2257ae8e97.htm">
-        <HelpTOCNode Id="b0fc857e-737c-4095-b11f-335c42e74f0b" Title="RazerAPI.Point Fields" Url="html/872f27b8-98fc-e10f-fd13-cb91d0206ede.htm">
+      <HelpTOCNode Id="07efda84-3554-4c28-bc16-5517e6911790" Title="RazerAPI.Point Structure" Url="html/a400ad60-4f23-c9ca-21e1-eb2257ae8e97.htm">
+        <HelpTOCNode Id="e2fc3561-5e7f-4e19-8db3-b876c9843882" Title="RazerAPI.Point Fields" Url="html/872f27b8-98fc-e10f-fd13-cb91d0206ede.htm">
           <HelpTOCNode Title="X Field" Url="html/c5882f80-26cf-45c6-fba1-8d3d68646f4e.htm" />
           <HelpTOCNode Title="Y Field" Url="html/424f0961-f301-7758-6a61-57410e5a1994.htm" />
         </HelpTOCNode>
@@ -1538,17 +1538,17 @@
       <HelpTOCNode Title="RazerAPI.TargetDisplay Enumeration" Url="html/bc7c571b-3c12-c29c-194a-4b9bef2cc53b.htm" />
       <HelpTOCNode Title="RazerAPI.TouchpadGestureCallbackFunctionDelegate Delegate" Url="html/756999ef-39bf-d539-1f4c-8528f1b1a31a.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="4c0ec199-5e43-47c8-ba46-d1d64622eaee" Title="SharpBlade.Native.WinAPI Namespace" Url="html/f804a396-6751-5ad5-690b-ee6df664647e.htm">
-      <HelpTOCNode Id="80d26fde-7478-4b13-b9c8-e8bcc33cc340" Title="GDI32 Class" Url="html/a147bec9-3620-3ebc-0205-fd49d8f0a84c.htm">
-        <HelpTOCNode Id="2f829db8-de69-4902-8575-e683dbd3483a" Title="GDI32 Fields" Url="html/8ab95c3b-917c-788b-4925-a38f2203aee6.htm">
+    <HelpTOCNode Id="78037f90-b730-4b61-b04b-d500fbbf8afd" Title="SharpBlade.Native.WinAPI Namespace" Url="html/f804a396-6751-5ad5-690b-ee6df664647e.htm">
+      <HelpTOCNode Id="6e9cf70d-a86f-41ec-b5f0-5e0fb47f0fde" Title="GDI32 Class" Url="html/a147bec9-3620-3ebc-0205-fd49d8f0a84c.htm">
+        <HelpTOCNode Id="a89908fc-13f6-495d-8fd6-d2dab5105bea" Title="GDI32 Fields" Url="html/8ab95c3b-917c-788b-4925-a38f2203aee6.htm">
           <HelpTOCNode Title="SRCCOPY Field" Url="html/70e71e8f-14d4-b0a1-9d6d-421640a25b83.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="32fdb656-6099-489c-8b7d-1660048512dc" Title="GDI32.NativeMethods Class" Url="html/2e2bf8cc-dd8a-3cbd-9585-22689b03cad7.htm">
-        <HelpTOCNode Id="6a951ec1-ae51-4971-8428-8ac38d3ed649" Title="GDI32.NativeMethods Fields" Url="html/e26ed670-b3c7-8d12-85a4-3ff62b803af7.htm">
+      <HelpTOCNode Id="6c23cba8-7e4c-4706-b6ab-a7172e5b22b2" Title="GDI32.NativeMethods Class" Url="html/2e2bf8cc-dd8a-3cbd-9585-22689b03cad7.htm">
+        <HelpTOCNode Id="eeaa934f-32ae-4a80-ba6c-428aa5d245dc" Title="GDI32.NativeMethods Fields" Url="html/e26ed670-b3c7-8d12-85a4-3ff62b803af7.htm">
           <HelpTOCNode Title="DllName Field" Url="html/38f7da06-3b8b-ea83-abb1-f5488980cc3b.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="311c51a6-2a16-40e2-b4b7-d112c895c4a8" Title="GDI32.NativeMethods Methods" Url="html/401bbcb7-b056-b683-a5c7-8fbe27a9f7fe.htm">
+        <HelpTOCNode Id="f91305d2-2aec-432f-9447-aa40fbefa471" Title="GDI32.NativeMethods Methods" Url="html/401bbcb7-b056-b683-a5c7-8fbe27a9f7fe.htm">
           <HelpTOCNode Title="BitBlt Method " Url="html/923effa3-81c3-853f-a1de-e9ce60d37d43.htm" />
           <HelpTOCNode Title="CreateCompatibleBitmap Method " Url="html/831eca68-6e89-2cae-f862-acb9e41cb0b3.htm" />
           <HelpTOCNode Title="CreateCompatibleDC Method " Url="html/db7e015a-819d-4d73-03d1-81c38b77611a.htm" />
@@ -1557,26 +1557,26 @@
           <HelpTOCNode Title="SelectObject Method " Url="html/92cd1097-9046-ccee-b04c-dcdfcf20a8b9.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="36fd4fa0-cb61-41d2-a85f-db270aafbda9" Title="Kernel32 Class" Url="html/255b6cfa-3535-12dd-1778-c4987f52718c.htm">
-        <HelpTOCNode Id="9dd05914-c108-4ee2-9737-e6086aab8066" Title="Kernel32 Fields" Url="html/7e4ee006-eee6-3be2-ae65-9339efa6833f.htm">
+      <HelpTOCNode Id="a337e647-9fe7-48b6-bdc1-83acaa336ca1" Title="Kernel32 Class" Url="html/255b6cfa-3535-12dd-1778-c4987f52718c.htm">
+        <HelpTOCNode Id="3f92921b-a0cb-4d19-8917-f9a1536e71cb" Title="Kernel32 Fields" Url="html/7e4ee006-eee6-3be2-ae65-9339efa6833f.htm">
           <HelpTOCNode Title="CODE_PAGE Field" Url="html/33b0ad44-0554-b12a-e1d6-ca5a366477bf.htm" />
           <HelpTOCNode Title="STD_ERROR_HANDLE Field" Url="html/c271f696-8d52-c816-7c98-739647144446.htm" />
           <HelpTOCNode Title="STD_INPUT_HANDLE Field" Url="html/116e9f2b-958c-231b-96d7-8aaad0e3b35d.htm" />
           <HelpTOCNode Title="STD_OUTPUT_HANDLE Field" Url="html/8fc179d6-dff1-486a-f4fd-3535bfecae57.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="3eda3bb6-5540-4f3c-bc43-2e4a49c45a4b" Title="Kernel32.NativeMethods Class" Url="html/7985ba9c-1958-0d23-6d1c-ac1f64d59ceb.htm">
-        <HelpTOCNode Id="b6f84e52-d4c0-4c2a-ade1-72987430dd2c" Title="Kernel32.NativeMethods Fields" Url="html/63b773ac-71c5-8c06-fc37-376e3746f03c.htm">
+      <HelpTOCNode Id="429a36b3-1a2c-45a7-a7ff-98fbcb56ae30" Title="Kernel32.NativeMethods Class" Url="html/7985ba9c-1958-0d23-6d1c-ac1f64d59ceb.htm">
+        <HelpTOCNode Id="5d1f8caa-81e7-46f6-b637-60b9e6c05c9c" Title="Kernel32.NativeMethods Fields" Url="html/63b773ac-71c5-8c06-fc37-376e3746f03c.htm">
           <HelpTOCNode Title="DllName Field" Url="html/ca99fc92-ea18-e6fc-bb0d-3babeccebc4d.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="22c24a4c-0984-4aea-b3a7-edb7784ecd26" Title="Kernel32.NativeMethods Methods" Url="html/090efefe-8ba0-5290-e596-45ba5d867d2f.htm">
+        <HelpTOCNode Id="24585cec-792a-4805-9f1d-58a238e2d7f1" Title="Kernel32.NativeMethods Methods" Url="html/090efefe-8ba0-5290-e596-45ba5d867d2f.htm">
           <HelpTOCNode Title="AllocConsole Method " Url="html/4f928829-0edc-c94d-7c85-f462876c4bed.htm" />
           <HelpTOCNode Title="FreeConsole Method " Url="html/a9fe20b6-9a41-d7c1-b56c-e4c57247629b.htm" />
           <HelpTOCNode Title="GetStdHandle Method " Url="html/ee2bdf05-ad1d-db91-8957-71edf04acc3b.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="9a835136-1a25-4160-95ec-7e90c1e7f51c" Title="User32 Class" Url="html/bd71641f-8db2-4feb-8557-8771ace3b407.htm">
-        <HelpTOCNode Id="591886d0-4084-42a3-a939-cf748553eff5" Title="User32 Fields" Url="html/47b25062-e9ea-7163-196a-37e3082d3064.htm">
+      <HelpTOCNode Id="5e6bd0ee-0ac2-4340-a7ef-754152b8a698" Title="User32 Class" Url="html/bd71641f-8db2-4feb-8557-8771ace3b407.htm">
+        <HelpTOCNode Id="675a2033-415d-4228-853d-3ad26843c8c0" Title="User32 Fields" Url="html/47b25062-e9ea-7163-196a-37e3082d3064.htm">
           <HelpTOCNode Title="ESB_DISABLE_BOTH Field" Url="html/8d5491b1-0f5b-94b3-37d4-aa7c6ec10002.htm" />
           <HelpTOCNode Title="ESB_DISABLE_DOWN Field" Url="html/1afd505d-e72e-c20e-0fe9-98bc435300dc.htm" />
           <HelpTOCNode Title="ESB_DISABLE_LEFT Field" Url="html/2fe0c2cf-4883-dda1-fa7b-d315bcd7a063.htm" />
@@ -1594,11 +1594,11 @@
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="User32.MessageType Enumeration" Url="html/845438e5-7ddb-f5f5-b44e-5f55253fc007.htm" />
-      <HelpTOCNode Id="470bee8a-97a9-4313-b22c-32f39139ab81" Title="User32.NativeMethods Class" Url="html/0321904f-191b-ca49-e9ab-9c21937fd332.htm">
-        <HelpTOCNode Id="56dcf7bc-a940-4899-ac1f-72b51a275f48" Title="User32.NativeMethods Fields" Url="html/5b64f181-b747-a2dc-f865-cec4358772c1.htm">
+      <HelpTOCNode Id="c3d3818f-d246-42ea-9700-5d7b3336697d" Title="User32.NativeMethods Class" Url="html/0321904f-191b-ca49-e9ab-9c21937fd332.htm">
+        <HelpTOCNode Id="32ce6d2b-a055-49ee-ac28-0900f03d0f98" Title="User32.NativeMethods Fields" Url="html/5b64f181-b747-a2dc-f865-cec4358772c1.htm">
           <HelpTOCNode Title="DllName Field" Url="html/02f1978a-e66e-8925-8ac5-7f0d4abe6f69.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="0a814d67-b2ea-4450-9322-8021abb3da6a" Title="User32.NativeMethods Methods" Url="html/6c971054-fe65-3b25-9700-d5392968c140.htm">
+        <HelpTOCNode Id="a3ec6f16-4ce1-42b9-ae10-389cfcd3b3ed" Title="User32.NativeMethods Methods" Url="html/6c971054-fe65-3b25-9700-d5392968c140.htm">
           <HelpTOCNode Title="EnableScrollBar Method " Url="html/5da4374d-f189-c6ef-e57f-bed46ecf2db9.htm" />
           <HelpTOCNode Title="GetDesktopWindow Method " Url="html/27b6e1a4-4fed-3ed0-296c-61cc48c30a2e.htm" />
           <HelpTOCNode Title="GetKeyState Method " Url="html/cdc25c3c-1687-cfcf-3703-c8d0072f2386.htm" />
@@ -1610,8 +1610,8 @@
           <HelpTOCNode Title="ShowScrollBar Method " Url="html/2ede0a8a-af7e-94cc-a139-8a0344f7b04d.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="4b684f07-0b5e-4044-a638-e381cf60b0e4" Title="User32.Rect Structure" Url="html/928e187e-d6be-35f1-3ea1-5577c6846247.htm">
-        <HelpTOCNode Id="51f07e8e-c5af-457f-8ea9-2018b6c56461" Title="User32.Rect Fields" Url="html/8d6fb1fd-ff93-4d37-6858-631633112197.htm">
+      <HelpTOCNode Id="56af0867-80b7-43ad-bd5a-115452cc2052" Title="User32.Rect Structure" Url="html/928e187e-d6be-35f1-3ea1-5577c6846247.htm">
+        <HelpTOCNode Id="26a51ff2-43d1-4c4a-a782-a7a245169853" Title="User32.Rect Fields" Url="html/8d6fb1fd-ff93-4d37-6858-631633112197.htm">
           <HelpTOCNode Title="Bottom Field" Url="html/944bf627-2d41-6560-0ab2-45340f01d033.htm" />
           <HelpTOCNode Title="Left Field" Url="html/49f765ba-de31-f26a-97a1-0b01fa8a7657.htm" />
           <HelpTOCNode Title="Right Field" Url="html/795cdf00-c591-6e72-3dab-13cbf3b55784.htm" />
@@ -1621,18 +1621,18 @@
       </HelpTOCNode>
       <HelpTOCNode Title="User32.VirtualKey Enumeration" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="07ad6e55-c34b-4dc3-9ccc-8335449006f9" Title="SharpBlade.Razer Namespace" Url="html/a025943a-a616-cf34-b2f7-f67828a571b1.htm">
-      <HelpTOCNode Id="7b85b6f4-54e0-47eb-b7b1-21385e6fd13c" Title="DynamicKey Class" Url="html/9731810e-5696-1787-5e43-247a5387b455.htm">
+    <HelpTOCNode Id="df4309a5-ac5a-4ac2-9f89-0c77a9a114a4" Title="SharpBlade.Razer Namespace" Url="html/a025943a-a616-cf34-b2f7-f67828a571b1.htm">
+      <HelpTOCNode Id="f1da7b40-eda3-4690-87b5-d09da44bec8e" Title="DynamicKey Class" Url="html/9731810e-5696-1787-5e43-247a5387b455.htm">
         <HelpTOCNode Title="DynamicKey Constructor " Url="html/9cfe460e-9322-d7c5-b495-64cecc4dc176.htm" />
-        <HelpTOCNode Id="96856d56-7fed-4aec-ba3b-37915dee00f3" Title="DynamicKey Fields" Url="html/7166a042-c440-33d4-a881-638d8c0865b8.htm">
+        <HelpTOCNode Id="c19dd67f-bfb3-4063-ae85-7f9e348be2ed" Title="DynamicKey Fields" Url="html/7166a042-c440-33d4-a881-638d8c0865b8.htm">
           <HelpTOCNode Title="_log Field" Url="html/c05c1f30-bea6-3cd4-45dd-0bff15b7d630.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8e87e32b-c462-41b5-9c52-6a0ba74569b4" Title="DynamicKey Methods" Url="html/7833ff64-5393-8a93-7e26-83e6d7ca4ca1.htm">
+        <HelpTOCNode Id="db5494c9-b14b-43c8-ab6e-adc1849c9645" Title="DynamicKey Methods" Url="html/7833ff64-5393-8a93-7e26-83e6d7ca4ca1.htm">
           <HelpTOCNode Title="Disable Method " Url="html/769ef855-6e8f-bfeb-1932-e4b41c7a3dcb.htm" />
           <HelpTOCNode Title="OnPressed Method " Url="html/531ddb29-e0fb-06b6-9fed-ab15e2b36c51.htm" />
           <HelpTOCNode Title="Refresh Method " Url="html/920ebf86-81e5-5da7-6596-7c5af42893bc.htm" />
           <HelpTOCNode Title="SetDownImage Method " Url="html/e27efcfd-956a-f54c-cf3c-44838cd64c7c.htm" />
-          <HelpTOCNode Id="23352804-08c1-4ddc-b397-d7ebc93f35d1" Title="SetImage Method " Url="html/1a66678d-6d54-d22f-2dd1-0a364e9759fb.htm">
+          <HelpTOCNode Id="259988f8-8c7e-4c43-96fe-bff1fb69311a" Title="SetImage Method " Url="html/1a66678d-6d54-d22f-2dd1-0a364e9759fb.htm">
             <HelpTOCNode Title="SetImage Method (String)" Url="html/7123fc1f-5eae-f5a7-bc18-e2421d290854.htm" />
             <HelpTOCNode Title="SetImage Method (String, RazerAPI.DynamicKeyState)" Url="html/c23f6612-4c91-377a-c130-32be189d73cb.htm" />
           </HelpTOCNode>
@@ -1640,7 +1640,7 @@
           <HelpTOCNode Title="SetUpImage Method " Url="html/7a65c709-4dfd-3b0e-01bd-1c1890d08ee1.htm" />
           <HelpTOCNode Title="UpdateState Method " Url="html/50dc90b7-adfd-9e2f-aca9-ffdf2dca9b80.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="278adde6-a68a-42cc-81de-ef6ed2c2c168" Title="DynamicKey Properties" Url="html/f739dc33-dee9-4b54-9c1c-1ca62bab1f07.htm">
+        <HelpTOCNode Id="3a12064c-83fb-475a-a192-2aa4f7a91e90" Title="DynamicKey Properties" Url="html/f739dc33-dee9-4b54-9c1c-1ca62bab1f07.htm">
           <HelpTOCNode Title="DownImage Property " Url="html/c1081e11-74b5-4a5b-a10f-046265b0fd39.htm" />
           <HelpTOCNode Title="KeyType Property " Url="html/0261f922-6a11-b6fe-e7f5-6851ce38a3f9.htm" />
           <HelpTOCNode Title="PreviousState Property " Url="html/c572fb57-c9f6-22d7-9732-408bb1967718.htm" />
@@ -1648,14 +1648,14 @@
           <HelpTOCNode Title="State Property " Url="html/d97eba94-1c75-b842-da46-1f849e951ca5.htm" />
           <HelpTOCNode Title="UpImage Property " Url="html/3fb15503-5bd9-393e-be7b-023e23835f5e.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="b44d4d02-2730-4a78-846f-9597175b915b" Title="DynamicKey Events" Url="html/f0b441a4-cb15-dab0-0118-8bcd6717dd6c.htm">
+        <HelpTOCNode Id="f651d689-9d2e-46b5-ac0d-4a7b2aa2296a" Title="DynamicKey Events" Url="html/f0b441a4-cb15-dab0-0118-8bcd6717dd6c.htm">
           <HelpTOCNode Title="Pressed Event" Url="html/e3870df7-073b-e8ae-e453-399988619663.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="0ca7076d-9abd-4085-9d5a-fa32a3f8641e" Title="RazerManager Class" Url="html/6ea44481-e2ab-8e76-849f-5e04a8f8957a.htm">
+      <HelpTOCNode Id="46367c82-6171-4a78-b434-1dd7285564c0" Title="RazerManager Class" Url="html/6ea44481-e2ab-8e76-849f-5e04a8f8957a.htm">
         <HelpTOCNode Title="RazerManager Constructor " Url="html/a045946c-a662-5296-81a9-d34b399c874b.htm" />
         <HelpTOCNode Title="RazerManager Constructor " Url="html/b665881f-9a48-88d4-5df3-af981211e315.htm" />
-        <HelpTOCNode Id="5f3701e9-48c5-475b-98f4-c0e0bc15e268" Title="RazerManager Fields" Url="html/6cb67a80-d1a9-1194-8095-401f8b02030d.htm">
+        <HelpTOCNode Id="ce6a1b15-f6e1-4c9d-9042-0158b49164c4" Title="RazerManager Fields" Url="html/6cb67a80-d1a9-1194-8095-401f8b02030d.htm">
           <HelpTOCNode Title="_appEventCallback Field" Url="html/5ddce8e8-e4f7-741e-eeef-978ef4368e70.htm" />
           <HelpTOCNode Title="_disposed Field" Url="html/b4968b83-8908-a815-87f6-238b209b0a1f.htm" />
           <HelpTOCNode Title="_dynamicKeyCallback Field" Url="html/2a361dc9-5224-3ac8-4c73-a28bba5edd28.htm" />
@@ -1666,13 +1666,13 @@
           <HelpTOCNode Title="_log Field" Url="html/1814bfca-4bc1-eb03-5500-519971d38f20.htm" />
           <HelpTOCNode Title="KeyMapping Field" Url="html/66a6d7ba-48f6-074d-31c2-926d8d3555fe.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="83c6260c-7b9f-4738-90a0-1d78e18a11f2" Title="RazerManager Methods" Url="html/31aff458-7b32-2766-4961-52d911f8d5cd.htm">
+        <HelpTOCNode Id="c716117e-30c6-4747-ae11-497416bd0bd2" Title="RazerManager Methods" Url="html/31aff458-7b32-2766-4961-52d911f8d5cd.htm">
           <HelpTOCNode Title="DisableDynamicKey Method " Url="html/80f959bb-fb69-1960-b0f4-2415924a3a62.htm" />
-          <HelpTOCNode Id="f7fc99a3-b7ed-48ba-b712-f11a9fc9062e" Title="Dispose Method " Url="html/0f4a40ae-962b-7719-1bcb-3207ef18ec94.htm">
+          <HelpTOCNode Id="542ee4a0-f981-4d90-a44f-e6b4e72b797e" Title="Dispose Method " Url="html/0f4a40ae-962b-7719-1bcb-3207ef18ec94.htm">
             <HelpTOCNode Title="Dispose Method " Url="html/3568b7ca-85a9-0ca8-3a1d-1cb3cc76b24c.htm" />
             <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/9964c24d-a775-a8b4-b4d2-74f9c6aeb150.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="034c6840-16d5-41b4-bce6-c9d5b0deac6b" Title="EnableDynamicKey Method " Url="html/945d90f5-f51d-8be8-cc96-58980d66d549.htm">
+          <HelpTOCNode Id="12d20bee-4a86-4ac5-bef4-8f1f99cbe290" Title="EnableDynamicKey Method " Url="html/945d90f5-f51d-8be8-cc96-58980d66d549.htm">
             <HelpTOCNode Title="EnableDynamicKey Method (RazerAPI.DynamicKeyType, String, String, Boolean)" Url="html/f024a43e-4646-b6f9-dfc1-944692e9d8ef.htm" />
             <HelpTOCNode Title="EnableDynamicKey Method (RazerAPI.DynamicKeyType, EventHandler, String, String, Boolean)" Url="html/708c6595-de6b-1dc9-4c50-d82c412fa8ba.htm" />
           </HelpTOCNode>
@@ -1692,14 +1692,14 @@
           <HelpTOCNode Title="StartWPFControlKeyboardCapture Method " Url="html/96af1aec-cd53-b824-bdbc-2ff4307f7588.htm" />
           <HelpTOCNode Title="Stop Method " Url="html/0099cbc4-aaac-d070-6ce6-2b683cda6321.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="5095a4ed-6c06-445f-8adc-006240b934bb" Title="RazerManager Properties" Url="html/3a47748b-abef-b88f-dceb-d27da8e93d36.htm">
+        <HelpTOCNode Id="a341a54f-af7b-4f12-9e54-391bd0c811bb" Title="RazerManager Properties" Url="html/3a47748b-abef-b88f-dceb-d27da8e93d36.htm">
           <HelpTOCNode Title="BlankTouchpadImagePath Property " Url="html/2b1e264e-ce25-0e3d-06b0-615c303d3b4e.htm" />
           <HelpTOCNode Title="DisabledDynamicKeyImagePath Property " Url="html/f9234c02-d5ee-cf4c-d3a0-3a4d4abe6dac.htm" />
           <HelpTOCNode Title="Instance Property " Url="html/497ae7c3-981b-286d-9edb-e4cfb395c5c1.htm" />
           <HelpTOCNode Title="KeyboardCapture Property " Url="html/bc085e3b-71c0-a2a4-f0df-b863a4a8ae57.htm" />
           <HelpTOCNode Title="Touchpad Property " Url="html/d3055716-3f7a-5c06-32df-16cff39d9daf.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="77ef6198-9c1d-4f7d-a3c7-000d20fac590" Title="RazerManager Events" Url="html/06b80a07-5a9d-6d35-5f22-f6832d9133fa.htm">
+        <HelpTOCNode Id="32f5cfc8-c9fc-4c82-b127-c0e7671215dd" Title="RazerManager Events" Url="html/06b80a07-5a9d-6d35-5f22-f6832d9133fa.htm">
           <HelpTOCNode Title="AppEvent Event" Url="html/51893ec2-7829-386f-0d50-72be3de83c0b.htm" />
           <HelpTOCNode Title="DynamicKeyEvent Event" Url="html/5a4fdda0-5ec9-21e8-db4a-3ce999346843.htm" />
           <HelpTOCNode Title="KeyboardCharTyped Event" Url="html/a348b143-fd2a-fc0f-dcca-f4b462316b46.htm" />
@@ -1709,17 +1709,17 @@
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="RotateDirection Enumeration" Url="html/c30321b5-4f31-34f0-7c29-211aec5189e1.htm" />
-      <HelpTOCNode Id="1a848d41-bbaf-4f65-ac34-677c22767369" Title="Touchpad Class" Url="html/f0e02191-cec0-f67b-6142-f6b3faa00911.htm">
+      <HelpTOCNode Id="9adcc5c1-19cc-4f37-a719-804e4a1c0336" Title="Touchpad Class" Url="html/f0e02191-cec0-f67b-6142-f6b3faa00911.htm">
         <HelpTOCNode Title="Touchpad Constructor " Url="html/c3155e9a-9e59-81f4-d470-d9e8702f622b.htm" />
-        <HelpTOCNode Id="80c0a80f-fc98-4bcb-b969-200b5bc466ef" Title="Touchpad Fields" Url="html/2492b9a9-a518-4d6c-2ab8-98932ec4b24e.htm">
+        <HelpTOCNode Id="d7c9161b-a9c6-4994-a382-fdc1e5cc5e44" Title="Touchpad Fields" Url="html/2492b9a9-a518-4d6c-2ab8-98932ec4b24e.htm">
           <HelpTOCNode Title="_disposed Field" Url="html/6a0ce2eb-9417-6668-7abf-4ff5c1598ceb.htm" />
           <HelpTOCNode Title="_gestureCallback Field" Url="html/b1419ebf-617a-a2d3-f76a-cfbf0687c8dd.htm" />
           <HelpTOCNode Title="_instance Field" Url="html/dd8730fb-cc84-a010-8b58-462fea8c0936.htm" />
           <HelpTOCNode Title="_log Field" Url="html/eaf95eb2-2201-cb2a-b4f7-e85d8aa74672.htm" />
           <HelpTOCNode Title="_renderer Field" Url="html/1979650c-9f3e-2fa2-6ee4-92508e2c222c.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="9d29bbb5-e017-4a5a-93c5-c782b3b5a276" Title="Touchpad Methods" Url="html/b16effb9-06f8-ce38-8088-c09ccfd05074.htm">
-          <HelpTOCNode Id="8c024a2c-3dc0-4fda-80dd-ac1133f8c165" Title="Clear Method " Url="html/76723c8c-f897-d4e9-5007-f2dfee782734.htm">
+        <HelpTOCNode Id="5b906f71-6bb4-4252-926d-55a2359cad19" Title="Touchpad Methods" Url="html/b16effb9-06f8-ce38-8088-c09ccfd05074.htm">
+          <HelpTOCNode Id="63b05347-342c-44dd-9fad-a3e6b41c3ec4" Title="Clear Method " Url="html/76723c8c-f897-d4e9-5007-f2dfee782734.htm">
             <HelpTOCNode Title="Clear Method " Url="html/a915d309-17e2-939d-5daf-7c70460455ae.htm" />
             <HelpTOCNode Title="Clear Method (Boolean)" Url="html/d08858d1-5b5f-1879-b1d2-d71223824721.htm" />
           </HelpTOCNode>
@@ -1729,7 +1729,7 @@
           <HelpTOCNode Title="ClearWindow Method " Url="html/31c7a6a7-e410-8286-b9d9-a092d786b902.htm" />
           <HelpTOCNode Title="DisableGesture Method " Url="html/bec43e98-8f8d-eca9-d60d-1360a0d8c514.htm" />
           <HelpTOCNode Title="DisableOSGesture Method " Url="html/12546792-67f4-aaa1-93bc-ccbd6b3245c5.htm" />
-          <HelpTOCNode Id="dc6163ba-431c-449b-b83c-566d3d16c082" Title="Dispose Method " Url="html/8861a1b1-0462-18c2-ce00-d1f5285c9954.htm">
+          <HelpTOCNode Id="9d7f05b1-6c57-49ce-9fc2-cc9239f2a650" Title="Dispose Method " Url="html/8861a1b1-0462-18c2-ce00-d1f5285c9954.htm">
             <HelpTOCNode Title="Dispose Method " Url="html/c89f807a-ed12-8f30-bf6c-31c4d4d171f4.htm" />
             <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/ba6796dd-023e-21a6-1158-aeb22e16c0df.htm" />
           </HelpTOCNode>
@@ -1752,7 +1752,7 @@
           <HelpTOCNode Title="OnScroll Method " Url="html/6e82501c-56b2-7e19-baa9-2ad12f745035.htm" />
           <HelpTOCNode Title="OnTap Method " Url="html/c424a670-7dd0-c517-968f-06d4beeeadfe.htm" />
           <HelpTOCNode Title="OnZoom Method " Url="html/229be78c-510c-5c67-8f48-786d41f3c28d.htm" />
-          <HelpTOCNode Id="bf94f933-456d-4ddf-a6d5-9465c48127d7" Title="SetBitmapProvider Method " Url="html/cdafe80c-5780-1f93-bad4-764aab85728c.htm">
+          <HelpTOCNode Id="86a63265-81c4-4dc4-8dc2-005377025974" Title="SetBitmapProvider Method " Url="html/cdafe80c-5780-1f93-bad4-764aab85728c.htm">
             <HelpTOCNode Title="SetBitmapProvider Method (IBitmapProvider)" Url="html/2cae0f61-17aa-49eb-277a-c1455f1519fd.htm" />
             <HelpTOCNode Title="SetBitmapProvider Method (IBitmapProvider, TimeSpan)" Url="html/abb98c65-a1f4-ecb2-d4b5-9588ed581479.htm" />
           </HelpTOCNode>
@@ -1761,20 +1761,20 @@
           <HelpTOCNode Title="SetImage Method " Url="html/56468a78-d8f8-f5b3-a2d0-faa0b26683f3.htm" />
           <HelpTOCNode Title="SetNativeWindow Method " Url="html/5123b83a-1c8e-6e16-c2a0-5bffa627f932.htm" />
           <HelpTOCNode Title="SetOSGesture Method " Url="html/f07972e3-5b8e-20fb-0faa-77b08243f077.htm" />
-          <HelpTOCNode Id="602c6a8e-e7b8-48b6-9773-a78fb0d9f29a" Title="SetWindow Method " Url="html/d1d6bd92-fe90-ed1e-078c-ef759c68f73a.htm">
+          <HelpTOCNode Id="d74d56a8-0d68-4da9-83b9-f77524fdf46f" Title="SetWindow Method " Url="html/d1d6bd92-fe90-ed1e-078c-ef759c68f73a.htm">
             <HelpTOCNode Title="SetWindow Method (Window, Touchpad.RenderMethod)" Url="html/35d8ac27-9825-1d21-d3e4-1118b7808c6d.htm" />
             <HelpTOCNode Title="SetWindow Method (Window, Touchpad.RenderMethod, TimeSpan)" Url="html/35e32f7f-e00d-8afe-9f82-c037ffc6f2c3.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="WindowContentRenderedHandler Method " Url="html/ac90e02c-4c1e-8113-9ba9-301c4429f9e0.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="278370de-c6e3-4f6d-a732-490c1897c703" Title="Touchpad Properties" Url="html/02959559-f3a4-e0f1-5f69-0c9ac0d1d97e.htm">
+        <HelpTOCNode Id="f489da89-3ccc-40bf-aa87-df2632236cf9" Title="Touchpad Properties" Url="html/02959559-f3a4-e0f1-5f69-0c9ac0d1d97e.htm">
           <HelpTOCNode Title="CurrentForm Property " Url="html/f4521890-7189-7d9b-43bb-b27335723f1e.htm" />
           <HelpTOCNode Title="CurrentImage Property " Url="html/8aa5262f-c149-e227-fa7e-3bfba86c9412.htm" />
           <HelpTOCNode Title="CurrentNativeWindow Property " Url="html/1cb77932-c8a8-9cfa-d4d1-9fbd105a37cb.htm" />
           <HelpTOCNode Title="CurrentWindow Property " Url="html/138d53d6-43af-07b1-2b40-edec81ae0737.htm" />
           <HelpTOCNode Title="Instance Property " Url="html/f5c02cdc-e314-13ab-6e04-8221dfb57394.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="cad639e9-68b9-4a0f-ad7c-ee276553cb97" Title="Touchpad Events" Url="html/eecc8d26-9e69-2888-1a3d-9ca1675b0b02.htm">
+        <HelpTOCNode Id="69e28fd4-81bc-4f40-9e87-f14388b10b25" Title="Touchpad Events" Url="html/eecc8d26-9e69-2888-1a3d-9ca1675b0b02.htm">
           <HelpTOCNode Title="Flick Event" Url="html/76908a00-65ab-a381-7d4c-cec39bcf0ae1.htm" />
           <HelpTOCNode Title="Gesture Event" Url="html/729e43be-e384-6a4e-7dee-9ed528b9a066.htm" />
           <HelpTOCNode Title="Hold Event" Url="html/85f74b25-c514-667a-b33e-efcebbb61ac6.htm" />
@@ -1790,35 +1790,35 @@
       <HelpTOCNode Title="Touchpad.RenderMethod Enumeration" Url="html/d58af16c-420a-fbfe-7388-2ed3b458b3da.htm" />
       <HelpTOCNode Title="ZoomDirection Enumeration" Url="html/b2250f9c-350b-e2f7-210b-a0accde0a5e9.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="ea7b5487-8efc-494b-963f-e9a0601124e7" Title="SharpBlade.Razer.Events Namespace" Url="html/68f285af-f880-d689-9e05-6b035f9c77d8.htm">
-      <HelpTOCNode Id="b2af161a-da65-4f60-abc4-f23b9512e5b6" Title="AppEventEventArgs Class" Url="html/9d0af52e-557a-3c25-5864-e2e272ae8254.htm">
+    <HelpTOCNode Id="424fe712-4f0a-4d48-86f4-c479928c665b" Title="SharpBlade.Razer.Events Namespace" Url="html/68f285af-f880-d689-9e05-6b035f9c77d8.htm">
+      <HelpTOCNode Id="f13c26fa-20ee-45d0-a65f-8662a4a05d8e" Title="AppEventEventArgs Class" Url="html/9d0af52e-557a-3c25-5864-e2e272ae8254.htm">
         <HelpTOCNode Title="AppEventEventArgs Constructor " Url="html/d3a352a7-be10-8c2d-f4e4-cf68e7d2aa41.htm" />
-        <HelpTOCNode Id="015b5089-135a-4dfa-b4a8-e40df87be91a" Title="AppEventEventArgs Fields" Url="html/848adf91-0d96-845f-065a-404fc139d1ea.htm">
+        <HelpTOCNode Id="2139acb3-ec6f-44e9-a9c5-7072b4d32406" Title="AppEventEventArgs Fields" Url="html/848adf91-0d96-845f-065a-404fc139d1ea.htm">
           <HelpTOCNode Title="Mode Field" Url="html/e04f5568-c661-9a8f-78e0-6512d9bc8fab.htm" />
           <HelpTOCNode Title="ProcessID Field" Url="html/cc787aa9-92f1-9a61-f2b4-f6b96f21acfb.htm" />
           <HelpTOCNode Title="Type Field" Url="html/80d0360a-1a81-9c3e-4bee-df3161263e8e.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="AppEventEventArgs Methods" Url="html/f87a035a-79af-2121-18b7-cc2463b9e026.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="41ef48ed-3db6-4992-b6f3-911306ce3e8f" Title="DynamicKeyEventArgs Class" Url="html/f3d2c911-83e9-6356-c218-988e2b317712.htm">
+      <HelpTOCNode Id="e9b615df-abdd-4fbd-bbbd-e3984b260599" Title="DynamicKeyEventArgs Class" Url="html/f3d2c911-83e9-6356-c218-988e2b317712.htm">
         <HelpTOCNode Title="DynamicKeyEventArgs Constructor " Url="html/2f37ffc0-e5ac-8884-b1ed-cdc00c002fc2.htm" />
-        <HelpTOCNode Id="74cff076-a786-410f-9857-f048ebc18521" Title="DynamicKeyEventArgs Fields" Url="html/18239b06-6eb5-d181-694a-28f315e9b1f8.htm">
+        <HelpTOCNode Id="410ee128-ccc6-47dc-9186-eac0424f3423" Title="DynamicKeyEventArgs Fields" Url="html/18239b06-6eb5-d181-694a-28f315e9b1f8.htm">
           <HelpTOCNode Title="KeyType Field" Url="html/ca26e5b8-1871-53ae-5ac9-0e0ec2565419.htm" />
           <HelpTOCNode Title="State Field" Url="html/7b18c686-b47a-b713-743a-7f5d637fa68a.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="DynamicKeyEventArgs Methods" Url="html/661e22df-b208-578f-387d-8f9ea03c39a8.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="7bfb7115-05d5-48f7-a033-fdabf5e290cb" Title="FlickEventArgs Class" Url="html/b04b413b-8aff-5df3-e9d0-b404f736d124.htm">
+      <HelpTOCNode Id="2e54a214-cf35-4c4b-bffe-ad207ec1a161" Title="FlickEventArgs Class" Url="html/b04b413b-8aff-5df3-e9d0-b404f736d124.htm">
         <HelpTOCNode Title="FlickEventArgs Constructor " Url="html/e5ab6aa7-fc5c-8509-5fdc-b481fd85cd23.htm" />
-        <HelpTOCNode Id="d8aef077-32f2-4b6e-abed-d6ea4c3fda06" Title="FlickEventArgs Fields" Url="html/30f1ba52-bfcf-2fa4-edcc-299bc28f0e00.htm">
+        <HelpTOCNode Id="6091157e-42b4-4ccd-9515-f895f76cf67d" Title="FlickEventArgs Fields" Url="html/30f1ba52-bfcf-2fa4-edcc-299bc28f0e00.htm">
           <HelpTOCNode Title="Direction Field" Url="html/872830cb-07e7-ca40-b1a5-aa18cf794a75.htm" />
           <HelpTOCNode Title="TouchpointCount Field" Url="html/d01cdf60-2b25-7130-d704-9565c799063e.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="FlickEventArgs Methods" Url="html/f708dae0-e55f-af60-532f-754e6ffb5180.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="4617e1cb-4282-4155-84d2-7aaa334e40e0" Title="GestureEventArgs Class" Url="html/bfafc63b-ae6c-43f0-e8de-8b513ce26416.htm">
+      <HelpTOCNode Id="0e8782b8-64e2-4f56-8558-ee54930e28f9" Title="GestureEventArgs Class" Url="html/bfafc63b-ae6c-43f0-e8de-8b513ce26416.htm">
         <HelpTOCNode Title="GestureEventArgs Constructor " Url="html/87f865f3-4b23-a171-32cf-8c7ebf341426.htm" />
-        <HelpTOCNode Id="d1320591-f29d-488e-b043-856b739dde89" Title="GestureEventArgs Fields" Url="html/e2a5a075-dfde-f679-b9de-20396060a1a9.htm">
+        <HelpTOCNode Id="89f6ef42-1e6a-4593-ab95-f1fd4983f4e9" Title="GestureEventArgs Fields" Url="html/e2a5a075-dfde-f679-b9de-20396060a1a9.htm">
           <HelpTOCNode Title="GestureType Field" Url="html/6d6636f0-226e-7c22-6775-d09a0e3620ec.htm" />
           <HelpTOCNode Title="Parameter Field" Url="html/cdf1f47c-4121-9210-c258-5c902dd58c00.htm" />
           <HelpTOCNode Title="X Field" Url="html/0206f505-5fdb-f5ea-685c-ec7b5b49dbb0.htm" />
@@ -1827,16 +1827,16 @@
         </HelpTOCNode>
         <HelpTOCNode Title="GestureEventArgs Methods" Url="html/5ef79b05-098e-07f4-cae6-6a9ab04c88b6.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="03f917c5-d407-4ed2-949e-a1ca13594a0f" Title="KeyboardCharEventArgs Class" Url="html/f9105313-7e0d-589f-8720-377aee6d64a2.htm">
+      <HelpTOCNode Id="6a67b121-7ee1-47c8-8967-1f784b431711" Title="KeyboardCharEventArgs Class" Url="html/f9105313-7e0d-589f-8720-377aee6d64a2.htm">
         <HelpTOCNode Title="KeyboardCharEventArgs Constructor " Url="html/4aa81811-c391-7277-dd6c-1deab10fc5bb.htm" />
-        <HelpTOCNode Id="40e35c79-3363-4430-be32-c4f09aae583d" Title="KeyboardCharEventArgs Fields" Url="html/4a8b87cb-33a1-e666-0000-8f6d503dc781.htm">
+        <HelpTOCNode Id="fa2dd060-8b89-4b7f-847f-80d8f0241d2d" Title="KeyboardCharEventArgs Fields" Url="html/4a8b87cb-33a1-e666-0000-8f6d503dc781.htm">
           <HelpTOCNode Title="Character Field" Url="html/72ea8480-082c-1533-5156-edf8d150668d.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="KeyboardCharEventArgs Methods" Url="html/14e2c980-7f15-2d1a-fa33-4ef934ac8140.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="13de275a-12c0-46fa-8379-1a1815fcccb4" Title="KeyboardKeyEventArgs Class" Url="html/2ed89877-2639-771a-6682-87ecc9943a1f.htm">
+      <HelpTOCNode Id="93d1a307-4824-44f5-a7a9-727118559495" Title="KeyboardKeyEventArgs Class" Url="html/2ed89877-2639-771a-6682-87ecc9943a1f.htm">
         <HelpTOCNode Title="KeyboardKeyEventArgs Constructor " Url="html/fd8613e2-adfc-6888-ee63-d20af144cab0.htm" />
-        <HelpTOCNode Id="02d83c1d-8b7c-46c9-bb53-b9ad0573e75a" Title="KeyboardKeyEventArgs Fields" Url="html/099ce5e0-eef9-12c4-34d9-25e599a37469.htm">
+        <HelpTOCNode Id="be7545a9-334e-4bcc-8fb5-20f45a53ed95" Title="KeyboardKeyEventArgs Fields" Url="html/099ce5e0-eef9-12c4-34d9-25e599a37469.htm">
           <HelpTOCNode Title="AltPressed Field" Url="html/aa2debde-67b2-2f29-3e48-eaf10a13cd11.htm" />
           <HelpTOCNode Title="CapsLockActive Field" Url="html/59c398ee-c33b-016f-e010-84c0fbc51593.htm" />
           <HelpTOCNode Title="ControlPressed Field" Url="html/40b22890-8190-8d0e-54e4-972dd09924d2.htm" />
@@ -1846,73 +1846,73 @@
         </HelpTOCNode>
         <HelpTOCNode Title="KeyboardKeyEventArgs Methods" Url="html/25ea71de-fb00-b579-0082-5b9d52101151.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="cee5ef32-f117-44c8-9e12-6a8a9292f6c8" Title="KeyboardRawEventArgs Class" Url="html/aa71ac2e-ba1d-74bc-dd9f-4866bb202c3a.htm">
+      <HelpTOCNode Id="b44d70e4-8cdd-4a73-9f0c-0cec31bd7d50" Title="KeyboardRawEventArgs Class" Url="html/aa71ac2e-ba1d-74bc-dd9f-4866bb202c3a.htm">
         <HelpTOCNode Title="KeyboardRawEventArgs Constructor " Url="html/75bcbc42-a6ce-b4d2-202c-6030e4d85dc6.htm" />
-        <HelpTOCNode Id="11921d2b-fc42-4e74-9c2a-bd4bcdfdc9a6" Title="KeyboardRawEventArgs Fields" Url="html/9eba8975-aea0-7539-9564-6e59d9dfaf70.htm">
+        <HelpTOCNode Id="b3c6d93a-5dc5-411a-b052-d99575d7fb36" Title="KeyboardRawEventArgs Fields" Url="html/9eba8975-aea0-7539-9564-6e59d9dfaf70.htm">
           <HelpTOCNode Title="Data Field" Url="html/a5fb79b8-20b4-db7a-e074-be5fb8fea5f6.htm" />
           <HelpTOCNode Title="Modifiers Field" Url="html/0538b329-5fd2-4ff6-6c9c-15f94fcf282a.htm" />
           <HelpTOCNode Title="Type Field" Url="html/8d0def71-80f2-d08a-1467-6d30c3546054.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="KeyboardRawEventArgs Methods" Url="html/484585f4-0115-f359-f39c-eb4670df87b7.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="540c1e8f-c92a-4de9-94d1-9ed0b41759de" Title="MoveEventArgs Class" Url="html/3ecd0f79-1cad-3a49-5772-d5df5ad562a7.htm">
+      <HelpTOCNode Id="5a945da5-97aa-4b92-8c4f-d48fa98b5137" Title="MoveEventArgs Class" Url="html/3ecd0f79-1cad-3a49-5772-d5df5ad562a7.htm">
         <HelpTOCNode Title="MoveEventArgs Constructor " Url="html/20e5961b-adae-08ba-1a72-205b0c58a78d.htm" />
-        <HelpTOCNode Id="2c9fe742-9d60-4ea9-8f9c-487521b8fcc2" Title="MoveEventArgs Fields" Url="html/24f99f70-0838-708d-f92e-2d8b4769ffbc.htm">
+        <HelpTOCNode Id="31214c58-5fd1-4c2f-9887-8ee902a28745" Title="MoveEventArgs Fields" Url="html/24f99f70-0838-708d-f92e-2d8b4769ffbc.htm">
           <HelpTOCNode Title="X Field" Url="html/c88b9e89-ac34-1466-7f4e-06b315ac99fb.htm" />
           <HelpTOCNode Title="Y Field" Url="html/09b7cddb-6833-c4d0-df07-54def9864296.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="MoveEventArgs Methods" Url="html/5804fe9d-3364-3e71-cce4-1d3956a68d34.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3c1b2b5c-3912-45d7-bf59-15fed25b09c7" Title="PressEventArgs Class" Url="html/6a9fe7e9-8295-43cb-d003-f1d1163251b3.htm">
+      <HelpTOCNode Id="196cd3a4-4494-4242-9daa-86d36808d577" Title="PressEventArgs Class" Url="html/6a9fe7e9-8295-43cb-d003-f1d1163251b3.htm">
         <HelpTOCNode Title="PressEventArgs Constructor " Url="html/df157e4f-b847-3b7c-1130-9756a3a31e5f.htm" />
-        <HelpTOCNode Id="ab8d39f9-6eb4-4f87-a807-5e8e9d202f64" Title="PressEventArgs Fields" Url="html/15a0d9da-a6ed-b224-4faf-0076396ec5ac.htm">
+        <HelpTOCNode Id="bd28b9c1-a5b5-44ab-8e10-841bf386def3" Title="PressEventArgs Fields" Url="html/15a0d9da-a6ed-b224-4faf-0076396ec5ac.htm">
           <HelpTOCNode Title="TouchpointCount Field" Url="html/33540f95-71ef-4089-ccc2-0d7e859b6772.htm" />
           <HelpTOCNode Title="X Field" Url="html/cb350092-8544-58a5-f199-bfad825d8b12.htm" />
           <HelpTOCNode Title="Y Field" Url="html/fb552a82-7502-028a-1302-afc3eb7961dc.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="PressEventArgs Methods" Url="html/908538db-f3c0-a680-1cee-fbe79c2417ba.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="0bd69acf-b8fe-480c-8733-f6e1aabb3716" Title="ReleaseEventArgs Class" Url="html/7be9bb6b-59d7-94b4-dcbc-3083a233abfe.htm">
+      <HelpTOCNode Id="3f1b4fc5-19b1-4144-a276-698715f23eb0" Title="ReleaseEventArgs Class" Url="html/7be9bb6b-59d7-94b4-dcbc-3083a233abfe.htm">
         <HelpTOCNode Title="ReleaseEventArgs Constructor " Url="html/f05dedad-a457-afdd-d0e2-7316d1c0ad3d.htm" />
-        <HelpTOCNode Id="98a6fe57-3540-4aa2-acda-e9b3592305b1" Title="ReleaseEventArgs Fields" Url="html/0aad3113-7b03-1e31-76b3-8582c5087583.htm">
+        <HelpTOCNode Id="649bd98a-716f-4a4b-8411-41927254fcb6" Title="ReleaseEventArgs Fields" Url="html/0aad3113-7b03-1e31-76b3-8582c5087583.htm">
           <HelpTOCNode Title="TouchpointCount Field" Url="html/ed72e0ab-349c-2d4b-0790-18595f2565d0.htm" />
           <HelpTOCNode Title="X Field" Url="html/fb4d043d-ce4e-5d97-d9f5-b100dc01f1a7.htm" />
           <HelpTOCNode Title="Y Field" Url="html/5b4c1f53-6369-30aa-c06e-4d4be65c5b26.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ReleaseEventArgs Methods" Url="html/c9ae81bc-11b8-86a2-c916-3bab1ac3aee8.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="29cd1a43-5554-4205-a0a1-c8589f30029e" Title="RotateEventArgs Class" Url="html/f7868cee-14fe-c48b-1fc8-8951a9667db4.htm">
+      <HelpTOCNode Id="0332f2f0-816e-4692-afe8-e31506f6856c" Title="RotateEventArgs Class" Url="html/f7868cee-14fe-c48b-1fc8-8951a9667db4.htm">
         <HelpTOCNode Title="RotateEventArgs Constructor " Url="html/36015602-3608-0e9d-fc2d-20f60876cd90.htm" />
-        <HelpTOCNode Id="c1bc531e-0dd7-4da8-867a-7679cd4a15fb" Title="RotateEventArgs Fields" Url="html/72ad2cc2-66e0-7240-3d51-afb78eea67f8.htm">
+        <HelpTOCNode Id="c52d2fb8-76c2-4edf-b3f0-c200570addcd" Title="RotateEventArgs Fields" Url="html/72ad2cc2-66e0-7240-3d51-afb78eea67f8.htm">
           <HelpTOCNode Title="Direction Field" Url="html/d86d5304-a933-85e9-2751-5f7a81668f06.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="RotateEventArgs Methods" Url="html/79d9d79c-45e6-8912-f0b4-12793a2cb47e.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c4431e9c-b386-44c5-83a1-be61eaeba9d5" Title="TapEventArgs Class" Url="html/a1b9cf34-663b-139c-7f9f-35171e108c8b.htm">
+      <HelpTOCNode Id="253270dc-1695-4e5a-97c3-f1505bfa8533" Title="TapEventArgs Class" Url="html/a1b9cf34-663b-139c-7f9f-35171e108c8b.htm">
         <HelpTOCNode Title="TapEventArgs Constructor " Url="html/c295c0a5-d6cf-9496-a059-789ecd96370a.htm" />
-        <HelpTOCNode Id="6394b127-7878-4360-8183-a651debe5afb" Title="TapEventArgs Fields" Url="html/a41c1b88-20f4-4207-f161-19773ad1c914.htm">
+        <HelpTOCNode Id="eaac8e24-ebd1-4ffe-b60a-39126ac3a2af" Title="TapEventArgs Fields" Url="html/a41c1b88-20f4-4207-f161-19773ad1c914.htm">
           <HelpTOCNode Title="X Field" Url="html/72604600-dc04-772d-ba86-f053f1d1a484.htm" />
           <HelpTOCNode Title="Y Field" Url="html/7d723a42-c256-4abd-ae11-b09803230502.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="TapEventArgs Methods" Url="html/b120f5c2-609a-b773-1857-a6e88cfe7802.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a9bfaaba-5b18-409e-9ab8-9df93576e06b" Title="ZoomEventArgs Class" Url="html/4300012f-d109-f87c-e69d-59a1916121ea.htm">
+      <HelpTOCNode Id="14032161-9d95-43bd-890b-e7f694f57d15" Title="ZoomEventArgs Class" Url="html/4300012f-d109-f87c-e69d-59a1916121ea.htm">
         <HelpTOCNode Title="ZoomEventArgs Constructor " Url="html/b7b274d2-c0c5-6e66-9f1d-3bda55a54843.htm" />
-        <HelpTOCNode Id="67b2410f-8316-420e-af11-7c43a4567d1c" Title="ZoomEventArgs Fields" Url="html/4b1ebcbc-e9d3-a012-582f-d5832a7d6a79.htm">
+        <HelpTOCNode Id="5e5fa592-c0f0-47ca-914b-0bff1c06b7eb" Title="ZoomEventArgs Fields" Url="html/4b1ebcbc-e9d3-a012-582f-d5832a7d6a79.htm">
           <HelpTOCNode Title="Direction Field" Url="html/86e69d75-823c-e877-7cb6-ab846fea4efe.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ZoomEventArgs Methods" Url="html/31f1d4ae-74ca-b95d-e623-1832d3afdd17.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e582b67e-9dc3-4da3-b75b-fb678928accf" Title="SharpBlade.Razer.Exceptions Namespace" Url="html/bedab78b-f41c-9182-296e-89f67e8fe657.htm">
-      <HelpTOCNode Id="dde5d5f4-91c9-46e2-8d00-a65ff289cf48" Title="RazerDynamicKeyException Class" Url="html/7f27340a-095b-5e87-b767-93e8332fa627.htm">
+    <HelpTOCNode Id="073d9c29-b008-48b7-a4dd-8e6dcb8ebcbd" Title="SharpBlade.Razer.Exceptions Namespace" Url="html/bedab78b-f41c-9182-296e-89f67e8fe657.htm">
+      <HelpTOCNode Id="bef7b03a-f8c7-4ef8-820b-b1de53173edc" Title="RazerDynamicKeyException Class" Url="html/7f27340a-095b-5e87-b767-93e8332fa627.htm">
         <HelpTOCNode Title="RazerDynamicKeyException Constructor " Url="html/d392e13a-0605-d7be-1265-c37568db715f.htm" />
         <HelpTOCNode Title="RazerDynamicKeyException Methods" Url="html/e728682b-bee6-1266-512b-327c72bb443e.htm" />
         <HelpTOCNode Title="RazerDynamicKeyException Properties" Url="html/92dc1406-0ce1-56d4-74b5-1111edcc0237.htm" />
         <HelpTOCNode Title="RazerDynamicKeyException Events" Url="html/01037ad4-67f2-267f-7a71-d5d9f86d924a.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="aa6c31fc-2ed9-45d6-b6e3-3172521fefab" Title="RazerException Class" Url="html/6b249273-86f9-68f8-f63b-51aa056ce31a.htm">
-        <HelpTOCNode Id="b3746def-f77e-4a1a-a863-cf44edfddf8b" Title="RazerException Constructor " Url="html/d096c5c4-cf51-8967-bf0a-568980762642.htm">
+      <HelpTOCNode Id="d4ea08fe-ac85-4638-b52d-517a6918011b" Title="RazerException Class" Url="html/6b249273-86f9-68f8-f63b-51aa056ce31a.htm">
+        <HelpTOCNode Id="20c7b22e-a48c-4280-9f3f-3c4cd1a4cc29" Title="RazerException Constructor " Url="html/d096c5c4-cf51-8967-bf0a-568980762642.htm">
           <HelpTOCNode Title="RazerException Constructor (SerializationInfo, StreamingContext)" Url="html/70a1f2d6-65bc-aeab-0e62-661ebc3b0216.htm" />
           <HelpTOCNode Title="RazerException Constructor (String, Exception)" Url="html/b086bb9a-1e77-46c0-d216-bd6b2be1dbca.htm" />
         </HelpTOCNode>
@@ -1920,16 +1920,16 @@
         <HelpTOCNode Title="RazerException Properties" Url="html/c6a12622-becb-8a80-d933-13e0558f77b3.htm" />
         <HelpTOCNode Title="RazerException Events" Url="html/aa1ddb93-03b6-9416-22a0-a2b3342d5f9c.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="83468b03-36c2-43de-a076-4676aa14aca6" Title="RazerNativeException Class" Url="html/db796a9e-f2e3-5caf-abb4-573d647b73d4.htm">
-        <HelpTOCNode Id="34b6f39d-911e-4a81-a919-097c97bd2b1c" Title="RazerNativeException Constructor " Url="html/6fda196f-7c67-62b9-c1a2-46efd30344c6.htm">
+      <HelpTOCNode Id="1f3bb695-4835-4b8c-880c-ae7b1fe8d0f2" Title="RazerNativeException Class" Url="html/db796a9e-f2e3-5caf-abb4-573d647b73d4.htm">
+        <HelpTOCNode Id="ea01da8f-6076-45d5-83b9-620725e05ebe" Title="RazerNativeException Constructor " Url="html/6fda196f-7c67-62b9-c1a2-46efd30344c6.htm">
           <HelpTOCNode Title="RazerNativeException Constructor (SerializationInfo, StreamingContext)" Url="html/fe4baee0-f17a-569b-0e08-fc9b2fb9bd81.htm" />
           <HelpTOCNode Title="RazerNativeException Constructor (String, HRESULT)" Url="html/13f66752-c87b-9dee-9763-63bf04cae8e6.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="ec7751ed-de45-44ab-80c4-8858f2519677" Title="RazerNativeException Fields" Url="html/9601d687-b266-65ab-4766-c0dc2ec5f247.htm">
+        <HelpTOCNode Id="2e57d33f-103b-492f-a26d-0a32cfca9998" Title="RazerNativeException Fields" Url="html/9601d687-b266-65ab-4766-c0dc2ec5f247.htm">
           <HelpTOCNode Title="Function Field" Url="html/cab4c419-6040-aece-c323-f55779ccb074.htm" />
           <HelpTOCNode Title="Hresult Field" Url="html/6b8f1e7a-7a59-c51c-b62c-2d54fc27c739.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="d549e937-7f3f-4617-9b0c-425a60f96775" Title="RazerNativeException Methods" Url="html/493a09ec-00c5-cfba-0103-5700c97c8a81.htm">
+        <HelpTOCNode Id="421ef41a-387c-4224-b85c-7dcc0b65b68b" Title="RazerNativeException Methods" Url="html/493a09ec-00c5-cfba-0103-5700c97c8a81.htm">
           <HelpTOCNode Title="GetObjectData Method " Url="html/000dc3d7-e494-de9f-b6ad-465f97329285.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="RazerNativeException Properties" Url="html/ccf2b931-5cb0-538b-6ad0-f42baf3a6440.htm" />
