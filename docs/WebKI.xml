@@ -308,8 +308,8 @@
   <HelpKINode Title="CONTEXT_E_WOULD_DEADLOCK field" Url="html/0e639674-7241-fce3-f1bf-bb6d88df8e3f.htm" />
   <HelpKINode Title="CONTEXT_S_FIRST field" Url="html/4fba8714-6a74-0047-8b6f-7fa172d1f35e.htm" />
   <HelpKINode Title="CONTEXT_S_LAST field" Url="html/f9d4bb81-357d-e6d0-3f29-3129db1b39e5.htm" />
-  <HelpKINode Title="Control enumeration member" Url="html/660ab2a0-821d-8cd1-8c2b-5eacb4068e29.htm" />
   <HelpKINode Title="CONTROL enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
+  <HelpKINode Title="Control enumeration member" Url="html/660ab2a0-821d-8cd1-8c2b-5eacb4068e29.htm" />
   <HelpKINode Title="Control field" Url="html/384ef47e-238c-b96f-6481-fce86aa407f0.htm" />
   <HelpKINode Title="ControlPressed field" Url="html/40b22890-8190-8d0e-54e4-972dd09924d2.htm" />
   <HelpKINode Title="CONVERT enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
@@ -682,8 +682,8 @@
   <HelpKINode Title="DynamicKey class">
     <HelpKINode Title="DynamicKey Class" Url="html/9731810e-5696-1787-5e43-247a5387b455.htm" />
     <HelpKINode Title="about DynamicKey class" Url="html/9731810e-5696-1787-5e43-247a5387b455.htm" />
-    <HelpKINode Title="constructor" Url="html/9cfe460e-9322-d7c5-b495-64cecc4dc176.htm" />
     <HelpKINode Title="constructor" Url="html/81c920e7-4f3f-6ec7-2173-2261de888b8a.htm" />
+    <HelpKINode Title="constructor" Url="html/9cfe460e-9322-d7c5-b495-64cecc4dc176.htm" />
     <HelpKINode Title="events" Url="html/f0b441a4-cb15-dab0-0118-8bcd6717dd6c.htm" />
     <HelpKINode Title="fields" Url="html/7166a042-c440-33d4-a881-638d8c0865b8.htm" />
     <HelpKINode Title="methods" Url="html/7833ff64-5393-8a93-7e26-83e6d7ca4ca1.htm" />
@@ -767,8 +767,8 @@
   <HelpKINode Title="EnumerationExtensions.Value class">
     <HelpKINode Title="EnumerationExtensions.Value Class" Url="html/d9ddcc44-1096-a867-0b7f-5e33c914455d.htm" />
     <HelpKINode Title="about EnumerationExtensions.Value class" Url="html/d9ddcc44-1096-a867-0b7f-5e33c914455d.htm" />
-    <HelpKINode Title="constructor" Url="html/0536ac3a-b324-fd63-8ce0-e4f35413ea92.htm" />
     <HelpKINode Title="constructor" Url="html/968bb64d-ace4-fa0d-2702-14f691ed9eee.htm" />
+    <HelpKINode Title="constructor" Url="html/0536ac3a-b324-fd63-8ce0-e4f35413ea92.htm" />
     <HelpKINode Title="fields" Url="html/400fcae6-ac5e-e4b1-e75f-4004eb55ec46.htm" />
     <HelpKINode Title="methods" Url="html/005d87aa-dc80-32f5-0b67-3d972498a96b.htm" />
   </HelpKINode>
@@ -777,8 +777,8 @@
   <HelpKINode Title="EnumerationExtensions.Value.Signed field" Url="html/d68cdb66-60e2-2d8a-d0e1-e3cc0461d7a3.htm" />
   <HelpKINode Title="EnumerationExtensions.Value.Unsigned field" Url="html/5d3a0a00-562d-e1c8-3466-4c31ef1a0d8c.htm" />
   <HelpKINode Title="EnumerationExtensions.Value.Value constructor">
-    <HelpKINode Title="EnumerationExtensions.Value Constructor " Url="html/968bb64d-ace4-fa0d-2702-14f691ed9eee.htm" />
     <HelpKINode Title="EnumerationExtensions.Value Constructor " Url="html/0536ac3a-b324-fd63-8ce0-e4f35413ea92.htm" />
+    <HelpKINode Title="EnumerationExtensions.Value Constructor " Url="html/968bb64d-ace4-fa0d-2702-14f691ed9eee.htm" />
   </HelpKINode>
   <HelpKINode Title="ENUM_E_FIRST field" Url="html/c17b1a3e-f3c9-e14e-2fd8-83054883307e.htm" />
   <HelpKINode Title="ENUM_E_LAST field" Url="html/a358795e-7dc2-f0a7-e768-4ddee1e9a4be.htm" />
@@ -974,8 +974,8 @@
   <HelpKINode Title="HRESULT structure">
     <HelpKINode Title="HRESULT Structure" Url="html/f2e86b5a-e78a-5a0d-200b-8fa0acbfca22.htm" />
     <HelpKINode Title="about HRESULT structure" Url="html/f2e86b5a-e78a-5a0d-200b-8fa0acbfca22.htm" />
-    <HelpKINode Title="constructor" Url="html/8b7ea982-2766-c4ef-ef98-11a22e7a08f1.htm" />
     <HelpKINode Title="constructor" Url="html/32b1302a-c1b3-fc20-4e8e-272606a29b5b.htm" />
+    <HelpKINode Title="constructor" Url="html/8b7ea982-2766-c4ef-ef98-11a22e7a08f1.htm" />
     <HelpKINode Title="fields" Url="html/2fb7a361-8eca-b333-0565-993321b2cf33.htm" />
     <HelpKINode Title="methods" Url="html/f1671eb2-7ca7-e2ef-b14e-93b69b712ae3.htm" />
     <HelpKINode Title="operators and type conversions" Url="html/15845ab6-2572-e106-6af7-093a32e58663.htm" />
@@ -1530,8 +1530,8 @@
   <HelpKINode Title="HRESULT.GetExceptionForHR method" Url="html/753c1790-ed3d-004b-4c11-98e11b482b7d.htm" />
   <HelpKINode Title="HRESULT.GetHashCode method" Url="html/162c8fc0-fed3-cd23-cb7d-f40c36fdf946.htm" />
   <HelpKINode Title="HRESULT.HRESULT constructor">
-    <HelpKINode Title="HRESULT Constructor " Url="html/32b1302a-c1b3-fc20-4e8e-272606a29b5b.htm" />
     <HelpKINode Title="HRESULT Constructor " Url="html/8b7ea982-2766-c4ef-ef98-11a22e7a08f1.htm" />
+    <HelpKINode Title="HRESULT Constructor " Url="html/32b1302a-c1b3-fc20-4e8e-272606a29b5b.htm" />
   </HelpKINode>
   <HelpKINode Title="HRESULT.HResultException class">
     <HelpKINode Title="HRESULT.HResultException Class" Url="html/a87c6404-097b-7d6d-d16f-702ab76010d3.htm" />
@@ -2397,8 +2397,8 @@
   <HelpKINode Title="LAUNCH_MEDIA_SELECT enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="LBUTTON enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="LCONTROL enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
-  <HelpKINode Title="Left enumeration member" Url="html/de27083b-5822-c5aa-da62-1f7a2f85c40f.htm" />
   <HelpKINode Title="LEFT enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
+  <HelpKINode Title="Left enumeration member" Url="html/de27083b-5822-c5aa-da62-1f7a2f85c40f.htm" />
   <HelpKINode Title="Left field" Url="html/49f765ba-de31-f26a-97a1-0b01fa8a7657.htm" />
   <HelpKINode Title="LMENU enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="LoadConfig method" Url="html/9ab88feb-967e-2318-c2f7-b74a7ba093f8.htm" />

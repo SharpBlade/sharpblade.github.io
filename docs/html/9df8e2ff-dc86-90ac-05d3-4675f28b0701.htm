@@ -29,35 +29,32 @@ static HRESULT RzSBStart()</pre></div><div id="ID0EDGDAAAAA_code_Div4" class="
 	SetLastError = true)&gt;]
 <span class="keyword">internal</span> <span class="keyword">static</span> <span class="keyword">member</span> <span class="identifier">RzSBStart</span> : <span class="keyword">unit</span> <span class="keyword">-&gt;</span> <span class="identifier">HRESULT</span></pre></div><div id="ID0EDGDAAAAA_code_Plain_Div4" class="OH_CodeSnippetContainerCode" style="display: none"><pre>[&lt;DllImportAttribute("RzSwitchbladeSDK2.dll", CallingConvention = CallingConvention.Cdecl, 
 	SetLastError = true)&gt;]
-internal static member RzSBStart : unit -&gt; HRESULT</pre></div></div></div><script>addSpecificTextLanguageTagSet('ID0EDGDAAAAA');</script></div><h4 class="subHeading">Return Value</h4>Type: <a href="f2e86b5a-e78a-5a0d-200b-8fa0acbfca22.htm" target="">HRESULT</a><br /><a href="f2e86b5a-e78a-5a0d-200b-8fa0acbfca22.htm" target="">HRESULT</a> object indicating success or failure.<div class="OH_CollapsibleAreaRegion"><div class="OH_regiontitle">Remarks</div><div class="OH_CollapsibleArea_HrDiv"><hr class="OH_CollapsibleArea_Hr" /></div></div><div class="OH_clear"></div><span class="selflink">RzSBStart<span id="ID0EAZCAAAAA"> </span><script type="text/javascript">
-					addToLanSpecTextIdSet("ID0EAZCAAAAA?vb=|cpp=()|cs=()|fs=()|nu=()");
+internal static member RzSBStart : unit -&gt; HRESULT</pre></div></div></div><script>addSpecificTextLanguageTagSet('ID0EDGDAAAAA');</script></div><h4 class="subHeading">Return Value</h4>Type: <a href="f2e86b5a-e78a-5a0d-200b-8fa0acbfca22.htm" target="">HRESULT</a><br /><a href="f2e86b5a-e78a-5a0d-200b-8fa0acbfca22.htm" target="">HRESULT</a> object indicating success or failure.<div class="OH_CollapsibleAreaRegion"><div class="OH_regiontitle">Remarks</div><div class="OH_CollapsibleArea_HrDiv"><hr class="OH_CollapsibleArea_Hr" /></div></div><div class="OH_clear"></div><span class="selflink">RzSBStart<span id="ID0EAKCAAAAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EAKCAAAAA?vb=|cpp=()|cs=()|fs=()|nu=()");
 				</script></span> sets up the connections that allow an application to access the Switchblade hardware device.
             This routine returns <a href="4cb11f08-a2b2-2b40-a1b5-704b86d25611.htm" target="">RZSB_OK</a> on success, granting the calling application control of the device.
-            Subsequent calls to this routine prior to a matching <a href="63393e84-8659-9f51-c753-b0db4c3064f5.htm" target="">RzSBStop<span id="ID0EAVCAAAAA"> </span><script type="text/javascript">
-					addToLanSpecTextIdSet("ID0EAVCAAAAA?vb=|cpp=()|cs=()|fs=()|nu=()");
+            Subsequent calls to this routine prior to a matching <a href="63393e84-8659-9f51-c753-b0db4c3064f5.htm" target="">RzSBStop<span id="ID0EAGCAAAAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EAGCAAAAA?vb=|cpp=()|cs=()|fs=()|nu=()");
 				</script></a> call are ignored.
-            <span class="selflink">RzSBStart<span id="ID0EATCAAAAA"> </span><script type="text/javascript">
-					addToLanSpecTextIdSet("ID0EATCAAAAA?vb=|cpp=()|cs=()|fs=()|nu=()");
+            <p><span class="selflink">RzSBStart<span id="ID0EAFECAAAAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EAFECAAAAA?vb=|cpp=()|cs=()|fs=()|nu=()");
 				</script></span> must be called before other Switchblade SDK routines will succeed.
-            <span class="selflink">RzSBStart<span id="ID0EARCAAAAA"> </span><script type="text/javascript">
-					addToLanSpecTextIdSet("ID0EARCAAAAA?vb=|cpp=()|cs=()|fs=()|nu=()");
-				</script></span> must always be accompanied by an <a href="63393e84-8659-9f51-c753-b0db4c3064f5.htm" target="">RzSBStop<span id="ID0EAPCAAAAA"> </span><script type="text/javascript">
-					addToLanSpecTextIdSet("ID0EAPCAAAAA?vb=|cpp=()|cs=()|fs=()|nu=()");
-				</script></a>.
-            COM initialization should be called prior to calling <span class="selflink">RzSBStart<span id="ID0EANCAAAAA"> </span><script type="text/javascript">
-					addToLanSpecTextIdSet("ID0EANCAAAAA?vb=|cpp=()|cs=()|fs=()|nu=()");
+            <span class="selflink">RzSBStart<span id="ID0EADECAAAAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EADECAAAAA?vb=|cpp=()|cs=()|fs=()|nu=()");
+				</script></span> must always be accompanied by an <a href="63393e84-8659-9f51-c753-b0db4c3064f5.htm" target="">RzSBStop<span id="ID0EABECAAAAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EABECAAAAA?vb=|cpp=()|cs=()|fs=()|nu=()");
+				</script></a>.</p><p>COM initialization should be called prior to calling <span class="selflink">RzSBStart<span id="ID0EAFDCAAAAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EAFDCAAAAA?vb=|cpp=()|cs=()|fs=()|nu=()");
 				</script></span>.
             If the application developer intends to use Single-Threaded Apartment model (STA) and call the SDK
             functions within the same thread where the COM was initialized, then <span class="code">CoInitialize()</span> should be called
-            before <span class="selflink">RzSBStart<span id="ID0EAJCAAAAA"> </span><script type="text/javascript">
-					addToLanSpecTextIdSet("ID0EAJCAAAAA?vb=|cpp=()|cs=()|fs=()|nu=()");
-				</script></span>. Note that some MFC controls automatically initializes to STA.
-            If the application developer intends to call the SDK functions on different threads,
-            then the <span class="code">CoInitializeEx()</span> should be called before <span class="selflink">RzSBStart<span id="ID0EAFCAAAAA"> </span><script type="text/javascript">
-					addToLanSpecTextIdSet("ID0EAFCAAAAA?vb=|cpp=()|cs=()|fs=()|nu=()");
-				</script></span>.
-            Note: When the <span class="selflink">RzSBStart<span id="ID0EADCAAAAA"> </span><script type="text/javascript">
-					addToLanSpecTextIdSet("ID0EADCAAAAA?vb=|cpp=()|cs=()|fs=()|nu=()");
+            before <span class="selflink">RzSBStart<span id="ID0EABDCAAAAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EABDCAAAAA?vb=|cpp=()|cs=()|fs=()|nu=()");
+				</script></span>.</p><p>Note that some MFC controls automatically initializes to STA.</p><p>If the application developer intends to call the SDK functions on different threads,
+            then the <span class="code">CoInitializeEx()</span> should be called before <span class="selflink">RzSBStart<span id="ID0EABBCAAAAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EABBCAAAAA?vb=|cpp=()|cs=()|fs=()|nu=()");
+				</script></span>.</p><p>Note: When the <span class="selflink">RzSBStart<span id="ID0EADACAAAAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EADACAAAAA?vb=|cpp=()|cs=()|fs=()|nu=()");
 				</script></span> is called without the COM being initialized
             (e.g. thru calling <span class="code">CoInitializeEx</span>)
             the SDK initializes the COM to Multi-Threaded Apartment (MTA) model.
@@ -65,7 +62,6 @@ internal static member RzSBStart : unit -&gt; HRESULT</pre></div></div></di
             Future SDK versions will move these calls into an isolated STA, giving application developers additional
             freedom to use COM in any fashion.
             However, application developers may already implement their own processing to isolate the SDK
-            initialization and calls to avoid the issues for COM in different threading models.
-            <a name="seeAlsoSection"><!----></a><div class="OH_CollapsibleAreaRegion"><div class="OH_regiontitle">See Also</div><div class="OH_CollapsibleArea_HrDiv"><hr class="OH_CollapsibleArea_Hr" /></div></div><div class="OH_clear"></div><div class="seeAlsoStyle"><a href="058a1266-2bf4-5fd5-f0cb-59e6c01176a7.htm" target="">RazerAPI<span id="ID0EBABAAAAAA"> </span><script type="text/javascript">
+            initialization and calls to avoid the issues for COM in different threading models.</p><a name="seeAlsoSection"><!----></a><div class="OH_CollapsibleAreaRegion"><div class="OH_regiontitle">See Also</div><div class="OH_CollapsibleArea_HrDiv"><hr class="OH_CollapsibleArea_Hr" /></div></div><div class="OH_clear"></div><div class="seeAlsoStyle"><a href="058a1266-2bf4-5fd5-f0cb-59e6c01176a7.htm" target="">RazerAPI<span id="ID0EBABAAAAAA"> </span><script type="text/javascript">
 					addToLanSpecTextIdSet("ID0EBABAAAAAA?vb=.|cpp=::|cs=.|fs=.|nu=.");
 				</script>NativeMethods Class</a></div><div class="seeAlsoStyle"><a href="557570a1-0188-b383-7344-9be82be920f0.htm" target="">SharpBlade.Native Namespace</a></div></div></div></div></div><div id="OH_footer" class="OH_footer"><p><a href="https://github.com/SharpBlade/SharpBlade" target="_blank">Project Page</a></p><p><a href="https://github.com/SharpBlade/SharpBlade/blob/master/LICENSE" target="_blank">Copyright (c) 2013-2014 by Adam Hellberg and Brandon Scott. (https://github.com/SharpBlade/SharpBlade/blob/master/LICENSE)</a></p><div class="OH_feedbacklink"><a href="mailto:info@sharpblade.net?subject=SharpBlade+documentation+RazerAPI.NativeMethods.RzSBStart+Method++100+EN-US&amp;body=Your%20feedback%20is%20used%20to%20improve%20the%20documentation%20and%20the%20product.%20Your%20e-mail%20address%20will%20not%20be%20used%20for%20any%20other%20purpose%20and%20is%20disposed%20of%20after%20the%20issue%20you%20report%20is%20resolved.%20While%20working%20to%20resolve%20the%20issue%20that%20you%20report%2c%20you%20may%20be%20contacted%20via%20e-mail%20to%20get%20further%20details%20or%20clarification%20on%20the%20feedback%20you%20sent.%20After%20the%20issue%20you%20report%20has%20been%20addressed%2c%20you%20may%20receive%20an%20e-mail%20to%20let%20you%20know%20that%20your%20feedback%20has%20been%20addressed.">Send Feedback</a> on this topic to info@sharpblade.net.</div></div></body></html>
