@@ -31,11 +31,11 @@
   <HelpKINode Title="BitmapRenderer class">
     <HelpKINode Title="BitmapRenderer Class" Url="html/556f6cad-1286-4fd4-7a1c-50071f79431d.htm" />
     <HelpKINode Title="about BitmapRenderer class" Url="html/556f6cad-1286-4fd4-7a1c-50071f79431d.htm" />
-    <HelpKINode Title="constructor" Url="html/9a00f5b1-faa2-bceb-ef1e-b17208fc1e48.htm" />
+    <HelpKINode Title="constructor" Url="html/c3dd4619-abe8-7ad8-f1a0-0e65ccd9f946.htm" />
     <HelpKINode Title="fields" Url="html/c68c9e31-fc5e-a7f6-87c7-cd05676127c1.htm" />
     <HelpKINode Title="methods" Url="html/8c0dc1a7-9403-4f6d-dc26-611a2511a23f.htm" />
   </HelpKINode>
-  <HelpKINode Title="BitmapRenderer.BitmapRenderer constructor" Url="html/9a00f5b1-faa2-bceb-ef1e-b17208fc1e48.htm" />
+  <HelpKINode Title="BitmapRenderer.BitmapRenderer constructor" Url="html/c3dd4619-abe8-7ad8-f1a0-0e65ccd9f946.htm" />
   <HelpKINode Title="BitmapRenderer.Dispose method" Url="html/9ea3ae53-062b-1e60-bc12-2d2e50bd1efd.htm" />
   <HelpKINode Title="BitmapRenderer.TimerTick method" Url="html/99f9f86c-ad51-f68e-0c59-21edc885a3a1.htm" />
   <HelpKINode Title="BitmapRenderer._provider field" Url="html/846ddc4f-11cd-c20b-a4aa-0b6ce6d8288e.htm" />
@@ -142,9 +142,17 @@
   <HelpKINode Title="CLASS_E_NOAGGREGATION field" Url="html/aa6ca618-0ac1-095b-2f67-c7519709df57.htm" />
   <HelpKINode Title="CLASS_E_NOTLICENSED field" Url="html/f9a01293-3c52-6d0e-bf38-330fe10bff32.htm" />
   <HelpKINode Title="CLEAR enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
-  <HelpKINode Title="Clear method" Url="html/76723c8c-f897-d4e9-5007-f2dfee782734.htm" />
+  <HelpKINode Title="Clear method">
+    <HelpKINode Title="IRenderTarget.Clear Method " Url="html/0e1792c2-9997-6c47-8119-5e81241028ac.htm" />
+    <HelpKINode Title="RenderTarget.Clear Method " Url="html/e5cf5f6a-65af-4a21-d2a0-3af50597ddfd.htm" />
+    <HelpKINode Title="Touchpad.Clear Method " Url="html/76723c8c-f897-d4e9-5007-f2dfee782734.htm" />
+  </HelpKINode>
   <HelpKINode Title="ClearForm method" Url="html/c38f1593-b149-5f4c-ed21-b9a42bf0ed38.htm" />
-  <HelpKINode Title="ClearImage method" Url="html/d5b42633-96e5-fb34-505a-c657d571fe27.htm" />
+  <HelpKINode Title="ClearImage method">
+    <HelpKINode Title="DynamicKey.ClearImage Method " Url="html/259a2a1b-3e96-121a-4e93-b29d1960fa16.htm" />
+    <HelpKINode Title="RenderTarget.ClearImage Method " Url="html/1561255b-8395-054a-3642-1b00a3dd5410.htm" />
+    <HelpKINode Title="Touchpad.ClearImage Method " Url="html/d5b42633-96e5-fb34-505a-c657d571fe27.htm" />
+  </HelpKINode>
   <HelpKINode Title="ClearNativeWindow method" Url="html/874d84a0-8f2d-183f-5bee-2f65ec29006d.htm" />
   <HelpKINode Title="ClearOldLogs method" Url="html/b5ec5fbd-ce6d-6013-d9b5-abbfc37210bf.htm" />
   <HelpKINode Title="ClearWindow method" Url="html/31c7a6a7-e410-8286-b9d9-a092d786b902.htm" />
@@ -522,7 +530,12 @@
   <HelpKINode Title="CS_E_PACKAGE_NOTFOUND field" Url="html/eb058b69-ae8a-c261-1b36-3262e0dd33b8.htm" />
   <HelpKINode Title="CS_E_SCHEMA_MISMATCH field" Url="html/80411cbb-1bd3-be11-fe20-f48b66c6b789.htm" />
   <HelpKINode Title="CurrentForm property" Url="html/f4521890-7189-7d9b-43bb-b27335723f1e.htm" />
-  <HelpKINode Title="CurrentImage property" Url="html/8aa5262f-c149-e227-fa7e-3bfba86c9412.htm" />
+  <HelpKINode Title="CurrentImage property">
+    <HelpKINode Title="DynamicKey.CurrentImage Property " Url="html/1e6696b8-9fac-3b90-24f9-a2cee4534d0a.htm" />
+    <HelpKINode Title="IRenderTarget.CurrentImage Property " Url="html/f03dc6fa-d36d-faf6-36b0-de77726819f6.htm" />
+    <HelpKINode Title="RenderTarget.CurrentImage Property " Url="html/8ab1d725-f852-b881-76a1-419b49537908.htm" />
+    <HelpKINode Title="Touchpad.CurrentImage Property " Url="html/8aa5262f-c149-e227-fa7e-3bfba86c9412.htm" />
+  </HelpKINode>
   <HelpKINode Title="CurrentNativeWindow property" Url="html/1cb77932-c8a8-9cfa-d4d1-9fbd105a37cb.htm" />
   <HelpKINode Title="CurrentWindow property" Url="html/138d53d6-43af-07b1-2b40-edec81ae0737.htm" />
   <HelpKINode Title="D enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
@@ -561,11 +574,12 @@
     <HelpKINode Title="BitmapRenderer.Dispose Method " Url="html/9ea3ae53-062b-1e60-bc12-2d2e50bd1efd.htm" />
     <HelpKINode Title="NativeRenderer.Dispose Method " Url="html/9f8cec93-73c4-90ba-7dd0-95400d148a7b.htm" />
     <HelpKINode Title="RazerManager.Dispose Method " Url="html/0f4a40ae-962b-7719-1bcb-3207ef18ec94.htm" />
-    <HelpKINode Title="Renderer.Dispose Method " Url="html/68f4db3c-e8ad-6725-a06c-d7b8d240adf5.htm" />
-    <HelpKINode Title="Touchpad.Dispose Method " Url="html/8861a1b1-0462-18c2-ce00-d1f5285c9954.htm" />
+    <HelpKINode Title="Renderer(T).Dispose Method " Url="html/34c0bfed-93a5-ec04-7a3a-2fdd16786a5c.htm" />
+    <HelpKINode Title="RenderTarget.Dispose Method " Url="html/76581832-c20c-25e6-d68c-e3ecbecbc5ff.htm" />
     <HelpKINode Title="WinFormsRenderer.Dispose Method " Url="html/34c88fd0-8749-35ee-59e9-2ec9a91ae8e5.htm" />
     <HelpKINode Title="WpfRenderer.Dispose Method " Url="html/bad8c920-ecfe-22b5-bd3f-a7839d8eeeee.htm" />
   </HelpKINode>
+  <HelpKINode Title="Disposed property" Url="html/a0773653-a816-7ad9-e7a7-16c9089b767d.htm" />
   <HelpKINode Title="DISP_E_ARRAYISLOCKED field" Url="html/6c5b8579-dc28-176c-e92a-c6bc3b5c3639.htm" />
   <HelpKINode Title="DISP_E_BADCALLEE field" Url="html/10ca92ff-99f4-3fe5-5a26-d2a8dd744ebb.htm" />
   <HelpKINode Title="DISP_E_BADINDEX field" Url="html/65365afc-51d9-0bfb-cfdc-1d569c7ec9fd.htm" />
@@ -632,8 +646,8 @@
     <HelpKINode Title="User32.NativeMethods.DllName Field" Url="html/02f1978a-e66e-8925-8ac5-7f0d4abe6f69.htm" />
   </HelpKINode>
   <HelpKINode Title="Down enumeration member">
-    <HelpKINode Title="RazerAPI.Direction Enumeration" Url="html/de27083b-5822-c5aa-da62-1f7a2f85c40f.htm" />
     <HelpKINode Title="RazerAPI.DynamicKeyState Enumeration" Url="html/a03a6ec5-64e8-2937-ab44-6fde7fb6034d.htm" />
+    <HelpKINode Title="RazerAPI.Direction Enumeration" Url="html/de27083b-5822-c5aa-da62-1f7a2f85c40f.htm" />
   </HelpKINode>
   <HelpKINode Title="DOWN enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="DownImage property" Url="html/c1081e11-74b5-4a5b-a10f-046265b0fd39.htm" />
@@ -648,7 +662,10 @@
   <HelpKINode Title="DRAGDROP_S_LAST field" Url="html/3b36818e-a004-09d7-258a-073e047149e1.htm" />
   <HelpKINode Title="DRAGDROP_S_USEDEFAULTCURSORS field" Url="html/d6c20ac0-7d2c-89a8-b0a8-75ca90fae069.htm" />
   <HelpKINode Title="Draw method" Url="html/284cd1d4-8482-a433-716a-75fec4288c4f.htm" />
-  <HelpKINode Title="DrawBitmap method" Url="html/37aaf7a4-c428-a9d5-6822-569fd0c9f477.htm" />
+  <HelpKINode Title="DrawBitmap method">
+    <HelpKINode Title="IRenderTarget.DrawBitmap Method " Url="html/825aa1aa-ccef-23eb-061b-8e32674aab4a.htm" />
+    <HelpKINode Title="RenderTarget.DrawBitmap Method " Url="html/e67a81e6-74b4-da98-7cdf-f2c8fde928f7.htm" />
+  </HelpKINode>
   <HelpKINode Title="DrawForm method" Url="html/cc2ac44a-d9fc-9117-f172-44c00f6b4a71.htm" />
   <HelpKINode Title="DrawNativeWindow method" Url="html/f2447dde-d365-f435-827d-d6c6afce6a11.htm" />
   <HelpKINode Title="DrawWindow method" Url="html/eebf897e-9229-bbb1-d0f6-bab5c00069ab.htm" />
@@ -666,14 +683,20 @@
     <HelpKINode Title="DynamicKey Class" Url="html/9731810e-5696-1787-5e43-247a5387b455.htm" />
     <HelpKINode Title="about DynamicKey class" Url="html/9731810e-5696-1787-5e43-247a5387b455.htm" />
     <HelpKINode Title="constructor" Url="html/9cfe460e-9322-d7c5-b495-64cecc4dc176.htm" />
+    <HelpKINode Title="constructor" Url="html/81c920e7-4f3f-6ec7-2173-2261de888b8a.htm" />
     <HelpKINode Title="events" Url="html/f0b441a4-cb15-dab0-0118-8bcd6717dd6c.htm" />
     <HelpKINode Title="fields" Url="html/7166a042-c440-33d4-a881-638d8c0865b8.htm" />
     <HelpKINode Title="methods" Url="html/7833ff64-5393-8a93-7e26-83e6d7ca4ca1.htm" />
     <HelpKINode Title="properties" Url="html/f739dc33-dee9-4b54-9c1c-1ca62bab1f07.htm" />
   </HelpKINode>
+  <HelpKINode Title="DynamicKey.ClearImage method" Url="html/259a2a1b-3e96-121a-4e93-b29d1960fa16.htm" />
+  <HelpKINode Title="DynamicKey.CurrentImage property" Url="html/1e6696b8-9fac-3b90-24f9-a2cee4534d0a.htm" />
   <HelpKINode Title="DynamicKey.Disable method" Url="html/769ef855-6e8f-bfeb-1932-e4b41c7a3dcb.htm" />
   <HelpKINode Title="DynamicKey.DownImage property" Url="html/c1081e11-74b5-4a5b-a10f-046265b0fd39.htm" />
-  <HelpKINode Title="DynamicKey.DynamicKey constructor" Url="html/9cfe460e-9322-d7c5-b495-64cecc4dc176.htm" />
+  <HelpKINode Title="DynamicKey.DynamicKey constructor">
+    <HelpKINode Title="DynamicKey Constructor " Url="html/81c920e7-4f3f-6ec7-2173-2261de888b8a.htm" />
+    <HelpKINode Title="DynamicKey Constructor " Url="html/9cfe460e-9322-d7c5-b495-64cecc4dc176.htm" />
+  </HelpKINode>
   <HelpKINode Title="DynamicKey.KeyType property" Url="html/0261f922-6a11-b6fe-e7f5-6851ce38a3f9.htm" />
   <HelpKINode Title="DynamicKey.OnPressed method" Url="html/531ddb29-e0fb-06b6-9fed-ab15e2b36c51.htm" />
   <HelpKINode Title="DynamicKey.Pressed event" Url="html/e3870df7-073b-e8ae-e453-399988619663.htm" />
@@ -685,6 +708,7 @@
   <HelpKINode Title="DynamicKey.SetUpImage method" Url="html/7a65c709-4dfd-3b0e-01bd-1c1890d08ee1.htm" />
   <HelpKINode Title="DynamicKey.SingleImage property" Url="html/d023bb45-5215-2755-fd81-0d6b05196e4a.htm" />
   <HelpKINode Title="DynamicKey.State property" Url="html/d97eba94-1c75-b842-da46-1f849e951ca5.htm" />
+  <HelpKINode Title="DynamicKey.TargetDisplayMapping field" Url="html/33522129-4b40-de0f-44f5-d9e5773c06ca.htm" />
   <HelpKINode Title="DynamicKey.UpdateState method" Url="html/50dc90b7-adfd-9e2f-aca9-ffdf2dca9b80.htm" />
   <HelpKINode Title="DynamicKey.UpImage property" Url="html/3fb15503-5bd9-393e-be7b-023e23835f5e.htm" />
   <HelpKINode Title="DynamicKey._log field" Url="html/c05c1f30-bea6-3cd4-45dd-0bff15b7d630.htm" />
@@ -753,8 +777,8 @@
   <HelpKINode Title="EnumerationExtensions.Value.Signed field" Url="html/d68cdb66-60e2-2d8a-d0e1-e3cc0461d7a3.htm" />
   <HelpKINode Title="EnumerationExtensions.Value.Unsigned field" Url="html/5d3a0a00-562d-e1c8-3466-4c31ef1a0d8c.htm" />
   <HelpKINode Title="EnumerationExtensions.Value.Value constructor">
-    <HelpKINode Title="EnumerationExtensions.Value Constructor " Url="html/0536ac3a-b324-fd63-8ce0-e4f35413ea92.htm" />
     <HelpKINode Title="EnumerationExtensions.Value Constructor " Url="html/968bb64d-ace4-fa0d-2702-14f691ed9eee.htm" />
+    <HelpKINode Title="EnumerationExtensions.Value Constructor " Url="html/0536ac3a-b324-fd63-8ce0-e4f35413ea92.htm" />
   </HelpKINode>
   <HelpKINode Title="ENUM_E_FIRST field" Url="html/c17b1a3e-f3c9-e14e-2fd8-83054883307e.htm" />
   <HelpKINode Title="ENUM_E_LAST field" Url="html/a358795e-7dc2-f0a7-e768-4ddee1e9a4be.htm" />
@@ -841,6 +865,7 @@
   <HelpKINode Title="FINAL enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="Finalize method">
     <HelpKINode Title="RazerManager.Finalize Method " Url="html/98ac1130-903f-ea16-638f-c343f46ec2f7.htm" />
+    <HelpKINode Title="RenderTarget.Finalize Method " Url="html/16dbcb9f-7fd7-18d9-349b-f6f4b06bf122.htm" />
     <HelpKINode Title="Touchpad.Finalize Method " Url="html/391a69d1-ff7f-4483-c396-6c7eb8ab5873.htm" />
   </HelpKINode>
   <HelpKINode Title="Five enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
@@ -2255,6 +2280,23 @@
     <HelpKINode Title="methods" Url="html/17ce2779-2a66-cdf7-a575-a30ca75b21fe.htm" />
   </HelpKINode>
   <HelpKINode Title="IO.GetAbsolutePath method" Url="html/da84d67e-8b1b-7502-a4f0-b8f0a096ed41.htm" />
+  <HelpKINode Title="IRenderer interface">
+    <HelpKINode Title="IRenderer Interface" Url="html/08a72310-253d-ab8f-282b-f405e22380d3.htm" />
+    <HelpKINode Title="about IRenderer interface" Url="html/08a72310-253d-ab8f-282b-f405e22380d3.htm" />
+    <HelpKINode Title="methods" Url="html/ee339654-4eae-e00a-474d-b91acbaaf55f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IRenderTarget interface">
+    <HelpKINode Title="IRenderTarget Interface" Url="html/2845207d-968e-7ee4-4a13-dc7f48083812.htm" />
+    <HelpKINode Title="about IRenderTarget interface" Url="html/2845207d-968e-7ee4-4a13-dc7f48083812.htm" />
+    <HelpKINode Title="methods" Url="html/acaac0af-e6fd-201d-d8fa-60b3fc2b4b21.htm" />
+    <HelpKINode Title="properties" Url="html/44182a13-ea87-4162-c437-d1b4fd31526f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IRenderTarget.Clear method" Url="html/0e1792c2-9997-6c47-8119-5e81241028ac.htm" />
+  <HelpKINode Title="IRenderTarget.CurrentImage property" Url="html/f03dc6fa-d36d-faf6-36b0-de77726819f6.htm" />
+  <HelpKINode Title="IRenderTarget.DrawBitmap method" Url="html/825aa1aa-ccef-23eb-061b-8e32674aab4a.htm" />
+  <HelpKINode Title="IRenderTarget.SetBitmapProvider method" Url="html/166cc2c7-7c66-519b-3140-03b771ad6bc4.htm" />
+  <HelpKINode Title="IRenderTarget.SetImage method" Url="html/cef27ece-ac47-655d-b74a-55c578002742.htm" />
+  <HelpKINode Title="IRenderTarget.TargetDisplay property" Url="html/32170d1b-52e2-df27-b00b-a2f28be6f3b3.htm" />
   <HelpKINode Title="Item property" Url="html/f4f95cd1-8e8a-5053-8363-cdbc24d70fa2.htm" />
   <HelpKINode Title="J enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="JUNJA enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
@@ -2916,16 +2958,47 @@
   <HelpKINode Title="ReleaseOnEnter field" Url="html/43be5b74-64a0-70fa-2053-276e0b477a3b.htm" />
   <HelpKINode Title="Remove(Of T) method" Url="html/ba780fd1-26fa-b00c-fbfd-1832bfa36476.htm" />
   <HelpKINode Title="Remove&lt;T&gt; method" Url="html/ba780fd1-26fa-b00c-fbfd-1832bfa36476.htm" />
-  <HelpKINode Title="Renderer class">
-    <HelpKINode Title="Renderer Class" Url="html/993209af-a956-4320-f4a8-7b26e0716fff.htm" />
-    <HelpKINode Title="about Renderer class" Url="html/993209af-a956-4320-f4a8-7b26e0716fff.htm" />
-    <HelpKINode Title="constructor" Url="html/33d35c79-e116-a930-022b-9fe21749909c.htm" />
-    <HelpKINode Title="fields" Url="html/00323030-28e0-bfb8-1eeb-f81ff032479b.htm" />
-    <HelpKINode Title="methods" Url="html/5782aa5d-5066-a316-415f-69b490d94ed6.htm" />
+  <HelpKINode Title="Renderer property" Url="html/7d3f4726-4a18-ce96-6e17-0ae3cf56d2d6.htm" />
+  <HelpKINode Title="Renderer(Of T) class">
+    <HelpKINode Title="Renderer(T) Class" Url="html/13e2c2aa-6f68-befd-def9-329b1d908a9b.htm" />
+    <HelpKINode Title="about Renderer(Of T) class" Url="html/13e2c2aa-6f68-befd-def9-329b1d908a9b.htm" />
+    <HelpKINode Title="constructor" Url="html/624c22f3-fd18-48b8-9e08-d6ff0e5914dd.htm" />
+    <HelpKINode Title="fields" Url="html/960ed1de-8490-5002-1d9b-137639792efa.htm" />
+    <HelpKINode Title="methods" Url="html/2d3a1a7c-6b99-8a1c-984a-efe796feaa91.htm" />
   </HelpKINode>
-  <HelpKINode Title="Renderer.Dispose method" Url="html/68f4db3c-e8ad-6725-a06c-d7b8d240adf5.htm" />
-  <HelpKINode Title="Renderer.Renderer constructor" Url="html/33d35c79-e116-a930-022b-9fe21749909c.htm" />
-  <HelpKINode Title="Renderer.Touchpad field" Url="html/29cbaeb9-d186-4490-0a04-4e1e66e1bbdc.htm" />
+  <HelpKINode Title="Renderer(Of T).Dispose method" Url="html/34c0bfed-93a5-ec04-7a3a-2fdd16786a5c.htm" />
+  <HelpKINode Title="Renderer(Of T).Renderer constructor" Url="html/624c22f3-fd18-48b8-9e08-d6ff0e5914dd.htm" />
+  <HelpKINode Title="Renderer(Of T).RenderTarget field" Url="html/1a6692ca-d883-e9d2-868d-2bcfda34ed21.htm" />
+  <HelpKINode Title="Renderer&lt;T&gt; class">
+    <HelpKINode Title="Renderer(T) Class" Url="html/13e2c2aa-6f68-befd-def9-329b1d908a9b.htm" />
+    <HelpKINode Title="about Renderer&lt;T&gt; class" Url="html/13e2c2aa-6f68-befd-def9-329b1d908a9b.htm" />
+    <HelpKINode Title="constructor" Url="html/624c22f3-fd18-48b8-9e08-d6ff0e5914dd.htm" />
+    <HelpKINode Title="fields" Url="html/960ed1de-8490-5002-1d9b-137639792efa.htm" />
+    <HelpKINode Title="methods" Url="html/2d3a1a7c-6b99-8a1c-984a-efe796feaa91.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Renderer&lt;T&gt;.Dispose method" Url="html/34c0bfed-93a5-ec04-7a3a-2fdd16786a5c.htm" />
+  <HelpKINode Title="Renderer&lt;T&gt;.Renderer constructor" Url="html/624c22f3-fd18-48b8-9e08-d6ff0e5914dd.htm" />
+  <HelpKINode Title="Renderer&lt;T&gt;.RenderTarget field" Url="html/1a6692ca-d883-e9d2-868d-2bcfda34ed21.htm" />
+  <HelpKINode Title="RenderTarget class">
+    <HelpKINode Title="RenderTarget Class" Url="html/9d389ec1-6ec1-4f8b-1a1d-21765e5c60ae.htm" />
+    <HelpKINode Title="about RenderTarget class" Url="html/9d389ec1-6ec1-4f8b-1a1d-21765e5c60ae.htm" />
+    <HelpKINode Title="constructor" Url="html/5a924ee8-fe06-186c-8b7f-fdb12f9ae875.htm" />
+    <HelpKINode Title="methods" Url="html/bd091482-101f-0e79-0788-d6ea93251e6f.htm" />
+    <HelpKINode Title="properties" Url="html/45eef41b-de8c-b3e5-0ff4-b1a7c2dc21cf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RenderTarget field" Url="html/1a6692ca-d883-e9d2-868d-2bcfda34ed21.htm" />
+  <HelpKINode Title="RenderTarget.Clear method" Url="html/e5cf5f6a-65af-4a21-d2a0-3af50597ddfd.htm" />
+  <HelpKINode Title="RenderTarget.ClearImage method" Url="html/1561255b-8395-054a-3642-1b00a3dd5410.htm" />
+  <HelpKINode Title="RenderTarget.CurrentImage property" Url="html/8ab1d725-f852-b881-76a1-419b49537908.htm" />
+  <HelpKINode Title="RenderTarget.Dispose method" Url="html/76581832-c20c-25e6-d68c-e3ecbecbc5ff.htm" />
+  <HelpKINode Title="RenderTarget.Disposed property" Url="html/a0773653-a816-7ad9-e7a7-16c9089b767d.htm" />
+  <HelpKINode Title="RenderTarget.DrawBitmap method" Url="html/e67a81e6-74b4-da98-7cdf-f2c8fde928f7.htm" />
+  <HelpKINode Title="RenderTarget.Finalize method" Url="html/16dbcb9f-7fd7-18d9-349b-f6f4b06bf122.htm" />
+  <HelpKINode Title="RenderTarget.Renderer property" Url="html/7d3f4726-4a18-ce96-6e17-0ae3cf56d2d6.htm" />
+  <HelpKINode Title="RenderTarget.RenderTarget constructor" Url="html/5a924ee8-fe06-186c-8b7f-fdb12f9ae875.htm" />
+  <HelpKINode Title="RenderTarget.SetBitmapProvider method" Url="html/6539591d-3490-06fb-92a3-d9a42eef7381.htm" />
+  <HelpKINode Title="RenderTarget.SetImage method" Url="html/92b50d69-9116-a5d3-b8e3-01027f94dadc.htm" />
+  <HelpKINode Title="RenderTarget.TargetDisplay property" Url="html/40e3aa81-96c5-efa4-b741-aeb40cbaed09.htm" />
   <HelpKINode Title="RESERVED1 enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="RESERVED12 enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="RESERVED13 enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
@@ -2956,8 +3029,8 @@
   <HelpKINode Title="RESERVED9 enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="RETURN enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="RGB565 enumeration member" Url="html/6f9e625a-3cd4-0300-e125-f27cf847bee9.htm" />
-  <HelpKINode Title="Right enumeration member" Url="html/de27083b-5822-c5aa-da62-1f7a2f85c40f.htm" />
   <HelpKINode Title="RIGHT enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
+  <HelpKINode Title="Right enumeration member" Url="html/de27083b-5822-c5aa-da62-1f7a2f85c40f.htm" />
   <HelpKINode Title="Right field" Url="html/795cdf00-c591-6e72-3dab-13cbf3b55784.htm" />
   <HelpKINode Title="RMENU enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="Rotate enumeration member" Url="html/54a93e53-6024-5b10-88a6-ab9fca7016dc.htm" />
@@ -3271,13 +3344,18 @@
   <HelpKINode Title="SendWPFKeyDown method" Url="html/da7ae71a-e027-3ea6-0da6-3b56789797e7.htm" />
   <HelpKINode Title="SendWPFKeyUp method" Url="html/d76b702d-8091-3676-f84a-6853491ed1f2.htm" />
   <HelpKINode Title="SEPARATOR enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
-  <HelpKINode Title="SetBitmapProvider method" Url="html/cdafe80c-5780-1f93-bad4-764aab85728c.htm" />
+  <HelpKINode Title="SetBitmapProvider method">
+    <HelpKINode Title="IRenderTarget.SetBitmapProvider Method " Url="html/166cc2c7-7c66-519b-3140-03b771ad6bc4.htm" />
+    <HelpKINode Title="RenderTarget.SetBitmapProvider Method " Url="html/6539591d-3490-06fb-92a3-d9a42eef7381.htm" />
+  </HelpKINode>
   <HelpKINode Title="SetCurrentThreadName method" Url="html/ab3f33c9-604b-9294-7ead-a5ec36dd202b.htm" />
   <HelpKINode Title="SetDownImage method" Url="html/e27efcfd-956a-f54c-cf3c-44838cd64c7c.htm" />
   <HelpKINode Title="SetForm method" Url="html/e0bfa142-c8fc-a188-6f3c-07e06837ee0d.htm" />
   <HelpKINode Title="SetGesture method" Url="html/d1502210-3fb5-8f01-ec13-fdf4dbbe01e8.htm" />
   <HelpKINode Title="SetImage method">
     <HelpKINode Title="DynamicKey.SetImage Method " Url="html/1a66678d-6d54-d22f-2dd1-0a364e9759fb.htm" />
+    <HelpKINode Title="IRenderTarget.SetImage Method " Url="html/cef27ece-ac47-655d-b74a-55c578002742.htm" />
+    <HelpKINode Title="RenderTarget.SetImage Method " Url="html/92b50d69-9116-a5d3-b8e3-01027f94dadc.htm" />
     <HelpKINode Title="Touchpad.SetImage Method " Url="html/56468a78-d8f8-f5b3-a2d0-faa0b26683f3.htm" />
   </HelpKINode>
   <HelpKINode Title="SetImages method" Url="html/4b6bb02e-98a8-b413-01e7-7821521cedc2.htm" />
@@ -3301,9 +3379,11 @@
   <HelpKINode Title="SharpBlade.Integration.BitmapRenderer class" Url="html/556f6cad-1286-4fd4-7a1c-50071f79431d.htm" />
   <HelpKINode Title="SharpBlade.Integration.EmbeddedWinFormsControl structure" Url="html/7295d40c-d6a1-7c0d-f45a-7aaedc933358.htm" />
   <HelpKINode Title="SharpBlade.Integration.IBitmapProvider interface" Url="html/bee8146d-cd49-cf53-7c13-73cdaed3dfc4.htm" />
+  <HelpKINode Title="SharpBlade.Integration.IRenderer interface" Url="html/08a72310-253d-ab8f-282b-f405e22380d3.htm" />
   <HelpKINode Title="SharpBlade.Integration.KeyboardControl class" Url="html/b7deef5f-559d-5c66-64d3-034ce901da2e.htm" />
   <HelpKINode Title="SharpBlade.Integration.NativeRenderer class" Url="html/49dd9ec9-ce57-f1d0-2f7b-32ed34f0b668.htm" />
-  <HelpKINode Title="SharpBlade.Integration.Renderer class" Url="html/993209af-a956-4320-f4a8-7b26e0716fff.htm" />
+  <HelpKINode Title="SharpBlade.Integration.Renderer(Of T) class" Url="html/13e2c2aa-6f68-befd-def9-329b1d908a9b.htm" />
+  <HelpKINode Title="SharpBlade.Integration.Renderer&lt;T&gt; class" Url="html/13e2c2aa-6f68-befd-def9-329b1d908a9b.htm" />
   <HelpKINode Title="SharpBlade.Integration.WinFormsRenderer class" Url="html/b6d971a6-8de8-a67a-dade-587d1933c88f.htm" />
   <HelpKINode Title="SharpBlade.Integration.WpfRenderer class" Url="html/cfa7a7e2-4efc-7b5d-15ea-eff919e0f90d.htm" />
   <HelpKINode Title="SharpBlade.Logging namespace" Url="html/d3c8e300-08f9-3362-ab0d-37bb2e6ee03c.htm" />
@@ -3363,7 +3443,9 @@
   <HelpKINode Title="SharpBlade.Razer.Exceptions.RazerDynamicKeyException class" Url="html/7f27340a-095b-5e87-b767-93e8332fa627.htm" />
   <HelpKINode Title="SharpBlade.Razer.Exceptions.RazerException class" Url="html/6b249273-86f9-68f8-f63b-51aa056ce31a.htm" />
   <HelpKINode Title="SharpBlade.Razer.Exceptions.RazerNativeException class" Url="html/db796a9e-f2e3-5caf-abb4-573d647b73d4.htm" />
+  <HelpKINode Title="SharpBlade.Razer.IRenderTarget interface" Url="html/2845207d-968e-7ee4-4a13-dc7f48083812.htm" />
   <HelpKINode Title="SharpBlade.Razer.RazerManager class" Url="html/6ea44481-e2ab-8e76-849f-5e04a8f8957a.htm" />
+  <HelpKINode Title="SharpBlade.Razer.RenderTarget class" Url="html/9d389ec1-6ec1-4f8b-1a1d-21765e5c60ae.htm" />
   <HelpKINode Title="SharpBlade.Razer.RotateDirection enumeration" Url="html/c30321b5-4f31-34f0-7c29-211aec5189e1.htm" />
   <HelpKINode Title="SharpBlade.Razer.Touchpad class" Url="html/f0e02191-cec0-f67b-6142-f6b3faa00911.htm" />
   <HelpKINode Title="SharpBlade.Razer.Touchpad.RenderMethod enumeration" Url="html/d58af16c-420a-fbfe-7388-2ed3b458b3da.htm" />
@@ -3529,6 +3611,11 @@
   <HelpKINode Title="TapEventArgs.TapEventArgs constructor" Url="html/c295c0a5-d6cf-9496-a059-789ecd96370a.htm" />
   <HelpKINode Title="TapEventArgs.X field" Url="html/72604600-dc04-772d-ba86-f053f1d1a484.htm" />
   <HelpKINode Title="TapEventArgs.Y field" Url="html/7d723a42-c256-4abd-ae11-b09803230502.htm" />
+  <HelpKINode Title="TargetDisplay property">
+    <HelpKINode Title="IRenderTarget.TargetDisplay Property " Url="html/32170d1b-52e2-df27-b00b-a2f28be6f3b3.htm" />
+    <HelpKINode Title="RenderTarget.TargetDisplay Property " Url="html/40e3aa81-96c5-efa4-b741-aeb40cbaed09.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TargetDisplayMapping field" Url="html/33522129-4b40-de0f-44f5-d9e5773c06ca.htm" />
   <HelpKINode Title="Threading class">
     <HelpKINode Title="Threading Class" Url="html/2ae3a104-c820-1e52-9482-d25a1b4e0c1b.htm" />
     <HelpKINode Title="about Threading class" Url="html/2ae3a104-c820-1e52-9482-d25a1b4e0c1b.htm" />
@@ -3548,7 +3635,6 @@
     <HelpKINode Title="methods" Url="html/b16effb9-06f8-ce38-8088-c09ccfd05074.htm" />
     <HelpKINode Title="properties" Url="html/02959559-f3a4-e0f1-5f69-0c9ac0d1d97e.htm" />
   </HelpKINode>
-  <HelpKINode Title="Touchpad field" Url="html/29cbaeb9-d186-4490-0a04-4e1e66e1bbdc.htm" />
   <HelpKINode Title="Touchpad property" Url="html/d3055716-3f7a-5c06-32df-16cff39d9daf.htm" />
   <HelpKINode Title="Touchpad.Clear method" Url="html/76723c8c-f897-d4e9-5007-f2dfee782734.htm" />
   <HelpKINode Title="Touchpad.ClearForm method" Url="html/c38f1593-b149-5f4c-ed21-b9a42bf0ed38.htm" />
@@ -3561,8 +3647,6 @@
   <HelpKINode Title="Touchpad.CurrentWindow property" Url="html/138d53d6-43af-07b1-2b40-edec81ae0737.htm" />
   <HelpKINode Title="Touchpad.DisableGesture method" Url="html/bec43e98-8f8d-eca9-d60d-1360a0d8c514.htm" />
   <HelpKINode Title="Touchpad.DisableOSGesture method" Url="html/12546792-67f4-aaa1-93bc-ccbd6b3245c5.htm" />
-  <HelpKINode Title="Touchpad.Dispose method" Url="html/8861a1b1-0462-18c2-ce00-d1f5285c9954.htm" />
-  <HelpKINode Title="Touchpad.DrawBitmap method" Url="html/37aaf7a4-c428-a9d5-6822-569fd0c9f477.htm" />
   <HelpKINode Title="Touchpad.DrawForm method" Url="html/cc2ac44a-d9fc-9117-f172-44c00f6b4a71.htm" />
   <HelpKINode Title="Touchpad.DrawNativeWindow method" Url="html/f2447dde-d365-f435-827d-d6c6afce6a11.htm" />
   <HelpKINode Title="Touchpad.DrawWindow method" Url="html/eebf897e-9229-bbb1-d0f6-bab5c00069ab.htm" />
@@ -3591,7 +3675,6 @@
   <HelpKINode Title="Touchpad.RenderMethod enumeration" Url="html/d58af16c-420a-fbfe-7388-2ed3b458b3da.htm" />
   <HelpKINode Title="Touchpad.Rotate event" Url="html/fc73a72c-94ab-b273-094b-782dd1e171f7.htm" />
   <HelpKINode Title="Touchpad.Scroll event" Url="html/50c4db95-f3de-d91a-365a-8b6a088cfec8.htm" />
-  <HelpKINode Title="Touchpad.SetBitmapProvider method" Url="html/cdafe80c-5780-1f93-bad4-764aab85728c.htm" />
   <HelpKINode Title="Touchpad.SetForm method" Url="html/e0bfa142-c8fc-a188-6f3c-07e06837ee0d.htm" />
   <HelpKINode Title="Touchpad.SetGesture method" Url="html/d1502210-3fb5-8f01-ec13-fdf4dbbe01e8.htm" />
   <HelpKINode Title="Touchpad.SetImage method" Url="html/56468a78-d8f8-f5b3-a2d0-faa0b26683f3.htm" />
@@ -3602,11 +3685,9 @@
   <HelpKINode Title="Touchpad.Touchpad constructor" Url="html/c3155e9a-9e59-81f4-d470-d9e8702f622b.htm" />
   <HelpKINode Title="Touchpad.WindowContentRenderedHandler method" Url="html/ac90e02c-4c1e-8113-9ba9-301c4429f9e0.htm" />
   <HelpKINode Title="Touchpad.Zoom event" Url="html/a14ea08c-1bda-ca5e-b1f3-8c0a38a909d6.htm" />
-  <HelpKINode Title="Touchpad._disposed field" Url="html/6a0ce2eb-9417-6668-7abf-4ff5c1598ceb.htm" />
   <HelpKINode Title="Touchpad._gestureCallback field" Url="html/b1419ebf-617a-a2d3-f76a-cfbf0687c8dd.htm" />
   <HelpKINode Title="Touchpad._instance field" Url="html/dd8730fb-cc84-a010-8b58-462fea8c0936.htm" />
   <HelpKINode Title="Touchpad._log field" Url="html/eaf95eb2-2201-cb2a-b4f7-e85d8aa74672.htm" />
-  <HelpKINode Title="Touchpad._renderer field" Url="html/1979650c-9f3e-2fa2-6ee4-92508e2c222c.htm" />
   <HelpKINode Title="TouchpadHeight field" Url="html/abd64f3e-58e4-23e6-46ef-fe0ece468e79.htm" />
   <HelpKINode Title="TouchpadImageDataSize field" Url="html/80def6eb-7990-9427-bd6d-8ddcdc793837.htm" />
   <HelpKINode Title="TouchpadWidth field" Url="html/1e65e7ad-8004-db9f-dd08-2f3cd7f2d78d.htm" />
@@ -3889,8 +3970,8 @@
   <HelpKINode Title="Z enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
   <HelpKINode Title="Z field" Url="html/de664ea5-c12b-44ef-2f48-72a965c95d4d.htm" />
   <HelpKINode Title="Zero enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
-  <HelpKINode Title="Zoom enumeration member" Url="html/54a93e53-6024-5b10-88a6-ab9fca7016dc.htm" />
   <HelpKINode Title="ZOOM enumeration member" Url="html/9f3eed33-65a9-0a14-f646-e3eaf318e2eb.htm" />
+  <HelpKINode Title="Zoom enumeration member" Url="html/54a93e53-6024-5b10-88a6-ab9fca7016dc.htm" />
   <HelpKINode Title="Zoom event" Url="html/a14ea08c-1bda-ca5e-b1f3-8c0a38a909d6.htm" />
   <HelpKINode Title="ZoomDirection enumeration" Url="html/b2250f9c-350b-e2f7-210b-a0accde0a5e9.htm" />
   <HelpKINode Title="ZoomEventArgs class">
@@ -3903,10 +3984,7 @@
   <HelpKINode Title="ZoomEventArgs.Direction field" Url="html/86e69d75-823c-e877-7cb6-ab846fea4efe.htm" />
   <HelpKINode Title="ZoomEventArgs.ZoomEventArgs constructor" Url="html/b7b274d2-c0c5-6e66-9f1d-3bda55a54843.htm" />
   <HelpKINode Title="_appEventCallback field" Url="html/5ddce8e8-e4f7-741e-eeef-978ef4368e70.htm" />
-  <HelpKINode Title="_disposed field">
-    <HelpKINode Title="RazerManager._disposed Field" Url="html/b4968b83-8908-a815-87f6-238b209b0a1f.htm" />
-    <HelpKINode Title="Touchpad._disposed Field" Url="html/6a0ce2eb-9417-6668-7abf-4ff5c1598ceb.htm" />
-  </HelpKINode>
+  <HelpKINode Title="_disposed field" Url="html/b4968b83-8908-a815-87f6-238b209b0a1f.htm" />
   <HelpKINode Title="_dynamicKeyCallback field" Url="html/2a361dc9-5224-3ac8-4c73-a28bba5edd28.htm" />
   <HelpKINode Title="_dynamicKeys field" Url="html/538e5811-140c-94af-d1b8-1898f6003062.htm" />
   <HelpKINode Title="_form field" Url="html/04b22589-6d95-0ba9-f5a1-04851b675bb4.htm" />
@@ -3926,7 +4004,6 @@
   <HelpKINode Title="_nativeTimer field" Url="html/2fa25fdd-2caa-4cf7-e692-a7e50856c6da.htm" />
   <HelpKINode Title="_nativeWindow field" Url="html/20e8f1c0-304c-0dce-1715-f814e6e635d2.htm" />
   <HelpKINode Title="_provider field" Url="html/846ddc4f-11cd-c20b-a4aa-0b6ce6d8288e.htm" />
-  <HelpKINode Title="_renderer field" Url="html/1979650c-9f3e-2fa2-6ee4-92508e2c222c.htm" />
   <HelpKINode Title="_timer field" Url="html/1370fca3-affe-59e5-4831-51a5e8bd494c.htm" />
   <HelpKINode Title="_window field" Url="html/77208cc5-5886-c9d0-347e-109dfaa53356.htm" />
   <HelpKINode Title="_winFormControl field" Url="html/f2c949ec-89ad-d8b3-2b83-627bd64a62bd.htm" />
