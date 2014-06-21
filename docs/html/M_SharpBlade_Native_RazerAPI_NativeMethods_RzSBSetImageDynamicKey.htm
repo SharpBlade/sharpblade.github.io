@@ -1,0 +1,83 @@
+﻿<html xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp"><head><link rel="SHORTCUT ICON" href="./../icons/favicon.ico" /><style type="text/css">.OH_CodeSnippetContainerTabLeftActive, .OH_CodeSnippetContainerTabLeft,.OH_CodeSnippetContainerTabLeftDisabled { }.OH_CodeSnippetContainerTabRightActive, .OH_CodeSnippetContainerTabRight,.OH_CodeSnippetContainerTabRightDisabled { }.OH_footer { }</style><link rel="stylesheet" type="text/css" href="./../styles/branding.css" /><link rel="stylesheet" type="text/css" href="./../styles/branding-en-US.css" /><style type="text/css">
+			body
+			{
+			border-left:5px solid #e6e6e6;
+			overflow-x:scroll;
+			overflow-y:scroll;
+			}
+		</style><script src="./../scripts/branding.js" type="text/javascript"><!----></script><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>RazerAPI.NativeMethods.RzSBSetImageDynamicKey Method </title><meta name="Language" content="en-us" /><meta name="System.Keywords" content="RzSBSetImageDynamicKey method" /><meta name="System.Keywords" content="RazerAPI.NativeMethods.RzSBSetImageDynamicKey method" /><meta name="Microsoft.Help.F1" content="SharpBlade.Native.RazerAPI.NativeMethods.RzSBSetImageDynamicKey" /><meta name="Microsoft.Help.Id" content="M:SharpBlade.Native.RazerAPI.NativeMethods.RzSBSetImageDynamicKey(SharpBlade.Native.RazerAPI.DynamicKeyType,SharpBlade.Native.RazerAPI.DynamicKeyState,System.String)" /><meta name="Description" content="Set images on the Switchblade UI’s Dynamic Keys." /><meta name="Microsoft.Help.ContentType" content="Reference" /><meta name="BrandingAware" content="'true'" /><meta name="container" content="SharpBlade.Native" /><meta name="file" content="M_SharpBlade_Native_RazerAPI_NativeMethods_RzSBSetImageDynamicKey" /><meta name="guid" content="M_SharpBlade_Native_RazerAPI_NativeMethods_RzSBSetImageDynamicKey" /><meta name="SelfBranded" content="true" /></head><body onload="onLoad()" class="primary-mtps-offline-document"><div class="OH_outerDiv"><div class="OH_outerContent"><table class="TitleTable"><tr><td class="OH_tdTitleColumn">RazerAPI<span id="ID0EDBABAAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EDBABAAA?vb=.|cpp=::|cs=.|fs=.|nu=.");
+				</script>NativeMethods<span id="ID0EBBABAAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EBBABAAA?vb=.|cpp=::|cs=.|fs=.|nu=.");
+				</script>RzSBSetImageDynamicKey Method </td><td class="OH_tdRunningTitleColumn">SharpBlade documentation</td></tr></table><div id="mainSection"><div id="mainBody"><span class="introStyle"></span><div class="summary">
+            Set images on the Switchblade UI’s Dynamic Keys.
+            </div><p></p><strong>Namespace:</strong> <a href="N_SharpBlade_Native.htm" target="">SharpBlade.Native</a><br /><strong>Assembly:</strong> <span sdata="assembly">SharpBlade</span> (in SharpBlade.dll) Version: 5.1.0 Stable<div class="OH_CollapsibleAreaRegion"><div class="OH_regiontitle">Syntax</div><div class="OH_CollapsibleArea_HrDiv"><hr class="OH_CollapsibleArea_Hr" /></div></div><div class="OH_clear"></div><div id="snippetGroup_Syntax" class="code"><div id="ID0EDHDAAAAA" class="OH_CodeSnippetContainer"><div class="OH_CodeSnippetContainerTabs" id="ID0EDHDAAAAA_tabs"><div class="OH_CodeSnippetContainerTabLeftActive" id="ID0EDHDAAAAA_tabimgleft"></div><div id="ID0EDHDAAAAA_tab1" class="OH_CodeSnippetContainerTabActive" EnableCopyCode="true"><a href="#" onclick="javascript:ChangeTab('ID0EDHDAAAAA','C#','1','4');return false;">C#</a></div><div id="ID0EDHDAAAAA_tab2" class="OH_CodeSnippetContainerTab" EnableCopyCode="true"><a href="#" onclick="javascript:ChangeTab('ID0EDHDAAAAA','Visual Basic','2','4');return false;">VB</a></div><div id="ID0EDHDAAAAA_tab3" class="OH_CodeSnippetContainerTab" EnableCopyCode="true"><a href="#" onclick="javascript:ChangeTab('ID0EDHDAAAAA','Visual C++','3','4');return false;">C++</a></div><div id="ID0EDHDAAAAA_tab4" class="OH_CodeSnippetContainerTab" EnableCopyCode="true"><a href="#" onclick="javascript:ChangeTab('ID0EDHDAAAAA','F#','4','4');return false;">F#</a></div><div class="OH_CodeSnippetContainerTabRight" id="ID0EDHDAAAAA_tabimgright"></div></div><div id="ID0EDHDAAAAA_codecollection" class="OH_CodeSnippetContainerCodeCollection"><div class="OH_CodeSnippetToolBar"><div class="OH_CodeSnippetToolBarText"><a id="ID0EDHDAAAAA_ViewColorized" href="#" onclick="javascript:ExchangeTitleContent('ID0EDHDAAAAA','4')" title="View Colorized" style="display: none">View Colorized</a><a id="ID0EDHDAAAAA_copycode" href="#" onclick="javascript:CopyToClipboard('ID0EDHDAAAAA','4')" title="Copy to Clipboard">Copy to Clipboard</a><a id="ID0EDHDAAAAA_PrintText" class="OH_PrintText" href="#" onclick="javascript:Print('ID0EDHDAAAAA','4')" title="Print">Print</a></div></div><div id="ID0EDHDAAAAA_code_Div1" class="OH_CodeSnippetContainerCode" style="display: block"><pre>[<span class="identifier">DllImportAttribute</span>("RzSwitchbladeSDK2.dll", CallingConvention = CallingConvention.Cdecl, 
+	SetLastError = true)]
+<span class="keyword">internal</span> <span class="keyword">static</span> <span class="identifier">HRESULT</span> <span class="identifier">RzSBSetImageDynamicKey</span>(
+	<span class="identifier">RazerAPI<span id="IDLST000001">&amp;#160;</span><script type="text/javascript">addToLanSpecTextIdSet("IDLST000001?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>DynamicKeyType</span> <span class="parameter">dk</span>,
+	<span class="identifier">RazerAPI<span id="IDLST000002">&amp;#160;</span><script type="text/javascript">addToLanSpecTextIdSet("IDLST000002?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>DynamicKeyState</span> <span class="parameter">state</span>,
+	<span class="identifier">string</span> <span class="parameter">filename</span>
+)</pre></div><div id="ID0EDHDAAAAA_code_Plain_Div1" class="OH_CodeSnippetContainerCode" style="display: none"><pre>[DllImportAttribute("RzSwitchbladeSDK2.dll", CallingConvention = CallingConvention.Cdecl, 
+	SetLastError = true)]
+internal static HRESULT RzSBSetImageDynamicKey(
+	RazerAPI..::..DynamicKeyType dk,
+	RazerAPI..::..DynamicKeyState state,
+	string filename
+)</pre></div><div id="ID0EDHDAAAAA_code_Div2" class="OH_CodeSnippetContainerCode" style="display: none"><pre>&lt;<span class="identifier">DllImportAttribute</span>("RzSwitchbladeSDK2.dll", CallingConvention := CallingConvention.Cdecl, 
+	SetLastError := true&gt;]
+<span class="keyword">Friend</span> <span class="keyword">Shared</span> <span class="keyword">Function</span> <span class="identifier">RzSBSetImageDynamicKey</span> ( 
+	<span class="parameter">dk</span> <span class="keyword">As</span> <span class="identifier">RazerAPI<span id="IDLST000003">&amp;#160;</span><script type="text/javascript">addToLanSpecTextIdSet("IDLST000003?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>DynamicKeyType</span>,
+	<span class="parameter">state</span> <span class="keyword">As</span> <span class="identifier">RazerAPI<span id="IDLST000004">&amp;#160;</span><script type="text/javascript">addToLanSpecTextIdSet("IDLST000004?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>DynamicKeyState</span>,
+	<span class="parameter">filename</span> <span class="keyword">As</span> <span class="identifier">String</span>
+) <span class="keyword">As</span> <span class="identifier">HRESULT</span></pre></div><div id="ID0EDHDAAAAA_code_Plain_Div2" class="OH_CodeSnippetContainerCode" style="display: none"><pre>&lt;DllImportAttribute("RzSwitchbladeSDK2.dll", CallingConvention := CallingConvention.Cdecl, 
+	SetLastError := true&gt;]
+Friend Shared Function RzSBSetImageDynamicKey ( 
+	dk As RazerAPI..::..DynamicKeyType,
+	state As RazerAPI..::..DynamicKeyState,
+	filename As String
+) As HRESULT</pre></div><div id="ID0EDHDAAAAA_code_Div3" class="OH_CodeSnippetContainerCode" style="display: none"><pre><span class="keyword">internal</span>:
+[<span class="identifier">DllImportAttribute</span>(L"RzSwitchbladeSDK2.dll", CallingConvention = CallingConvention::Cdecl, 
+	SetLastError = true)]
+<span class="keyword">static</span> <span class="identifier">HRESULT</span> <span class="identifier">RzSBSetImageDynamicKey</span>(
+	[<span class="identifier">InAttribute</span>] <span class="identifier">RazerAPI<span id="IDLST000005">&amp;#160;</span><script type="text/javascript">addToLanSpecTextIdSet("IDLST000005?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>DynamicKeyType</span> <span class="parameter">dk</span>, 
+	[<span class="identifier">InAttribute</span>] <span class="identifier">RazerAPI<span id="IDLST000006">&amp;#160;</span><script type="text/javascript">addToLanSpecTextIdSet("IDLST000006?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>DynamicKeyState</span> <span class="parameter">state</span>, 
+	[<span class="identifier">InAttribute</span>] <span class="identifier">String</span>^ <span class="parameter">filename</span>
+)</pre></div><div id="ID0EDHDAAAAA_code_Plain_Div3" class="OH_CodeSnippetContainerCode" style="display: none"><pre>internal:
+[DllImportAttribute(L"RzSwitchbladeSDK2.dll", CallingConvention = CallingConvention::Cdecl, 
+	SetLastError = true)]
+static HRESULT RzSBSetImageDynamicKey(
+	[InAttribute] RazerAPI..::..DynamicKeyType dk, 
+	[InAttribute] RazerAPI..::..DynamicKeyState state, 
+	[InAttribute] String^ filename
+)</pre></div><div id="ID0EDHDAAAAA_code_Div4" class="OH_CodeSnippetContainerCode" style="display: none"><pre>[&lt;<span class="identifier">DllImportAttribute</span>("RzSwitchbladeSDK2.dll", CallingConvention = CallingConvention.Cdecl, 
+	SetLastError = true)&gt;]
+<span class="keyword">internal</span> <span class="keyword">static</span> <span class="keyword">member</span> <span class="identifier">RzSBSetImageDynamicKey</span> : 
+        <span class="parameter">dk</span> : <span class="identifier">RazerAPI<span id="IDLST000007">&amp;#160;</span><script type="text/javascript">addToLanSpecTextIdSet("IDLST000007?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>DynamicKeyType</span> * 
+        <span class="parameter">state</span> : <span class="identifier">RazerAPI<span id="IDLST000008">&amp;#160;</span><script type="text/javascript">addToLanSpecTextIdSet("IDLST000008?cs=.|vb=.|cpp=::|nu=.|fs=.");</script>DynamicKeyState</span> * 
+        <span class="parameter">filename</span> : <span class="identifier">string</span> <span class="keyword">-&gt;</span> <span class="identifier">HRESULT</span></pre></div><div id="ID0EDHDAAAAA_code_Plain_Div4" class="OH_CodeSnippetContainerCode" style="display: none"><pre>[&lt;DllImportAttribute("RzSwitchbladeSDK2.dll", CallingConvention = CallingConvention.Cdecl, 
+	SetLastError = true)&gt;]
+internal static member RzSBSetImageDynamicKey : 
+        dk : RazerAPI..::..DynamicKeyType * 
+        state : RazerAPI..::..DynamicKeyState * 
+        filename : string -&gt; HRESULT</pre></div></div></div><script>addSpecificTextLanguageTagSet('ID0EDHDAAAAA');</script></div><div id="parameters"><h4 class="subHeading">Parameters</h4><dl paramName="dk"><dt><span class="parameter">dk</span></dt><dd>Type: <a href="T_SharpBlade_Native_RazerAPI_DynamicKeyType.htm" target="">SharpBlade.Native<span id="ID0EDCACGDAAAAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EDCACGDAAAAA?vb=.|cpp=::|cs=.|fs=.|nu=.");
+				</script>RazerAPI<span id="ID0EBCACGDAAAAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EBCACGDAAAAA?vb=.|cpp=::|cs=.|fs=.|nu=.");
+				</script>DynamicKeyType</a><br /><span><a href="T_SharpBlade_Native_RazerAPI_DynamicKeyType.htm" target="">RazerAPI<span id="ID0EBBAACGDAAAAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EBBAACGDAAAAA?vb=.|cpp=::|cs=.|fs=.|nu=.");
+				</script>DynamicKeyType</a> indicating which key to set the image on.</span></dd></dl><dl paramName="state"><dt><span class="parameter">state</span></dt><dd>Type: <a href="T_SharpBlade_Native_RazerAPI_DynamicKeyState.htm" target="">SharpBlade.Native<span id="ID0EDCABGDAAAAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EDCABGDAAAAA?vb=.|cpp=::|cs=.|fs=.|nu=.");
+				</script>RazerAPI<span id="ID0EBCABGDAAAAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EBCABGDAAAAA?vb=.|cpp=::|cs=.|fs=.|nu=.");
+				</script>DynamicKeyState</a><br /><span>
+            The desired dynamic key state (up, down) for the specified image. See <a href="T_SharpBlade_Native_RazerAPI_DynamicKeyState.htm" target="">RazerAPI<span id="ID0EBBAABGDAAAAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EBBAABGDAAAAA?vb=.|cpp=::|cs=.|fs=.|nu=.");
+				</script>DynamicKeyState</a> for accepted values.
+            </span></dd></dl><dl paramName="filename"><dt><span class="parameter">filename</span></dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">System<span id="ID0EBCAAGDAAAAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EBCAAGDAAAAA?vb=.|cpp=::|cs=.|fs=.|nu=.");
+				</script>String</a><br /><span>
+            The image file path for the given state. This image should be 115 x 115 pixels in dimension.
+            Accepted file formats are BMP, GIF, JPG, and PNG.
+            </span></dd></dl></div><h4 class="subHeading">Return Value</h4>Type: <a href="T_SharpBlade_Native_HRESULT.htm" target="">HRESULT</a><br /><a href="T_SharpBlade_Native_HRESULT.htm" target="">HRESULT</a> object indicating success or failure.<div class="OH_CollapsibleAreaRegion"><div class="OH_regiontitle">Remarks</div><div class="OH_CollapsibleArea_HrDiv"><hr class="OH_CollapsibleArea_Hr" /></div></div><div class="OH_clear"></div>Animation in GIF files are not supported.<a name="seeAlsoSection"><!----></a><div class="OH_CollapsibleAreaRegion"><div class="OH_regiontitle">See Also</div><div class="OH_CollapsibleArea_HrDiv"><hr class="OH_CollapsibleArea_Hr" /></div></div><div class="OH_clear"></div><div class="seeAlsoStyle"><a href="T_SharpBlade_Native_RazerAPI_NativeMethods.htm" target="">RazerAPI<span id="ID0EBABAAAAAA"> </span><script type="text/javascript">
+					addToLanSpecTextIdSet("ID0EBABAAAAAA?vb=.|cpp=::|cs=.|fs=.|nu=.");
+				</script>NativeMethods Class</a></div><div class="seeAlsoStyle"><a href="N_SharpBlade_Native.htm" target="">SharpBlade.Native Namespace</a></div></div></div></div></div><div id="OH_footer" class="OH_footer"><p><a href="https://github.com/SharpBlade/SharpBlade" target="_blank">Project Page</a></p><p><a href="https://github.com/SharpBlade/SharpBlade/blob/master/LICENSE" target="_blank">Copyright (c) 2013-2014 by Adam Hellberg and Brandon Scott. (https://github.com/SharpBlade/SharpBlade/blob/master/LICENSE)</a></p><div class="OH_feedbacklink"><a href="mailto:info@sharpblade.net?subject=SharpBlade+documentation+RazerAPI.NativeMethods.RzSBSetImageDynamicKey+Method++100+EN-US&amp;body=Your%20feedback%20is%20used%20to%20improve%20the%20documentation%20and%20the%20product.%20Your%20e-mail%20address%20will%20not%20be%20used%20for%20any%20other%20purpose%20and%20is%20disposed%20of%20after%20the%20issue%20you%20report%20is%20resolved.%20While%20working%20to%20resolve%20the%20issue%20that%20you%20report%2c%20you%20may%20be%20contacted%20via%20e-mail%20to%20get%20further%20details%20or%20clarification%20on%20the%20feedback%20you%20sent.%20After%20the%20issue%20you%20report%20has%20been%20addressed%2c%20you%20may%20receive%20an%20e-mail%20to%20let%20you%20know%20that%20your%20feedback%20has%20been%20addressed.">Send Feedback</a> on this topic to info@sharpblade.net.</div></div></body></html>
