@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="cf02b8e8-da99-4e58-a28a-9fda904f8a83" Title="SharpBlade Namespaces" Url="html/R_Project_Documentation.htm">
-    <HelpTOCNode Id="6d77d17a-5061-47ae-950b-09cc8fb83896" Title="SharpBlade Namespace" Url="html/N_SharpBlade.htm">
-      <HelpTOCNode Id="355ef3c8-1c94-438f-8f32-458e6a4083df" Title="Constants Class" Url="html/T_SharpBlade_Constants.htm">
-        <HelpTOCNode Id="db005675-a9f0-4d2d-85c8-a4f3e33d2537" Title="Constants Fields" Url="html/Fields_T_SharpBlade_Constants.htm">
+  <HelpTOCNode Id="118a7504-1da4-4141-8fbe-1e5a3bddffcc" Title="SharpBlade Namespaces" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="6c3b03a6-7669-4c2b-a182-3bfc7fbd7971" Title="SharpBlade Namespace" Url="html/N_SharpBlade.htm">
+      <HelpTOCNode Id="9d30a29d-6f05-4df4-a41a-658f92e45f46" Title="Constants Class" Url="html/T_SharpBlade_Constants.htm">
+        <HelpTOCNode Id="638d5eaf-846d-4925-a812-639bcb999dbf" Title="Constants Fields" Url="html/Fields_T_SharpBlade_Constants.htm">
           <HelpTOCNode Title="BlankTouchpadImage Field" Url="html/F_SharpBlade_Constants_BlankTouchpadImage.htm" />
           <HelpTOCNode Title="DisabledDynamicKeyImage Field" Url="html/F_SharpBlade_Constants_DisabledDynamicKeyImage.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="ModifierKeys Enumeration" Url="html/T_SharpBlade_ModifierKeys.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="04b5aee7-89ee-4b89-a230-afce085ae361" Title="SharpBlade.Extensions Namespace" Url="html/N_SharpBlade_Extensions.htm">
-      <HelpTOCNode Id="3f7028e5-36c2-4b5f-86b8-7cc0e92f11a1" Title="EnumerationExtensions Class" Url="html/T_SharpBlade_Extensions_EnumerationExtensions.htm">
-        <HelpTOCNode Id="619f5cf4-1d24-456c-bbea-f8016effc503" Title="EnumerationExtensions Methods" Url="html/Methods_T_SharpBlade_Extensions_EnumerationExtensions.htm">
+    <HelpTOCNode Id="8c88413c-9af2-4d95-9f35-0e4ac2d7f47a" Title="SharpBlade.Extensions Namespace" Url="html/N_SharpBlade_Extensions.htm">
+      <HelpTOCNode Id="c0c46d52-0e63-4d22-a4c9-41b8402ed03f" Title="EnumerationExtensions Class" Url="html/T_SharpBlade_Extensions_EnumerationExtensions.htm">
+        <HelpTOCNode Id="7ca026f1-8f72-4ce3-9f8b-c761ec7b457a" Title="EnumerationExtensions Methods" Url="html/Methods_T_SharpBlade_Extensions_EnumerationExtensions.htm">
           <HelpTOCNode Title="Has(T) Method " Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Has__1.htm" />
           <HelpTOCNode Title="Include(T) Method " Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Include__1.htm" />
           <HelpTOCNode Title="Missing(T) Method " Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Missing__1.htm" />
           <HelpTOCNode Title="Remove(T) Method " Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Remove__1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="36509449-e823-45de-8b99-e408eac89d57" Title="EnumerationExtensions.Value Class" Url="html/T_SharpBlade_Extensions_EnumerationExtensions_Value.htm">
+      <HelpTOCNode Id="d3221e79-784b-4ec4-932b-0a7e80ad4869" Title="EnumerationExtensions.Value Class" Url="html/T_SharpBlade_Extensions_EnumerationExtensions_Value.htm">
         <HelpTOCNode Title="EnumerationExtensions.Value Constructor " Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Value__ctor.htm" />
         <HelpTOCNode Title="EnumerationExtensions.Value Constructor " Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Value__cctor.htm" />
-        <HelpTOCNode Id="acde30fc-16e8-4734-a906-cb0dd2e45e23" Title="EnumerationExtensions.Value Fields" Url="html/Fields_T_SharpBlade_Extensions_EnumerationExtensions_Value.htm">
+        <HelpTOCNode Id="c31c292e-7c4f-41d0-84bf-0959e2a8451f" Title="EnumerationExtensions.Value Fields" Url="html/Fields_T_SharpBlade_Extensions_EnumerationExtensions_Value.htm">
           <HelpTOCNode Title="CachedUint32 Field" Url="html/F_SharpBlade_Extensions_EnumerationExtensions_Value_CachedUint32.htm" />
           <HelpTOCNode Title="CachedUInt64 Field" Url="html/F_SharpBlade_Extensions_EnumerationExtensions_Value_CachedUInt64.htm" />
           <HelpTOCNode Title="Signed Field" Url="html/F_SharpBlade_Extensions_EnumerationExtensions_Value_Signed.htm" />
@@ -32,78 +32,78 @@
         <HelpTOCNode Title="EnumerationExtensions.Value Methods" Url="html/Methods_T_SharpBlade_Extensions_EnumerationExtensions_Value.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="632b4a46-66db-4e03-847d-29e1c10762ef" Title="SharpBlade.Helpers Namespace" Url="html/N_SharpBlade_Helpers.htm">
-      <HelpTOCNode Id="8d195d55-e275-4d4a-9ec6-094557d48475" Title="GenericMethods Class" Url="html/T_SharpBlade_Helpers_GenericMethods.htm">
-        <HelpTOCNode Id="a0045e36-c270-4ef2-a2cc-df932c69510f" Title="GenericMethods Methods" Url="html/Methods_T_SharpBlade_Helpers_GenericMethods.htm">
+    <HelpTOCNode Id="626f7854-e434-4d3e-9667-0c1ea81e4b1e" Title="SharpBlade.Helpers Namespace" Url="html/N_SharpBlade_Helpers.htm">
+      <HelpTOCNode Id="3a3de2a0-3d2d-4dc7-88a1-baaf4063fbed" Title="GenericMethods Class" Url="html/T_SharpBlade_Helpers_GenericMethods.htm">
+        <HelpTOCNode Id="8069a3a1-01ca-4e2c-b993-c0d58c7f63dc" Title="GenericMethods Methods" Url="html/Methods_T_SharpBlade_Helpers_GenericMethods.htm">
           <HelpTOCNode Title="GetAbsolutePath Method " Url="html/M_SharpBlade_Helpers_GenericMethods_GetAbsolutePath.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="ebe831a0-7521-4459-8714-c2327b18ff23" Title="ScreenCapture Class" Url="html/T_SharpBlade_Helpers_ScreenCapture.htm">
-        <HelpTOCNode Id="0c6d1fb2-86d1-4f5f-9a43-c356a20c9b51" Title="ScreenCapture Methods" Url="html/Methods_T_SharpBlade_Helpers_ScreenCapture.htm">
+      <HelpTOCNode Id="5a1e29e3-a514-46c8-aeca-d51f85c5258d" Title="ScreenCapture Class" Url="html/T_SharpBlade_Helpers_ScreenCapture.htm">
+        <HelpTOCNode Id="f65895fa-d3f6-4a6b-8fa4-1558592b8bdb" Title="ScreenCapture Methods" Url="html/Methods_T_SharpBlade_Helpers_ScreenCapture.htm">
           <HelpTOCNode Title="CaptureScreen Method " Url="html/M_SharpBlade_Helpers_ScreenCapture_CaptureScreen.htm" />
           <HelpTOCNode Title="CaptureScreenToFile Method " Url="html/M_SharpBlade_Helpers_ScreenCapture_CaptureScreenToFile.htm" />
           <HelpTOCNode Title="CaptureWindow Method " Url="html/M_SharpBlade_Helpers_ScreenCapture_CaptureWindow.htm" />
           <HelpTOCNode Title="CaptureWindowToFile Method " Url="html/M_SharpBlade_Helpers_ScreenCapture_CaptureWindowToFile.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="ba2f417b-0471-4930-91fa-edf49a2f87fb" Title="ThreadingMethods Class" Url="html/T_SharpBlade_Helpers_ThreadingMethods.htm">
-        <HelpTOCNode Id="810c7485-5b67-4f9e-bea9-89830788a750" Title="ThreadingMethods Methods" Url="html/Methods_T_SharpBlade_Helpers_ThreadingMethods.htm">
+      <HelpTOCNode Id="05061f58-1beb-42db-8677-e2407b0a5836" Title="ThreadingMethods Class" Url="html/T_SharpBlade_Helpers_ThreadingMethods.htm">
+        <HelpTOCNode Id="c3048f40-25f8-4fc8-8828-bc8704aeeada" Title="ThreadingMethods Methods" Url="html/Methods_T_SharpBlade_Helpers_ThreadingMethods.htm">
           <HelpTOCNode Title="SetCurrentThreadName Method " Url="html/M_SharpBlade_Helpers_ThreadingMethods_SetCurrentThreadName.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="62da8c2d-4e29-48eb-bf15-c6ab5b80cd07" Title="SharpBlade.Integration Namespace" Url="html/N_SharpBlade_Integration.htm">
-      <HelpTOCNode Id="5928206c-7a9b-4525-b74f-84dfaf480b2b" Title="BitmapRenderer Class" Url="html/T_SharpBlade_Integration_BitmapRenderer.htm">
+    <HelpTOCNode Id="bf93d3d0-87de-4313-9b0a-e77a6e5f9390" Title="SharpBlade.Integration Namespace" Url="html/N_SharpBlade_Integration.htm">
+      <HelpTOCNode Id="ccde14b7-1779-4318-aef5-37e77de384dc" Title="BitmapRenderer Class" Url="html/T_SharpBlade_Integration_BitmapRenderer.htm">
         <HelpTOCNode Title="BitmapRenderer Constructor " Url="html/M_SharpBlade_Integration_BitmapRenderer__ctor.htm" />
-        <HelpTOCNode Id="58e2ec2f-aa0c-4ccf-8a5b-4209291c90f9" Title="BitmapRenderer Fields" Url="html/Fields_T_SharpBlade_Integration_BitmapRenderer.htm">
+        <HelpTOCNode Id="4fbfe47b-43ee-482a-9785-da4507139249" Title="BitmapRenderer Fields" Url="html/Fields_T_SharpBlade_Integration_BitmapRenderer.htm">
           <HelpTOCNode Title="_provider Field" Url="html/F_SharpBlade_Integration_BitmapRenderer__provider.htm" />
           <HelpTOCNode Title="_timer Field" Url="html/F_SharpBlade_Integration_BitmapRenderer__timer.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="f2efd18b-b31f-4739-92f7-56b6c46867b5" Title="BitmapRenderer Methods" Url="html/Methods_T_SharpBlade_Integration_BitmapRenderer.htm">
+        <HelpTOCNode Id="f227102e-d425-490a-9e70-be82eb469b6d" Title="BitmapRenderer Methods" Url="html/Methods_T_SharpBlade_Integration_BitmapRenderer.htm">
           <HelpTOCNode Title="Dispose Method " Url="html/M_SharpBlade_Integration_BitmapRenderer_Dispose.htm" />
           <HelpTOCNode Title="TimerTick Method " Url="html/M_SharpBlade_Integration_BitmapRenderer_TimerTick.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="bb6039ff-abd9-49b9-85cb-a7e40c588d0f" Title="EmbeddedWinFormsControl Structure" Url="html/T_SharpBlade_Integration_EmbeddedWinFormsControl.htm">
+      <HelpTOCNode Id="e0813634-f84e-4d0f-b599-5463cfc8d4dc" Title="EmbeddedWinFormsControl Structure" Url="html/T_SharpBlade_Integration_EmbeddedWinFormsControl.htm">
         <HelpTOCNode Title="EmbeddedWinFormsControl Constructor " Url="html/M_SharpBlade_Integration_EmbeddedWinFormsControl__ctor.htm" />
-        <HelpTOCNode Id="38ff9372-2624-48d5-ad1c-812aa3bbfc19" Title="EmbeddedWinFormsControl Fields" Url="html/Fields_T_SharpBlade_Integration_EmbeddedWinFormsControl.htm">
+        <HelpTOCNode Id="4d90b264-4185-4c67-9e9a-28c2e0678b1b" Title="EmbeddedWinFormsControl Fields" Url="html/Fields_T_SharpBlade_Integration_EmbeddedWinFormsControl.htm">
           <HelpTOCNode Title="_control Field" Url="html/F_SharpBlade_Integration_EmbeddedWinFormsControl__control.htm" />
           <HelpTOCNode Title="_host Field" Url="html/F_SharpBlade_Integration_EmbeddedWinFormsControl__host.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="354eb6d8-b819-48bf-9a36-4cc4d461fb3c" Title="EmbeddedWinFormsControl Methods" Url="html/Methods_T_SharpBlade_Integration_EmbeddedWinFormsControl.htm">
+        <HelpTOCNode Id="57fed35d-30a7-4046-a7a9-b7fdc5e5669f" Title="EmbeddedWinFormsControl Methods" Url="html/Methods_T_SharpBlade_Integration_EmbeddedWinFormsControl.htm">
           <HelpTOCNode Title="Draw Method " Url="html/M_SharpBlade_Integration_EmbeddedWinFormsControl_Draw.htm" />
           <HelpTOCNode Title="Equals Method " Url="html/M_SharpBlade_Integration_EmbeddedWinFormsControl_Equals.htm" />
           <HelpTOCNode Title="GetHashCode Method " Url="html/M_SharpBlade_Integration_EmbeddedWinFormsControl_GetHashCode.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="7033b865-7e04-4699-95a0-9f90452a390d" Title="EmbeddedWinFormsControl Operators" Url="html/Operators_T_SharpBlade_Integration_EmbeddedWinFormsControl.htm">
+        <HelpTOCNode Id="ee88732e-ee25-4422-845a-18931ffb0253" Title="EmbeddedWinFormsControl Operators" Url="html/Operators_T_SharpBlade_Integration_EmbeddedWinFormsControl.htm">
           <HelpTOCNode Title="Equality Operator " Url="html/M_SharpBlade_Integration_EmbeddedWinFormsControl_op_Equality.htm" />
           <HelpTOCNode Title="Inequality Operator " Url="html/M_SharpBlade_Integration_EmbeddedWinFormsControl_op_Inequality.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="b7f747d0-fd7b-4098-862f-574e10155635" Title="EmbeddedWinFormsControl Properties" Url="html/Properties_T_SharpBlade_Integration_EmbeddedWinFormsControl.htm">
+        <HelpTOCNode Id="1e2faa73-e6eb-4e9f-9168-9baa60bd3552" Title="EmbeddedWinFormsControl Properties" Url="html/Properties_T_SharpBlade_Integration_EmbeddedWinFormsControl.htm">
           <HelpTOCNode Title="Bounds Property " Url="html/P_SharpBlade_Integration_EmbeddedWinFormsControl_Bounds.htm" />
           <HelpTOCNode Title="Control Property " Url="html/P_SharpBlade_Integration_EmbeddedWinFormsControl_Control.htm" />
           <HelpTOCNode Title="Host Property " Url="html/P_SharpBlade_Integration_EmbeddedWinFormsControl_Host.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="bbf1c579-0099-4021-8304-c0227768b038" Title="IBitmapProvider Interface" Url="html/T_SharpBlade_Integration_IBitmapProvider.htm">
-        <HelpTOCNode Id="66a67ed4-de48-4856-96c7-c976ffa4ffb0" Title="IBitmapProvider Properties" Url="html/Properties_T_SharpBlade_Integration_IBitmapProvider.htm">
+      <HelpTOCNode Id="804f73ba-3424-438f-be16-0a7bfffdc5b8" Title="IBitmapProvider Interface" Url="html/T_SharpBlade_Integration_IBitmapProvider.htm">
+        <HelpTOCNode Id="1126ae37-5a4f-4dd1-9e4d-84ba789f1006" Title="IBitmapProvider Properties" Url="html/Properties_T_SharpBlade_Integration_IBitmapProvider.htm">
           <HelpTOCNode Title="Bitmap Property " Url="html/P_SharpBlade_Integration_IBitmapProvider_Bitmap.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="aa5f25e2-dc11-4257-97d9-6ea4e8c8063a" Title="IRenderer Interface" Url="html/T_SharpBlade_Integration_IRenderer.htm">
+      <HelpTOCNode Id="776c927e-7334-4ce3-8cb9-af798a341875" Title="IRenderer Interface" Url="html/T_SharpBlade_Integration_IRenderer.htm">
         <HelpTOCNode Title="IRenderer Methods" Url="html/Methods_T_SharpBlade_Integration_IRenderer.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a84c588e-1fac-4e12-a110-431e282a6ba7" Title="KeyboardControl Class" Url="html/T_SharpBlade_Integration_KeyboardControl.htm">
-        <HelpTOCNode Id="c832cb27-a99a-4332-88c0-fb11599004f1" Title="KeyboardControl Constructor " Url="html/Overload_SharpBlade_Integration_KeyboardControl__ctor.htm">
+      <HelpTOCNode Id="4b502c80-f794-4000-a050-3726c09eab5e" Title="KeyboardControl Class" Url="html/T_SharpBlade_Integration_KeyboardControl.htm">
+        <HelpTOCNode Id="2d7086c3-2adf-4c8a-b626-83a439ad7cd8" Title="KeyboardControl Constructor " Url="html/Overload_SharpBlade_Integration_KeyboardControl__ctor.htm">
           <HelpTOCNode Title="KeyboardControl Constructor (Control, Boolean)" Url="html/M_SharpBlade_Integration_KeyboardControl__ctor.htm" />
           <HelpTOCNode Title="KeyboardControl Constructor (Control, Boolean)" Url="html/M_SharpBlade_Integration_KeyboardControl__ctor_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="c194ba65-a845-4106-a835-17b8c61c4d78" Title="KeyboardControl Fields" Url="html/Fields_T_SharpBlade_Integration_KeyboardControl.htm">
+        <HelpTOCNode Id="83220ba1-aa68-400e-afa0-d39da0f86d6b" Title="KeyboardControl Fields" Url="html/Fields_T_SharpBlade_Integration_KeyboardControl.htm">
           <HelpTOCNode Title="_winFormControl Field" Url="html/F_SharpBlade_Integration_KeyboardControl__winFormControl.htm" />
           <HelpTOCNode Title="_wpfControl Field" Url="html/F_SharpBlade_Integration_KeyboardControl__wpfControl.htm" />
           <HelpTOCNode Title="ReleaseOnEnter Field" Url="html/F_SharpBlade_Integration_KeyboardControl_ReleaseOnEnter.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="dd2b2d7b-f4d9-44c6-92b6-77d92bdd79ce" Title="KeyboardControl Methods" Url="html/Methods_T_SharpBlade_Integration_KeyboardControl.htm">
+        <HelpTOCNode Id="d982be7d-c416-40f7-86f3-ed467e7d506d" Title="KeyboardControl Methods" Url="html/Methods_T_SharpBlade_Integration_KeyboardControl.htm">
           <HelpTOCNode Title="SendChar Method " Url="html/M_SharpBlade_Integration_KeyboardControl_SendChar.htm" />
           <HelpTOCNode Title="SendKeyDown Method " Url="html/M_SharpBlade_Integration_KeyboardControl_SendKeyDown.htm" />
           <HelpTOCNode Title="SendKeyUp Method " Url="html/M_SharpBlade_Integration_KeyboardControl_SendKeyUp.htm" />
@@ -115,55 +115,55 @@
           <HelpTOCNode Title="SendWPFKeyUp Method " Url="html/M_SharpBlade_Integration_KeyboardControl_SendWPFKeyUp.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="cc206629-c0bd-4ef4-a4b7-f20878117154" Title="NativeRenderer Class" Url="html/T_SharpBlade_Integration_NativeRenderer.htm">
+      <HelpTOCNode Id="1bdfc722-f5ed-41ca-a6f8-68df678eed7e" Title="NativeRenderer Class" Url="html/T_SharpBlade_Integration_NativeRenderer.htm">
         <HelpTOCNode Title="NativeRenderer Constructor " Url="html/M_SharpBlade_Integration_NativeRenderer__ctor.htm" />
-        <HelpTOCNode Id="58900b9a-4f15-4cf6-b5b8-8f558c250d7d" Title="NativeRenderer Fields" Url="html/Fields_T_SharpBlade_Integration_NativeRenderer.htm">
+        <HelpTOCNode Id="9990a7a7-10be-4bd7-81bc-01f7ec866415" Title="NativeRenderer Fields" Url="html/Fields_T_SharpBlade_Integration_NativeRenderer.htm">
           <HelpTOCNode Title="_nativeTimer Field" Url="html/F_SharpBlade_Integration_NativeRenderer__nativeTimer.htm" />
           <HelpTOCNode Title="_nativeWindow Field" Url="html/F_SharpBlade_Integration_NativeRenderer__nativeWindow.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="abffe809-4845-421c-8f41-9aa343b592e6" Title="NativeRenderer Methods" Url="html/Methods_T_SharpBlade_Integration_NativeRenderer.htm">
+        <HelpTOCNode Id="9f811c6c-3a8e-40bb-96c6-6750cbc3def4" Title="NativeRenderer Methods" Url="html/Methods_T_SharpBlade_Integration_NativeRenderer.htm">
           <HelpTOCNode Title="Dispose Method " Url="html/M_SharpBlade_Integration_NativeRenderer_Dispose.htm" />
           <HelpTOCNode Title="NativeTimerTick Method " Url="html/M_SharpBlade_Integration_NativeRenderer_NativeTimerTick.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="3873e0d8-3873-452d-822c-666580a13380" Title="Renderer(T) Class" Url="html/T_SharpBlade_Integration_Renderer_1.htm">
+      <HelpTOCNode Id="2e3f7d2b-b253-4476-97c4-d19651ed1140" Title="Renderer(T) Class" Url="html/T_SharpBlade_Integration_Renderer_1.htm">
         <HelpTOCNode Title="Renderer(T) Constructor " Url="html/M_SharpBlade_Integration_Renderer_1__ctor.htm" />
-        <HelpTOCNode Id="d668d692-df17-417f-9276-43daa0d0183b" Title="Renderer(T) Fields" Url="html/Fields_T_SharpBlade_Integration_Renderer_1.htm">
+        <HelpTOCNode Id="b3798aa2-b95b-4f95-b6bb-d4d76ce2d633" Title="Renderer(T) Fields" Url="html/Fields_T_SharpBlade_Integration_Renderer_1.htm">
           <HelpTOCNode Title="RenderTarget Field" Url="html/F_SharpBlade_Integration_Renderer_1_RenderTarget.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="26743e69-5a6f-4edb-ae98-040b9c42e5f3" Title="Renderer(T) Methods" Url="html/Methods_T_SharpBlade_Integration_Renderer_1.htm">
+        <HelpTOCNode Id="39fe0d29-5cef-417a-8b7a-f63ee346c227" Title="Renderer(T) Methods" Url="html/Methods_T_SharpBlade_Integration_Renderer_1.htm">
           <HelpTOCNode Title="Dispose Method " Url="html/M_SharpBlade_Integration_Renderer_1_Dispose.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="bce63ec5-afa5-42cb-a372-17ea43d1169f" Title="WinFormsRenderer Class" Url="html/T_SharpBlade_Integration_WinFormsRenderer.htm">
+      <HelpTOCNode Id="ba185ee4-54d9-49bc-a631-e09142e71ca3" Title="WinFormsRenderer Class" Url="html/T_SharpBlade_Integration_WinFormsRenderer.htm">
         <HelpTOCNode Title="WinFormsRenderer Constructor " Url="html/M_SharpBlade_Integration_WinFormsRenderer__ctor.htm" />
-        <HelpTOCNode Id="772eabe5-f573-4e01-8c40-a57b11b7d2ff" Title="WinFormsRenderer Fields" Url="html/Fields_T_SharpBlade_Integration_WinFormsRenderer.htm">
+        <HelpTOCNode Id="ffcb6c24-d43d-423d-be59-d11fe66e090d" Title="WinFormsRenderer Fields" Url="html/Fields_T_SharpBlade_Integration_WinFormsRenderer.htm">
           <HelpTOCNode Title="_form Field" Url="html/F_SharpBlade_Integration_WinFormsRenderer__form.htm" />
           <HelpTOCNode Title="_winformTimer Field" Url="html/F_SharpBlade_Integration_WinFormsRenderer__winformTimer.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="e8900538-c256-47db-974b-6bf585b2ca26" Title="WinFormsRenderer Methods" Url="html/Methods_T_SharpBlade_Integration_WinFormsRenderer.htm">
+        <HelpTOCNode Id="118d1b50-14cf-4044-98c9-255c97bc00b6" Title="WinFormsRenderer Methods" Url="html/Methods_T_SharpBlade_Integration_WinFormsRenderer.htm">
           <HelpTOCNode Title="Dispose Method " Url="html/M_SharpBlade_Integration_WinFormsRenderer_Dispose.htm" />
           <HelpTOCNode Title="WinformTimerOnTick Method " Url="html/M_SharpBlade_Integration_WinFormsRenderer_WinformTimerOnTick.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="30e2ba87-5fd2-48b4-9477-377f685b6d5c" Title="WpfRenderer Class" Url="html/T_SharpBlade_Integration_WpfRenderer.htm">
+      <HelpTOCNode Id="e1919058-ba0b-4f87-a5fe-c6101ef07a1f" Title="WpfRenderer Class" Url="html/T_SharpBlade_Integration_WpfRenderer.htm">
         <HelpTOCNode Title="WpfRenderer Constructor " Url="html/M_SharpBlade_Integration_WpfRenderer__ctor.htm" />
-        <HelpTOCNode Id="ccf79ba6-3092-4c71-a2a5-4d04286840c0" Title="WpfRenderer Fields" Url="html/Fields_T_SharpBlade_Integration_WpfRenderer.htm">
+        <HelpTOCNode Id="4cc5cbeb-b227-4128-b831-6ffcd3a08f9a" Title="WpfRenderer Fields" Url="html/Fields_T_SharpBlade_Integration_WpfRenderer.htm">
           <HelpTOCNode Title="_window Field" Url="html/F_SharpBlade_Integration_WpfRenderer__window.htm" />
           <HelpTOCNode Title="_wpfTimer Field" Url="html/F_SharpBlade_Integration_WpfRenderer__wpfTimer.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="49484f8d-6129-4a6c-8c67-4f1c12e40f0b" Title="WpfRenderer Methods" Url="html/Methods_T_SharpBlade_Integration_WpfRenderer.htm">
+        <HelpTOCNode Id="e696245d-165a-4f84-a4eb-5d7ebcb2ad97" Title="WpfRenderer Methods" Url="html/Methods_T_SharpBlade_Integration_WpfRenderer.htm">
           <HelpTOCNode Title="Dispose Method " Url="html/M_SharpBlade_Integration_WpfRenderer_Dispose.htm" />
           <HelpTOCNode Title="WpfTimerTick Method " Url="html/M_SharpBlade_Integration_WpfRenderer_WpfTimerTick.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="831c4b2c-cc7a-450e-ba07-fb7fda920fb8" Title="SharpBlade.Logging Namespace" Url="html/N_SharpBlade_Logging.htm">
-      <HelpTOCNode Id="2a6e5a15-26b8-414c-b6c8-3f6412a81396" Title="LogManager Class" Url="html/T_SharpBlade_Logging_LogManager.htm">
-        <HelpTOCNode Id="76ebad2e-0784-4827-8583-28e777f96ae1" Title="LogManager Fields" Url="html/Fields_T_SharpBlade_Logging_LogManager.htm">
+    <HelpTOCNode Id="bf42e36f-cfad-4278-b2e3-ea8931a710d8" Title="SharpBlade.Logging Namespace" Url="html/N_SharpBlade_Logging.htm">
+      <HelpTOCNode Id="8f32fca5-1e2e-46d3-9661-cf290e4c51dd" Title="LogManager Class" Url="html/T_SharpBlade_Logging_LogManager.htm">
+        <HelpTOCNode Id="5249eb27-7b9d-4794-a060-de036547bfb4" Title="LogManager Fields" Url="html/Fields_T_SharpBlade_Logging_LogManager.htm">
           <HelpTOCNode Title="_loaded Field" Url="html/F_SharpBlade_Logging_LogManager__loaded.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="12b02707-020d-44ee-aec3-2b00c8371465" Title="LogManager Methods" Url="html/Methods_T_SharpBlade_Logging_LogManager.htm">
+        <HelpTOCNode Id="f5689173-c6c0-4c75-ac13-ec21666fef45" Title="LogManager Methods" Url="html/Methods_T_SharpBlade_Logging_LogManager.htm">
           <HelpTOCNode Title="ClearOldLogs Method " Url="html/M_SharpBlade_Logging_LogManager_ClearOldLogs.htm" />
           <HelpTOCNode Title="DestroyConsole Method " Url="html/M_SharpBlade_Logging_LogManager_DestroyConsole.htm" />
           <HelpTOCNode Title="GetLogger Method " Url="html/M_SharpBlade_Logging_LogManager_GetLogger.htm" />
@@ -172,23 +172,23 @@
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="54245ce1-e65d-412e-b03c-18b0944f151d" Title="SharpBlade.Native Namespace" Url="html/N_SharpBlade_Native.htm">
-      <HelpTOCNode Id="6cd43f22-0115-4289-803b-2208e5424503" Title="HelperMethods Class" Url="html/T_SharpBlade_Native_HelperMethods.htm">
-        <HelpTOCNode Id="0d4f35b0-1c5f-40f2-af1c-7c1eca760d53" Title="HelperMethods Methods" Url="html/Methods_T_SharpBlade_Native_HelperMethods.htm">
+    <HelpTOCNode Id="5a0b4704-7932-47c1-9fe7-8be01f0272f5" Title="SharpBlade.Native Namespace" Url="html/N_SharpBlade_Native.htm">
+      <HelpTOCNode Id="60f4077d-f858-4c4e-8c73-f727a7b21baa" Title="HelperMethods Class" Url="html/T_SharpBlade_Native_HelperMethods.htm">
+        <HelpTOCNode Id="f178c381-df9a-4b74-973f-3fc6bb659e3c" Title="HelperMethods Methods" Url="html/Methods_T_SharpBlade_Native_HelperMethods.htm">
           <HelpTOCNode Title="GetErrorMessage Method " Url="html/M_SharpBlade_Native_HelperMethods_GetErrorMessage.htm" />
           <HelpTOCNode Title="GetLastErrorInfo Method " Url="html/M_SharpBlade_Native_HelperMethods_GetLastErrorInfo.htm" />
           <HelpTOCNode Title="GetWin32Exception Method " Url="html/M_SharpBlade_Native_HelperMethods_GetWin32Exception.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8e66c64d-b2ab-4254-90c2-fb2366aae12b" Title="HelperMethods Properties" Url="html/Properties_T_SharpBlade_Native_HelperMethods.htm">
+        <HelpTOCNode Id="f39f4783-df30-435d-9647-936bb7ee78f8" Title="HelperMethods Properties" Url="html/Properties_T_SharpBlade_Native_HelperMethods.htm">
           <HelpTOCNode Title="LastError Property " Url="html/P_SharpBlade_Native_HelperMethods_LastError.htm" />
           <HelpTOCNode Title="LastErrorMessage Property " Url="html/P_SharpBlade_Native_HelperMethods_LastErrorMessage.htm" />
           <HelpTOCNode Title="LastWin32Exception Property " Url="html/P_SharpBlade_Native_HelperMethods_LastWin32Exception.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="7e4be630-13fb-47bd-8c42-c1354d22dd42" Title="HRESULT Structure" Url="html/T_SharpBlade_Native_HRESULT.htm">
+      <HelpTOCNode Id="dddcd1ab-6c35-4325-8740-a0a8d6093ecf" Title="HRESULT Structure" Url="html/T_SharpBlade_Native_HRESULT.htm">
         <HelpTOCNode Title="HRESULT Constructor " Url="html/M_SharpBlade_Native_HRESULT__ctor.htm" />
         <HelpTOCNode Title="HRESULT Constructor " Url="html/M_SharpBlade_Native_HRESULT__cctor.htm" />
-        <HelpTOCNode Id="69c5536a-d341-4fcc-80eb-495d45ae4631" Title="HRESULT Fields" Url="html/Fields_T_SharpBlade_Native_HRESULT.htm">
+        <HelpTOCNode Id="777f200f-dbf8-4fef-83a0-3a611f974107" Title="HRESULT Fields" Url="html/Fields_T_SharpBlade_Native_HRESULT.htm">
           <HelpTOCNode Title="CACHE_E_FIRST Field" Url="html/F_SharpBlade_Native_HRESULT_CACHE_E_FIRST.htm" />
           <HelpTOCNode Title="CACHE_E_LAST Field" Url="html/F_SharpBlade_Native_HRESULT_CACHE_E_LAST.htm" />
           <HelpTOCNode Title="CACHE_E_NOCACHE_UPDATED Field" Url="html/F_SharpBlade_Native_HRESULT_CACHE_E_NOCACHE_UPDATED.htm" />
@@ -1392,13 +1392,13 @@
           <HelpTOCNode Title="XENROLL_E_RESPONSE_KA_HASH_NOT_FOUND Field" Url="html/F_SharpBlade_Native_HRESULT_XENROLL_E_RESPONSE_KA_HASH_NOT_FOUND.htm" />
           <HelpTOCNode Title="XENROLL_E_RESPONSE_UNEXPECTED_KA_HASH Field" Url="html/F_SharpBlade_Native_HRESULT_XENROLL_E_RESPONSE_UNEXPECTED_KA_HASH.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="0ca85038-9121-4418-bc19-433de4d01c56" Title="HRESULT Methods" Url="html/Methods_T_SharpBlade_Native_HRESULT.htm">
-          <HelpTOCNode Id="8593854f-6e66-45dd-93f7-f42c95240de6" Title="CompareTo Method " Url="html/Overload_SharpBlade_Native_HRESULT_CompareTo.htm">
+        <HelpTOCNode Id="b26219df-3f71-45d0-8316-2a26687ea3a6" Title="HRESULT Methods" Url="html/Methods_T_SharpBlade_Native_HRESULT.htm">
+          <HelpTOCNode Id="b01bbf4c-aca7-4f82-8106-505d9562cc77" Title="CompareTo Method " Url="html/Overload_SharpBlade_Native_HRESULT_CompareTo.htm">
             <HelpTOCNode Title="CompareTo Method (Int32)" Url="html/M_SharpBlade_Native_HRESULT_CompareTo_1.htm" />
             <HelpTOCNode Title="CompareTo Method (Object)" Url="html/M_SharpBlade_Native_HRESULT_CompareTo_2.htm" />
             <HelpTOCNode Title="CompareTo Method (HRESULT)" Url="html/M_SharpBlade_Native_HRESULT_CompareTo.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="858e17f7-19b6-4716-9cbc-b4e208da7b14" Title="Equals Method " Url="html/Overload_SharpBlade_Native_HRESULT_Equals.htm">
+          <HelpTOCNode Id="5c27151e-768a-43e3-95a1-e4e99aa3996e" Title="Equals Method " Url="html/Overload_SharpBlade_Native_HRESULT_Equals.htm">
             <HelpTOCNode Title="Equals Method (Int32)" Url="html/M_SharpBlade_Native_HRESULT_Equals_1.htm" />
             <HelpTOCNode Title="Equals Method (Object)" Url="html/M_SharpBlade_Native_HRESULT_Equals_2.htm" />
             <HelpTOCNode Title="Equals Method (HRESULT)" Url="html/M_SharpBlade_Native_HRESULT_Equals.htm" />
@@ -1410,15 +1410,15 @@
           <HelpTOCNode Title="RZSB_FAILED Method " Url="html/M_SharpBlade_Native_HRESULT_RZSB_FAILED.htm" />
           <HelpTOCNode Title="RZSB_SUCCESS Method " Url="html/M_SharpBlade_Native_HRESULT_RZSB_SUCCESS.htm" />
           <HelpTOCNode Title="SUCCEEDED Method " Url="html/M_SharpBlade_Native_HRESULT_SUCCEEDED.htm" />
-          <HelpTOCNode Id="568de5fa-0f04-4045-8a7c-0f2e6d77f14d" Title="ToString Method " Url="html/Overload_SharpBlade_Native_HRESULT_ToString.htm">
+          <HelpTOCNode Id="6495aac0-5dda-4860-882a-9a9ed8baaa8b" Title="ToString Method " Url="html/Overload_SharpBlade_Native_HRESULT_ToString.htm">
             <HelpTOCNode Title="ToString Method " Url="html/M_SharpBlade_Native_HRESULT_ToString.htm" />
             <HelpTOCNode Title="ToString Method (Boolean)" Url="html/M_SharpBlade_Native_HRESULT_ToString_1.htm" />
           </HelpTOCNode>
         </HelpTOCNode>
-        <HelpTOCNode Id="14a707eb-046e-4e0d-b1f2-e2322d413a4b" Title="HRESULT Operators and Type Conversions" Url="html/Operators_T_SharpBlade_Native_HRESULT.htm">
+        <HelpTOCNode Id="5de0ee64-7ad3-47dd-b779-65435ec0ac26" Title="HRESULT Operators and Type Conversions" Url="html/Operators_T_SharpBlade_Native_HRESULT.htm">
           <HelpTOCNode Title="Equality Operator " Url="html/M_SharpBlade_Native_HRESULT_op_Equality.htm" />
           <HelpTOCNode Title="False Operator " Url="html/M_SharpBlade_Native_HRESULT_op_False.htm" />
-          <HelpTOCNode Id="f9cf93ef-581c-4163-b490-9b38b7f7e24e" Title="Implicit Conversion Operators" Url="html/Overload_SharpBlade_Native_HRESULT_op_Implicit.htm">
+          <HelpTOCNode Id="4006f580-7a8b-43d8-8593-c816379a893c" Title="Implicit Conversion Operators" Url="html/Overload_SharpBlade_Native_HRESULT_op_Implicit.htm">
             <HelpTOCNode Title="Implicit Conversion (Int32 to HRESULT)" Url="html/M_SharpBlade_Native_HRESULT_op_Implicit_2.htm" />
             <HelpTOCNode Title="Implicit Conversion (HRESULT to Int32)" Url="html/M_SharpBlade_Native_HRESULT_op_Implicit.htm" />
             <HelpTOCNode Title="Implicit Conversion (HRESULT to Boolean)" Url="html/M_SharpBlade_Native_HRESULT_op_Implicit_1.htm" />
@@ -1426,48 +1426,48 @@
           <HelpTOCNode Title="Inequality Operator " Url="html/M_SharpBlade_Native_HRESULT_op_Inequality.htm" />
           <HelpTOCNode Title="True Operator " Url="html/M_SharpBlade_Native_HRESULT_op_True.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="cbab94e9-1748-4b1c-a632-6155088882fc" Title="HRESULT Properties" Url="html/Properties_T_SharpBlade_Native_HRESULT.htm">
+        <HelpTOCNode Id="69a6e38e-7aa1-4075-b76b-bfca674c18c2" Title="HRESULT Properties" Url="html/Properties_T_SharpBlade_Native_HRESULT.htm">
           <HelpTOCNode Title="Failed Property " Url="html/P_SharpBlade_Native_HRESULT_Failed.htm" />
           <HelpTOCNode Title="Succeeded Property " Url="html/P_SharpBlade_Native_HRESULT_Succeeded.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="8cb2b5b4-1441-420a-86a8-dc39ac9a24af" Title="HRESULT.DescriptionAttribute Class" Url="html/T_SharpBlade_Native_HRESULT_DescriptionAttribute.htm">
+      <HelpTOCNode Id="9eb22b9d-9986-4019-8518-260b167d759f" Title="HRESULT.DescriptionAttribute Class" Url="html/T_SharpBlade_Native_HRESULT_DescriptionAttribute.htm">
         <HelpTOCNode Title="HRESULT.DescriptionAttribute Constructor " Url="html/M_SharpBlade_Native_HRESULT_DescriptionAttribute__ctor.htm" />
         <HelpTOCNode Title="HRESULT.DescriptionAttribute Methods" Url="html/Methods_T_SharpBlade_Native_HRESULT_DescriptionAttribute.htm" />
-        <HelpTOCNode Id="60813a15-a71a-4486-924c-c22a2a6b8ae3" Title="HRESULT.DescriptionAttribute Properties" Url="html/Properties_T_SharpBlade_Native_HRESULT_DescriptionAttribute.htm">
+        <HelpTOCNode Id="128f6124-a5bf-45be-8cdc-4a75a2803399" Title="HRESULT.DescriptionAttribute Properties" Url="html/Properties_T_SharpBlade_Native_HRESULT_DescriptionAttribute.htm">
           <HelpTOCNode Title="description Property " Url="html/P_SharpBlade_Native_HRESULT_DescriptionAttribute_description.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="91592926-a813-4e63-a7f9-9f6037bcca78" Title="HRESULT.DirCodes Class" Url="html/T_SharpBlade_Native_HRESULT_DirCodes.htm">
-        <HelpTOCNode Id="358970fc-643e-49a9-8788-57113a58ad87" Title="HRESULT.DirCodes Constructor " Url="html/Overload_SharpBlade_Native_HRESULT_DirCodes__ctor.htm">
+      <HelpTOCNode Id="2a8c4f44-eac9-4711-b3be-9012845b76f8" Title="HRESULT.DirCodes Class" Url="html/T_SharpBlade_Native_HRESULT_DirCodes.htm">
+        <HelpTOCNode Id="842edfc6-79a6-45a6-97e8-fddc6a31e75a" Title="HRESULT.DirCodes Constructor " Url="html/Overload_SharpBlade_Native_HRESULT_DirCodes__ctor.htm">
           <HelpTOCNode Title="HRESULT.DirCodes Constructor " Url="html/M_SharpBlade_Native_HRESULT_DirCodes__ctor.htm" />
           <HelpTOCNode Title="HRESULT.DirCodes Constructor (Int32)" Url="html/M_SharpBlade_Native_HRESULT_DirCodes__ctor_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="99fff62e-8d94-41d7-bd6b-11f368a2c647" Title="HRESULT.DirCodes Methods" Url="html/Methods_T_SharpBlade_Native_HRESULT_DirCodes.htm">
+        <HelpTOCNode Id="20bbc9b9-bef2-42cd-9b8d-341ea7440c93" Title="HRESULT.DirCodes Methods" Url="html/Methods_T_SharpBlade_Native_HRESULT_DirCodes.htm">
           <HelpTOCNode Title="Add Method " Url="html/M_SharpBlade_Native_HRESULT_DirCodes_Add.htm" />
           <HelpTOCNode Title="Contains Method " Url="html/M_SharpBlade_Native_HRESULT_DirCodes_Contains.htm" />
           <HelpTOCNode Title="ContainsKey Method " Url="html/M_SharpBlade_Native_HRESULT_DirCodes_ContainsKey.htm" />
-          <HelpTOCNode Id="d3256b55-29b8-4fc7-8e46-ff29a00d90a3" Title="CopyTo Method " Url="html/Overload_SharpBlade_Native_HRESULT_DirCodes_CopyTo.htm">
+          <HelpTOCNode Id="2c2314ad-6900-4ade-bd26-881505794fa0" Title="CopyTo Method " Url="html/Overload_SharpBlade_Native_HRESULT_DirCodes_CopyTo.htm">
             <HelpTOCNode Title="CopyTo Method (FieldInfo[], Int32)" Url="html/M_SharpBlade_Native_HRESULT_DirCodes_CopyTo.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="TryGetValue Method " Url="html/M_SharpBlade_Native_HRESULT_DirCodes_TryGetValue.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="061a5863-6969-4c51-9a36-5f7da4fe17c7" Title="HRESULT.DirCodes Properties" Url="html/Properties_T_SharpBlade_Native_HRESULT_DirCodes.htm">
+        <HelpTOCNode Id="27aa7d9b-f343-45f2-88e1-9c6e273c566a" Title="HRESULT.DirCodes Properties" Url="html/Properties_T_SharpBlade_Native_HRESULT_DirCodes.htm">
           <HelpTOCNode Title="Item Property " Url="html/P_SharpBlade_Native_HRESULT_DirCodes_Item.htm" />
           <HelpTOCNode Title="Keys Property " Url="html/P_SharpBlade_Native_HRESULT_DirCodes_Keys.htm" />
           <HelpTOCNode Title="Values Property " Url="html/P_SharpBlade_Native_HRESULT_DirCodes_Values.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="c4257709-86a2-44da-9732-44070de55b32" Title="HRESULT.HResultException Class" Url="html/T_SharpBlade_Native_HRESULT_HResultException.htm">
+      <HelpTOCNode Id="eba2fdea-49b0-49ba-b764-0bb2ab7dc90c" Title="HRESULT.HResultException Class" Url="html/T_SharpBlade_Native_HRESULT_HResultException.htm">
         <HelpTOCNode Title="HRESULT.HResultException Constructor " Url="html/M_SharpBlade_Native_HRESULT_HResultException__ctor.htm" />
         <HelpTOCNode Title="HRESULT.HResultException Methods" Url="html/Methods_T_SharpBlade_Native_HRESULT_HResultException.htm" />
-        <HelpTOCNode Id="c8a1bda4-6db9-490a-8649-81c8d96d668d" Title="HRESULT.HResultException Properties" Url="html/Properties_T_SharpBlade_Native_HRESULT_HResultException.htm">
+        <HelpTOCNode Id="5edc5ba3-1d10-4e59-ae87-7d6649707f8b" Title="HRESULT.HResultException Properties" Url="html/Properties_T_SharpBlade_Native_HRESULT_HResultException.htm">
           <HelpTOCNode Title="HResult Property " Url="html/P_SharpBlade_Native_HRESULT_HResultException_HResult.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="HRESULT.HResultException Events" Url="html/Events_T_SharpBlade_Native_HRESULT_HResultException.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="d1fe745f-c744-40dc-ac16-9a6d05a71513" Title="RazerAPI Class" Url="html/T_SharpBlade_Native_RazerAPI.htm">
-        <HelpTOCNode Id="8c6df4a3-0523-4595-9dcc-c0af5d0c8c4f" Title="RazerAPI Fields" Url="html/Fields_T_SharpBlade_Native_RazerAPI.htm">
+      <HelpTOCNode Id="b7258de5-a687-418a-80ed-b5eb4f6212d6" Title="RazerAPI Class" Url="html/T_SharpBlade_Native_RazerAPI.htm">
+        <HelpTOCNode Id="a4d5c9fe-61ba-479a-9af4-10fb0336a514" Title="RazerAPI Fields" Url="html/Fields_T_SharpBlade_Native_RazerAPI.htm">
           <HelpTOCNode Title="DisplayColorDepth Field" Url="html/F_SharpBlade_Native_RazerAPI_DisplayColorDepth.htm" />
           <HelpTOCNode Title="DynamicKeyHeight Field" Url="html/F_SharpBlade_Native_RazerAPI_DynamicKeyHeight.htm" />
           <HelpTOCNode Title="DynamicKeyImageDataSize Field" Url="html/F_SharpBlade_Native_RazerAPI_DynamicKeyImageDataSize.htm" />
@@ -1483,7 +1483,7 @@
           <HelpTOCNode Title="TouchpadImageDataSize Field" Url="html/F_SharpBlade_Native_RazerAPI_TouchpadImageDataSize.htm" />
           <HelpTOCNode Title="TouchpadWidth Field" Url="html/F_SharpBlade_Native_RazerAPI_TouchpadWidth.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="15fe2059-b59a-4ff4-af7c-8a0b702938e5" Title="RazerAPI Methods" Url="html/Methods_T_SharpBlade_Native_RazerAPI.htm">
+        <HelpTOCNode Id="eeab62c3-32c7-4437-9fe3-96fb13e4cc94" Title="RazerAPI Methods" Url="html/Methods_T_SharpBlade_Native_RazerAPI.htm">
           <HelpTOCNode Title="SingleGesture Method " Url="html/M_SharpBlade_Native_RazerAPI_SingleGesture.htm" />
           <HelpTOCNode Title="ValidGesture Method " Url="html/M_SharpBlade_Native_RazerAPI_ValidGesture.htm" />
         </HelpTOCNode>
@@ -1491,16 +1491,16 @@
       <HelpTOCNode Title="RazerAPI.AppEventCallback Delegate" Url="html/T_SharpBlade_Native_RazerAPI_AppEventCallback.htm" />
       <HelpTOCNode Title="RazerAPI.AppEventMode Enumeration" Url="html/T_SharpBlade_Native_RazerAPI_AppEventMode.htm" />
       <HelpTOCNode Title="RazerAPI.AppEventType Enumeration" Url="html/T_SharpBlade_Native_RazerAPI_AppEventType.htm" />
-      <HelpTOCNode Id="e6c216fc-73cf-428e-a739-b53aab4f881b" Title="RazerAPI.BufferParams Structure" Url="html/T_SharpBlade_Native_RazerAPI_BufferParams.htm">
-        <HelpTOCNode Id="e35a78be-8a38-45d8-aca2-2e64525ddbd0" Title="RazerAPI.BufferParams Fields" Url="html/Fields_T_SharpBlade_Native_RazerAPI_BufferParams.htm">
+      <HelpTOCNode Id="32975465-2d91-4878-8c94-950583ed9ecc" Title="RazerAPI.BufferParams Structure" Url="html/T_SharpBlade_Native_RazerAPI_BufferParams.htm">
+        <HelpTOCNode Id="524d6fc1-adaf-41c4-9681-f0b8c3b99ad1" Title="RazerAPI.BufferParams Fields" Url="html/Fields_T_SharpBlade_Native_RazerAPI_BufferParams.htm">
           <HelpTOCNode Title="DataSize Field" Url="html/F_SharpBlade_Native_RazerAPI_BufferParams_DataSize.htm" />
           <HelpTOCNode Title="PixelType Field" Url="html/F_SharpBlade_Native_RazerAPI_BufferParams_PixelType.htm" />
           <HelpTOCNode Title="PtrData Field" Url="html/F_SharpBlade_Native_RazerAPI_BufferParams_PtrData.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="RazerAPI.BufferParams Methods" Url="html/Methods_T_SharpBlade_Native_RazerAPI_BufferParams.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a6d66e91-eb99-49a9-ad28-328e20bde014" Title="RazerAPI.Capabilities Structure" Url="html/T_SharpBlade_Native_RazerAPI_Capabilities.htm">
-        <HelpTOCNode Id="c5e46cba-adde-4355-9889-7cf268add875" Title="RazerAPI.Capabilities Fields" Url="html/Fields_T_SharpBlade_Native_RazerAPI_Capabilities.htm">
+      <HelpTOCNode Id="088951e3-65db-42c4-8d4d-f409f40aee7a" Title="RazerAPI.Capabilities Structure" Url="html/T_SharpBlade_Native_RazerAPI_Capabilities.htm">
+        <HelpTOCNode Id="53870e14-65d4-42a2-a9e2-3deced8097d3" Title="RazerAPI.Capabilities Fields" Url="html/Fields_T_SharpBlade_Native_RazerAPI_Capabilities.htm">
           <HelpTOCNode Title="BEVersion Field" Url="html/F_SharpBlade_Native_RazerAPI_Capabilities_BEVersion.htm" />
           <HelpTOCNode Title="DynamicKeyArrangement Field" Url="html/F_SharpBlade_Native_RazerAPI_Capabilities_DynamicKeyArrangement.htm" />
           <HelpTOCNode Title="DynamicKeySize Field" Url="html/F_SharpBlade_Native_RazerAPI_Capabilities_DynamicKeySize.htm" />
@@ -1520,11 +1520,11 @@
       <HelpTOCNode Title="RazerAPI.GestureType Enumeration" Url="html/T_SharpBlade_Native_RazerAPI_GestureType.htm" />
       <HelpTOCNode Title="RazerAPI.HardwareType Enumeration" Url="html/T_SharpBlade_Native_RazerAPI_HardwareType.htm" />
       <HelpTOCNode Title="RazerAPI.KeyboardCallbackFunction Delegate" Url="html/T_SharpBlade_Native_RazerAPI_KeyboardCallbackFunction.htm" />
-      <HelpTOCNode Id="a4da2f8b-c0a2-4b30-b359-484c5f740b0f" Title="RazerAPI.NativeMethods Class" Url="html/T_SharpBlade_Native_RazerAPI_NativeMethods.htm">
-        <HelpTOCNode Id="ee15f8b7-6ea6-4708-a5bd-038e9eb7aa11" Title="RazerAPI.NativeMethods Fields" Url="html/Fields_T_SharpBlade_Native_RazerAPI_NativeMethods.htm">
+      <HelpTOCNode Id="16b53fab-41f7-4a82-8bc1-e817ed5ae46a" Title="RazerAPI.NativeMethods Class" Url="html/T_SharpBlade_Native_RazerAPI_NativeMethods.htm">
+        <HelpTOCNode Id="1790c987-20d3-4a60-bfc9-cd34647c4a99" Title="RazerAPI.NativeMethods Fields" Url="html/Fields_T_SharpBlade_Native_RazerAPI_NativeMethods.htm">
           <HelpTOCNode Title="DllName Field" Url="html/F_SharpBlade_Native_RazerAPI_NativeMethods_DllName.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="4503cec8-b005-4cc2-82d8-218d190a6a9e" Title="RazerAPI.NativeMethods Methods" Url="html/Methods_T_SharpBlade_Native_RazerAPI_NativeMethods.htm">
+        <HelpTOCNode Id="09c32616-5332-4721-95fc-3e8371e3624e" Title="RazerAPI.NativeMethods Methods" Url="html/Methods_T_SharpBlade_Native_RazerAPI_NativeMethods.htm">
           <HelpTOCNode Title="RzSBAppEventSetCallback Method " Url="html/M_SharpBlade_Native_RazerAPI_NativeMethods_RzSBAppEventSetCallback.htm" />
           <HelpTOCNode Title="RzSBCaptureKeyboard Method " Url="html/M_SharpBlade_Native_RazerAPI_NativeMethods_RzSBCaptureKeyboard.htm" />
           <HelpTOCNode Title="RzSBDynamicKeySetCallback Method " Url="html/M_SharpBlade_Native_RazerAPI_NativeMethods_RzSBDynamicKeySetCallback.htm" />
@@ -1541,8 +1541,8 @@
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="RazerAPI.PixelType Enumeration" Url="html/T_SharpBlade_Native_RazerAPI_PixelType.htm" />
-      <HelpTOCNode Id="5b13d06c-e563-48ae-af15-ddd4e72ca699" Title="RazerAPI.Point Structure" Url="html/T_SharpBlade_Native_RazerAPI_Point.htm">
-        <HelpTOCNode Id="c6e449d5-eeb9-4482-8b75-ec7f6b5e7f08" Title="RazerAPI.Point Fields" Url="html/Fields_T_SharpBlade_Native_RazerAPI_Point.htm">
+      <HelpTOCNode Id="c9341656-a0d7-470c-a825-76ee0f673cf2" Title="RazerAPI.Point Structure" Url="html/T_SharpBlade_Native_RazerAPI_Point.htm">
+        <HelpTOCNode Id="53937d05-ca4b-4251-9550-5d09dba1dfe4" Title="RazerAPI.Point Fields" Url="html/Fields_T_SharpBlade_Native_RazerAPI_Point.htm">
           <HelpTOCNode Title="X Field" Url="html/F_SharpBlade_Native_RazerAPI_Point_X.htm" />
           <HelpTOCNode Title="Y Field" Url="html/F_SharpBlade_Native_RazerAPI_Point_Y.htm" />
         </HelpTOCNode>
@@ -1551,17 +1551,17 @@
       <HelpTOCNode Title="RazerAPI.TargetDisplay Enumeration" Url="html/T_SharpBlade_Native_RazerAPI_TargetDisplay.htm" />
       <HelpTOCNode Title="RazerAPI.TouchpadGestureCallbackFunction Delegate" Url="html/T_SharpBlade_Native_RazerAPI_TouchpadGestureCallbackFunction.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="c06bbff1-bb18-4c89-8266-a12a0bbd1850" Title="SharpBlade.Native.WinAPI Namespace" Url="html/N_SharpBlade_Native_WinAPI.htm">
-      <HelpTOCNode Id="ae35d035-2acb-4f28-9644-1c823beb6a33" Title="GDI32 Class" Url="html/T_SharpBlade_Native_WinAPI_GDI32.htm">
-        <HelpTOCNode Id="f8fd9afe-65cc-4045-ab16-c2dc7339d60e" Title="GDI32 Fields" Url="html/Fields_T_SharpBlade_Native_WinAPI_GDI32.htm">
+    <HelpTOCNode Id="1c55839a-d4a7-4c0c-8525-184fbcb98baa" Title="SharpBlade.Native.WinAPI Namespace" Url="html/N_SharpBlade_Native_WinAPI.htm">
+      <HelpTOCNode Id="00dfd2d4-227b-4404-9d85-1e2280760fe2" Title="GDI32 Class" Url="html/T_SharpBlade_Native_WinAPI_GDI32.htm">
+        <HelpTOCNode Id="ee570ded-d08f-4e1a-8201-1e4382b12734" Title="GDI32 Fields" Url="html/Fields_T_SharpBlade_Native_WinAPI_GDI32.htm">
           <HelpTOCNode Title="SRCCOPY Field" Url="html/F_SharpBlade_Native_WinAPI_GDI32_SRCCOPY.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="0b2ecc08-6eae-444c-b5af-1d1e517bcc63" Title="GDI32.NativeMethods Class" Url="html/T_SharpBlade_Native_WinAPI_GDI32_NativeMethods.htm">
-        <HelpTOCNode Id="e1003fe1-dd9d-4215-9466-18ffb2f59f88" Title="GDI32.NativeMethods Fields" Url="html/Fields_T_SharpBlade_Native_WinAPI_GDI32_NativeMethods.htm">
+      <HelpTOCNode Id="2b33534e-02a9-4173-82e4-178922481c55" Title="GDI32.NativeMethods Class" Url="html/T_SharpBlade_Native_WinAPI_GDI32_NativeMethods.htm">
+        <HelpTOCNode Id="a1fcce27-038d-46e1-8eca-46b316adcf7e" Title="GDI32.NativeMethods Fields" Url="html/Fields_T_SharpBlade_Native_WinAPI_GDI32_NativeMethods.htm">
           <HelpTOCNode Title="DllName Field" Url="html/F_SharpBlade_Native_WinAPI_GDI32_NativeMethods_DllName.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="3696b1e2-56ee-4389-98ca-119e82132d06" Title="GDI32.NativeMethods Methods" Url="html/Methods_T_SharpBlade_Native_WinAPI_GDI32_NativeMethods.htm">
+        <HelpTOCNode Id="4a1359f2-172e-4548-afcf-6199e1465188" Title="GDI32.NativeMethods Methods" Url="html/Methods_T_SharpBlade_Native_WinAPI_GDI32_NativeMethods.htm">
           <HelpTOCNode Title="BitBlt Method " Url="html/M_SharpBlade_Native_WinAPI_GDI32_NativeMethods_BitBlt.htm" />
           <HelpTOCNode Title="CreateCompatibleBitmap Method " Url="html/M_SharpBlade_Native_WinAPI_GDI32_NativeMethods_CreateCompatibleBitmap.htm" />
           <HelpTOCNode Title="CreateCompatibleDC Method " Url="html/M_SharpBlade_Native_WinAPI_GDI32_NativeMethods_CreateCompatibleDC.htm" />
@@ -1570,26 +1570,26 @@
           <HelpTOCNode Title="SelectObject Method " Url="html/M_SharpBlade_Native_WinAPI_GDI32_NativeMethods_SelectObject.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="fcc25534-2992-4d23-8197-a48dbf37d4b4" Title="Kernel32 Class" Url="html/T_SharpBlade_Native_WinAPI_Kernel32.htm">
-        <HelpTOCNode Id="9681ea7a-2b21-49c7-86bb-90138cbf72af" Title="Kernel32 Fields" Url="html/Fields_T_SharpBlade_Native_WinAPI_Kernel32.htm">
+      <HelpTOCNode Id="99e433e4-58a9-49be-bf8f-bf1c1189ceb6" Title="Kernel32 Class" Url="html/T_SharpBlade_Native_WinAPI_Kernel32.htm">
+        <HelpTOCNode Id="1e88f5af-20e4-498f-9305-711e5b9b6c6b" Title="Kernel32 Fields" Url="html/Fields_T_SharpBlade_Native_WinAPI_Kernel32.htm">
           <HelpTOCNode Title="CODE_PAGE Field" Url="html/F_SharpBlade_Native_WinAPI_Kernel32_CODE_PAGE.htm" />
           <HelpTOCNode Title="STD_ERROR_HANDLE Field" Url="html/F_SharpBlade_Native_WinAPI_Kernel32_STD_ERROR_HANDLE.htm" />
           <HelpTOCNode Title="STD_INPUT_HANDLE Field" Url="html/F_SharpBlade_Native_WinAPI_Kernel32_STD_INPUT_HANDLE.htm" />
           <HelpTOCNode Title="STD_OUTPUT_HANDLE Field" Url="html/F_SharpBlade_Native_WinAPI_Kernel32_STD_OUTPUT_HANDLE.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="e775f947-efa0-4c0c-95c8-2a975d672a22" Title="Kernel32.NativeMethods Class" Url="html/T_SharpBlade_Native_WinAPI_Kernel32_NativeMethods.htm">
-        <HelpTOCNode Id="9da0d5db-8d7c-4947-b18b-d72a5c08d635" Title="Kernel32.NativeMethods Fields" Url="html/Fields_T_SharpBlade_Native_WinAPI_Kernel32_NativeMethods.htm">
+      <HelpTOCNode Id="9b0aa658-f2be-4d90-813d-70d088dcff01" Title="Kernel32.NativeMethods Class" Url="html/T_SharpBlade_Native_WinAPI_Kernel32_NativeMethods.htm">
+        <HelpTOCNode Id="b7a72657-4def-4dd9-adc1-0eec1f2fbe3f" Title="Kernel32.NativeMethods Fields" Url="html/Fields_T_SharpBlade_Native_WinAPI_Kernel32_NativeMethods.htm">
           <HelpTOCNode Title="DllName Field" Url="html/F_SharpBlade_Native_WinAPI_Kernel32_NativeMethods_DllName.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="68ce3239-072b-4ddb-a75b-b2ab998fbf94" Title="Kernel32.NativeMethods Methods" Url="html/Methods_T_SharpBlade_Native_WinAPI_Kernel32_NativeMethods.htm">
+        <HelpTOCNode Id="ba730770-852f-4c53-8a66-733f78484782" Title="Kernel32.NativeMethods Methods" Url="html/Methods_T_SharpBlade_Native_WinAPI_Kernel32_NativeMethods.htm">
           <HelpTOCNode Title="AllocConsole Method " Url="html/M_SharpBlade_Native_WinAPI_Kernel32_NativeMethods_AllocConsole.htm" />
           <HelpTOCNode Title="FreeConsole Method " Url="html/M_SharpBlade_Native_WinAPI_Kernel32_NativeMethods_FreeConsole.htm" />
           <HelpTOCNode Title="GetStdHandle Method " Url="html/M_SharpBlade_Native_WinAPI_Kernel32_NativeMethods_GetStdHandle.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="d02215ea-ae39-4496-ad98-efd4e56709f2" Title="User32 Class" Url="html/T_SharpBlade_Native_WinAPI_User32.htm">
-        <HelpTOCNode Id="3e5731c9-6e7e-4dbd-b137-1b50a42eb440" Title="User32 Fields" Url="html/Fields_T_SharpBlade_Native_WinAPI_User32.htm">
+      <HelpTOCNode Id="047ac949-2b38-45cb-92ae-2621893f14c7" Title="User32 Class" Url="html/T_SharpBlade_Native_WinAPI_User32.htm">
+        <HelpTOCNode Id="6be436d4-83d1-4d61-97f6-b0e6d0ea06a6" Title="User32 Fields" Url="html/Fields_T_SharpBlade_Native_WinAPI_User32.htm">
           <HelpTOCNode Title="ESB_DISABLE_BOTH Field" Url="html/F_SharpBlade_Native_WinAPI_User32_ESB_DISABLE_BOTH.htm" />
           <HelpTOCNode Title="ESB_DISABLE_DOWN Field" Url="html/F_SharpBlade_Native_WinAPI_User32_ESB_DISABLE_DOWN.htm" />
           <HelpTOCNode Title="ESB_DISABLE_LEFT Field" Url="html/F_SharpBlade_Native_WinAPI_User32_ESB_DISABLE_LEFT.htm" />
@@ -1607,11 +1607,11 @@
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="User32.MessageType Enumeration" Url="html/T_SharpBlade_Native_WinAPI_User32_MessageType.htm" />
-      <HelpTOCNode Id="2152ddd1-9db5-4a80-a72f-017f9d42f7e1" Title="User32.NativeMethods Class" Url="html/T_SharpBlade_Native_WinAPI_User32_NativeMethods.htm">
-        <HelpTOCNode Id="cd55fbef-acf5-41ce-a57d-bf161378ed56" Title="User32.NativeMethods Fields" Url="html/Fields_T_SharpBlade_Native_WinAPI_User32_NativeMethods.htm">
+      <HelpTOCNode Id="ad114a7b-19e0-4297-9af0-9eaea35e21e9" Title="User32.NativeMethods Class" Url="html/T_SharpBlade_Native_WinAPI_User32_NativeMethods.htm">
+        <HelpTOCNode Id="a179062a-ef27-4897-9cb9-8ef14e595d4e" Title="User32.NativeMethods Fields" Url="html/Fields_T_SharpBlade_Native_WinAPI_User32_NativeMethods.htm">
           <HelpTOCNode Title="DllName Field" Url="html/F_SharpBlade_Native_WinAPI_User32_NativeMethods_DllName.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="66b0b08b-488d-4c57-8a51-85fccb7d9142" Title="User32.NativeMethods Methods" Url="html/Methods_T_SharpBlade_Native_WinAPI_User32_NativeMethods.htm">
+        <HelpTOCNode Id="e7d7ec3c-d763-460f-9fb4-38c211a383aa" Title="User32.NativeMethods Methods" Url="html/Methods_T_SharpBlade_Native_WinAPI_User32_NativeMethods.htm">
           <HelpTOCNode Title="EnableScrollBar Method " Url="html/M_SharpBlade_Native_WinAPI_User32_NativeMethods_EnableScrollBar.htm" />
           <HelpTOCNode Title="GetDesktopWindow Method " Url="html/M_SharpBlade_Native_WinAPI_User32_NativeMethods_GetDesktopWindow.htm" />
           <HelpTOCNode Title="GetKeyState Method " Url="html/M_SharpBlade_Native_WinAPI_User32_NativeMethods_GetKeyState.htm" />
@@ -1623,8 +1623,8 @@
           <HelpTOCNode Title="ShowScrollBar Method " Url="html/M_SharpBlade_Native_WinAPI_User32_NativeMethods_ShowScrollBar.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="cd81d1c4-cd1e-4f63-9c9d-adfaea46c567" Title="User32.Rect Structure" Url="html/T_SharpBlade_Native_WinAPI_User32_Rect.htm">
-        <HelpTOCNode Id="364fa03c-598e-4ef3-9428-8ec453d538a4" Title="User32.Rect Fields" Url="html/Fields_T_SharpBlade_Native_WinAPI_User32_Rect.htm">
+      <HelpTOCNode Id="e9902f73-3b23-481d-b251-b123fe1c6a52" Title="User32.Rect Structure" Url="html/T_SharpBlade_Native_WinAPI_User32_Rect.htm">
+        <HelpTOCNode Id="341a5be8-9d73-4f01-88be-e34f0b2d2aa9" Title="User32.Rect Fields" Url="html/Fields_T_SharpBlade_Native_WinAPI_User32_Rect.htm">
           <HelpTOCNode Title="Bottom Field" Url="html/F_SharpBlade_Native_WinAPI_User32_Rect_Bottom.htm" />
           <HelpTOCNode Title="Left Field" Url="html/F_SharpBlade_Native_WinAPI_User32_Rect_Left.htm" />
           <HelpTOCNode Title="Right Field" Url="html/F_SharpBlade_Native_WinAPI_User32_Rect_Right.htm" />
@@ -1634,21 +1634,21 @@
       </HelpTOCNode>
       <HelpTOCNode Title="User32.VirtualKey Enumeration" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="d87e44d0-0e8a-4ced-b3bc-5f172475102c" Title="SharpBlade.Razer Namespace" Url="html/N_SharpBlade_Razer.htm">
-      <HelpTOCNode Id="ab4117a1-60b8-4e67-9af2-b210f876e063" Title="DynamicKey Class" Url="html/T_SharpBlade_Razer_DynamicKey.htm">
+    <HelpTOCNode Id="e99456e5-a59d-4155-88e0-b15f8d8818c9" Title="SharpBlade.Razer Namespace" Url="html/N_SharpBlade_Razer.htm">
+      <HelpTOCNode Id="8ce5ccd0-0491-4e53-885d-b863ceccbadc" Title="DynamicKey Class" Url="html/T_SharpBlade_Razer_DynamicKey.htm">
         <HelpTOCNode Title="DynamicKey Constructor " Url="html/M_SharpBlade_Razer_DynamicKey__ctor.htm" />
         <HelpTOCNode Title="DynamicKey Constructor " Url="html/M_SharpBlade_Razer_DynamicKey__cctor.htm" />
-        <HelpTOCNode Id="314cad52-b7ae-47ff-a755-a0b8223ed667" Title="DynamicKey Fields" Url="html/Fields_T_SharpBlade_Razer_DynamicKey.htm">
+        <HelpTOCNode Id="b7899527-8880-45e3-83e1-7238a8c8814d" Title="DynamicKey Fields" Url="html/Fields_T_SharpBlade_Razer_DynamicKey.htm">
           <HelpTOCNode Title="_log Field" Url="html/F_SharpBlade_Razer_DynamicKey__log.htm" />
           <HelpTOCNode Title="TargetDisplayMapping Field" Url="html/F_SharpBlade_Razer_DynamicKey_TargetDisplayMapping.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="0c3f704b-3d0b-41cc-8266-d5dd55ff0087" Title="DynamicKey Methods" Url="html/Methods_T_SharpBlade_Razer_DynamicKey.htm">
+        <HelpTOCNode Id="12f46f76-0d32-4027-a232-c69ef1cfd594" Title="DynamicKey Methods" Url="html/Methods_T_SharpBlade_Razer_DynamicKey.htm">
           <HelpTOCNode Title="ClearImage Method " Url="html/M_SharpBlade_Razer_DynamicKey_ClearImage.htm" />
           <HelpTOCNode Title="Disable Method " Url="html/M_SharpBlade_Razer_DynamicKey_Disable.htm" />
           <HelpTOCNode Title="OnPressed Method " Url="html/M_SharpBlade_Razer_DynamicKey_OnPressed.htm" />
           <HelpTOCNode Title="Refresh Method " Url="html/M_SharpBlade_Razer_DynamicKey_Refresh.htm" />
           <HelpTOCNode Title="SetDownImage Method " Url="html/M_SharpBlade_Razer_DynamicKey_SetDownImage.htm" />
-          <HelpTOCNode Id="b96043f5-336a-47d0-b2e7-6b35746bcf1f" Title="SetImage Method " Url="html/Overload_SharpBlade_Razer_DynamicKey_SetImage.htm">
+          <HelpTOCNode Id="233f7b8d-1844-403e-8762-994df984d846" Title="SetImage Method " Url="html/Overload_SharpBlade_Razer_DynamicKey_SetImage.htm">
             <HelpTOCNode Title="SetImage Method (String)" Url="html/M_SharpBlade_Razer_DynamicKey_SetImage.htm" />
             <HelpTOCNode Title="SetImage Method (String, RazerAPI.DynamicKeyState)" Url="html/M_SharpBlade_Razer_DynamicKey_SetImage_1.htm" />
           </HelpTOCNode>
@@ -1656,7 +1656,7 @@
           <HelpTOCNode Title="SetUpImage Method " Url="html/M_SharpBlade_Razer_DynamicKey_SetUpImage.htm" />
           <HelpTOCNode Title="UpdateState Method " Url="html/M_SharpBlade_Razer_DynamicKey_UpdateState.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="146f8e47-4cdc-4adc-be4a-c85c5b8431e5" Title="DynamicKey Properties" Url="html/Properties_T_SharpBlade_Razer_DynamicKey.htm">
+        <HelpTOCNode Id="75b572c9-a9e3-4559-be66-c0effab73606" Title="DynamicKey Properties" Url="html/Properties_T_SharpBlade_Razer_DynamicKey.htm">
           <HelpTOCNode Title="CurrentImage Property " Url="html/P_SharpBlade_Razer_DynamicKey_CurrentImage.htm" />
           <HelpTOCNode Title="DownImage Property " Url="html/P_SharpBlade_Razer_DynamicKey_DownImage.htm" />
           <HelpTOCNode Title="KeyType Property " Url="html/P_SharpBlade_Razer_DynamicKey_KeyType.htm" />
@@ -1665,18 +1665,18 @@
           <HelpTOCNode Title="State Property " Url="html/P_SharpBlade_Razer_DynamicKey_State.htm" />
           <HelpTOCNode Title="UpImage Property " Url="html/P_SharpBlade_Razer_DynamicKey_UpImage.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="d0bf441e-6fc5-49dc-b2c0-3ed31202ccc4" Title="DynamicKey Events" Url="html/Events_T_SharpBlade_Razer_DynamicKey.htm">
+        <HelpTOCNode Id="4d7f2218-c820-4452-86e6-13e4129efe10" Title="DynamicKey Events" Url="html/Events_T_SharpBlade_Razer_DynamicKey.htm">
           <HelpTOCNode Title="Pressed Event" Url="html/E_SharpBlade_Razer_DynamicKey_Pressed.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="43968898-8650-4cfe-8125-51d4bb5cc15a" Title="IRenderTarget Interface" Url="html/T_SharpBlade_Razer_IRenderTarget.htm">
-        <HelpTOCNode Id="921b489d-9a28-4f13-8a0c-e53d60c9aa24" Title="IRenderTarget Methods" Url="html/Methods_T_SharpBlade_Razer_IRenderTarget.htm">
+      <HelpTOCNode Id="c9c21b6e-017a-42ee-a7db-9a10cc99bf6d" Title="IRenderTarget Interface" Url="html/T_SharpBlade_Razer_IRenderTarget.htm">
+        <HelpTOCNode Id="cf105d2a-0fb0-4730-822e-82678743ac06" Title="IRenderTarget Methods" Url="html/Methods_T_SharpBlade_Razer_IRenderTarget.htm">
           <HelpTOCNode Title="Clear Method " Url="html/M_SharpBlade_Razer_IRenderTarget_Clear.htm" />
           <HelpTOCNode Title="DrawBitmap Method " Url="html/M_SharpBlade_Razer_IRenderTarget_DrawBitmap.htm" />
           <HelpTOCNode Title="DrawForm Method " Url="html/M_SharpBlade_Razer_IRenderTarget_DrawForm.htm" />
           <HelpTOCNode Title="DrawNativeWindow Method " Url="html/M_SharpBlade_Razer_IRenderTarget_DrawNativeWindow.htm" />
           <HelpTOCNode Title="DrawWindow Method " Url="html/M_SharpBlade_Razer_IRenderTarget_DrawWindow.htm" />
-          <HelpTOCNode Id="832d4a2a-b9f8-48de-8735-8c68f1d8df0f" Title="SetBitmapProvider Method " Url="html/Overload_SharpBlade_Razer_IRenderTarget_SetBitmapProvider.htm">
+          <HelpTOCNode Id="986963af-c010-4b96-82bf-ed1f38590df4" Title="SetBitmapProvider Method " Url="html/Overload_SharpBlade_Razer_IRenderTarget_SetBitmapProvider.htm">
             <HelpTOCNode Title="SetBitmapProvider Method (IBitmapProvider)" Url="html/M_SharpBlade_Razer_IRenderTarget_SetBitmapProvider.htm" />
             <HelpTOCNode Title="SetBitmapProvider Method (IBitmapProvider, TimeSpan)" Url="html/M_SharpBlade_Razer_IRenderTarget_SetBitmapProvider_1.htm" />
           </HelpTOCNode>
@@ -1685,7 +1685,7 @@
           <HelpTOCNode Title="SetNativeWindow Method " Url="html/M_SharpBlade_Razer_IRenderTarget_SetNativeWindow.htm" />
           <HelpTOCNode Title="SetWindow Method " Url="html/M_SharpBlade_Razer_IRenderTarget_SetWindow.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="cb8997c5-0b3c-43f5-98d0-ebd76a6fda8a" Title="IRenderTarget Properties" Url="html/Properties_T_SharpBlade_Razer_IRenderTarget.htm">
+        <HelpTOCNode Id="32b27c66-8286-4c2c-a50a-c030a1522392" Title="IRenderTarget Properties" Url="html/Properties_T_SharpBlade_Razer_IRenderTarget.htm">
           <HelpTOCNode Title="CurrentForm Property " Url="html/P_SharpBlade_Razer_IRenderTarget_CurrentForm.htm" />
           <HelpTOCNode Title="CurrentImage Property " Url="html/P_SharpBlade_Razer_IRenderTarget_CurrentImage.htm" />
           <HelpTOCNode Title="CurrentNativeWindow Property " Url="html/P_SharpBlade_Razer_IRenderTarget_CurrentNativeWindow.htm" />
@@ -1695,10 +1695,10 @@
           <HelpTOCNode Title="TargetDisplay Property " Url="html/P_SharpBlade_Razer_IRenderTarget_TargetDisplay.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="cc99d977-f25d-4c36-b9a4-388a25fb6f43" Title="RazerManager Class" Url="html/T_SharpBlade_Razer_RazerManager.htm">
+      <HelpTOCNode Id="38a5d877-dc87-4fc2-8d85-c47b4651720a" Title="RazerManager Class" Url="html/T_SharpBlade_Razer_RazerManager.htm">
         <HelpTOCNode Title="RazerManager Constructor " Url="html/M_SharpBlade_Razer_RazerManager__ctor.htm" />
         <HelpTOCNode Title="RazerManager Constructor " Url="html/M_SharpBlade_Razer_RazerManager__cctor.htm" />
-        <HelpTOCNode Id="393ac9b8-a4e7-43ef-b7cf-bb77b9fe1856" Title="RazerManager Fields" Url="html/Fields_T_SharpBlade_Razer_RazerManager.htm">
+        <HelpTOCNode Id="80c5fd9d-ccb0-4cae-a870-63af1c540101" Title="RazerManager Fields" Url="html/Fields_T_SharpBlade_Razer_RazerManager.htm">
           <HelpTOCNode Title="_appEventCallback Field" Url="html/F_SharpBlade_Razer_RazerManager__appEventCallback.htm" />
           <HelpTOCNode Title="_disposed Field" Url="html/F_SharpBlade_Razer_RazerManager__disposed.htm" />
           <HelpTOCNode Title="_dynamicKeyCallback Field" Url="html/F_SharpBlade_Razer_RazerManager__dynamicKeyCallback.htm" />
@@ -1709,13 +1709,13 @@
           <HelpTOCNode Title="_log Field" Url="html/F_SharpBlade_Razer_RazerManager__log.htm" />
           <HelpTOCNode Title="KeyMapping Field" Url="html/F_SharpBlade_Razer_RazerManager_KeyMapping.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="223c1b1a-fa5e-4ac2-a5ac-d249ff70b371" Title="RazerManager Methods" Url="html/Methods_T_SharpBlade_Razer_RazerManager.htm">
+        <HelpTOCNode Id="030936b1-9ab0-4923-9afb-0d5b6c32a9d3" Title="RazerManager Methods" Url="html/Methods_T_SharpBlade_Razer_RazerManager.htm">
           <HelpTOCNode Title="DisableDynamicKey Method " Url="html/M_SharpBlade_Razer_RazerManager_DisableDynamicKey.htm" />
-          <HelpTOCNode Id="8110cbec-03b0-42e5-85c3-e3ae7bb85c1b" Title="Dispose Method " Url="html/Overload_SharpBlade_Razer_RazerManager_Dispose.htm">
+          <HelpTOCNode Id="5b70df7b-b43c-4160-b602-ca4927d84589" Title="Dispose Method " Url="html/Overload_SharpBlade_Razer_RazerManager_Dispose.htm">
             <HelpTOCNode Title="Dispose Method " Url="html/M_SharpBlade_Razer_RazerManager_Dispose.htm" />
             <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_SharpBlade_Razer_RazerManager_Dispose_1.htm" />
           </HelpTOCNode>
-          <HelpTOCNode Id="1d85dc2d-43a3-42f4-b6cc-1dc4dcb843b9" Title="EnableDynamicKey Method " Url="html/Overload_SharpBlade_Razer_RazerManager_EnableDynamicKey.htm">
+          <HelpTOCNode Id="0492329d-7b70-4084-b9d6-7d66938c1398" Title="EnableDynamicKey Method " Url="html/Overload_SharpBlade_Razer_RazerManager_EnableDynamicKey.htm">
             <HelpTOCNode Title="EnableDynamicKey Method (RazerAPI.DynamicKeyType, String, Boolean)" Url="html/M_SharpBlade_Razer_RazerManager_EnableDynamicKey_2.htm" />
             <HelpTOCNode Title="EnableDynamicKey Method (RazerAPI.DynamicKeyType, EventHandler, String, Boolean)" Url="html/M_SharpBlade_Razer_RazerManager_EnableDynamicKey.htm" />
             <HelpTOCNode Title="EnableDynamicKey Method (RazerAPI.DynamicKeyType, String, String, Boolean)" Url="html/M_SharpBlade_Razer_RazerManager_EnableDynamicKey_3.htm" />
@@ -1737,7 +1737,7 @@
           <HelpTOCNode Title="StartWpfControlKeyboardCapture Method " Url="html/M_SharpBlade_Razer_RazerManager_StartWpfControlKeyboardCapture.htm" />
           <HelpTOCNode Title="Stop Method " Url="html/M_SharpBlade_Razer_RazerManager_Stop.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="54a6bcae-d064-46aa-9e7c-115a70c9a5c3" Title="RazerManager Properties" Url="html/Properties_T_SharpBlade_Razer_RazerManager.htm">
+        <HelpTOCNode Id="992277d0-a609-48aa-ae92-a96b65241403" Title="RazerManager Properties" Url="html/Properties_T_SharpBlade_Razer_RazerManager.htm">
           <HelpTOCNode Title="BlankTouchpadImagePath Property " Url="html/P_SharpBlade_Razer_RazerManager_BlankTouchpadImagePath.htm" />
           <HelpTOCNode Title="Capabilities Property " Url="html/P_SharpBlade_Razer_RazerManager_Capabilities.htm" />
           <HelpTOCNode Title="DisabledDynamicKeyImagePath Property " Url="html/P_SharpBlade_Razer_RazerManager_DisabledDynamicKeyImagePath.htm" />
@@ -1745,7 +1745,7 @@
           <HelpTOCNode Title="KeyboardCapture Property " Url="html/P_SharpBlade_Razer_RazerManager_KeyboardCapture.htm" />
           <HelpTOCNode Title="Touchpad Property " Url="html/P_SharpBlade_Razer_RazerManager_Touchpad.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="d0147370-b9a2-4bb6-8cf8-6b41f42d9396" Title="RazerManager Events" Url="html/Events_T_SharpBlade_Razer_RazerManager.htm">
+        <HelpTOCNode Id="9dda4a4c-9775-4c3e-9a0e-46d640b97a72" Title="RazerManager Events" Url="html/Events_T_SharpBlade_Razer_RazerManager.htm">
           <HelpTOCNode Title="AppEvent Event" Url="html/E_SharpBlade_Razer_RazerManager_AppEvent.htm" />
           <HelpTOCNode Title="DynamicKeyEvent Event" Url="html/E_SharpBlade_Razer_RazerManager_DynamicKeyEvent.htm" />
           <HelpTOCNode Title="KeyboardCharTyped Event" Url="html/E_SharpBlade_Razer_RazerManager_KeyboardCharTyped.htm" />
@@ -1755,10 +1755,10 @@
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="RenderMethod Enumeration" Url="html/T_SharpBlade_Razer_RenderMethod.htm" />
-      <HelpTOCNode Id="840d8b7b-f997-4c9b-9008-3db9ed2c459e" Title="RenderTarget Class" Url="html/T_SharpBlade_Razer_RenderTarget.htm">
+      <HelpTOCNode Id="81285947-ff54-4a82-958c-f747db7d2760" Title="RenderTarget Class" Url="html/T_SharpBlade_Razer_RenderTarget.htm">
         <HelpTOCNode Title="RenderTarget Constructor " Url="html/M_SharpBlade_Razer_RenderTarget__ctor.htm" />
-        <HelpTOCNode Id="29a35e22-6e94-41cb-8af4-221eb5f1a03b" Title="RenderTarget Methods" Url="html/Methods_T_SharpBlade_Razer_RenderTarget.htm">
-          <HelpTOCNode Id="6caf39ae-f2da-4270-9bc7-cb64f5e5b100" Title="Clear Method " Url="html/Overload_SharpBlade_Razer_RenderTarget_Clear.htm">
+        <HelpTOCNode Id="9db3ada4-6624-401c-9b46-ef9a57881a79" Title="RenderTarget Methods" Url="html/Methods_T_SharpBlade_Razer_RenderTarget.htm">
+          <HelpTOCNode Id="9009d1a0-6237-44a6-9ad7-93f03dec3f1a" Title="Clear Method " Url="html/Overload_SharpBlade_Razer_RenderTarget_Clear.htm">
             <HelpTOCNode Title="Clear Method " Url="html/M_SharpBlade_Razer_RenderTarget_Clear.htm" />
             <HelpTOCNode Title="Clear Method (Boolean)" Url="html/M_SharpBlade_Razer_RenderTarget_Clear_1.htm" />
           </HelpTOCNode>
@@ -1766,7 +1766,7 @@
           <HelpTOCNode Title="ClearImage Method " Url="html/M_SharpBlade_Razer_RenderTarget_ClearImage.htm" />
           <HelpTOCNode Title="ClearNativeWindow Method " Url="html/M_SharpBlade_Razer_RenderTarget_ClearNativeWindow.htm" />
           <HelpTOCNode Title="ClearWindow Method " Url="html/M_SharpBlade_Razer_RenderTarget_ClearWindow.htm" />
-          <HelpTOCNode Id="598c58ed-7e24-47b7-9ac3-774f89273206" Title="Dispose Method " Url="html/Overload_SharpBlade_Razer_RenderTarget_Dispose.htm">
+          <HelpTOCNode Id="050658d9-181f-4caa-b5c3-9065a18871b0" Title="Dispose Method " Url="html/Overload_SharpBlade_Razer_RenderTarget_Dispose.htm">
             <HelpTOCNode Title="Dispose Method " Url="html/M_SharpBlade_Razer_RenderTarget_Dispose.htm" />
             <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_SharpBlade_Razer_RenderTarget_Dispose_1.htm" />
           </HelpTOCNode>
@@ -1776,20 +1776,20 @@
           <HelpTOCNode Title="DrawWindow Method " Url="html/M_SharpBlade_Razer_RenderTarget_DrawWindow.htm" />
           <HelpTOCNode Title="Finalize Method " Url="html/M_SharpBlade_Razer_RenderTarget_Finalize.htm" />
           <HelpTOCNode Title="FormPaintHandler Method " Url="html/M_SharpBlade_Razer_RenderTarget_FormPaintHandler.htm" />
-          <HelpTOCNode Id="743357f1-83ba-4a60-ab69-71e01e4f9f6a" Title="SetBitmapProvider Method " Url="html/Overload_SharpBlade_Razer_RenderTarget_SetBitmapProvider.htm">
+          <HelpTOCNode Id="6ed6b312-51db-4424-9f7a-662a87c8c8d0" Title="SetBitmapProvider Method " Url="html/Overload_SharpBlade_Razer_RenderTarget_SetBitmapProvider.htm">
             <HelpTOCNode Title="SetBitmapProvider Method (IBitmapProvider)" Url="html/M_SharpBlade_Razer_RenderTarget_SetBitmapProvider.htm" />
             <HelpTOCNode Title="SetBitmapProvider Method (IBitmapProvider, TimeSpan)" Url="html/M_SharpBlade_Razer_RenderTarget_SetBitmapProvider_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="SetForm Method " Url="html/M_SharpBlade_Razer_RenderTarget_SetForm.htm" />
           <HelpTOCNode Title="SetImage Method " Url="html/M_SharpBlade_Razer_RenderTarget_SetImage.htm" />
           <HelpTOCNode Title="SetNativeWindow Method " Url="html/M_SharpBlade_Razer_RenderTarget_SetNativeWindow.htm" />
-          <HelpTOCNode Id="12a5b347-20f7-4474-865a-81d098ef4a2d" Title="SetWindow Method " Url="html/Overload_SharpBlade_Razer_RenderTarget_SetWindow.htm">
+          <HelpTOCNode Id="59ceeb8f-3d90-4f60-a4f6-a7a8015407f8" Title="SetWindow Method " Url="html/Overload_SharpBlade_Razer_RenderTarget_SetWindow.htm">
             <HelpTOCNode Title="SetWindow Method (Window, RenderMethod)" Url="html/M_SharpBlade_Razer_RenderTarget_SetWindow.htm" />
             <HelpTOCNode Title="SetWindow Method (Window, RenderMethod, TimeSpan)" Url="html/M_SharpBlade_Razer_RenderTarget_SetWindow_1.htm" />
           </HelpTOCNode>
           <HelpTOCNode Title="WindowContentRenderedHandler Method " Url="html/M_SharpBlade_Razer_RenderTarget_WindowContentRenderedHandler.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="72cf3ab0-5f60-4a34-8863-1997d825ff2a" Title="RenderTarget Properties" Url="html/Properties_T_SharpBlade_Razer_RenderTarget.htm">
+        <HelpTOCNode Id="94030b76-6c61-40c0-aa7f-09a57c893feb" Title="RenderTarget Properties" Url="html/Properties_T_SharpBlade_Razer_RenderTarget.htm">
           <HelpTOCNode Title="CurrentForm Property " Url="html/P_SharpBlade_Razer_RenderTarget_CurrentForm.htm" />
           <HelpTOCNode Title="CurrentImage Property " Url="html/P_SharpBlade_Razer_RenderTarget_CurrentImage.htm" />
           <HelpTOCNode Title="CurrentNativeWindow Property " Url="html/P_SharpBlade_Razer_RenderTarget_CurrentNativeWindow.htm" />
@@ -1802,14 +1802,14 @@
         </HelpTOCNode>
       </HelpTOCNode>
       <HelpTOCNode Title="RotateDirection Enumeration" Url="html/T_SharpBlade_Razer_RotateDirection.htm" />
-      <HelpTOCNode Id="6785835b-7546-409b-847a-b961d9b50f00" Title="Touchpad Class" Url="html/T_SharpBlade_Razer_Touchpad.htm">
+      <HelpTOCNode Id="227a8611-61cb-4bca-ac45-44d8a2fc8c9d" Title="Touchpad Class" Url="html/T_SharpBlade_Razer_Touchpad.htm">
         <HelpTOCNode Title="Touchpad Constructor " Url="html/M_SharpBlade_Razer_Touchpad__ctor.htm" />
-        <HelpTOCNode Id="65ff95b4-16dd-4be8-98fb-aba89811a7c7" Title="Touchpad Fields" Url="html/Fields_T_SharpBlade_Razer_Touchpad.htm">
+        <HelpTOCNode Id="4135586e-e85f-46e3-a1b5-30596a1c0b5c" Title="Touchpad Fields" Url="html/Fields_T_SharpBlade_Razer_Touchpad.htm">
           <HelpTOCNode Title="_gestureCallback Field" Url="html/F_SharpBlade_Razer_Touchpad__gestureCallback.htm" />
           <HelpTOCNode Title="_instance Field" Url="html/F_SharpBlade_Razer_Touchpad__instance.htm" />
           <HelpTOCNode Title="_log Field" Url="html/F_SharpBlade_Razer_Touchpad__log.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="cd49b5df-2d80-4707-a38b-aeb46d2a0f25" Title="Touchpad Methods" Url="html/Methods_T_SharpBlade_Razer_Touchpad.htm">
+        <HelpTOCNode Id="2597bdfe-6df0-4b71-96ae-b5f8e6cdce79" Title="Touchpad Methods" Url="html/Methods_T_SharpBlade_Razer_Touchpad.htm">
           <HelpTOCNode Title="ClearImage Method " Url="html/M_SharpBlade_Razer_Touchpad_ClearImage.htm" />
           <HelpTOCNode Title="DisableGesture Method " Url="html/M_SharpBlade_Razer_Touchpad_DisableGesture.htm" />
           <HelpTOCNode Title="DisableOSGesture Method " Url="html/M_SharpBlade_Razer_Touchpad_DisableOSGesture.htm" />
@@ -1831,11 +1831,11 @@
           <HelpTOCNode Title="SetImage Method " Url="html/M_SharpBlade_Razer_Touchpad_SetImage.htm" />
           <HelpTOCNode Title="SetOSGesture Method " Url="html/M_SharpBlade_Razer_Touchpad_SetOSGesture.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="60df5b3b-421d-404f-b2f9-9dde41f8589c" Title="Touchpad Properties" Url="html/Properties_T_SharpBlade_Razer_Touchpad.htm">
+        <HelpTOCNode Id="0edca062-4e5e-4c29-841a-bb49eda3ea72" Title="Touchpad Properties" Url="html/Properties_T_SharpBlade_Razer_Touchpad.htm">
           <HelpTOCNode Title="CurrentImage Property " Url="html/P_SharpBlade_Razer_Touchpad_CurrentImage.htm" />
           <HelpTOCNode Title="Instance Property " Url="html/P_SharpBlade_Razer_Touchpad_Instance.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="d9973296-fb99-4a36-ac03-fc04dd0c53d3" Title="Touchpad Events" Url="html/Events_T_SharpBlade_Razer_Touchpad.htm">
+        <HelpTOCNode Id="cd23da62-f48a-4320-a3f6-a4f84a158063" Title="Touchpad Events" Url="html/Events_T_SharpBlade_Razer_Touchpad.htm">
           <HelpTOCNode Title="Flick Event" Url="html/E_SharpBlade_Razer_Touchpad_Flick.htm" />
           <HelpTOCNode Title="Gesture Event" Url="html/E_SharpBlade_Razer_Touchpad_Gesture.htm" />
           <HelpTOCNode Title="Hold Event" Url="html/E_SharpBlade_Razer_Touchpad_Hold.htm" />
@@ -1850,48 +1850,48 @@
       </HelpTOCNode>
       <HelpTOCNode Title="ZoomDirection Enumeration" Url="html/T_SharpBlade_Razer_ZoomDirection.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="4351b5b1-4fe1-4f53-a671-61caaf7f1f3f" Title="SharpBlade.Razer.Events Namespace" Url="html/N_SharpBlade_Razer_Events.htm">
-      <HelpTOCNode Id="c0f29e4a-7009-4eb6-8e45-2e8d61801080" Title="AppEventEventArgs Class" Url="html/T_SharpBlade_Razer_Events_AppEventEventArgs.htm">
+    <HelpTOCNode Id="700cb5c1-0a13-4abf-94d5-7c6d06a9c60b" Title="SharpBlade.Razer.Events Namespace" Url="html/N_SharpBlade_Razer_Events.htm">
+      <HelpTOCNode Id="5494d8bc-f800-4b53-a45a-364bac45b334" Title="AppEventEventArgs Class" Url="html/T_SharpBlade_Razer_Events_AppEventEventArgs.htm">
         <HelpTOCNode Title="AppEventEventArgs Constructor " Url="html/M_SharpBlade_Razer_Events_AppEventEventArgs__ctor.htm" />
-        <HelpTOCNode Id="a55bafbd-8b01-423f-a298-a7d9ad69b975" Title="AppEventEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_AppEventEventArgs.htm">
+        <HelpTOCNode Id="adf43df3-b3d3-4bae-a3ea-fe87a6cd8ff3" Title="AppEventEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_AppEventEventArgs.htm">
           <HelpTOCNode Title="_eventType Field" Url="html/F_SharpBlade_Razer_Events_AppEventEventArgs__eventType.htm" />
           <HelpTOCNode Title="_mode Field" Url="html/F_SharpBlade_Razer_Events_AppEventEventArgs__mode.htm" />
           <HelpTOCNode Title="_processId Field" Url="html/F_SharpBlade_Razer_Events_AppEventEventArgs__processId.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="AppEventEventArgs Methods" Url="html/Methods_T_SharpBlade_Razer_Events_AppEventEventArgs.htm" />
-        <HelpTOCNode Id="6b232b7f-39fd-4a82-9360-045e907b2209" Title="AppEventEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_AppEventEventArgs.htm">
+        <HelpTOCNode Id="1402e9d3-f8d2-4144-8302-338edfb7bb17" Title="AppEventEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_AppEventEventArgs.htm">
           <HelpTOCNode Title="EventType Property " Url="html/P_SharpBlade_Razer_Events_AppEventEventArgs_EventType.htm" />
           <HelpTOCNode Title="Mode Property " Url="html/P_SharpBlade_Razer_Events_AppEventEventArgs_Mode.htm" />
           <HelpTOCNode Title="ProcessId Property " Url="html/P_SharpBlade_Razer_Events_AppEventEventArgs_ProcessId.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="03a383c9-4b35-4c5a-a3f5-1b658e412cb0" Title="DynamicKeyEventArgs Class" Url="html/T_SharpBlade_Razer_Events_DynamicKeyEventArgs.htm">
+      <HelpTOCNode Id="63e8d404-9fa0-4630-be65-86832eaf431c" Title="DynamicKeyEventArgs Class" Url="html/T_SharpBlade_Razer_Events_DynamicKeyEventArgs.htm">
         <HelpTOCNode Title="DynamicKeyEventArgs Constructor " Url="html/M_SharpBlade_Razer_Events_DynamicKeyEventArgs__ctor.htm" />
-        <HelpTOCNode Id="5c9180da-442a-445d-bf50-ad2bc827cf30" Title="DynamicKeyEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_DynamicKeyEventArgs.htm">
+        <HelpTOCNode Id="1d998bca-b2d5-46bb-9ce8-3a933ff28011" Title="DynamicKeyEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_DynamicKeyEventArgs.htm">
           <HelpTOCNode Title="_keyType Field" Url="html/F_SharpBlade_Razer_Events_DynamicKeyEventArgs__keyType.htm" />
           <HelpTOCNode Title="_state Field" Url="html/F_SharpBlade_Razer_Events_DynamicKeyEventArgs__state.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="DynamicKeyEventArgs Methods" Url="html/Methods_T_SharpBlade_Razer_Events_DynamicKeyEventArgs.htm" />
-        <HelpTOCNode Id="8fb892c4-f083-492e-9d9e-387df9b6de3f" Title="DynamicKeyEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_DynamicKeyEventArgs.htm">
+        <HelpTOCNode Id="86a54890-0dd4-45de-a5ab-808020b6056f" Title="DynamicKeyEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_DynamicKeyEventArgs.htm">
           <HelpTOCNode Title="KeyType Property " Url="html/P_SharpBlade_Razer_Events_DynamicKeyEventArgs_KeyType.htm" />
           <HelpTOCNode Title="State Property " Url="html/P_SharpBlade_Razer_Events_DynamicKeyEventArgs_State.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="f8757960-059a-48a7-b8bc-58d3e4065d89" Title="FlickEventArgs Class" Url="html/T_SharpBlade_Razer_Events_FlickEventArgs.htm">
+      <HelpTOCNode Id="2cb4c72f-01a6-4efe-abd9-451ac4aeeecf" Title="FlickEventArgs Class" Url="html/T_SharpBlade_Razer_Events_FlickEventArgs.htm">
         <HelpTOCNode Title="FlickEventArgs Constructor " Url="html/M_SharpBlade_Razer_Events_FlickEventArgs__ctor.htm" />
-        <HelpTOCNode Id="e46ec43b-d4f8-4466-a3ce-a324a39f9a09" Title="FlickEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_FlickEventArgs.htm">
+        <HelpTOCNode Id="ea5ac5f9-00e8-437d-ac33-4771559644fb" Title="FlickEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_FlickEventArgs.htm">
           <HelpTOCNode Title="_direction Field" Url="html/F_SharpBlade_Razer_Events_FlickEventArgs__direction.htm" />
           <HelpTOCNode Title="_touchpointCount Field" Url="html/F_SharpBlade_Razer_Events_FlickEventArgs__touchpointCount.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="FlickEventArgs Methods" Url="html/Methods_T_SharpBlade_Razer_Events_FlickEventArgs.htm" />
-        <HelpTOCNode Id="4e1e67b5-3bba-42d6-a02a-c365f6396abb" Title="FlickEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_FlickEventArgs.htm">
+        <HelpTOCNode Id="d73092cb-9cb6-4fb6-bd52-c8178e4bf75b" Title="FlickEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_FlickEventArgs.htm">
           <HelpTOCNode Title="Direction Property " Url="html/P_SharpBlade_Razer_Events_FlickEventArgs_Direction.htm" />
           <HelpTOCNode Title="TouchpointCount Property " Url="html/P_SharpBlade_Razer_Events_FlickEventArgs_TouchpointCount.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="bd037812-f4b0-4125-abb9-86176c72ba82" Title="GestureEventArgs Class" Url="html/T_SharpBlade_Razer_Events_GestureEventArgs.htm">
+      <HelpTOCNode Id="cada6aa0-e42d-4f1e-90a9-b8501d411493" Title="GestureEventArgs Class" Url="html/T_SharpBlade_Razer_Events_GestureEventArgs.htm">
         <HelpTOCNode Title="GestureEventArgs Constructor " Url="html/M_SharpBlade_Razer_Events_GestureEventArgs__ctor.htm" />
-        <HelpTOCNode Id="0c28b949-019d-4c93-ac00-c26089e5e737" Title="GestureEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_GestureEventArgs.htm">
+        <HelpTOCNode Id="845e3a42-3855-4b31-8aef-c1c70314e642" Title="GestureEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_GestureEventArgs.htm">
           <HelpTOCNode Title="_gestureType Field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs__gestureType.htm" />
           <HelpTOCNode Title="_parameter Field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs__parameter.htm" />
           <HelpTOCNode Title="_x Field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs__x.htm" />
@@ -1899,7 +1899,7 @@
           <HelpTOCNode Title="_z Field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs__z.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="GestureEventArgs Methods" Url="html/Methods_T_SharpBlade_Razer_Events_GestureEventArgs.htm" />
-        <HelpTOCNode Id="fdfa2c5e-1360-49b9-98fd-69dd7a5fcc3a" Title="GestureEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_GestureEventArgs.htm">
+        <HelpTOCNode Id="05fcaf6f-a925-4bc3-99b4-8dbb58d05e6b" Title="GestureEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_GestureEventArgs.htm">
           <HelpTOCNode Title="GestureType Property " Url="html/P_SharpBlade_Razer_Events_GestureEventArgs_GestureType.htm" />
           <HelpTOCNode Title="Parameter Property " Url="html/P_SharpBlade_Razer_Events_GestureEventArgs_Parameter.htm" />
           <HelpTOCNode Title="X Property " Url="html/P_SharpBlade_Razer_Events_GestureEventArgs_X.htm" />
@@ -1907,19 +1907,19 @@
           <HelpTOCNode Title="Z Property " Url="html/P_SharpBlade_Razer_Events_GestureEventArgs_Z.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="a4907344-cf9e-4647-a62e-2f2e9af48314" Title="KeyboardCharEventArgs Class" Url="html/T_SharpBlade_Razer_Events_KeyboardCharEventArgs.htm">
+      <HelpTOCNode Id="c1e158a6-09e8-4048-8ff6-4258472d6990" Title="KeyboardCharEventArgs Class" Url="html/T_SharpBlade_Razer_Events_KeyboardCharEventArgs.htm">
         <HelpTOCNode Title="KeyboardCharEventArgs Constructor " Url="html/M_SharpBlade_Razer_Events_KeyboardCharEventArgs__ctor.htm" />
-        <HelpTOCNode Id="40836188-ca91-4ae5-8b61-3ee6784876b5" Title="KeyboardCharEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_KeyboardCharEventArgs.htm">
+        <HelpTOCNode Id="babc4e4a-6449-4fa4-bd99-498e694b6fdb" Title="KeyboardCharEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_KeyboardCharEventArgs.htm">
           <HelpTOCNode Title="_character Field" Url="html/F_SharpBlade_Razer_Events_KeyboardCharEventArgs__character.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="KeyboardCharEventArgs Methods" Url="html/Methods_T_SharpBlade_Razer_Events_KeyboardCharEventArgs.htm" />
-        <HelpTOCNode Id="a882c189-0811-49fc-a92e-65be5d30cb92" Title="KeyboardCharEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_KeyboardCharEventArgs.htm">
+        <HelpTOCNode Id="4e363cae-b3f5-430b-bcdd-13cbc3369f06" Title="KeyboardCharEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_KeyboardCharEventArgs.htm">
           <HelpTOCNode Title="Character Property " Url="html/P_SharpBlade_Razer_Events_KeyboardCharEventArgs_Character.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="61f4d97d-e856-45cd-923b-34a415989ff2" Title="KeyboardKeyEventArgs Class" Url="html/T_SharpBlade_Razer_Events_KeyboardKeyEventArgs.htm">
+      <HelpTOCNode Id="12926ef2-758a-44f6-b9f7-95e9a0cc2b62" Title="KeyboardKeyEventArgs Class" Url="html/T_SharpBlade_Razer_Events_KeyboardKeyEventArgs.htm">
         <HelpTOCNode Title="KeyboardKeyEventArgs Constructor " Url="html/M_SharpBlade_Razer_Events_KeyboardKeyEventArgs__ctor.htm" />
-        <HelpTOCNode Id="d79dd28f-de70-451b-a741-f11534641c74" Title="KeyboardKeyEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_KeyboardKeyEventArgs.htm">
+        <HelpTOCNode Id="13f83662-258e-4478-b9cb-b37362b86d73" Title="KeyboardKeyEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_KeyboardKeyEventArgs.htm">
           <HelpTOCNode Title="_altPressed Field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs__altPressed.htm" />
           <HelpTOCNode Title="_capsLockActive Field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs__capsLockActive.htm" />
           <HelpTOCNode Title="_controlPressed Field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs__controlPressed.htm" />
@@ -1928,7 +1928,7 @@
           <HelpTOCNode Title="_shiftPressed Field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs__shiftPressed.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="KeyboardKeyEventArgs Methods" Url="html/Methods_T_SharpBlade_Razer_Events_KeyboardKeyEventArgs.htm" />
-        <HelpTOCNode Id="72bb4ad9-1713-4162-bde4-979440ad309c" Title="KeyboardKeyEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_KeyboardKeyEventArgs.htm">
+        <HelpTOCNode Id="ceaa2a4e-d789-4b44-adf7-42531812868b" Title="KeyboardKeyEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_KeyboardKeyEventArgs.htm">
           <HelpTOCNode Title="AltPressed Property " Url="html/P_SharpBlade_Razer_Events_KeyboardKeyEventArgs_AltPressed.htm" />
           <HelpTOCNode Title="CapsLockActive Property " Url="html/P_SharpBlade_Razer_Events_KeyboardKeyEventArgs_CapsLockActive.htm" />
           <HelpTOCNode Title="ControlPressed Property " Url="html/P_SharpBlade_Razer_Events_KeyboardKeyEventArgs_ControlPressed.htm" />
@@ -1937,96 +1937,96 @@
           <HelpTOCNode Title="ShiftPressed Property " Url="html/P_SharpBlade_Razer_Events_KeyboardKeyEventArgs_ShiftPressed.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="47d45824-5faa-498d-85d2-28a57e03c1d9" Title="KeyboardRawEventArgs Class" Url="html/T_SharpBlade_Razer_Events_KeyboardRawEventArgs.htm">
+      <HelpTOCNode Id="72999bd2-5d9e-48d4-95f0-2604c104a12a" Title="KeyboardRawEventArgs Class" Url="html/T_SharpBlade_Razer_Events_KeyboardRawEventArgs.htm">
         <HelpTOCNode Title="KeyboardRawEventArgs Constructor " Url="html/M_SharpBlade_Razer_Events_KeyboardRawEventArgs__ctor.htm" />
-        <HelpTOCNode Id="f60639bf-1828-4f28-b5a4-16bc5f4139c0" Title="KeyboardRawEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_KeyboardRawEventArgs.htm">
+        <HelpTOCNode Id="b74d16fa-63be-49b9-a81c-8aa37032d2bf" Title="KeyboardRawEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_KeyboardRawEventArgs.htm">
           <HelpTOCNode Title="_data Field" Url="html/F_SharpBlade_Razer_Events_KeyboardRawEventArgs__data.htm" />
           <HelpTOCNode Title="_eventType Field" Url="html/F_SharpBlade_Razer_Events_KeyboardRawEventArgs__eventType.htm" />
           <HelpTOCNode Title="_modifiers Field" Url="html/F_SharpBlade_Razer_Events_KeyboardRawEventArgs__modifiers.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="KeyboardRawEventArgs Methods" Url="html/Methods_T_SharpBlade_Razer_Events_KeyboardRawEventArgs.htm" />
-        <HelpTOCNode Id="d33609ca-ba30-4192-9fe5-364265bc5104" Title="KeyboardRawEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_KeyboardRawEventArgs.htm">
+        <HelpTOCNode Id="c580f7c6-2776-4f89-9dac-91a0f8cef29c" Title="KeyboardRawEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_KeyboardRawEventArgs.htm">
           <HelpTOCNode Title="Data Property " Url="html/P_SharpBlade_Razer_Events_KeyboardRawEventArgs_Data.htm" />
           <HelpTOCNode Title="EventType Property " Url="html/P_SharpBlade_Razer_Events_KeyboardRawEventArgs_EventType.htm" />
           <HelpTOCNode Title="Modifiers Property " Url="html/P_SharpBlade_Razer_Events_KeyboardRawEventArgs_Modifiers.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="9c91a7fb-b5d6-4b0a-8d5c-78c5edbf19a2" Title="MoveEventArgs Class" Url="html/T_SharpBlade_Razer_Events_MoveEventArgs.htm">
+      <HelpTOCNode Id="922b63fe-9f55-4890-93c1-8f4df4175206" Title="MoveEventArgs Class" Url="html/T_SharpBlade_Razer_Events_MoveEventArgs.htm">
         <HelpTOCNode Title="MoveEventArgs Constructor " Url="html/M_SharpBlade_Razer_Events_MoveEventArgs__ctor.htm" />
-        <HelpTOCNode Id="782e4e8a-1941-466b-9635-c91a9a922ff7" Title="MoveEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_MoveEventArgs.htm">
+        <HelpTOCNode Id="9bf22d22-274d-4259-9fd1-5729fd820b6a" Title="MoveEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_MoveEventArgs.htm">
           <HelpTOCNode Title="_x Field" Url="html/F_SharpBlade_Razer_Events_MoveEventArgs__x.htm" />
           <HelpTOCNode Title="_y Field" Url="html/F_SharpBlade_Razer_Events_MoveEventArgs__y.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="MoveEventArgs Methods" Url="html/Methods_T_SharpBlade_Razer_Events_MoveEventArgs.htm" />
-        <HelpTOCNode Id="99da4f21-5f5f-4feb-81e6-607188ec1abb" Title="MoveEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_MoveEventArgs.htm">
+        <HelpTOCNode Id="e613a7be-e94a-4378-b4bc-9891d9ad1d00" Title="MoveEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_MoveEventArgs.htm">
           <HelpTOCNode Title="X Property " Url="html/P_SharpBlade_Razer_Events_MoveEventArgs_X.htm" />
           <HelpTOCNode Title="Y Property " Url="html/P_SharpBlade_Razer_Events_MoveEventArgs_Y.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="063eafcc-ffff-43c7-a1e5-17c1225af460" Title="PressEventArgs Class" Url="html/T_SharpBlade_Razer_Events_PressEventArgs.htm">
+      <HelpTOCNode Id="d888aab7-7e29-4312-b2b1-192a17fa3572" Title="PressEventArgs Class" Url="html/T_SharpBlade_Razer_Events_PressEventArgs.htm">
         <HelpTOCNode Title="PressEventArgs Constructor " Url="html/M_SharpBlade_Razer_Events_PressEventArgs__ctor.htm" />
-        <HelpTOCNode Id="f837cd06-f76e-4986-801f-86e2e1560cc9" Title="PressEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_PressEventArgs.htm">
+        <HelpTOCNode Id="f624fc39-b086-4e26-9dae-f7eec747ace6" Title="PressEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_PressEventArgs.htm">
           <HelpTOCNode Title="_touchpointCount Field" Url="html/F_SharpBlade_Razer_Events_PressEventArgs__touchpointCount.htm" />
           <HelpTOCNode Title="_x Field" Url="html/F_SharpBlade_Razer_Events_PressEventArgs__x.htm" />
           <HelpTOCNode Title="_y Field" Url="html/F_SharpBlade_Razer_Events_PressEventArgs__y.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="PressEventArgs Methods" Url="html/Methods_T_SharpBlade_Razer_Events_PressEventArgs.htm" />
-        <HelpTOCNode Id="923f9a89-7cc0-431c-9d22-172e667c3acd" Title="PressEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_PressEventArgs.htm">
+        <HelpTOCNode Id="3420545c-da0d-4a76-ba1d-d0d83af7fec3" Title="PressEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_PressEventArgs.htm">
           <HelpTOCNode Title="TouchpointCount Property " Url="html/P_SharpBlade_Razer_Events_PressEventArgs_TouchpointCount.htm" />
           <HelpTOCNode Title="X Property " Url="html/P_SharpBlade_Razer_Events_PressEventArgs_X.htm" />
           <HelpTOCNode Title="Y Property " Url="html/P_SharpBlade_Razer_Events_PressEventArgs_Y.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="13058f57-6930-4013-8f1f-a17c99895bf2" Title="ReleaseEventArgs Class" Url="html/T_SharpBlade_Razer_Events_ReleaseEventArgs.htm">
+      <HelpTOCNode Id="84d70ed9-b481-49fe-b40f-5298cef2b8d6" Title="ReleaseEventArgs Class" Url="html/T_SharpBlade_Razer_Events_ReleaseEventArgs.htm">
         <HelpTOCNode Title="ReleaseEventArgs Constructor " Url="html/M_SharpBlade_Razer_Events_ReleaseEventArgs__ctor.htm" />
-        <HelpTOCNode Id="906cff55-9d00-4db3-bf51-ac6d2afaf9d8" Title="ReleaseEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_ReleaseEventArgs.htm">
+        <HelpTOCNode Id="62fccee8-dd5e-437d-aeaa-cf49ff04ef2f" Title="ReleaseEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_ReleaseEventArgs.htm">
           <HelpTOCNode Title="_touchpointCount Field" Url="html/F_SharpBlade_Razer_Events_ReleaseEventArgs__touchpointCount.htm" />
           <HelpTOCNode Title="_x Field" Url="html/F_SharpBlade_Razer_Events_ReleaseEventArgs__x.htm" />
           <HelpTOCNode Title="_y Field" Url="html/F_SharpBlade_Razer_Events_ReleaseEventArgs__y.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ReleaseEventArgs Methods" Url="html/Methods_T_SharpBlade_Razer_Events_ReleaseEventArgs.htm" />
-        <HelpTOCNode Id="91e4fef0-7024-4f94-a12c-7a0aa9321702" Title="ReleaseEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_ReleaseEventArgs.htm">
+        <HelpTOCNode Id="a820359d-b1f7-4a00-b549-b6f263bd1469" Title="ReleaseEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_ReleaseEventArgs.htm">
           <HelpTOCNode Title="TouchpointCount Property " Url="html/P_SharpBlade_Razer_Events_ReleaseEventArgs_TouchpointCount.htm" />
           <HelpTOCNode Title="X Property " Url="html/P_SharpBlade_Razer_Events_ReleaseEventArgs_X.htm" />
           <HelpTOCNode Title="Y Property " Url="html/P_SharpBlade_Razer_Events_ReleaseEventArgs_Y.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="e7f76517-bb42-44fd-b75e-3ec6227624df" Title="RotateEventArgs Class" Url="html/T_SharpBlade_Razer_Events_RotateEventArgs.htm">
+      <HelpTOCNode Id="65e39b4f-cdba-48d6-82c9-a7aa32aff926" Title="RotateEventArgs Class" Url="html/T_SharpBlade_Razer_Events_RotateEventArgs.htm">
         <HelpTOCNode Title="RotateEventArgs Constructor " Url="html/M_SharpBlade_Razer_Events_RotateEventArgs__ctor.htm" />
-        <HelpTOCNode Id="4dcc9331-1b57-4146-855d-c53cb4567e14" Title="RotateEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_RotateEventArgs.htm">
+        <HelpTOCNode Id="965edd6e-bfa4-4297-86f6-dba20f6d109e" Title="RotateEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_RotateEventArgs.htm">
           <HelpTOCNode Title="_direction Field" Url="html/F_SharpBlade_Razer_Events_RotateEventArgs__direction.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="RotateEventArgs Methods" Url="html/Methods_T_SharpBlade_Razer_Events_RotateEventArgs.htm" />
-        <HelpTOCNode Id="425be605-008e-49b6-b0e2-69cc7cc9d8d6" Title="RotateEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_RotateEventArgs.htm">
+        <HelpTOCNode Id="0c4ab393-0c82-4eed-80dd-154aa88cd2b0" Title="RotateEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_RotateEventArgs.htm">
           <HelpTOCNode Title="Direction Property " Url="html/P_SharpBlade_Razer_Events_RotateEventArgs_Direction.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="8c798654-fc4f-4200-bb61-7b4639f85d35" Title="TapEventArgs Class" Url="html/T_SharpBlade_Razer_Events_TapEventArgs.htm">
+      <HelpTOCNode Id="6e84b02d-f85e-41a0-991a-27e0d51ecc94" Title="TapEventArgs Class" Url="html/T_SharpBlade_Razer_Events_TapEventArgs.htm">
         <HelpTOCNode Title="TapEventArgs Constructor " Url="html/M_SharpBlade_Razer_Events_TapEventArgs__ctor.htm" />
-        <HelpTOCNode Id="41bf64bc-8a6c-44e4-af39-ffd2cf559180" Title="TapEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_TapEventArgs.htm">
+        <HelpTOCNode Id="0002cc6c-1fef-4032-bf06-97de01099b59" Title="TapEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_TapEventArgs.htm">
           <HelpTOCNode Title="_x Field" Url="html/F_SharpBlade_Razer_Events_TapEventArgs__x.htm" />
           <HelpTOCNode Title="_y Field" Url="html/F_SharpBlade_Razer_Events_TapEventArgs__y.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="TapEventArgs Methods" Url="html/Methods_T_SharpBlade_Razer_Events_TapEventArgs.htm" />
-        <HelpTOCNode Id="93ad1842-e2bd-4350-a2b6-f87ff7eab83b" Title="TapEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_TapEventArgs.htm">
+        <HelpTOCNode Id="c4c07916-d45d-4388-9a74-98800a20d540" Title="TapEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_TapEventArgs.htm">
           <HelpTOCNode Title="X Property " Url="html/P_SharpBlade_Razer_Events_TapEventArgs_X.htm" />
           <HelpTOCNode Title="Y Property " Url="html/P_SharpBlade_Razer_Events_TapEventArgs_Y.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
-      <HelpTOCNode Id="6a717d36-d676-44d3-987a-135b10734176" Title="ZoomEventArgs Class" Url="html/T_SharpBlade_Razer_Events_ZoomEventArgs.htm">
+      <HelpTOCNode Id="b40f4d9f-7c13-4e2d-bcea-64786c830a39" Title="ZoomEventArgs Class" Url="html/T_SharpBlade_Razer_Events_ZoomEventArgs.htm">
         <HelpTOCNode Title="ZoomEventArgs Constructor " Url="html/M_SharpBlade_Razer_Events_ZoomEventArgs__ctor.htm" />
-        <HelpTOCNode Id="378dab41-0708-43d4-b8ce-9ca2583cbc92" Title="ZoomEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_ZoomEventArgs.htm">
+        <HelpTOCNode Id="6dc40728-54ae-45e7-9bdb-d4c7caa89d6a" Title="ZoomEventArgs Fields" Url="html/Fields_T_SharpBlade_Razer_Events_ZoomEventArgs.htm">
           <HelpTOCNode Title="_direction Field" Url="html/F_SharpBlade_Razer_Events_ZoomEventArgs__direction.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="ZoomEventArgs Methods" Url="html/Methods_T_SharpBlade_Razer_Events_ZoomEventArgs.htm" />
-        <HelpTOCNode Id="c6b31693-e39c-45c4-9a6b-f159f3b93c1f" Title="ZoomEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_ZoomEventArgs.htm">
+        <HelpTOCNode Id="4db5e324-ceb2-45fe-982c-fadda09536ac" Title="ZoomEventArgs Properties" Url="html/Properties_T_SharpBlade_Razer_Events_ZoomEventArgs.htm">
           <HelpTOCNode Title="Direction Property " Url="html/P_SharpBlade_Razer_Events_ZoomEventArgs_Direction.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="5f963950-35d2-46c2-b4f6-8a0f79f94273" Title="SharpBlade.Razer.Exceptions Namespace" Url="html/N_SharpBlade_Razer_Exceptions.htm">
-      <HelpTOCNode Id="9748e9bd-460c-4d01-a0fa-669b61f5cf02" Title="RazerDynamicKeyException Class" Url="html/T_SharpBlade_Razer_Exceptions_RazerDynamicKeyException.htm">
-        <HelpTOCNode Id="c1ce39d4-26b6-4df9-8e14-dce97d116c29" Title="RazerDynamicKeyException Constructor " Url="html/Overload_SharpBlade_Razer_Exceptions_RazerDynamicKeyException__ctor.htm">
+    <HelpTOCNode Id="95e66bc2-2412-4a42-850c-63585e6cb676" Title="SharpBlade.Razer.Exceptions Namespace" Url="html/N_SharpBlade_Razer_Exceptions.htm">
+      <HelpTOCNode Id="608280dd-1d08-498a-80cf-3bf83cb828d9" Title="RazerDynamicKeyException Class" Url="html/T_SharpBlade_Razer_Exceptions_RazerDynamicKeyException.htm">
+        <HelpTOCNode Id="145c5ad6-5e02-4e1b-8f8c-f702ae9aeb3e" Title="RazerDynamicKeyException Constructor " Url="html/Overload_SharpBlade_Razer_Exceptions_RazerDynamicKeyException__ctor.htm">
           <HelpTOCNode Title="RazerDynamicKeyException Constructor (SerializationInfo, StreamingContext)" Url="html/M_SharpBlade_Razer_Exceptions_RazerDynamicKeyException__ctor.htm" />
           <HelpTOCNode Title="RazerDynamicKeyException Constructor (String, Exception)" Url="html/M_SharpBlade_Razer_Exceptions_RazerDynamicKeyException__ctor_1.htm" />
         </HelpTOCNode>
@@ -2034,8 +2034,8 @@
         <HelpTOCNode Title="RazerDynamicKeyException Properties" Url="html/Properties_T_SharpBlade_Razer_Exceptions_RazerDynamicKeyException.htm" />
         <HelpTOCNode Title="RazerDynamicKeyException Events" Url="html/Events_T_SharpBlade_Razer_Exceptions_RazerDynamicKeyException.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="42cd8ac7-deb8-44a9-ae0e-cbdfaef63c3d" Title="RazerException Class" Url="html/T_SharpBlade_Razer_Exceptions_RazerException.htm">
-        <HelpTOCNode Id="fe5903b4-616c-4606-9425-3582acb56820" Title="RazerException Constructor " Url="html/Overload_SharpBlade_Razer_Exceptions_RazerException__ctor.htm">
+      <HelpTOCNode Id="308e1565-5b34-4186-ac71-56fa46369f4b" Title="RazerException Class" Url="html/T_SharpBlade_Razer_Exceptions_RazerException.htm">
+        <HelpTOCNode Id="c6de529b-6c26-41b2-89b0-aff64651eb54" Title="RazerException Constructor " Url="html/Overload_SharpBlade_Razer_Exceptions_RazerException__ctor.htm">
           <HelpTOCNode Title="RazerException Constructor (SerializationInfo, StreamingContext)" Url="html/M_SharpBlade_Razer_Exceptions_RazerException__ctor.htm" />
           <HelpTOCNode Title="RazerException Constructor (String, Exception)" Url="html/M_SharpBlade_Razer_Exceptions_RazerException__ctor_1.htm" />
         </HelpTOCNode>
@@ -2043,19 +2043,19 @@
         <HelpTOCNode Title="RazerException Properties" Url="html/Properties_T_SharpBlade_Razer_Exceptions_RazerException.htm" />
         <HelpTOCNode Title="RazerException Events" Url="html/Events_T_SharpBlade_Razer_Exceptions_RazerException.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="83fdbe88-c234-4f50-a34c-d223862142fc" Title="RazerNativeException Class" Url="html/T_SharpBlade_Razer_Exceptions_RazerNativeException.htm">
-        <HelpTOCNode Id="673c7c48-f44c-4d65-91e0-916ea08e1f1c" Title="RazerNativeException Constructor " Url="html/Overload_SharpBlade_Razer_Exceptions_RazerNativeException__ctor.htm">
+      <HelpTOCNode Id="194f7ce1-47f9-417a-a50d-4f125a43e152" Title="RazerNativeException Class" Url="html/T_SharpBlade_Razer_Exceptions_RazerNativeException.htm">
+        <HelpTOCNode Id="015aa55f-d659-42f1-86cb-f46da2c3fbc6" Title="RazerNativeException Constructor " Url="html/Overload_SharpBlade_Razer_Exceptions_RazerNativeException__ctor.htm">
           <HelpTOCNode Title="RazerNativeException Constructor (SerializationInfo, StreamingContext)" Url="html/M_SharpBlade_Razer_Exceptions_RazerNativeException__ctor.htm" />
           <HelpTOCNode Title="RazerNativeException Constructor (String, HRESULT)" Url="html/M_SharpBlade_Razer_Exceptions_RazerNativeException__ctor_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="320fe32b-441d-424b-a3e3-16c17418d078" Title="RazerNativeException Fields" Url="html/Fields_T_SharpBlade_Razer_Exceptions_RazerNativeException.htm">
+        <HelpTOCNode Id="8d3b2c92-515b-4043-9e3e-837b94d09a7c" Title="RazerNativeException Fields" Url="html/Fields_T_SharpBlade_Razer_Exceptions_RazerNativeException.htm">
           <HelpTOCNode Title="_function Field" Url="html/F_SharpBlade_Razer_Exceptions_RazerNativeException__function.htm" />
           <HelpTOCNode Title="_hresult Field" Url="html/F_SharpBlade_Razer_Exceptions_RazerNativeException__hresult.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="7bcb24fe-5eef-4783-b141-bf9409890e85" Title="RazerNativeException Methods" Url="html/Methods_T_SharpBlade_Razer_Exceptions_RazerNativeException.htm">
+        <HelpTOCNode Id="98664af1-94b2-4455-9c87-0ab947137036" Title="RazerNativeException Methods" Url="html/Methods_T_SharpBlade_Razer_Exceptions_RazerNativeException.htm">
           <HelpTOCNode Title="GetObjectData Method " Url="html/M_SharpBlade_Razer_Exceptions_RazerNativeException_GetObjectData.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="ffb9d2f8-de97-492d-9e5d-c086240b30de" Title="RazerNativeException Properties" Url="html/Properties_T_SharpBlade_Razer_Exceptions_RazerNativeException.htm">
+        <HelpTOCNode Id="2a272312-adc1-4218-bb29-d3828f83feb9" Title="RazerNativeException Properties" Url="html/Properties_T_SharpBlade_Razer_Exceptions_RazerNativeException.htm">
           <HelpTOCNode Title="Function Property " Url="html/P_SharpBlade_Razer_Exceptions_RazerNativeException_Function.htm" />
           <HelpTOCNode Title="Hresult Property " Url="html/P_SharpBlade_Razer_Exceptions_RazerNativeException_Hresult.htm" />
         </HelpTOCNode>
