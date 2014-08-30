@@ -8,7 +8,7 @@
   <HelpKINode Title="All enumeration member" Url="html/T_SharpBlade_Native_RazerAPI_GestureType.htm" />
   <HelpKINode Title="AllocConsole method" Url="html/M_SharpBlade_Native_WinAPI_Kernel32_NativeMethods_AllocConsole.htm" />
   <HelpKINode Title="Alt enumeration member" Url="html/T_SharpBlade_ModifierKeys.htm" />
-  <HelpKINode Title="AltPressed field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs_AltPressed.htm" />
+  <HelpKINode Title="AltPressed property" Url="html/P_SharpBlade_Razer_Events_KeyboardKeyEventArgs_AltPressed.htm" />
   <HelpKINode Title="AppEvent event" Url="html/E_SharpBlade_Razer_RazerManager_AppEvent.htm" />
   <HelpKINode Title="AppEventEventArgs class">
     <HelpKINode Title="AppEventEventArgs Class" Url="html/T_SharpBlade_Razer_Events_AppEventEventArgs.htm" />
@@ -16,11 +16,15 @@
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_Events_AppEventEventArgs__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Razer_Events_AppEventEventArgs.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Razer_Events_AppEventEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SharpBlade_Razer_Events_AppEventEventArgs.htm" />
   </HelpKINode>
   <HelpKINode Title="AppEventEventArgs.AppEventEventArgs constructor" Url="html/M_SharpBlade_Razer_Events_AppEventEventArgs__ctor.htm" />
-  <HelpKINode Title="AppEventEventArgs.Mode field" Url="html/F_SharpBlade_Razer_Events_AppEventEventArgs_Mode.htm" />
-  <HelpKINode Title="AppEventEventArgs.ProcessID field" Url="html/F_SharpBlade_Razer_Events_AppEventEventArgs_ProcessID.htm" />
-  <HelpKINode Title="AppEventEventArgs.Type field" Url="html/F_SharpBlade_Razer_Events_AppEventEventArgs_Type.htm" />
+  <HelpKINode Title="AppEventEventArgs.EventType property" Url="html/P_SharpBlade_Razer_Events_AppEventEventArgs_EventType.htm" />
+  <HelpKINode Title="AppEventEventArgs.Mode property" Url="html/P_SharpBlade_Razer_Events_AppEventEventArgs_Mode.htm" />
+  <HelpKINode Title="AppEventEventArgs.ProcessId property" Url="html/P_SharpBlade_Razer_Events_AppEventEventArgs_ProcessId.htm" />
+  <HelpKINode Title="AppEventEventArgs._eventType field" Url="html/F_SharpBlade_Razer_Events_AppEventEventArgs__eventType.htm" />
+  <HelpKINode Title="AppEventEventArgs._mode field" Url="html/F_SharpBlade_Razer_Events_AppEventEventArgs__mode.htm" />
+  <HelpKINode Title="AppEventEventArgs._processId field" Url="html/F_SharpBlade_Razer_Events_AppEventEventArgs__processId.htm" />
   <HelpKINode Title="Applet enumeration member" Url="html/T_SharpBlade_Native_RazerAPI_AppEventMode.htm" />
   <HelpKINode Title="APPS enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="ATTN enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
@@ -28,6 +32,7 @@
   <HelpKINode Title="BACK enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="BEVersion field" Url="html/F_SharpBlade_Native_RazerAPI_Capabilities_BEVersion.htm" />
   <HelpKINode Title="BitBlt method" Url="html/M_SharpBlade_Native_WinAPI_GDI32_NativeMethods_BitBlt.htm" />
+  <HelpKINode Title="Bitmap property" Url="html/P_SharpBlade_Integration_IBitmapProvider_Bitmap.htm" />
   <HelpKINode Title="BitmapRenderer class">
     <HelpKINode Title="BitmapRenderer Class" Url="html/T_SharpBlade_Integration_BitmapRenderer.htm" />
     <HelpKINode Title="about BitmapRenderer class" Url="html/T_SharpBlade_Integration_BitmapRenderer.htm" />
@@ -66,7 +71,7 @@
   <HelpKINode Title="Capabilities property" Url="html/P_SharpBlade_Razer_RazerManager_Capabilities.htm" />
   <HelpKINode Title="CAPITAL enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="CapsLock enumeration member" Url="html/T_SharpBlade_ModifierKeys.htm" />
-  <HelpKINode Title="CapsLockActive field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs_CapsLockActive.htm" />
+  <HelpKINode Title="CapsLockActive property" Url="html/P_SharpBlade_Razer_Events_KeyboardKeyEventArgs_CapsLockActive.htm" />
   <HelpKINode Title="CaptureScreen method" Url="html/M_SharpBlade_Helpers_ScreenCapture_CaptureScreen.htm" />
   <HelpKINode Title="CaptureScreenToFile method" Url="html/M_SharpBlade_Helpers_ScreenCapture_CaptureScreenToFile.htm" />
   <HelpKINode Title="CaptureWindow method" Url="html/M_SharpBlade_Helpers_ScreenCapture_CaptureWindow.htm" />
@@ -134,7 +139,7 @@
   <HelpKINode Title="CERT_E_VALIDITYPERIODNESTING field" Url="html/F_SharpBlade_Native_HRESULT_CERT_E_VALIDITYPERIODNESTING.htm" />
   <HelpKINode Title="CERT_E_WRONG_USAGE field" Url="html/F_SharpBlade_Native_HRESULT_CERT_E_WRONG_USAGE.htm" />
   <HelpKINode Title="CHAR enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_MessageType.htm" />
-  <HelpKINode Title="Character field" Url="html/F_SharpBlade_Razer_Events_KeyboardCharEventArgs_Character.htm" />
+  <HelpKINode Title="Character property" Url="html/P_SharpBlade_Razer_Events_KeyboardCharEventArgs_Character.htm" />
   <HelpKINode Title="CLASSFACTORY_E_FIRST field" Url="html/F_SharpBlade_Native_HRESULT_CLASSFACTORY_E_FIRST.htm" />
   <HelpKINode Title="CLASSFACTORY_E_LAST field" Url="html/F_SharpBlade_Native_HRESULT_CLASSFACTORY_E_LAST.htm" />
   <HelpKINode Title="CLASSFACTORY_S_FIRST field" Url="html/F_SharpBlade_Native_HRESULT_CLASSFACTORY_S_FIRST.htm" />
@@ -310,8 +315,8 @@
   <HelpKINode Title="CONTEXT_S_LAST field" Url="html/F_SharpBlade_Native_HRESULT_CONTEXT_S_LAST.htm" />
   <HelpKINode Title="CONTROL enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="Control enumeration member" Url="html/T_SharpBlade_ModifierKeys.htm" />
-  <HelpKINode Title="Control field" Url="html/F_SharpBlade_Integration_EmbeddedWinFormsControl_Control.htm" />
-  <HelpKINode Title="ControlPressed field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs_ControlPressed.htm" />
+  <HelpKINode Title="Control property" Url="html/P_SharpBlade_Integration_EmbeddedWinFormsControl_Control.htm" />
+  <HelpKINode Title="ControlPressed property" Url="html/P_SharpBlade_Razer_Events_KeyboardKeyEventArgs_ControlPressed.htm" />
   <HelpKINode Title="CONVERT enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="CONVERT10_E_FIRST field" Url="html/F_SharpBlade_Native_HRESULT_CONVERT10_E_FIRST.htm" />
   <HelpKINode Title="CONVERT10_E_LAST field" Url="html/F_SharpBlade_Native_HRESULT_CONVERT10_E_LAST.htm" />
@@ -327,7 +332,7 @@
   <HelpKINode Title="CONVERT10_S_NO_PRESENTATION field" Url="html/F_SharpBlade_Native_HRESULT_CONVERT10_S_NO_PRESENTATION.htm" />
   <HelpKINode Title="CopyTo method" Url="html/Overload_SharpBlade_Native_HRESULT_DirCodes_CopyTo.htm" />
   <HelpKINode Title="Count enumeration member" Url="html/T_SharpBlade_Native_RazerAPI_DynamicKeyType.htm" />
-  <HelpKINode Title="CounterClockwise enumeration member" Url="html/T_SharpBlade_Razer_RotateDirection.htm" />
+  <HelpKINode Title="Counterclockwise enumeration member" Url="html/T_SharpBlade_Razer_RotateDirection.htm" />
   <HelpKINode Title="CO_E_ACCESSCHECKFAILED field" Url="html/F_SharpBlade_Native_HRESULT_CO_E_ACCESSCHECKFAILED.htm" />
   <HelpKINode Title="CO_E_ACESINWRONGORDER field" Url="html/F_SharpBlade_Native_HRESULT_CO_E_ACESINWRONGORDER.htm" />
   <HelpKINode Title="CO_E_ACNOTINITIALIZED field" Url="html/F_SharpBlade_Native_HRESULT_CO_E_ACNOTINITIALIZED.htm" />
@@ -548,7 +553,7 @@
     <HelpKINode Title="RenderTarget.CurrentWindow Property " Url="html/P_SharpBlade_Razer_RenderTarget_CurrentWindow.htm" />
   </HelpKINode>
   <HelpKINode Title="D enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
-  <HelpKINode Title="Data field" Url="html/F_SharpBlade_Razer_Events_KeyboardRawEventArgs_Data.htm" />
+  <HelpKINode Title="Data property" Url="html/P_SharpBlade_Razer_Events_KeyboardRawEventArgs_Data.htm" />
   <HelpKINode Title="DataSize field" Url="html/F_SharpBlade_Native_RazerAPI_BufferParams_DataSize.htm" />
   <HelpKINode Title="DATA_E_FIRST field" Url="html/F_SharpBlade_Native_HRESULT_DATA_E_FIRST.htm" />
   <HelpKINode Title="DATA_E_LAST field" Url="html/F_SharpBlade_Native_HRESULT_DATA_E_LAST.htm" />
@@ -567,10 +572,10 @@
   <HelpKINode Title="DIGSIG_E_ENCODE field" Url="html/F_SharpBlade_Native_HRESULT_DIGSIG_E_ENCODE.htm" />
   <HelpKINode Title="DIGSIG_E_EXTENSIBILITY field" Url="html/F_SharpBlade_Native_HRESULT_DIGSIG_E_EXTENSIBILITY.htm" />
   <HelpKINode Title="dirCodes field" Url="html/F_SharpBlade_Native_HRESULT_dirCodes.htm" />
-  <HelpKINode Title="Direction field">
-    <HelpKINode Title="FlickEventArgs.Direction Field" Url="html/F_SharpBlade_Razer_Events_FlickEventArgs_Direction.htm" />
-    <HelpKINode Title="RotateEventArgs.Direction Field" Url="html/F_SharpBlade_Razer_Events_RotateEventArgs_Direction.htm" />
-    <HelpKINode Title="ZoomEventArgs.Direction Field" Url="html/F_SharpBlade_Razer_Events_ZoomEventArgs_Direction.htm" />
+  <HelpKINode Title="Direction property">
+    <HelpKINode Title="FlickEventArgs.Direction Property " Url="html/P_SharpBlade_Razer_Events_FlickEventArgs_Direction.htm" />
+    <HelpKINode Title="RotateEventArgs.Direction Property " Url="html/P_SharpBlade_Razer_Events_RotateEventArgs_Direction.htm" />
+    <HelpKINode Title="ZoomEventArgs.Direction Property " Url="html/P_SharpBlade_Razer_Events_ZoomEventArgs_Direction.htm" />
   </HelpKINode>
   <HelpKINode Title="Disable method" Url="html/M_SharpBlade_Razer_DynamicKey_Disable.htm" />
   <HelpKINode Title="DisabledDynamicKeyImage field" Url="html/F_SharpBlade_Constants_DisabledDynamicKeyImage.htm" />
@@ -720,8 +725,8 @@
   <HelpKINode Title="DynamicKey.Disable method" Url="html/M_SharpBlade_Razer_DynamicKey_Disable.htm" />
   <HelpKINode Title="DynamicKey.DownImage property" Url="html/P_SharpBlade_Razer_DynamicKey_DownImage.htm" />
   <HelpKINode Title="DynamicKey.DynamicKey constructor">
-    <HelpKINode Title="DynamicKey Constructor " Url="html/M_SharpBlade_Razer_DynamicKey__ctor.htm" />
     <HelpKINode Title="DynamicKey Constructor " Url="html/M_SharpBlade_Razer_DynamicKey__cctor.htm" />
+    <HelpKINode Title="DynamicKey Constructor " Url="html/M_SharpBlade_Razer_DynamicKey__ctor.htm" />
   </HelpKINode>
   <HelpKINode Title="DynamicKey.KeyType property" Url="html/P_SharpBlade_Razer_DynamicKey_KeyType.htm" />
   <HelpKINode Title="DynamicKey.OnPressed method" Url="html/M_SharpBlade_Razer_DynamicKey_OnPressed.htm" />
@@ -746,10 +751,13 @@
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_Events_DynamicKeyEventArgs__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Razer_Events_DynamicKeyEventArgs.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Razer_Events_DynamicKeyEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SharpBlade_Razer_Events_DynamicKeyEventArgs.htm" />
   </HelpKINode>
   <HelpKINode Title="DynamicKeyEventArgs.DynamicKeyEventArgs constructor" Url="html/M_SharpBlade_Razer_Events_DynamicKeyEventArgs__ctor.htm" />
-  <HelpKINode Title="DynamicKeyEventArgs.KeyType field" Url="html/F_SharpBlade_Razer_Events_DynamicKeyEventArgs_KeyType.htm" />
-  <HelpKINode Title="DynamicKeyEventArgs.State field" Url="html/F_SharpBlade_Razer_Events_DynamicKeyEventArgs_State.htm" />
+  <HelpKINode Title="DynamicKeyEventArgs.KeyType property" Url="html/P_SharpBlade_Razer_Events_DynamicKeyEventArgs_KeyType.htm" />
+  <HelpKINode Title="DynamicKeyEventArgs.State property" Url="html/P_SharpBlade_Razer_Events_DynamicKeyEventArgs_State.htm" />
+  <HelpKINode Title="DynamicKeyEventArgs._keyType field" Url="html/F_SharpBlade_Razer_Events_DynamicKeyEventArgs__keyType.htm" />
+  <HelpKINode Title="DynamicKeyEventArgs._state field" Url="html/F_SharpBlade_Razer_Events_DynamicKeyEventArgs__state.htm" />
   <HelpKINode Title="DynamicKeyHeight field" Url="html/F_SharpBlade_Native_RazerAPI_DynamicKeyHeight.htm" />
   <HelpKINode Title="DynamicKeyImageDataSize field" Url="html/F_SharpBlade_Native_RazerAPI_DynamicKeyImageDataSize.htm" />
   <HelpKINode Title="DynamicKeysCount field" Url="html/F_SharpBlade_Native_RazerAPI_DynamicKeysCount.htm" />
@@ -765,13 +773,20 @@
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Integration_EmbeddedWinFormsControl__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Integration_EmbeddedWinFormsControl.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Integration_EmbeddedWinFormsControl.htm" />
+    <HelpKINode Title="operators" Url="html/Operators_T_SharpBlade_Integration_EmbeddedWinFormsControl.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_SharpBlade_Integration_EmbeddedWinFormsControl.htm" />
   </HelpKINode>
   <HelpKINode Title="EmbeddedWinFormsControl.Bounds property" Url="html/P_SharpBlade_Integration_EmbeddedWinFormsControl_Bounds.htm" />
-  <HelpKINode Title="EmbeddedWinFormsControl.Control field" Url="html/F_SharpBlade_Integration_EmbeddedWinFormsControl_Control.htm" />
+  <HelpKINode Title="EmbeddedWinFormsControl.Control property" Url="html/P_SharpBlade_Integration_EmbeddedWinFormsControl_Control.htm" />
   <HelpKINode Title="EmbeddedWinFormsControl.Draw method" Url="html/M_SharpBlade_Integration_EmbeddedWinFormsControl_Draw.htm" />
   <HelpKINode Title="EmbeddedWinFormsControl.EmbeddedWinFormsControl constructor" Url="html/M_SharpBlade_Integration_EmbeddedWinFormsControl__ctor.htm" />
-  <HelpKINode Title="EmbeddedWinFormsControl.Host field" Url="html/F_SharpBlade_Integration_EmbeddedWinFormsControl_Host.htm" />
+  <HelpKINode Title="EmbeddedWinFormsControl.Equality operator" Url="html/M_SharpBlade_Integration_EmbeddedWinFormsControl_op_Equality.htm" />
+  <HelpKINode Title="EmbeddedWinFormsControl.Equals method" Url="html/M_SharpBlade_Integration_EmbeddedWinFormsControl_Equals.htm" />
+  <HelpKINode Title="EmbeddedWinFormsControl.GetHashCode method" Url="html/M_SharpBlade_Integration_EmbeddedWinFormsControl_GetHashCode.htm" />
+  <HelpKINode Title="EmbeddedWinFormsControl.Host property" Url="html/P_SharpBlade_Integration_EmbeddedWinFormsControl_Host.htm" />
+  <HelpKINode Title="EmbeddedWinFormsControl.Inequality operator" Url="html/M_SharpBlade_Integration_EmbeddedWinFormsControl_op_Inequality.htm" />
+  <HelpKINode Title="EmbeddedWinFormsControl._control field" Url="html/F_SharpBlade_Integration_EmbeddedWinFormsControl__control.htm" />
+  <HelpKINode Title="EmbeddedWinFormsControl._host field" Url="html/F_SharpBlade_Integration_EmbeddedWinFormsControl__host.htm" />
   <HelpKINode Title="EnableDynamicKey method" Url="html/Overload_SharpBlade_Razer_RazerManager_EnableDynamicKey.htm" />
   <HelpKINode Title="EnableGesture method" Url="html/M_SharpBlade_Razer_Touchpad_EnableGesture.htm" />
   <HelpKINode Title="EnableOSGesture method" Url="html/M_SharpBlade_Razer_Touchpad_EnableOSGesture.htm" />
@@ -803,15 +818,21 @@
   <HelpKINode Title="EnumerationExtensions.Value.Signed field" Url="html/F_SharpBlade_Extensions_EnumerationExtensions_Value_Signed.htm" />
   <HelpKINode Title="EnumerationExtensions.Value.Unsigned field" Url="html/F_SharpBlade_Extensions_EnumerationExtensions_Value_Unsigned.htm" />
   <HelpKINode Title="EnumerationExtensions.Value.Value constructor">
-    <HelpKINode Title="EnumerationExtensions.Value Constructor " Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Value__cctor.htm" />
     <HelpKINode Title="EnumerationExtensions.Value Constructor " Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Value__ctor.htm" />
+    <HelpKINode Title="EnumerationExtensions.Value Constructor " Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Value__cctor.htm" />
   </HelpKINode>
   <HelpKINode Title="ENUM_E_FIRST field" Url="html/F_SharpBlade_Native_HRESULT_ENUM_E_FIRST.htm" />
   <HelpKINode Title="ENUM_E_LAST field" Url="html/F_SharpBlade_Native_HRESULT_ENUM_E_LAST.htm" />
   <HelpKINode Title="ENUM_S_FIRST field" Url="html/F_SharpBlade_Native_HRESULT_ENUM_S_FIRST.htm" />
   <HelpKINode Title="ENUM_S_LAST field" Url="html/F_SharpBlade_Native_HRESULT_ENUM_S_LAST.htm" />
-  <HelpKINode Title="Equality operator" Url="html/M_SharpBlade_Native_HRESULT_op_Equality.htm" />
-  <HelpKINode Title="Equals method" Url="html/Overload_SharpBlade_Native_HRESULT_Equals.htm" />
+  <HelpKINode Title="Equality operator">
+    <HelpKINode Title="EmbeddedWinFormsControl.Equality Operator " Url="html/M_SharpBlade_Integration_EmbeddedWinFormsControl_op_Equality.htm" />
+    <HelpKINode Title="HRESULT.Equality Operator " Url="html/M_SharpBlade_Native_HRESULT_op_Equality.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Equals method">
+    <HelpKINode Title="EmbeddedWinFormsControl.Equals Method " Url="html/M_SharpBlade_Integration_EmbeddedWinFormsControl_Equals.htm" />
+    <HelpKINode Title="HRESULT.Equals Method " Url="html/Overload_SharpBlade_Native_HRESULT_Equals.htm" />
+  </HelpKINode>
   <HelpKINode Title="EREOF enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="ERROR_ALL_SIDS_FILTERED field" Url="html/F_SharpBlade_Native_HRESULT_ERROR_ALL_SIDS_FILTERED.htm" />
   <HelpKINode Title="ERROR_AUDITING_DISABLED field" Url="html/F_SharpBlade_Native_HRESULT_ERROR_AUDITING_DISABLED.htm" />
@@ -825,6 +846,10 @@
   <HelpKINode Title="ESB_ENABLE_BOTH field" Url="html/F_SharpBlade_Native_WinAPI_User32_ESB_ENABLE_BOTH.htm" />
   <HelpKINode Title="ESCAPE enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="Event enumeration member" Url="html/T_SharpBlade_Razer_RenderMethod.htm" />
+  <HelpKINode Title="EventType property">
+    <HelpKINode Title="AppEventEventArgs.EventType Property " Url="html/P_SharpBlade_Razer_Events_AppEventEventArgs_EventType.htm" />
+    <HelpKINode Title="KeyboardRawEventArgs.EventType Property " Url="html/P_SharpBlade_Razer_Events_KeyboardRawEventArgs_EventType.htm" />
+  </HelpKINode>
   <HelpKINode Title="EVENT_E_ALL_SUBSCRIBERS_FAILED field" Url="html/F_SharpBlade_Native_HRESULT_EVENT_E_ALL_SUBSCRIBERS_FAILED.htm" />
   <HelpKINode Title="EVENT_E_CANT_MODIFY_OR_DELETE_CONFIGURED_OBJECT field" Url="html/F_SharpBlade_Native_HRESULT_EVENT_E_CANT_MODIFY_OR_DELETE_CONFIGURED_OBJECT.htm" />
   <HelpKINode Title="EVENT_E_CANT_MODIFY_OR_DELETE_UNCONFIGURED_OBJECT field" Url="html/F_SharpBlade_Native_HRESULT_EVENT_E_CANT_MODIFY_OR_DELETE_UNCONFIGURED_OBJECT.htm" />
@@ -903,14 +928,17 @@
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_Events_FlickEventArgs__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Razer_Events_FlickEventArgs.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Razer_Events_FlickEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SharpBlade_Razer_Events_FlickEventArgs.htm" />
   </HelpKINode>
-  <HelpKINode Title="FlickEventArgs.Direction field" Url="html/F_SharpBlade_Razer_Events_FlickEventArgs_Direction.htm" />
+  <HelpKINode Title="FlickEventArgs.Direction property" Url="html/P_SharpBlade_Razer_Events_FlickEventArgs_Direction.htm" />
   <HelpKINode Title="FlickEventArgs.FlickEventArgs constructor" Url="html/M_SharpBlade_Razer_Events_FlickEventArgs__ctor.htm" />
-  <HelpKINode Title="FlickEventArgs.TouchpointCount field" Url="html/F_SharpBlade_Razer_Events_FlickEventArgs_TouchpointCount.htm" />
+  <HelpKINode Title="FlickEventArgs.TouchpointCount property" Url="html/P_SharpBlade_Razer_Events_FlickEventArgs_TouchpointCount.htm" />
+  <HelpKINode Title="FlickEventArgs._direction field" Url="html/F_SharpBlade_Razer_Events_FlickEventArgs__direction.htm" />
+  <HelpKINode Title="FlickEventArgs._touchpointCount field" Url="html/F_SharpBlade_Razer_Events_FlickEventArgs__touchpointCount.htm" />
   <HelpKINode Title="FormPaintHandler method" Url="html/M_SharpBlade_Razer_RenderTarget_FormPaintHandler.htm" />
   <HelpKINode Title="Four enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="FreeConsole method" Url="html/M_SharpBlade_Native_WinAPI_Kernel32_NativeMethods_FreeConsole.htm" />
-  <HelpKINode Title="Function field" Url="html/F_SharpBlade_Razer_Exceptions_RazerNativeException_Function.htm" />
+  <HelpKINode Title="Function property" Url="html/P_SharpBlade_Razer_Exceptions_RazerNativeException_Function.htm" />
   <HelpKINode Title="G enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="GDI32 class">
     <HelpKINode Title="GDI32 Class" Url="html/T_SharpBlade_Native_WinAPI_GDI32.htm" />
@@ -931,6 +959,12 @@
   <HelpKINode Title="GDI32.NativeMethods.DllName field" Url="html/F_SharpBlade_Native_WinAPI_GDI32_NativeMethods_DllName.htm" />
   <HelpKINode Title="GDI32.NativeMethods.SelectObject method" Url="html/M_SharpBlade_Native_WinAPI_GDI32_NativeMethods_SelectObject.htm" />
   <HelpKINode Title="GDI32.SRCCOPY field" Url="html/F_SharpBlade_Native_WinAPI_GDI32_SRCCOPY.htm" />
+  <HelpKINode Title="GenericMethods class">
+    <HelpKINode Title="GenericMethods Class" Url="html/T_SharpBlade_Helpers_GenericMethods.htm" />
+    <HelpKINode Title="about GenericMethods class" Url="html/T_SharpBlade_Helpers_GenericMethods.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Helpers_GenericMethods.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GenericMethods.GetAbsolutePath method" Url="html/M_SharpBlade_Helpers_GenericMethods_GetAbsolutePath.htm" />
   <HelpKINode Title="Gesture event" Url="html/E_SharpBlade_Razer_Touchpad_Gesture.htm" />
   <HelpKINode Title="GestureEventArgs class">
     <HelpKINode Title="GestureEventArgs Class" Url="html/T_SharpBlade_Razer_Events_GestureEventArgs.htm" />
@@ -938,31 +972,36 @@
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_Events_GestureEventArgs__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Razer_Events_GestureEventArgs.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Razer_Events_GestureEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SharpBlade_Razer_Events_GestureEventArgs.htm" />
   </HelpKINode>
   <HelpKINode Title="GestureEventArgs.GestureEventArgs constructor" Url="html/M_SharpBlade_Razer_Events_GestureEventArgs__ctor.htm" />
-  <HelpKINode Title="GestureEventArgs.GestureType field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs_GestureType.htm" />
-  <HelpKINode Title="GestureEventArgs.Parameter field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs_Parameter.htm" />
-  <HelpKINode Title="GestureEventArgs.X field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs_X.htm" />
-  <HelpKINode Title="GestureEventArgs.Y field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs_Y.htm" />
-  <HelpKINode Title="GestureEventArgs.Z field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs_Z.htm" />
-  <HelpKINode Title="GestureType field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs_GestureType.htm" />
-  <HelpKINode Title="GetAbsolutePath method" Url="html/M_SharpBlade_Helpers_IO_GetAbsolutePath.htm" />
-  <HelpKINode Title="GetBitmap method" Url="html/M_SharpBlade_Integration_IBitmapProvider_GetBitmap.htm" />
+  <HelpKINode Title="GestureEventArgs.GestureType property" Url="html/P_SharpBlade_Razer_Events_GestureEventArgs_GestureType.htm" />
+  <HelpKINode Title="GestureEventArgs.Parameter property" Url="html/P_SharpBlade_Razer_Events_GestureEventArgs_Parameter.htm" />
+  <HelpKINode Title="GestureEventArgs.X property" Url="html/P_SharpBlade_Razer_Events_GestureEventArgs_X.htm" />
+  <HelpKINode Title="GestureEventArgs.Y property" Url="html/P_SharpBlade_Razer_Events_GestureEventArgs_Y.htm" />
+  <HelpKINode Title="GestureEventArgs.Z property" Url="html/P_SharpBlade_Razer_Events_GestureEventArgs_Z.htm" />
+  <HelpKINode Title="GestureEventArgs._gestureType field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs__gestureType.htm" />
+  <HelpKINode Title="GestureEventArgs._parameter field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs__parameter.htm" />
+  <HelpKINode Title="GestureEventArgs._x field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs__x.htm" />
+  <HelpKINode Title="GestureEventArgs._y field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs__y.htm" />
+  <HelpKINode Title="GestureEventArgs._z field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs__z.htm" />
+  <HelpKINode Title="GestureType property" Url="html/P_SharpBlade_Razer_Events_GestureEventArgs_GestureType.htm" />
+  <HelpKINode Title="GetAbsolutePath method" Url="html/M_SharpBlade_Helpers_GenericMethods_GetAbsolutePath.htm" />
   <HelpKINode Title="GetDesktopWindow method" Url="html/M_SharpBlade_Native_WinAPI_User32_NativeMethods_GetDesktopWindow.htm" />
   <HelpKINode Title="GetDirCodes method" Url="html/M_SharpBlade_Native_HRESULT_GetDirCodes.htm" />
   <HelpKINode Title="GetDynamicKey method" Url="html/M_SharpBlade_Razer_RazerManager_GetDynamicKey.htm" />
-  <HelpKINode Title="GetErrorMessage method" Url="html/M_SharpBlade_Native_Helpers_GetErrorMessage.htm" />
+  <HelpKINode Title="GetErrorMessage method" Url="html/M_SharpBlade_Native_HelperMethods_GetErrorMessage.htm" />
   <HelpKINode Title="GetExceptionForHR method" Url="html/M_SharpBlade_Native_HRESULT_GetExceptionForHR.htm" />
-  <HelpKINode Title="GetHashCode method" Url="html/M_SharpBlade_Native_HRESULT_GetHashCode.htm" />
+  <HelpKINode Title="GetHashCode method">
+    <HelpKINode Title="EmbeddedWinFormsControl.GetHashCode Method " Url="html/M_SharpBlade_Integration_EmbeddedWinFormsControl_GetHashCode.htm" />
+    <HelpKINode Title="HRESULT.GetHashCode Method " Url="html/M_SharpBlade_Native_HRESULT_GetHashCode.htm" />
+  </HelpKINode>
   <HelpKINode Title="GetKeyState method" Url="html/M_SharpBlade_Native_WinAPI_User32_NativeMethods_GetKeyState.htm" />
-  <HelpKINode Title="GetLastError method" Url="html/M_SharpBlade_Native_Helpers_GetLastError.htm" />
-  <HelpKINode Title="GetLastErrorInfo method" Url="html/M_SharpBlade_Native_Helpers_GetLastErrorInfo.htm" />
-  <HelpKINode Title="GetLastErrorMessage method" Url="html/M_SharpBlade_Native_Helpers_GetLastErrorMessage.htm" />
-  <HelpKINode Title="GetLastWin32Exception method" Url="html/M_SharpBlade_Native_Helpers_GetLastWin32Exception.htm" />
+  <HelpKINode Title="GetLastErrorInfo method" Url="html/M_SharpBlade_Native_HelperMethods_GetLastErrorInfo.htm" />
   <HelpKINode Title="GetLogger method" Url="html/M_SharpBlade_Logging_LogManager_GetLogger.htm" />
   <HelpKINode Title="GetObjectData method" Url="html/M_SharpBlade_Razer_Exceptions_RazerNativeException_GetObjectData.htm" />
   <HelpKINode Title="GetStdHandle method" Url="html/M_SharpBlade_Native_WinAPI_Kernel32_NativeMethods_GetStdHandle.htm" />
-  <HelpKINode Title="GetWin32Exception method" Url="html/M_SharpBlade_Native_Helpers_GetWin32Exception.htm" />
+  <HelpKINode Title="GetWin32Exception method" Url="html/M_SharpBlade_Native_HelperMethods_GetWin32Exception.htm" />
   <HelpKINode Title="GetWindowDC method" Url="html/M_SharpBlade_Native_WinAPI_User32_NativeMethods_GetWindowDC.htm" />
   <HelpKINode Title="GetWindowRect method" Url="html/M_SharpBlade_Native_WinAPI_User32_NativeMethods_GetWindowRect.htm" />
   <HelpKINode Title="H enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
@@ -977,26 +1016,27 @@
   <HelpKINode Title="Has(Of T) method" Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Has__1.htm" />
   <HelpKINode Title="Has&lt;T&gt; method" Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Has__1.htm" />
   <HelpKINode Title="HELP enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
-  <HelpKINode Title="Helpers class">
-    <HelpKINode Title="Helpers Class" Url="html/T_SharpBlade_Native_Helpers.htm" />
-    <HelpKINode Title="about Helpers class" Url="html/T_SharpBlade_Native_Helpers.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Native_Helpers.htm" />
+  <HelpKINode Title="HelperMethods class">
+    <HelpKINode Title="HelperMethods Class" Url="html/T_SharpBlade_Native_HelperMethods.htm" />
+    <HelpKINode Title="about HelperMethods class" Url="html/T_SharpBlade_Native_HelperMethods.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Native_HelperMethods.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SharpBlade_Native_HelperMethods.htm" />
   </HelpKINode>
-  <HelpKINode Title="Helpers.GetErrorMessage method" Url="html/M_SharpBlade_Native_Helpers_GetErrorMessage.htm" />
-  <HelpKINode Title="Helpers.GetLastError method" Url="html/M_SharpBlade_Native_Helpers_GetLastError.htm" />
-  <HelpKINode Title="Helpers.GetLastErrorInfo method" Url="html/M_SharpBlade_Native_Helpers_GetLastErrorInfo.htm" />
-  <HelpKINode Title="Helpers.GetLastErrorMessage method" Url="html/M_SharpBlade_Native_Helpers_GetLastErrorMessage.htm" />
-  <HelpKINode Title="Helpers.GetLastWin32Exception method" Url="html/M_SharpBlade_Native_Helpers_GetLastWin32Exception.htm" />
-  <HelpKINode Title="Helpers.GetWin32Exception method" Url="html/M_SharpBlade_Native_Helpers_GetWin32Exception.htm" />
+  <HelpKINode Title="HelperMethods.GetErrorMessage method" Url="html/M_SharpBlade_Native_HelperMethods_GetErrorMessage.htm" />
+  <HelpKINode Title="HelperMethods.GetLastErrorInfo method" Url="html/M_SharpBlade_Native_HelperMethods_GetLastErrorInfo.htm" />
+  <HelpKINode Title="HelperMethods.GetWin32Exception method" Url="html/M_SharpBlade_Native_HelperMethods_GetWin32Exception.htm" />
+  <HelpKINode Title="HelperMethods.LastError property" Url="html/P_SharpBlade_Native_HelperMethods_LastError.htm" />
+  <HelpKINode Title="HelperMethods.LastErrorMessage property" Url="html/P_SharpBlade_Native_HelperMethods_LastErrorMessage.htm" />
+  <HelpKINode Title="HelperMethods.LastWin32Exception property" Url="html/P_SharpBlade_Native_HelperMethods_LastWin32Exception.htm" />
   <HelpKINode Title="Hold enumeration member">
     <HelpKINode Title="RazerAPI.DynamicKeyState Enumeration" Url="html/T_SharpBlade_Native_RazerAPI_DynamicKeyState.htm" />
     <HelpKINode Title="RazerAPI.GestureType Enumeration" Url="html/T_SharpBlade_Native_RazerAPI_GestureType.htm" />
   </HelpKINode>
   <HelpKINode Title="Hold event" Url="html/E_SharpBlade_Razer_Touchpad_Hold.htm" />
   <HelpKINode Title="HOME enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
-  <HelpKINode Title="Host field" Url="html/F_SharpBlade_Integration_EmbeddedWinFormsControl_Host.htm" />
-  <HelpKINode Title="Hresult field" Url="html/F_SharpBlade_Razer_Exceptions_RazerNativeException_Hresult.htm" />
+  <HelpKINode Title="Host property" Url="html/P_SharpBlade_Integration_EmbeddedWinFormsControl_Host.htm" />
   <HelpKINode Title="HResult property" Url="html/P_SharpBlade_Native_HRESULT_HResultException_HResult.htm" />
+  <HelpKINode Title="Hresult property" Url="html/P_SharpBlade_Razer_Exceptions_RazerNativeException_Hresult.htm" />
   <HelpKINode Title="HRESULT structure">
     <HelpKINode Title="HRESULT Structure" Url="html/T_SharpBlade_Native_HRESULT.htm" />
     <HelpKINode Title="about HRESULT structure" Url="html/T_SharpBlade_Native_HRESULT.htm" />
@@ -2271,13 +2311,16 @@
   <HelpKINode Title="IBitmapProvider interface">
     <HelpKINode Title="IBitmapProvider Interface" Url="html/T_SharpBlade_Integration_IBitmapProvider.htm" />
     <HelpKINode Title="about IBitmapProvider interface" Url="html/T_SharpBlade_Integration_IBitmapProvider.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Integration_IBitmapProvider.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SharpBlade_Integration_IBitmapProvider.htm" />
   </HelpKINode>
-  <HelpKINode Title="IBitmapProvider.GetBitmap method" Url="html/M_SharpBlade_Integration_IBitmapProvider_GetBitmap.htm" />
+  <HelpKINode Title="IBitmapProvider.Bitmap property" Url="html/P_SharpBlade_Integration_IBitmapProvider_Bitmap.htm" />
   <HelpKINode Title="In enumeration member" Url="html/T_SharpBlade_Razer_ZoomDirection.htm" />
   <HelpKINode Title="Include(Of T) method" Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Include__1.htm" />
   <HelpKINode Title="Include&lt;T&gt; method" Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Include__1.htm" />
-  <HelpKINode Title="Inequality operator" Url="html/M_SharpBlade_Native_HRESULT_op_Inequality.htm" />
+  <HelpKINode Title="Inequality operator">
+    <HelpKINode Title="EmbeddedWinFormsControl.Inequality Operator " Url="html/M_SharpBlade_Integration_EmbeddedWinFormsControl_op_Inequality.htm" />
+    <HelpKINode Title="HRESULT.Inequality Operator " Url="html/M_SharpBlade_Native_HRESULT_op_Inequality.htm" />
+  </HelpKINode>
   <HelpKINode Title="INPLACE_E_FIRST field" Url="html/F_SharpBlade_Native_HRESULT_INPLACE_E_FIRST.htm" />
   <HelpKINode Title="INPLACE_E_LAST field" Url="html/F_SharpBlade_Native_HRESULT_INPLACE_E_LAST.htm" />
   <HelpKINode Title="INPLACE_E_NOTOOLSPACE field" Url="html/F_SharpBlade_Native_HRESULT_INPLACE_E_NOTOOLSPACE.htm" />
@@ -2300,12 +2343,6 @@
     <HelpKINode Title="RotateDirection Enumeration" Url="html/T_SharpBlade_Razer_RotateDirection.htm" />
     <HelpKINode Title="ZoomDirection Enumeration" Url="html/T_SharpBlade_Razer_ZoomDirection.htm" />
   </HelpKINode>
-  <HelpKINode Title="IO class">
-    <HelpKINode Title="IO Class" Url="html/T_SharpBlade_Helpers_IO.htm" />
-    <HelpKINode Title="about IO class" Url="html/T_SharpBlade_Helpers_IO.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Helpers_IO.htm" />
-  </HelpKINode>
-  <HelpKINode Title="IO.GetAbsolutePath method" Url="html/M_SharpBlade_Helpers_IO_GetAbsolutePath.htm" />
   <HelpKINode Title="IRenderer interface">
     <HelpKINode Title="IRenderer Interface" Url="html/T_SharpBlade_Integration_IRenderer.htm" />
     <HelpKINode Title="about IRenderer interface" Url="html/T_SharpBlade_Integration_IRenderer.htm" />
@@ -2359,7 +2396,7 @@
   <HelpKINode Title="Kernel32.STD_ERROR_HANDLE field" Url="html/F_SharpBlade_Native_WinAPI_Kernel32_STD_ERROR_HANDLE.htm" />
   <HelpKINode Title="Kernel32.STD_INPUT_HANDLE field" Url="html/F_SharpBlade_Native_WinAPI_Kernel32_STD_INPUT_HANDLE.htm" />
   <HelpKINode Title="Kernel32.STD_OUTPUT_HANDLE field" Url="html/F_SharpBlade_Native_WinAPI_Kernel32_STD_OUTPUT_HANDLE.htm" />
-  <HelpKINode Title="Key field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs_Key.htm" />
+  <HelpKINode Title="Key property" Url="html/P_SharpBlade_Razer_Events_KeyboardKeyEventArgs_Key.htm" />
   <HelpKINode Title="KeyboardCapture property" Url="html/P_SharpBlade_Razer_RazerManager_KeyboardCapture.htm" />
   <HelpKINode Title="KeyboardCharEventArgs class">
     <HelpKINode Title="KeyboardCharEventArgs Class" Url="html/T_SharpBlade_Razer_Events_KeyboardCharEventArgs.htm" />
@@ -2367,9 +2404,11 @@
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_Events_KeyboardCharEventArgs__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Razer_Events_KeyboardCharEventArgs.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Razer_Events_KeyboardCharEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SharpBlade_Razer_Events_KeyboardCharEventArgs.htm" />
   </HelpKINode>
-  <HelpKINode Title="KeyboardCharEventArgs.Character field" Url="html/F_SharpBlade_Razer_Events_KeyboardCharEventArgs_Character.htm" />
+  <HelpKINode Title="KeyboardCharEventArgs.Character property" Url="html/P_SharpBlade_Razer_Events_KeyboardCharEventArgs_Character.htm" />
   <HelpKINode Title="KeyboardCharEventArgs.KeyboardCharEventArgs constructor" Url="html/M_SharpBlade_Razer_Events_KeyboardCharEventArgs__ctor.htm" />
+  <HelpKINode Title="KeyboardCharEventArgs._character field" Url="html/F_SharpBlade_Razer_Events_KeyboardCharEventArgs__character.htm" />
   <HelpKINode Title="KeyboardCharTyped event" Url="html/E_SharpBlade_Razer_RazerManager_KeyboardCharTyped.htm" />
   <HelpKINode Title="KeyboardControl class">
     <HelpKINode Title="KeyboardControl Class" Url="html/T_SharpBlade_Integration_KeyboardControl.htm" />
@@ -2398,14 +2437,21 @@
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_Events_KeyboardKeyEventArgs__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Razer_Events_KeyboardKeyEventArgs.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Razer_Events_KeyboardKeyEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SharpBlade_Razer_Events_KeyboardKeyEventArgs.htm" />
   </HelpKINode>
-  <HelpKINode Title="KeyboardKeyEventArgs.AltPressed field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs_AltPressed.htm" />
-  <HelpKINode Title="KeyboardKeyEventArgs.CapsLockActive field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs_CapsLockActive.htm" />
-  <HelpKINode Title="KeyboardKeyEventArgs.ControlPressed field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs_ControlPressed.htm" />
-  <HelpKINode Title="KeyboardKeyEventArgs.Key field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs_Key.htm" />
+  <HelpKINode Title="KeyboardKeyEventArgs.AltPressed property" Url="html/P_SharpBlade_Razer_Events_KeyboardKeyEventArgs_AltPressed.htm" />
+  <HelpKINode Title="KeyboardKeyEventArgs.CapsLockActive property" Url="html/P_SharpBlade_Razer_Events_KeyboardKeyEventArgs_CapsLockActive.htm" />
+  <HelpKINode Title="KeyboardKeyEventArgs.ControlPressed property" Url="html/P_SharpBlade_Razer_Events_KeyboardKeyEventArgs_ControlPressed.htm" />
+  <HelpKINode Title="KeyboardKeyEventArgs.Key property" Url="html/P_SharpBlade_Razer_Events_KeyboardKeyEventArgs_Key.htm" />
   <HelpKINode Title="KeyboardKeyEventArgs.KeyboardKeyEventArgs constructor" Url="html/M_SharpBlade_Razer_Events_KeyboardKeyEventArgs__ctor.htm" />
-  <HelpKINode Title="KeyboardKeyEventArgs.Modifiers field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs_Modifiers.htm" />
-  <HelpKINode Title="KeyboardKeyEventArgs.ShiftPressed field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs_ShiftPressed.htm" />
+  <HelpKINode Title="KeyboardKeyEventArgs.Modifiers property" Url="html/P_SharpBlade_Razer_Events_KeyboardKeyEventArgs_Modifiers.htm" />
+  <HelpKINode Title="KeyboardKeyEventArgs.ShiftPressed property" Url="html/P_SharpBlade_Razer_Events_KeyboardKeyEventArgs_ShiftPressed.htm" />
+  <HelpKINode Title="KeyboardKeyEventArgs._altPressed field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs__altPressed.htm" />
+  <HelpKINode Title="KeyboardKeyEventArgs._capsLockActive field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs__capsLockActive.htm" />
+  <HelpKINode Title="KeyboardKeyEventArgs._controlPressed field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs__controlPressed.htm" />
+  <HelpKINode Title="KeyboardKeyEventArgs._key field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs__key.htm" />
+  <HelpKINode Title="KeyboardKeyEventArgs._modifiers field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs__modifiers.htm" />
+  <HelpKINode Title="KeyboardKeyEventArgs._shiftPressed field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs__shiftPressed.htm" />
   <HelpKINode Title="KeyboardKeyUp event" Url="html/E_SharpBlade_Razer_RazerManager_KeyboardKeyUp.htm" />
   <HelpKINode Title="KeyboardRawEvent event" Url="html/E_SharpBlade_Razer_RazerManager_KeyboardRawEvent.htm" />
   <HelpKINode Title="KeyboardRawEventArgs class">
@@ -2414,20 +2460,29 @@
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_Events_KeyboardRawEventArgs__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Razer_Events_KeyboardRawEventArgs.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Razer_Events_KeyboardRawEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SharpBlade_Razer_Events_KeyboardRawEventArgs.htm" />
   </HelpKINode>
-  <HelpKINode Title="KeyboardRawEventArgs.Data field" Url="html/F_SharpBlade_Razer_Events_KeyboardRawEventArgs_Data.htm" />
+  <HelpKINode Title="KeyboardRawEventArgs.Data property" Url="html/P_SharpBlade_Razer_Events_KeyboardRawEventArgs_Data.htm" />
+  <HelpKINode Title="KeyboardRawEventArgs.EventType property" Url="html/P_SharpBlade_Razer_Events_KeyboardRawEventArgs_EventType.htm" />
   <HelpKINode Title="KeyboardRawEventArgs.KeyboardRawEventArgs constructor" Url="html/M_SharpBlade_Razer_Events_KeyboardRawEventArgs__ctor.htm" />
-  <HelpKINode Title="KeyboardRawEventArgs.Modifiers field" Url="html/F_SharpBlade_Razer_Events_KeyboardRawEventArgs_Modifiers.htm" />
-  <HelpKINode Title="KeyboardRawEventArgs.Type field" Url="html/F_SharpBlade_Razer_Events_KeyboardRawEventArgs_Type.htm" />
+  <HelpKINode Title="KeyboardRawEventArgs.Modifiers property" Url="html/P_SharpBlade_Razer_Events_KeyboardRawEventArgs_Modifiers.htm" />
+  <HelpKINode Title="KeyboardRawEventArgs._data field" Url="html/F_SharpBlade_Razer_Events_KeyboardRawEventArgs__data.htm" />
+  <HelpKINode Title="KeyboardRawEventArgs._eventType field" Url="html/F_SharpBlade_Razer_Events_KeyboardRawEventArgs__eventType.htm" />
+  <HelpKINode Title="KeyboardRawEventArgs._modifiers field" Url="html/F_SharpBlade_Razer_Events_KeyboardRawEventArgs__modifiers.htm" />
   <HelpKINode Title="KEYDOWN enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_MessageType.htm" />
   <HelpKINode Title="KeyMapping field" Url="html/F_SharpBlade_Razer_RazerManager_KeyMapping.htm" />
   <HelpKINode Title="Keys property" Url="html/P_SharpBlade_Native_HRESULT_DirCodes_Keys.htm" />
-  <HelpKINode Title="KeyType field" Url="html/F_SharpBlade_Razer_Events_DynamicKeyEventArgs_KeyType.htm" />
-  <HelpKINode Title="KeyType property" Url="html/P_SharpBlade_Razer_DynamicKey_KeyType.htm" />
+  <HelpKINode Title="KeyType property">
+    <HelpKINode Title="DynamicKey.KeyType Property " Url="html/P_SharpBlade_Razer_DynamicKey_KeyType.htm" />
+    <HelpKINode Title="DynamicKeyEventArgs.KeyType Property " Url="html/P_SharpBlade_Razer_Events_DynamicKeyEventArgs_KeyType.htm" />
+  </HelpKINode>
   <HelpKINode Title="KEYUP enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_MessageType.htm" />
   <HelpKINode Title="KEY_PRESSED field" Url="html/F_SharpBlade_Native_WinAPI_User32_KEY_PRESSED.htm" />
   <HelpKINode Title="KEY_TOGGLED field" Url="html/F_SharpBlade_Native_WinAPI_User32_KEY_TOGGLED.htm" />
   <HelpKINode Title="L enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
+  <HelpKINode Title="LastError property" Url="html/P_SharpBlade_Native_HelperMethods_LastError.htm" />
+  <HelpKINode Title="LastErrorMessage property" Url="html/P_SharpBlade_Native_HelperMethods_LastErrorMessage.htm" />
+  <HelpKINode Title="LastWin32Exception property" Url="html/P_SharpBlade_Native_HelperMethods_LastWin32Exception.htm" />
   <HelpKINode Title="LAUNCH_APP1 enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="LAUNCH_APP2 enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="LAUNCH_MAIL enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
@@ -2497,12 +2552,12 @@
   <HelpKINode Title="MK_S_MONIKERALREADYREGISTERED field" Url="html/F_SharpBlade_Native_HRESULT_MK_S_MONIKERALREADYREGISTERED.htm" />
   <HelpKINode Title="MK_S_REDUCED_TO_SELF field" Url="html/F_SharpBlade_Native_HRESULT_MK_S_REDUCED_TO_SELF.htm" />
   <HelpKINode Title="MK_S_US field" Url="html/F_SharpBlade_Native_HRESULT_MK_S_US.htm" />
-  <HelpKINode Title="Mode field" Url="html/F_SharpBlade_Razer_Events_AppEventEventArgs_Mode.htm" />
+  <HelpKINode Title="Mode property" Url="html/P_SharpBlade_Razer_Events_AppEventEventArgs_Mode.htm" />
   <HelpKINode Title="MODECHANGE enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="ModifierKeys enumeration" Url="html/T_SharpBlade_ModifierKeys.htm" />
-  <HelpKINode Title="Modifiers field">
-    <HelpKINode Title="KeyboardKeyEventArgs.Modifiers Field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs_Modifiers.htm" />
-    <HelpKINode Title="KeyboardRawEventArgs.Modifiers Field" Url="html/F_SharpBlade_Razer_Events_KeyboardRawEventArgs_Modifiers.htm" />
+  <HelpKINode Title="Modifiers property">
+    <HelpKINode Title="KeyboardKeyEventArgs.Modifiers Property " Url="html/P_SharpBlade_Razer_Events_KeyboardKeyEventArgs_Modifiers.htm" />
+    <HelpKINode Title="KeyboardRawEventArgs.Modifiers Property " Url="html/P_SharpBlade_Razer_Events_KeyboardRawEventArgs_Modifiers.htm" />
   </HelpKINode>
   <HelpKINode Title="Move enumeration member" Url="html/T_SharpBlade_Native_RazerAPI_GestureType.htm" />
   <HelpKINode Title="Move event" Url="html/E_SharpBlade_Razer_Touchpad_Move.htm" />
@@ -2512,10 +2567,13 @@
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_Events_MoveEventArgs__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Razer_Events_MoveEventArgs.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Razer_Events_MoveEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SharpBlade_Razer_Events_MoveEventArgs.htm" />
   </HelpKINode>
   <HelpKINode Title="MoveEventArgs.MoveEventArgs constructor" Url="html/M_SharpBlade_Razer_Events_MoveEventArgs__ctor.htm" />
-  <HelpKINode Title="MoveEventArgs.X field" Url="html/F_SharpBlade_Razer_Events_MoveEventArgs_X.htm" />
-  <HelpKINode Title="MoveEventArgs.Y field" Url="html/F_SharpBlade_Razer_Events_MoveEventArgs_Y.htm" />
+  <HelpKINode Title="MoveEventArgs.X property" Url="html/P_SharpBlade_Razer_Events_MoveEventArgs_X.htm" />
+  <HelpKINode Title="MoveEventArgs.Y property" Url="html/P_SharpBlade_Razer_Events_MoveEventArgs_Y.htm" />
+  <HelpKINode Title="MoveEventArgs._x field" Url="html/F_SharpBlade_Razer_Events_MoveEventArgs__x.htm" />
+  <HelpKINode Title="MoveEventArgs._y field" Url="html/F_SharpBlade_Razer_Events_MoveEventArgs__y.htm" />
   <HelpKINode Title="MSDTC_E_DUPLICATE_RESOURCE field" Url="html/F_SharpBlade_Native_HRESULT_MSDTC_E_DUPLICATE_RESOURCE.htm" />
   <HelpKINode Title="MSSIPOTF_E_BADVERSION field" Url="html/F_SharpBlade_Native_HRESULT_MSSIPOTF_E_BADVERSION.htm" />
   <HelpKINode Title="MSSIPOTF_E_BAD_FIRST_TABLE_PLACEMENT field" Url="html/F_SharpBlade_Native_HRESULT_MSSIPOTF_E_BAD_FIRST_TABLE_PLACEMENT.htm" />
@@ -2760,7 +2818,7 @@
   <HelpKINode Title="P enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="PA1 enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="PACKET enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
-  <HelpKINode Title="Parameter field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs_Parameter.htm" />
+  <HelpKINode Title="Parameter property" Url="html/P_SharpBlade_Razer_Events_GestureEventArgs_Parameter.htm" />
   <HelpKINode Title="PAUSE enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="PERSIST_E_NOTSELFSIZING field" Url="html/F_SharpBlade_Native_HRESULT_PERSIST_E_NOTSELFSIZING.htm" />
   <HelpKINode Title="PERSIST_E_SIZEDEFINITE field" Url="html/F_SharpBlade_Native_HRESULT_PERSIST_E_SIZEDEFINITE.htm" />
@@ -2781,15 +2839,19 @@
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_Events_PressEventArgs__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Razer_Events_PressEventArgs.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Razer_Events_PressEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SharpBlade_Razer_Events_PressEventArgs.htm" />
   </HelpKINode>
   <HelpKINode Title="PressEventArgs.PressEventArgs constructor" Url="html/M_SharpBlade_Razer_Events_PressEventArgs__ctor.htm" />
-  <HelpKINode Title="PressEventArgs.TouchpointCount field" Url="html/F_SharpBlade_Razer_Events_PressEventArgs_TouchpointCount.htm" />
-  <HelpKINode Title="PressEventArgs.X field" Url="html/F_SharpBlade_Razer_Events_PressEventArgs_X.htm" />
-  <HelpKINode Title="PressEventArgs.Y field" Url="html/F_SharpBlade_Razer_Events_PressEventArgs_Y.htm" />
+  <HelpKINode Title="PressEventArgs.TouchpointCount property" Url="html/P_SharpBlade_Razer_Events_PressEventArgs_TouchpointCount.htm" />
+  <HelpKINode Title="PressEventArgs.X property" Url="html/P_SharpBlade_Razer_Events_PressEventArgs_X.htm" />
+  <HelpKINode Title="PressEventArgs.Y property" Url="html/P_SharpBlade_Razer_Events_PressEventArgs_Y.htm" />
+  <HelpKINode Title="PressEventArgs._touchpointCount field" Url="html/F_SharpBlade_Razer_Events_PressEventArgs__touchpointCount.htm" />
+  <HelpKINode Title="PressEventArgs._x field" Url="html/F_SharpBlade_Razer_Events_PressEventArgs__x.htm" />
+  <HelpKINode Title="PressEventArgs._y field" Url="html/F_SharpBlade_Razer_Events_PressEventArgs__y.htm" />
   <HelpKINode Title="PreviousState property" Url="html/P_SharpBlade_Razer_DynamicKey_PreviousState.htm" />
   <HelpKINode Title="PRINT enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="PRIOR enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
-  <HelpKINode Title="ProcessID field" Url="html/F_SharpBlade_Razer_Events_AppEventEventArgs_ProcessID.htm" />
+  <HelpKINode Title="ProcessId property" Url="html/P_SharpBlade_Razer_Events_AppEventEventArgs_ProcessId.htm" />
   <HelpKINode Title="PROCESSKEY enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="PtrData field" Url="html/F_SharpBlade_Native_RazerAPI_BufferParams_PtrData.htm" />
   <HelpKINode Title="Q enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
@@ -2800,7 +2862,7 @@
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Native_RazerAPI.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Native_RazerAPI.htm" />
   </HelpKINode>
-  <HelpKINode Title="RazerAPI.AppEventCallbackDelegate delegate" Url="html/T_SharpBlade_Native_RazerAPI_AppEventCallbackDelegate.htm" />
+  <HelpKINode Title="RazerAPI.AppEventCallback delegate" Url="html/T_SharpBlade_Native_RazerAPI_AppEventCallback.htm" />
   <HelpKINode Title="RazerAPI.AppEventMode enumeration" Url="html/T_SharpBlade_Native_RazerAPI_AppEventMode.htm" />
   <HelpKINode Title="RazerAPI.AppEventType enumeration" Url="html/T_SharpBlade_Native_RazerAPI_AppEventType.htm" />
   <HelpKINode Title="RazerAPI.BufferParams structure">
@@ -2829,7 +2891,7 @@
   <HelpKINode Title="RazerAPI.Capabilities.Version field" Url="html/F_SharpBlade_Native_RazerAPI_Capabilities_Version.htm" />
   <HelpKINode Title="RazerAPI.Direction enumeration" Url="html/T_SharpBlade_Native_RazerAPI_Direction.htm" />
   <HelpKINode Title="RazerAPI.DisplayColorDepth field" Url="html/F_SharpBlade_Native_RazerAPI_DisplayColorDepth.htm" />
-  <HelpKINode Title="RazerAPI.DynamicKeyCallbackFunctionDelegate delegate" Url="html/T_SharpBlade_Native_RazerAPI_DynamicKeyCallbackFunctionDelegate.htm" />
+  <HelpKINode Title="RazerAPI.DynamicKeyCallbackFunction delegate" Url="html/T_SharpBlade_Native_RazerAPI_DynamicKeyCallbackFunction.htm" />
   <HelpKINode Title="RazerAPI.DynamicKeyHeight field" Url="html/F_SharpBlade_Native_RazerAPI_DynamicKeyHeight.htm" />
   <HelpKINode Title="RazerAPI.DynamicKeyImageDataSize field" Url="html/F_SharpBlade_Native_RazerAPI_DynamicKeyImageDataSize.htm" />
   <HelpKINode Title="RazerAPI.DynamicKeysCount field" Url="html/F_SharpBlade_Native_RazerAPI_DynamicKeysCount.htm" />
@@ -2840,7 +2902,7 @@
   <HelpKINode Title="RazerAPI.DynamicKeyWidth field" Url="html/F_SharpBlade_Native_RazerAPI_DynamicKeyWidth.htm" />
   <HelpKINode Title="RazerAPI.GestureType enumeration" Url="html/T_SharpBlade_Native_RazerAPI_GestureType.htm" />
   <HelpKINode Title="RazerAPI.HardwareType enumeration" Url="html/T_SharpBlade_Native_RazerAPI_HardwareType.htm" />
-  <HelpKINode Title="RazerAPI.KeyboardCallbackFunctionDelegate delegate" Url="html/T_SharpBlade_Native_RazerAPI_KeyboardCallbackFunctionDelegate.htm" />
+  <HelpKINode Title="RazerAPI.KeyboardCallbackFunction delegate" Url="html/T_SharpBlade_Native_RazerAPI_KeyboardCallbackFunction.htm" />
   <HelpKINode Title="RazerAPI.MaxStringLength field" Url="html/F_SharpBlade_Native_RazerAPI_MaxStringLength.htm" />
   <HelpKINode Title="RazerAPI.MaxSupportedSurfaces field" Url="html/F_SharpBlade_Native_RazerAPI_MaxSupportedSurfaces.htm" />
   <HelpKINode Title="RazerAPI.NativeMethods class">
@@ -2876,7 +2938,7 @@
   <HelpKINode Title="RazerAPI.Point.Y field" Url="html/F_SharpBlade_Native_RazerAPI_Point_Y.htm" />
   <HelpKINode Title="RazerAPI.SingleGesture method" Url="html/M_SharpBlade_Native_RazerAPI_SingleGesture.htm" />
   <HelpKINode Title="RazerAPI.TargetDisplay enumeration" Url="html/T_SharpBlade_Native_RazerAPI_TargetDisplay.htm" />
-  <HelpKINode Title="RazerAPI.TouchpadGestureCallbackFunctionDelegate delegate" Url="html/T_SharpBlade_Native_RazerAPI_TouchpadGestureCallbackFunctionDelegate.htm" />
+  <HelpKINode Title="RazerAPI.TouchpadGestureCallbackFunction delegate" Url="html/T_SharpBlade_Native_RazerAPI_TouchpadGestureCallbackFunction.htm" />
   <HelpKINode Title="RazerAPI.TouchpadHeight field" Url="html/F_SharpBlade_Native_RazerAPI_TouchpadHeight.htm" />
   <HelpKINode Title="RazerAPI.TouchpadImageDataSize field" Url="html/F_SharpBlade_Native_RazerAPI_TouchpadImageDataSize.htm" />
   <HelpKINode Title="RazerAPI.TouchpadWidth field" Url="html/F_SharpBlade_Native_RazerAPI_TouchpadWidth.htm" />
@@ -2884,12 +2946,12 @@
   <HelpKINode Title="RazerDynamicKeyException class">
     <HelpKINode Title="RazerDynamicKeyException Class" Url="html/T_SharpBlade_Razer_Exceptions_RazerDynamicKeyException.htm" />
     <HelpKINode Title="about RazerDynamicKeyException class" Url="html/T_SharpBlade_Razer_Exceptions_RazerDynamicKeyException.htm" />
-    <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_Exceptions_RazerDynamicKeyException__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_SharpBlade_Razer_Exceptions_RazerDynamicKeyException__ctor.htm" />
     <HelpKINode Title="events" Url="html/Events_T_SharpBlade_Razer_Exceptions_RazerDynamicKeyException.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Razer_Exceptions_RazerDynamicKeyException.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_SharpBlade_Razer_Exceptions_RazerDynamicKeyException.htm" />
   </HelpKINode>
-  <HelpKINode Title="RazerDynamicKeyException.RazerDynamicKeyException constructor" Url="html/M_SharpBlade_Razer_Exceptions_RazerDynamicKeyException__ctor.htm" />
+  <HelpKINode Title="RazerDynamicKeyException.RazerDynamicKeyException constructor" Url="html/Overload_SharpBlade_Razer_Exceptions_RazerDynamicKeyException__ctor.htm" />
   <HelpKINode Title="RazerException class">
     <HelpKINode Title="RazerException Class" Url="html/T_SharpBlade_Razer_Exceptions_RazerException.htm" />
     <HelpKINode Title="about RazerException class" Url="html/T_SharpBlade_Razer_Exceptions_RazerException.htm" />
@@ -2902,8 +2964,8 @@
   <HelpKINode Title="RazerManager class">
     <HelpKINode Title="RazerManager Class" Url="html/T_SharpBlade_Razer_RazerManager.htm" />
     <HelpKINode Title="about RazerManager class" Url="html/T_SharpBlade_Razer_RazerManager.htm" />
-    <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_RazerManager__cctor.htm" />
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_RazerManager__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_RazerManager__cctor.htm" />
     <HelpKINode Title="events" Url="html/Events_T_SharpBlade_Razer_RazerManager.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Razer_RazerManager.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Razer_RazerManager.htm" />
@@ -2936,12 +2998,12 @@
   <HelpKINode Title="RazerManager.OnKeyboardKeyUp method" Url="html/M_SharpBlade_Razer_RazerManager_OnKeyboardKeyUp.htm" />
   <HelpKINode Title="RazerManager.OnKeyboardRawEvent method" Url="html/M_SharpBlade_Razer_RazerManager_OnKeyboardRawEvent.htm" />
   <HelpKINode Title="RazerManager.RazerManager constructor">
-    <HelpKINode Title="RazerManager Constructor " Url="html/M_SharpBlade_Razer_RazerManager__ctor.htm" />
     <HelpKINode Title="RazerManager Constructor " Url="html/M_SharpBlade_Razer_RazerManager__cctor.htm" />
+    <HelpKINode Title="RazerManager Constructor " Url="html/M_SharpBlade_Razer_RazerManager__ctor.htm" />
   </HelpKINode>
   <HelpKINode Title="RazerManager.SetKeyboardCapture method" Url="html/M_SharpBlade_Razer_RazerManager_SetKeyboardCapture.htm" />
   <HelpKINode Title="RazerManager.StartWinFormsControlKeyboardCapture method" Url="html/M_SharpBlade_Razer_RazerManager_StartWinFormsControlKeyboardCapture.htm" />
-  <HelpKINode Title="RazerManager.StartWPFControlKeyboardCapture method" Url="html/M_SharpBlade_Razer_RazerManager_StartWPFControlKeyboardCapture.htm" />
+  <HelpKINode Title="RazerManager.StartWpfControlKeyboardCapture method" Url="html/M_SharpBlade_Razer_RazerManager_StartWpfControlKeyboardCapture.htm" />
   <HelpKINode Title="RazerManager.Stop method" Url="html/M_SharpBlade_Razer_RazerManager_Stop.htm" />
   <HelpKINode Title="RazerManager.Touchpad property" Url="html/P_SharpBlade_Razer_RazerManager_Touchpad.htm" />
   <HelpKINode Title="RazerManager._appEventCallback field" Url="html/F_SharpBlade_Razer_RazerManager__appEventCallback.htm" />
@@ -2961,10 +3023,12 @@
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Razer_Exceptions_RazerNativeException.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_SharpBlade_Razer_Exceptions_RazerNativeException.htm" />
   </HelpKINode>
-  <HelpKINode Title="RazerNativeException.Function field" Url="html/F_SharpBlade_Razer_Exceptions_RazerNativeException_Function.htm" />
+  <HelpKINode Title="RazerNativeException.Function property" Url="html/P_SharpBlade_Razer_Exceptions_RazerNativeException_Function.htm" />
   <HelpKINode Title="RazerNativeException.GetObjectData method" Url="html/M_SharpBlade_Razer_Exceptions_RazerNativeException_GetObjectData.htm" />
-  <HelpKINode Title="RazerNativeException.Hresult field" Url="html/F_SharpBlade_Razer_Exceptions_RazerNativeException_Hresult.htm" />
+  <HelpKINode Title="RazerNativeException.Hresult property" Url="html/P_SharpBlade_Razer_Exceptions_RazerNativeException_Hresult.htm" />
   <HelpKINode Title="RazerNativeException.RazerNativeException constructor" Url="html/Overload_SharpBlade_Razer_Exceptions_RazerNativeException__ctor.htm" />
+  <HelpKINode Title="RazerNativeException._function field" Url="html/F_SharpBlade_Razer_Exceptions_RazerNativeException__function.htm" />
+  <HelpKINode Title="RazerNativeException._hresult field" Url="html/F_SharpBlade_Razer_Exceptions_RazerNativeException__hresult.htm" />
   <HelpKINode Title="RBUTTON enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="RCONTROL enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="Refresh method" Url="html/M_SharpBlade_Razer_DynamicKey_Refresh.htm" />
@@ -2988,11 +3052,15 @@
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_Events_ReleaseEventArgs__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Razer_Events_ReleaseEventArgs.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Razer_Events_ReleaseEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SharpBlade_Razer_Events_ReleaseEventArgs.htm" />
   </HelpKINode>
   <HelpKINode Title="ReleaseEventArgs.ReleaseEventArgs constructor" Url="html/M_SharpBlade_Razer_Events_ReleaseEventArgs__ctor.htm" />
-  <HelpKINode Title="ReleaseEventArgs.TouchpointCount field" Url="html/F_SharpBlade_Razer_Events_ReleaseEventArgs_TouchpointCount.htm" />
-  <HelpKINode Title="ReleaseEventArgs.X field" Url="html/F_SharpBlade_Razer_Events_ReleaseEventArgs_X.htm" />
-  <HelpKINode Title="ReleaseEventArgs.Y field" Url="html/F_SharpBlade_Razer_Events_ReleaseEventArgs_Y.htm" />
+  <HelpKINode Title="ReleaseEventArgs.TouchpointCount property" Url="html/P_SharpBlade_Razer_Events_ReleaseEventArgs_TouchpointCount.htm" />
+  <HelpKINode Title="ReleaseEventArgs.X property" Url="html/P_SharpBlade_Razer_Events_ReleaseEventArgs_X.htm" />
+  <HelpKINode Title="ReleaseEventArgs.Y property" Url="html/P_SharpBlade_Razer_Events_ReleaseEventArgs_Y.htm" />
+  <HelpKINode Title="ReleaseEventArgs._touchpointCount field" Url="html/F_SharpBlade_Razer_Events_ReleaseEventArgs__touchpointCount.htm" />
+  <HelpKINode Title="ReleaseEventArgs._x field" Url="html/F_SharpBlade_Razer_Events_ReleaseEventArgs__x.htm" />
+  <HelpKINode Title="ReleaseEventArgs._y field" Url="html/F_SharpBlade_Razer_Events_ReleaseEventArgs__y.htm" />
   <HelpKINode Title="ReleaseOnEnter field" Url="html/F_SharpBlade_Integration_KeyboardControl_ReleaseOnEnter.htm" />
   <HelpKINode Title="Remove(Of T) method" Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Remove__1.htm" />
   <HelpKINode Title="Remove&lt;T&gt; method" Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Remove__1.htm" />
@@ -3097,9 +3165,11 @@
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_Events_RotateEventArgs__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Razer_Events_RotateEventArgs.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Razer_Events_RotateEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SharpBlade_Razer_Events_RotateEventArgs.htm" />
   </HelpKINode>
-  <HelpKINode Title="RotateEventArgs.Direction field" Url="html/F_SharpBlade_Razer_Events_RotateEventArgs_Direction.htm" />
+  <HelpKINode Title="RotateEventArgs.Direction property" Url="html/P_SharpBlade_Razer_Events_RotateEventArgs_Direction.htm" />
   <HelpKINode Title="RotateEventArgs.RotateEventArgs constructor" Url="html/M_SharpBlade_Razer_Events_RotateEventArgs__ctor.htm" />
+  <HelpKINode Title="RotateEventArgs._direction field" Url="html/F_SharpBlade_Razer_Events_RotateEventArgs__direction.htm" />
   <HelpKINode Title="RPC_E_ACCESS_DENIED field" Url="html/F_SharpBlade_Native_HRESULT_RPC_E_ACCESS_DENIED.htm" />
   <HelpKINode Title="RPC_E_ATTEMPTED_MULTITHREAD field" Url="html/F_SharpBlade_Native_HRESULT_RPC_E_ATTEMPTED_MULTITHREAD.htm" />
   <HelpKINode Title="RPC_E_CALL_CANCELED field" Url="html/F_SharpBlade_Native_HRESULT_RPC_E_CALL_CANCELED.htm" />
@@ -3403,7 +3473,7 @@
     <HelpKINode Title="IRenderTarget.SetBitmapProvider Method " Url="html/Overload_SharpBlade_Razer_IRenderTarget_SetBitmapProvider.htm" />
     <HelpKINode Title="RenderTarget.SetBitmapProvider Method " Url="html/Overload_SharpBlade_Razer_RenderTarget_SetBitmapProvider.htm" />
   </HelpKINode>
-  <HelpKINode Title="SetCurrentThreadName method" Url="html/M_SharpBlade_Helpers_Threading_SetCurrentThreadName.htm" />
+  <HelpKINode Title="SetCurrentThreadName method" Url="html/M_SharpBlade_Helpers_ThreadingMethods_SetCurrentThreadName.htm" />
   <HelpKINode Title="SetDownImage method" Url="html/M_SharpBlade_Razer_DynamicKey_SetDownImage.htm" />
   <HelpKINode Title="SetForm method">
     <HelpKINode Title="IRenderTarget.SetForm Method " Url="html/M_SharpBlade_Razer_IRenderTarget_SetForm.htm" />
@@ -3436,9 +3506,9 @@
   <HelpKINode Title="SharpBlade.Extensions.EnumerationExtensions class" Url="html/T_SharpBlade_Extensions_EnumerationExtensions.htm" />
   <HelpKINode Title="SharpBlade.Extensions.EnumerationExtensions.Value class" Url="html/T_SharpBlade_Extensions_EnumerationExtensions_Value.htm" />
   <HelpKINode Title="SharpBlade.Helpers namespace" Url="html/N_SharpBlade_Helpers.htm" />
-  <HelpKINode Title="SharpBlade.Helpers.IO class" Url="html/T_SharpBlade_Helpers_IO.htm" />
+  <HelpKINode Title="SharpBlade.Helpers.GenericMethods class" Url="html/T_SharpBlade_Helpers_GenericMethods.htm" />
   <HelpKINode Title="SharpBlade.Helpers.ScreenCapture class" Url="html/T_SharpBlade_Helpers_ScreenCapture.htm" />
-  <HelpKINode Title="SharpBlade.Helpers.Threading class" Url="html/T_SharpBlade_Helpers_Threading.htm" />
+  <HelpKINode Title="SharpBlade.Helpers.ThreadingMethods class" Url="html/T_SharpBlade_Helpers_ThreadingMethods.htm" />
   <HelpKINode Title="SharpBlade.Integration namespace" Url="html/N_SharpBlade_Integration.htm" />
   <HelpKINode Title="SharpBlade.Integration.BitmapRenderer class" Url="html/T_SharpBlade_Integration_BitmapRenderer.htm" />
   <HelpKINode Title="SharpBlade.Integration.EmbeddedWinFormsControl structure" Url="html/T_SharpBlade_Integration_EmbeddedWinFormsControl.htm" />
@@ -3454,29 +3524,29 @@
   <HelpKINode Title="SharpBlade.Logging.LogManager class" Url="html/T_SharpBlade_Logging_LogManager.htm" />
   <HelpKINode Title="SharpBlade.ModifierKeys enumeration" Url="html/T_SharpBlade_ModifierKeys.htm" />
   <HelpKINode Title="SharpBlade.Native namespace" Url="html/N_SharpBlade_Native.htm" />
-  <HelpKINode Title="SharpBlade.Native.Helpers class" Url="html/T_SharpBlade_Native_Helpers.htm" />
+  <HelpKINode Title="SharpBlade.Native.HelperMethods class" Url="html/T_SharpBlade_Native_HelperMethods.htm" />
   <HelpKINode Title="SharpBlade.Native.HRESULT structure" Url="html/T_SharpBlade_Native_HRESULT.htm" />
   <HelpKINode Title="SharpBlade.Native.HRESULT.DescriptionAttribute class" Url="html/T_SharpBlade_Native_HRESULT_DescriptionAttribute.htm" />
   <HelpKINode Title="SharpBlade.Native.HRESULT.DirCodes class" Url="html/T_SharpBlade_Native_HRESULT_DirCodes.htm" />
   <HelpKINode Title="SharpBlade.Native.HRESULT.HResultException class" Url="html/T_SharpBlade_Native_HRESULT_HResultException.htm" />
   <HelpKINode Title="SharpBlade.Native.RazerAPI class" Url="html/T_SharpBlade_Native_RazerAPI.htm" />
-  <HelpKINode Title="SharpBlade.Native.RazerAPI.AppEventCallbackDelegate delegate" Url="html/T_SharpBlade_Native_RazerAPI_AppEventCallbackDelegate.htm" />
+  <HelpKINode Title="SharpBlade.Native.RazerAPI.AppEventCallback delegate" Url="html/T_SharpBlade_Native_RazerAPI_AppEventCallback.htm" />
   <HelpKINode Title="SharpBlade.Native.RazerAPI.AppEventMode enumeration" Url="html/T_SharpBlade_Native_RazerAPI_AppEventMode.htm" />
   <HelpKINode Title="SharpBlade.Native.RazerAPI.AppEventType enumeration" Url="html/T_SharpBlade_Native_RazerAPI_AppEventType.htm" />
   <HelpKINode Title="SharpBlade.Native.RazerAPI.BufferParams structure" Url="html/T_SharpBlade_Native_RazerAPI_BufferParams.htm" />
   <HelpKINode Title="SharpBlade.Native.RazerAPI.Capabilities structure" Url="html/T_SharpBlade_Native_RazerAPI_Capabilities.htm" />
   <HelpKINode Title="SharpBlade.Native.RazerAPI.Direction enumeration" Url="html/T_SharpBlade_Native_RazerAPI_Direction.htm" />
-  <HelpKINode Title="SharpBlade.Native.RazerAPI.DynamicKeyCallbackFunctionDelegate delegate" Url="html/T_SharpBlade_Native_RazerAPI_DynamicKeyCallbackFunctionDelegate.htm" />
+  <HelpKINode Title="SharpBlade.Native.RazerAPI.DynamicKeyCallbackFunction delegate" Url="html/T_SharpBlade_Native_RazerAPI_DynamicKeyCallbackFunction.htm" />
   <HelpKINode Title="SharpBlade.Native.RazerAPI.DynamicKeyState enumeration" Url="html/T_SharpBlade_Native_RazerAPI_DynamicKeyState.htm" />
   <HelpKINode Title="SharpBlade.Native.RazerAPI.DynamicKeyType enumeration" Url="html/T_SharpBlade_Native_RazerAPI_DynamicKeyType.htm" />
   <HelpKINode Title="SharpBlade.Native.RazerAPI.GestureType enumeration" Url="html/T_SharpBlade_Native_RazerAPI_GestureType.htm" />
   <HelpKINode Title="SharpBlade.Native.RazerAPI.HardwareType enumeration" Url="html/T_SharpBlade_Native_RazerAPI_HardwareType.htm" />
-  <HelpKINode Title="SharpBlade.Native.RazerAPI.KeyboardCallbackFunctionDelegate delegate" Url="html/T_SharpBlade_Native_RazerAPI_KeyboardCallbackFunctionDelegate.htm" />
+  <HelpKINode Title="SharpBlade.Native.RazerAPI.KeyboardCallbackFunction delegate" Url="html/T_SharpBlade_Native_RazerAPI_KeyboardCallbackFunction.htm" />
   <HelpKINode Title="SharpBlade.Native.RazerAPI.NativeMethods class" Url="html/T_SharpBlade_Native_RazerAPI_NativeMethods.htm" />
   <HelpKINode Title="SharpBlade.Native.RazerAPI.PixelType enumeration" Url="html/T_SharpBlade_Native_RazerAPI_PixelType.htm" />
   <HelpKINode Title="SharpBlade.Native.RazerAPI.Point structure" Url="html/T_SharpBlade_Native_RazerAPI_Point.htm" />
   <HelpKINode Title="SharpBlade.Native.RazerAPI.TargetDisplay enumeration" Url="html/T_SharpBlade_Native_RazerAPI_TargetDisplay.htm" />
-  <HelpKINode Title="SharpBlade.Native.RazerAPI.TouchpadGestureCallbackFunctionDelegate delegate" Url="html/T_SharpBlade_Native_RazerAPI_TouchpadGestureCallbackFunctionDelegate.htm" />
+  <HelpKINode Title="SharpBlade.Native.RazerAPI.TouchpadGestureCallbackFunction delegate" Url="html/T_SharpBlade_Native_RazerAPI_TouchpadGestureCallbackFunction.htm" />
   <HelpKINode Title="SharpBlade.Native.WinAPI namespace" Url="html/N_SharpBlade_Native_WinAPI.htm" />
   <HelpKINode Title="SharpBlade.Native.WinAPI.GDI32 class" Url="html/T_SharpBlade_Native_WinAPI_GDI32.htm" />
   <HelpKINode Title="SharpBlade.Native.WinAPI.GDI32.NativeMethods class" Url="html/T_SharpBlade_Native_WinAPI_GDI32_NativeMethods.htm" />
@@ -3516,7 +3586,7 @@
   <HelpKINode Title="SharpBlade.Razer.ZoomDirection enumeration" Url="html/T_SharpBlade_Razer_ZoomDirection.htm" />
   <HelpKINode Title="SHIFT enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="Shift enumeration member" Url="html/T_SharpBlade_ModifierKeys.htm" />
-  <HelpKINode Title="ShiftPressed field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs_ShiftPressed.htm" />
+  <HelpKINode Title="ShiftPressed property" Url="html/P_SharpBlade_Razer_Events_KeyboardKeyEventArgs_ShiftPressed.htm" />
   <HelpKINode Title="ShowScrollBar method" Url="html/M_SharpBlade_Native_WinAPI_User32_NativeMethods_ShowScrollBar.htm" />
   <HelpKINode Title="Signed field" Url="html/F_SharpBlade_Extensions_EnumerationExtensions_Value_Signed.htm" />
   <HelpKINode Title="SingleGesture method" Url="html/M_SharpBlade_Native_RazerAPI_SingleGesture.htm" />
@@ -3593,9 +3663,11 @@
   <HelpKINode Title="SPAPI_E_WRONG_INF_STYLE field" Url="html/F_SharpBlade_Native_HRESULT_SPAPI_E_WRONG_INF_STYLE.htm" />
   <HelpKINode Title="SRCCOPY field" Url="html/F_SharpBlade_Native_WinAPI_GDI32_SRCCOPY.htm" />
   <HelpKINode Title="StartWinFormsControlKeyboardCapture method" Url="html/M_SharpBlade_Razer_RazerManager_StartWinFormsControlKeyboardCapture.htm" />
-  <HelpKINode Title="StartWPFControlKeyboardCapture method" Url="html/M_SharpBlade_Razer_RazerManager_StartWPFControlKeyboardCapture.htm" />
-  <HelpKINode Title="State field" Url="html/F_SharpBlade_Razer_Events_DynamicKeyEventArgs_State.htm" />
-  <HelpKINode Title="State property" Url="html/P_SharpBlade_Razer_DynamicKey_State.htm" />
+  <HelpKINode Title="StartWpfControlKeyboardCapture method" Url="html/M_SharpBlade_Razer_RazerManager_StartWpfControlKeyboardCapture.htm" />
+  <HelpKINode Title="State property">
+    <HelpKINode Title="DynamicKey.State Property " Url="html/P_SharpBlade_Razer_DynamicKey_State.htm" />
+    <HelpKINode Title="DynamicKeyEventArgs.State Property " Url="html/P_SharpBlade_Razer_Events_DynamicKeyEventArgs_State.htm" />
+  </HelpKINode>
   <HelpKINode Title="STD_ERROR_HANDLE field" Url="html/F_SharpBlade_Native_WinAPI_Kernel32_STD_ERROR_HANDLE.htm" />
   <HelpKINode Title="STD_INPUT_HANDLE field" Url="html/F_SharpBlade_Native_WinAPI_Kernel32_STD_INPUT_HANDLE.htm" />
   <HelpKINode Title="STD_OUTPUT_HANDLE field" Url="html/F_SharpBlade_Native_WinAPI_Kernel32_STD_OUTPUT_HANDLE.htm" />
@@ -3671,21 +3743,24 @@
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_Events_TapEventArgs__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Razer_Events_TapEventArgs.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Razer_Events_TapEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SharpBlade_Razer_Events_TapEventArgs.htm" />
   </HelpKINode>
   <HelpKINode Title="TapEventArgs.TapEventArgs constructor" Url="html/M_SharpBlade_Razer_Events_TapEventArgs__ctor.htm" />
-  <HelpKINode Title="TapEventArgs.X field" Url="html/F_SharpBlade_Razer_Events_TapEventArgs_X.htm" />
-  <HelpKINode Title="TapEventArgs.Y field" Url="html/F_SharpBlade_Razer_Events_TapEventArgs_Y.htm" />
+  <HelpKINode Title="TapEventArgs.X property" Url="html/P_SharpBlade_Razer_Events_TapEventArgs_X.htm" />
+  <HelpKINode Title="TapEventArgs.Y property" Url="html/P_SharpBlade_Razer_Events_TapEventArgs_Y.htm" />
+  <HelpKINode Title="TapEventArgs._x field" Url="html/F_SharpBlade_Razer_Events_TapEventArgs__x.htm" />
+  <HelpKINode Title="TapEventArgs._y field" Url="html/F_SharpBlade_Razer_Events_TapEventArgs__y.htm" />
   <HelpKINode Title="TargetDisplay property">
     <HelpKINode Title="IRenderTarget.TargetDisplay Property " Url="html/P_SharpBlade_Razer_IRenderTarget_TargetDisplay.htm" />
     <HelpKINode Title="RenderTarget.TargetDisplay Property " Url="html/P_SharpBlade_Razer_RenderTarget_TargetDisplay.htm" />
   </HelpKINode>
   <HelpKINode Title="TargetDisplayMapping field" Url="html/F_SharpBlade_Razer_DynamicKey_TargetDisplayMapping.htm" />
-  <HelpKINode Title="Threading class">
-    <HelpKINode Title="Threading Class" Url="html/T_SharpBlade_Helpers_Threading.htm" />
-    <HelpKINode Title="about Threading class" Url="html/T_SharpBlade_Helpers_Threading.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Helpers_Threading.htm" />
+  <HelpKINode Title="ThreadingMethods class">
+    <HelpKINode Title="ThreadingMethods Class" Url="html/T_SharpBlade_Helpers_ThreadingMethods.htm" />
+    <HelpKINode Title="about ThreadingMethods class" Url="html/T_SharpBlade_Helpers_ThreadingMethods.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Helpers_ThreadingMethods.htm" />
   </HelpKINode>
-  <HelpKINode Title="Threading.SetCurrentThreadName method" Url="html/M_SharpBlade_Helpers_Threading_SetCurrentThreadName.htm" />
+  <HelpKINode Title="ThreadingMethods.SetCurrentThreadName method" Url="html/M_SharpBlade_Helpers_ThreadingMethods_SetCurrentThreadName.htm" />
   <HelpKINode Title="Three enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="TimerTick method" Url="html/M_SharpBlade_Integration_BitmapRenderer_TimerTick.htm" />
   <HelpKINode Title="Top field" Url="html/F_SharpBlade_Native_WinAPI_User32_Rect_Top.htm" />
@@ -3739,10 +3814,10 @@
   <HelpKINode Title="TouchpadHeight field" Url="html/F_SharpBlade_Native_RazerAPI_TouchpadHeight.htm" />
   <HelpKINode Title="TouchpadImageDataSize field" Url="html/F_SharpBlade_Native_RazerAPI_TouchpadImageDataSize.htm" />
   <HelpKINode Title="TouchpadWidth field" Url="html/F_SharpBlade_Native_RazerAPI_TouchpadWidth.htm" />
-  <HelpKINode Title="TouchpointCount field">
-    <HelpKINode Title="FlickEventArgs.TouchpointCount Field" Url="html/F_SharpBlade_Razer_Events_FlickEventArgs_TouchpointCount.htm" />
-    <HelpKINode Title="PressEventArgs.TouchpointCount Field" Url="html/F_SharpBlade_Razer_Events_PressEventArgs_TouchpointCount.htm" />
-    <HelpKINode Title="ReleaseEventArgs.TouchpointCount Field" Url="html/F_SharpBlade_Razer_Events_ReleaseEventArgs_TouchpointCount.htm" />
+  <HelpKINode Title="TouchpointCount property">
+    <HelpKINode Title="FlickEventArgs.TouchpointCount Property " Url="html/P_SharpBlade_Razer_Events_FlickEventArgs_TouchpointCount.htm" />
+    <HelpKINode Title="PressEventArgs.TouchpointCount Property " Url="html/P_SharpBlade_Razer_Events_PressEventArgs_TouchpointCount.htm" />
+    <HelpKINode Title="ReleaseEventArgs.TouchpointCount Property " Url="html/P_SharpBlade_Razer_Events_ReleaseEventArgs_TouchpointCount.htm" />
   </HelpKINode>
   <HelpKINode Title="True operator" Url="html/M_SharpBlade_Native_HRESULT_op_True.htm" />
   <HelpKINode Title="TRUST_E_ACTION_UNKNOWN field" Url="html/F_SharpBlade_Native_HRESULT_TRUST_E_ACTION_UNKNOWN.htm" />
@@ -3762,10 +3837,6 @@
   <HelpKINode Title="TRUST_E_TIME_STAMP field" Url="html/F_SharpBlade_Native_HRESULT_TRUST_E_TIME_STAMP.htm" />
   <HelpKINode Title="TryGetValue method" Url="html/M_SharpBlade_Native_HRESULT_DirCodes_TryGetValue.htm" />
   <HelpKINode Title="Two enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
-  <HelpKINode Title="Type field">
-    <HelpKINode Title="AppEventEventArgs.Type Field" Url="html/F_SharpBlade_Razer_Events_AppEventEventArgs_Type.htm" />
-    <HelpKINode Title="KeyboardRawEventArgs.Type Field" Url="html/F_SharpBlade_Razer_Events_KeyboardRawEventArgs_Type.htm" />
-  </HelpKINode>
   <HelpKINode Title="TYPE_E_AMBIGUOUSNAME field" Url="html/F_SharpBlade_Native_HRESULT_TYPE_E_AMBIGUOUSNAME.htm" />
   <HelpKINode Title="TYPE_E_BADMODULEKIND field" Url="html/F_SharpBlade_Native_HRESULT_TYPE_E_BADMODULEKIND.htm" />
   <HelpKINode Title="TYPE_E_BUFFERTOOSMALL field" Url="html/F_SharpBlade_Native_HRESULT_TYPE_E_BUFFERTOOSMALL.htm" />
@@ -3926,13 +3997,13 @@
   <HelpKINode Title="WpfRenderer._wpfTimer field" Url="html/F_SharpBlade_Integration_WpfRenderer__wpfTimer.htm" />
   <HelpKINode Title="WpfTimerTick method" Url="html/M_SharpBlade_Integration_WpfRenderer_WpfTimerTick.htm" />
   <HelpKINode Title="X enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
-  <HelpKINode Title="X field">
-    <HelpKINode Title="GestureEventArgs.X Field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs_X.htm" />
-    <HelpKINode Title="MoveEventArgs.X Field" Url="html/F_SharpBlade_Razer_Events_MoveEventArgs_X.htm" />
-    <HelpKINode Title="PressEventArgs.X Field" Url="html/F_SharpBlade_Razer_Events_PressEventArgs_X.htm" />
-    <HelpKINode Title="RazerAPI.Point.X Field" Url="html/F_SharpBlade_Native_RazerAPI_Point_X.htm" />
-    <HelpKINode Title="ReleaseEventArgs.X Field" Url="html/F_SharpBlade_Razer_Events_ReleaseEventArgs_X.htm" />
-    <HelpKINode Title="TapEventArgs.X Field" Url="html/F_SharpBlade_Razer_Events_TapEventArgs_X.htm" />
+  <HelpKINode Title="X field" Url="html/F_SharpBlade_Native_RazerAPI_Point_X.htm" />
+  <HelpKINode Title="X property">
+    <HelpKINode Title="GestureEventArgs.X Property " Url="html/P_SharpBlade_Razer_Events_GestureEventArgs_X.htm" />
+    <HelpKINode Title="MoveEventArgs.X Property " Url="html/P_SharpBlade_Razer_Events_MoveEventArgs_X.htm" />
+    <HelpKINode Title="PressEventArgs.X Property " Url="html/P_SharpBlade_Razer_Events_PressEventArgs_X.htm" />
+    <HelpKINode Title="ReleaseEventArgs.X Property " Url="html/P_SharpBlade_Razer_Events_ReleaseEventArgs_X.htm" />
+    <HelpKINode Title="TapEventArgs.X Property " Url="html/P_SharpBlade_Razer_Events_TapEventArgs_X.htm" />
   </HelpKINode>
   <HelpKINode Title="XACT_E_ABORTED field" Url="html/F_SharpBlade_Native_HRESULT_XACT_E_ABORTED.htm" />
   <HelpKINode Title="XACT_E_ABORTING field" Url="html/F_SharpBlade_Native_HRESULT_XACT_E_ABORTING.htm" />
@@ -4007,16 +4078,16 @@
   <HelpKINode Title="XENROLL_E_RESPONSE_KA_HASH_NOT_FOUND field" Url="html/F_SharpBlade_Native_HRESULT_XENROLL_E_RESPONSE_KA_HASH_NOT_FOUND.htm" />
   <HelpKINode Title="XENROLL_E_RESPONSE_UNEXPECTED_KA_HASH field" Url="html/F_SharpBlade_Native_HRESULT_XENROLL_E_RESPONSE_UNEXPECTED_KA_HASH.htm" />
   <HelpKINode Title="Y enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
-  <HelpKINode Title="Y field">
-    <HelpKINode Title="GestureEventArgs.Y Field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs_Y.htm" />
-    <HelpKINode Title="MoveEventArgs.Y Field" Url="html/F_SharpBlade_Razer_Events_MoveEventArgs_Y.htm" />
-    <HelpKINode Title="PressEventArgs.Y Field" Url="html/F_SharpBlade_Razer_Events_PressEventArgs_Y.htm" />
-    <HelpKINode Title="RazerAPI.Point.Y Field" Url="html/F_SharpBlade_Native_RazerAPI_Point_Y.htm" />
-    <HelpKINode Title="ReleaseEventArgs.Y Field" Url="html/F_SharpBlade_Razer_Events_ReleaseEventArgs_Y.htm" />
-    <HelpKINode Title="TapEventArgs.Y Field" Url="html/F_SharpBlade_Razer_Events_TapEventArgs_Y.htm" />
+  <HelpKINode Title="Y field" Url="html/F_SharpBlade_Native_RazerAPI_Point_Y.htm" />
+  <HelpKINode Title="Y property">
+    <HelpKINode Title="GestureEventArgs.Y Property " Url="html/P_SharpBlade_Razer_Events_GestureEventArgs_Y.htm" />
+    <HelpKINode Title="MoveEventArgs.Y Property " Url="html/P_SharpBlade_Razer_Events_MoveEventArgs_Y.htm" />
+    <HelpKINode Title="PressEventArgs.Y Property " Url="html/P_SharpBlade_Razer_Events_PressEventArgs_Y.htm" />
+    <HelpKINode Title="ReleaseEventArgs.Y Property " Url="html/P_SharpBlade_Razer_Events_ReleaseEventArgs_Y.htm" />
+    <HelpKINode Title="TapEventArgs.Y Property " Url="html/P_SharpBlade_Razer_Events_TapEventArgs_Y.htm" />
   </HelpKINode>
   <HelpKINode Title="Z enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
-  <HelpKINode Title="Z field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs_Z.htm" />
+  <HelpKINode Title="Z property" Url="html/P_SharpBlade_Razer_Events_GestureEventArgs_Z.htm" />
   <HelpKINode Title="Zero enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="ZOOM enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="Zoom enumeration member" Url="html/T_SharpBlade_Native_RazerAPI_GestureType.htm" />
@@ -4028,34 +4099,86 @@
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_Events_ZoomEventArgs__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Razer_Events_ZoomEventArgs.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Razer_Events_ZoomEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_SharpBlade_Razer_Events_ZoomEventArgs.htm" />
   </HelpKINode>
-  <HelpKINode Title="ZoomEventArgs.Direction field" Url="html/F_SharpBlade_Razer_Events_ZoomEventArgs_Direction.htm" />
+  <HelpKINode Title="ZoomEventArgs.Direction property" Url="html/P_SharpBlade_Razer_Events_ZoomEventArgs_Direction.htm" />
   <HelpKINode Title="ZoomEventArgs.ZoomEventArgs constructor" Url="html/M_SharpBlade_Razer_Events_ZoomEventArgs__ctor.htm" />
+  <HelpKINode Title="ZoomEventArgs._direction field" Url="html/F_SharpBlade_Razer_Events_ZoomEventArgs__direction.htm" />
+  <HelpKINode Title="_altPressed field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs__altPressed.htm" />
   <HelpKINode Title="_appEventCallback field" Url="html/F_SharpBlade_Razer_RazerManager__appEventCallback.htm" />
+  <HelpKINode Title="_capsLockActive field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs__capsLockActive.htm" />
+  <HelpKINode Title="_character field" Url="html/F_SharpBlade_Razer_Events_KeyboardCharEventArgs__character.htm" />
+  <HelpKINode Title="_control field" Url="html/F_SharpBlade_Integration_EmbeddedWinFormsControl__control.htm" />
+  <HelpKINode Title="_controlPressed field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs__controlPressed.htm" />
+  <HelpKINode Title="_data field" Url="html/F_SharpBlade_Razer_Events_KeyboardRawEventArgs__data.htm" />
+  <HelpKINode Title="_direction field">
+    <HelpKINode Title="FlickEventArgs._direction Field" Url="html/F_SharpBlade_Razer_Events_FlickEventArgs__direction.htm" />
+    <HelpKINode Title="RotateEventArgs._direction Field" Url="html/F_SharpBlade_Razer_Events_RotateEventArgs__direction.htm" />
+    <HelpKINode Title="ZoomEventArgs._direction Field" Url="html/F_SharpBlade_Razer_Events_ZoomEventArgs__direction.htm" />
+  </HelpKINode>
   <HelpKINode Title="_disposed field" Url="html/F_SharpBlade_Razer_RazerManager__disposed.htm" />
   <HelpKINode Title="_dynamicKeyCallback field" Url="html/F_SharpBlade_Razer_RazerManager__dynamicKeyCallback.htm" />
   <HelpKINode Title="_dynamicKeys field" Url="html/F_SharpBlade_Razer_RazerManager__dynamicKeys.htm" />
+  <HelpKINode Title="_eventType field">
+    <HelpKINode Title="AppEventEventArgs._eventType Field" Url="html/F_SharpBlade_Razer_Events_AppEventEventArgs__eventType.htm" />
+    <HelpKINode Title="KeyboardRawEventArgs._eventType Field" Url="html/F_SharpBlade_Razer_Events_KeyboardRawEventArgs__eventType.htm" />
+  </HelpKINode>
   <HelpKINode Title="_form field" Url="html/F_SharpBlade_Integration_WinFormsRenderer__form.htm" />
+  <HelpKINode Title="_function field" Url="html/F_SharpBlade_Razer_Exceptions_RazerNativeException__function.htm" />
   <HelpKINode Title="_gestureCallback field" Url="html/F_SharpBlade_Razer_Touchpad__gestureCallback.htm" />
+  <HelpKINode Title="_gestureType field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs__gestureType.htm" />
+  <HelpKINode Title="_host field" Url="html/F_SharpBlade_Integration_EmbeddedWinFormsControl__host.htm" />
+  <HelpKINode Title="_hresult field" Url="html/F_SharpBlade_Razer_Exceptions_RazerNativeException__hresult.htm" />
   <HelpKINode Title="_instance field">
     <HelpKINode Title="RazerManager._instance Field" Url="html/F_SharpBlade_Razer_RazerManager__instance.htm" />
     <HelpKINode Title="Touchpad._instance Field" Url="html/F_SharpBlade_Razer_Touchpad__instance.htm" />
   </HelpKINode>
+  <HelpKINode Title="_key field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs__key.htm" />
   <HelpKINode Title="_keyboardCallback field" Url="html/F_SharpBlade_Razer_RazerManager__keyboardCallback.htm" />
   <HelpKINode Title="_keyboardControl field" Url="html/F_SharpBlade_Razer_RazerManager__keyboardControl.htm" />
+  <HelpKINode Title="_keyType field" Url="html/F_SharpBlade_Razer_Events_DynamicKeyEventArgs__keyType.htm" />
   <HelpKINode Title="_loaded field" Url="html/F_SharpBlade_Logging_LogManager__loaded.htm" />
   <HelpKINode Title="_log field">
     <HelpKINode Title="DynamicKey._log Field" Url="html/F_SharpBlade_Razer_DynamicKey__log.htm" />
     <HelpKINode Title="RazerManager._log Field" Url="html/F_SharpBlade_Razer_RazerManager__log.htm" />
     <HelpKINode Title="Touchpad._log Field" Url="html/F_SharpBlade_Razer_Touchpad__log.htm" />
   </HelpKINode>
+  <HelpKINode Title="_mode field" Url="html/F_SharpBlade_Razer_Events_AppEventEventArgs__mode.htm" />
+  <HelpKINode Title="_modifiers field">
+    <HelpKINode Title="KeyboardKeyEventArgs._modifiers Field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs__modifiers.htm" />
+    <HelpKINode Title="KeyboardRawEventArgs._modifiers Field" Url="html/F_SharpBlade_Razer_Events_KeyboardRawEventArgs__modifiers.htm" />
+  </HelpKINode>
   <HelpKINode Title="_nativeTimer field" Url="html/F_SharpBlade_Integration_NativeRenderer__nativeTimer.htm" />
   <HelpKINode Title="_nativeWindow field" Url="html/F_SharpBlade_Integration_NativeRenderer__nativeWindow.htm" />
+  <HelpKINode Title="_parameter field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs__parameter.htm" />
+  <HelpKINode Title="_processId field" Url="html/F_SharpBlade_Razer_Events_AppEventEventArgs__processId.htm" />
   <HelpKINode Title="_provider field" Url="html/F_SharpBlade_Integration_BitmapRenderer__provider.htm" />
+  <HelpKINode Title="_shiftPressed field" Url="html/F_SharpBlade_Razer_Events_KeyboardKeyEventArgs__shiftPressed.htm" />
+  <HelpKINode Title="_state field" Url="html/F_SharpBlade_Razer_Events_DynamicKeyEventArgs__state.htm" />
   <HelpKINode Title="_timer field" Url="html/F_SharpBlade_Integration_BitmapRenderer__timer.htm" />
+  <HelpKINode Title="_touchpointCount field">
+    <HelpKINode Title="FlickEventArgs._touchpointCount Field" Url="html/F_SharpBlade_Razer_Events_FlickEventArgs__touchpointCount.htm" />
+    <HelpKINode Title="PressEventArgs._touchpointCount Field" Url="html/F_SharpBlade_Razer_Events_PressEventArgs__touchpointCount.htm" />
+    <HelpKINode Title="ReleaseEventArgs._touchpointCount Field" Url="html/F_SharpBlade_Razer_Events_ReleaseEventArgs__touchpointCount.htm" />
+  </HelpKINode>
   <HelpKINode Title="_window field" Url="html/F_SharpBlade_Integration_WpfRenderer__window.htm" />
   <HelpKINode Title="_winFormControl field" Url="html/F_SharpBlade_Integration_KeyboardControl__winFormControl.htm" />
   <HelpKINode Title="_winformTimer field" Url="html/F_SharpBlade_Integration_WinFormsRenderer__winformTimer.htm" />
   <HelpKINode Title="_wpfControl field" Url="html/F_SharpBlade_Integration_KeyboardControl__wpfControl.htm" />
   <HelpKINode Title="_wpfTimer field" Url="html/F_SharpBlade_Integration_WpfRenderer__wpfTimer.htm" />
+  <HelpKINode Title="_x field">
+    <HelpKINode Title="GestureEventArgs._x Field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs__x.htm" />
+    <HelpKINode Title="MoveEventArgs._x Field" Url="html/F_SharpBlade_Razer_Events_MoveEventArgs__x.htm" />
+    <HelpKINode Title="PressEventArgs._x Field" Url="html/F_SharpBlade_Razer_Events_PressEventArgs__x.htm" />
+    <HelpKINode Title="ReleaseEventArgs._x Field" Url="html/F_SharpBlade_Razer_Events_ReleaseEventArgs__x.htm" />
+    <HelpKINode Title="TapEventArgs._x Field" Url="html/F_SharpBlade_Razer_Events_TapEventArgs__x.htm" />
+  </HelpKINode>
+  <HelpKINode Title="_y field">
+    <HelpKINode Title="GestureEventArgs._y Field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs__y.htm" />
+    <HelpKINode Title="MoveEventArgs._y Field" Url="html/F_SharpBlade_Razer_Events_MoveEventArgs__y.htm" />
+    <HelpKINode Title="PressEventArgs._y Field" Url="html/F_SharpBlade_Razer_Events_PressEventArgs__y.htm" />
+    <HelpKINode Title="ReleaseEventArgs._y Field" Url="html/F_SharpBlade_Razer_Events_ReleaseEventArgs__y.htm" />
+    <HelpKINode Title="TapEventArgs._y Field" Url="html/F_SharpBlade_Razer_Events_TapEventArgs__y.htm" />
+  </HelpKINode>
+  <HelpKINode Title="_z field" Url="html/F_SharpBlade_Razer_Events_GestureEventArgs__z.htm" />
 </HelpKI>
