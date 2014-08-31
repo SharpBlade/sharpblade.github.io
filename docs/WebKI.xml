@@ -313,8 +313,8 @@
   <HelpKINode Title="CONTEXT_E_WOULD_DEADLOCK field" Url="html/F_SharpBlade_Native_HRESULT_CONTEXT_E_WOULD_DEADLOCK.htm" />
   <HelpKINode Title="CONTEXT_S_FIRST field" Url="html/F_SharpBlade_Native_HRESULT_CONTEXT_S_FIRST.htm" />
   <HelpKINode Title="CONTEXT_S_LAST field" Url="html/F_SharpBlade_Native_HRESULT_CONTEXT_S_LAST.htm" />
-  <HelpKINode Title="CONTROL enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="Control enumeration member" Url="html/T_SharpBlade_ModifierKeys.htm" />
+  <HelpKINode Title="CONTROL enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="Control property" Url="html/P_SharpBlade_Integration_EmbeddedWinFormsControl_Control.htm" />
   <HelpKINode Title="ControlPressed property" Url="html/P_SharpBlade_Razer_Events_KeyboardKeyEventArgs_ControlPressed.htm" />
   <HelpKINode Title="CONVERT enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
@@ -667,11 +667,11 @@
     <HelpKINode Title="RazerAPI.NativeMethods.DllName Field" Url="html/F_SharpBlade_Native_RazerAPI_NativeMethods_DllName.htm" />
     <HelpKINode Title="User32.NativeMethods.DllName Field" Url="html/F_SharpBlade_Native_WinAPI_User32_NativeMethods_DllName.htm" />
   </HelpKINode>
-  <HelpKINode Title="DOWN enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="Down enumeration member">
     <HelpKINode Title="RazerAPI.Direction Enumeration" Url="html/T_SharpBlade_Native_RazerAPI_Direction.htm" />
     <HelpKINode Title="RazerAPI.DynamicKeyState Enumeration" Url="html/T_SharpBlade_Native_RazerAPI_DynamicKeyState.htm" />
   </HelpKINode>
+  <HelpKINode Title="DOWN enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="DownImage property" Url="html/P_SharpBlade_Razer_DynamicKey_DownImage.htm" />
   <HelpKINode Title="DRAGDROP_E_ALREADYREGISTERED field" Url="html/F_SharpBlade_Native_HRESULT_DRAGDROP_E_ALREADYREGISTERED.htm" />
   <HelpKINode Title="DRAGDROP_E_FIRST field" Url="html/F_SharpBlade_Native_HRESULT_DRAGDROP_E_FIRST.htm" />
@@ -725,8 +725,8 @@
   <HelpKINode Title="DynamicKey.Disable method" Url="html/M_SharpBlade_Razer_DynamicKey_Disable.htm" />
   <HelpKINode Title="DynamicKey.DownImage property" Url="html/P_SharpBlade_Razer_DynamicKey_DownImage.htm" />
   <HelpKINode Title="DynamicKey.DynamicKey constructor">
-    <HelpKINode Title="DynamicKey Constructor " Url="html/M_SharpBlade_Razer_DynamicKey__ctor.htm" />
     <HelpKINode Title="DynamicKey Constructor " Url="html/M_SharpBlade_Razer_DynamicKey__cctor.htm" />
+    <HelpKINode Title="DynamicKey Constructor " Url="html/M_SharpBlade_Razer_DynamicKey__ctor.htm" />
   </HelpKINode>
   <HelpKINode Title="DynamicKey.KeyType property" Url="html/P_SharpBlade_Razer_DynamicKey_KeyType.htm" />
   <HelpKINode Title="DynamicKey.OnPressed method" Url="html/M_SharpBlade_Razer_DynamicKey_OnPressed.htm" />
@@ -808,8 +808,8 @@
   <HelpKINode Title="EnumerationExtensions.Value class">
     <HelpKINode Title="EnumerationExtensions.Value Class" Url="html/T_SharpBlade_Extensions_EnumerationExtensions_Value.htm" />
     <HelpKINode Title="about EnumerationExtensions.Value class" Url="html/T_SharpBlade_Extensions_EnumerationExtensions_Value.htm" />
-    <HelpKINode Title="constructor" Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Value__cctor.htm" />
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Value__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Value__cctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Extensions_EnumerationExtensions_Value.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Extensions_EnumerationExtensions_Value.htm" />
   </HelpKINode>
@@ -1040,8 +1040,8 @@
   <HelpKINode Title="HRESULT structure">
     <HelpKINode Title="HRESULT Structure" Url="html/T_SharpBlade_Native_HRESULT.htm" />
     <HelpKINode Title="about HRESULT structure" Url="html/T_SharpBlade_Native_HRESULT.htm" />
-    <HelpKINode Title="constructor" Url="html/M_SharpBlade_Native_HRESULT__ctor.htm" />
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Native_HRESULT__cctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_SharpBlade_Native_HRESULT__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Native_HRESULT.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Native_HRESULT.htm" />
     <HelpKINode Title="operators and type conversions" Url="html/Operators_T_SharpBlade_Native_HRESULT.htm" />
@@ -1596,8 +1596,8 @@
   <HelpKINode Title="HRESULT.GetExceptionForHR method" Url="html/M_SharpBlade_Native_HRESULT_GetExceptionForHR.htm" />
   <HelpKINode Title="HRESULT.GetHashCode method" Url="html/M_SharpBlade_Native_HRESULT_GetHashCode.htm" />
   <HelpKINode Title="HRESULT.HRESULT constructor">
-    <HelpKINode Title="HRESULT Constructor " Url="html/M_SharpBlade_Native_HRESULT__ctor.htm" />
     <HelpKINode Title="HRESULT Constructor " Url="html/M_SharpBlade_Native_HRESULT__cctor.htm" />
+    <HelpKINode Title="HRESULT Constructor " Url="html/M_SharpBlade_Native_HRESULT__ctor.htm" />
   </HelpKINode>
   <HelpKINode Title="HRESULT.HResultException class">
     <HelpKINode Title="HRESULT.HResultException Class" Url="html/T_SharpBlade_Native_HRESULT_HResultException.htm" />
@@ -2489,8 +2489,8 @@
   <HelpKINode Title="LAUNCH_MEDIA_SELECT enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="LBUTTON enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="LCONTROL enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
-  <HelpKINode Title="Left enumeration member" Url="html/T_SharpBlade_Native_RazerAPI_Direction.htm" />
   <HelpKINode Title="LEFT enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
+  <HelpKINode Title="Left enumeration member" Url="html/T_SharpBlade_Native_RazerAPI_Direction.htm" />
   <HelpKINode Title="Left field" Url="html/F_SharpBlade_Native_WinAPI_User32_Rect_Left.htm" />
   <HelpKINode Title="LMENU enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="LoadConfig method" Url="html/M_SharpBlade_Logging_LogManager_LoadConfig.htm" />
