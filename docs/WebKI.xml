@@ -713,8 +713,8 @@
   <HelpKINode Title="DynamicKey class">
     <HelpKINode Title="DynamicKey Class" Url="html/T_SharpBlade_Razer_DynamicKey.htm" />
     <HelpKINode Title="about DynamicKey class" Url="html/T_SharpBlade_Razer_DynamicKey.htm" />
-    <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_DynamicKey__ctor.htm" />
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_DynamicKey__cctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_DynamicKey__ctor.htm" />
     <HelpKINode Title="events" Url="html/Events_T_SharpBlade_Razer_DynamicKey.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Razer_DynamicKey.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Razer_DynamicKey.htm" />
@@ -808,8 +808,8 @@
   <HelpKINode Title="EnumerationExtensions.Value class">
     <HelpKINode Title="EnumerationExtensions.Value Class" Url="html/T_SharpBlade_Extensions_EnumerationExtensions_Value.htm" />
     <HelpKINode Title="about EnumerationExtensions.Value class" Url="html/T_SharpBlade_Extensions_EnumerationExtensions_Value.htm" />
-    <HelpKINode Title="constructor" Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Value__ctor.htm" />
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Value__cctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_SharpBlade_Extensions_EnumerationExtensions_Value__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Extensions_EnumerationExtensions_Value.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Extensions_EnumerationExtensions_Value.htm" />
   </HelpKINode>
@@ -1035,13 +1035,13 @@
   <HelpKINode Title="Hold event" Url="html/E_SharpBlade_Razer_Touchpad_Hold.htm" />
   <HelpKINode Title="HOME enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="Host property" Url="html/P_SharpBlade_Integration_EmbeddedWinFormsControl_Host.htm" />
-  <HelpKINode Title="HResult property" Url="html/P_SharpBlade_Native_HRESULT_HResultException_HResult.htm" />
   <HelpKINode Title="Hresult property" Url="html/P_SharpBlade_Razer_Exceptions_RazerNativeException_Hresult.htm" />
+  <HelpKINode Title="HResult property" Url="html/P_SharpBlade_Native_HRESULT_HResultException_HResult.htm" />
   <HelpKINode Title="HRESULT structure">
     <HelpKINode Title="HRESULT Structure" Url="html/T_SharpBlade_Native_HRESULT.htm" />
     <HelpKINode Title="about HRESULT structure" Url="html/T_SharpBlade_Native_HRESULT.htm" />
-    <HelpKINode Title="constructor" Url="html/M_SharpBlade_Native_HRESULT__cctor.htm" />
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Native_HRESULT__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_SharpBlade_Native_HRESULT__cctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Native_HRESULT.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Native_HRESULT.htm" />
     <HelpKINode Title="operators and type conversions" Url="html/Operators_T_SharpBlade_Native_HRESULT.htm" />
@@ -2964,8 +2964,8 @@
   <HelpKINode Title="RazerManager class">
     <HelpKINode Title="RazerManager Class" Url="html/T_SharpBlade_Razer_RazerManager.htm" />
     <HelpKINode Title="about RazerManager class" Url="html/T_SharpBlade_Razer_RazerManager.htm" />
-    <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_RazerManager__cctor.htm" />
     <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_RazerManager__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_SharpBlade_Razer_RazerManager__cctor.htm" />
     <HelpKINode Title="events" Url="html/Events_T_SharpBlade_Razer_RazerManager.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_SharpBlade_Razer_RazerManager.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_SharpBlade_Razer_RazerManager.htm" />
@@ -3899,11 +3899,11 @@
   <HelpKINode Title="UNDEFINED8 enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="UNDEFINED9 enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="Unsigned field" Url="html/F_SharpBlade_Extensions_EnumerationExtensions_Value_Unsigned.htm" />
+  <HelpKINode Title="UP enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="Up enumeration member">
     <HelpKINode Title="RazerAPI.Direction Enumeration" Url="html/T_SharpBlade_Native_RazerAPI_Direction.htm" />
     <HelpKINode Title="RazerAPI.DynamicKeyState Enumeration" Url="html/T_SharpBlade_Native_RazerAPI_DynamicKeyState.htm" />
   </HelpKINode>
-  <HelpKINode Title="UP enumeration member" Url="html/T_SharpBlade_Native_WinAPI_User32_VirtualKey.htm" />
   <HelpKINode Title="UpdateState method" Url="html/M_SharpBlade_Razer_DynamicKey_UpdateState.htm" />
   <HelpKINode Title="UpImage property" Url="html/P_SharpBlade_Razer_DynamicKey_UpImage.htm" />
   <HelpKINode Title="User32 class">
