@@ -180,3 +180,8 @@ pre {
 a:hover{
   color: #7f7f7f;
 }
+
+/* Twitter widget overrides */
+iframe#twitter-widget-0 {
+    height: 300px !important;
+}
